@@ -1,6 +1,8 @@
+set number
 set relativenumber
 set clipboard=unnamed
 set scrolloff=5
+
 map S :w<CR>
 map Q :q!<CR>
 map R :source /home/waytrue/.config/nvim/init.vim<CR>
@@ -41,7 +43,6 @@ colorscheme ayu
 
 " coc.nvim 
 set hidden
-set cmdheight=2
 set updatetime=1000
 set shortmess+=c
 set signcolumn=yes
