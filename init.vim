@@ -9,6 +9,8 @@ map R :source /home/waytrue/.config/nvim/init.vim<CR>
 map <C-n> :NERDTreeToggle<CR>
 map <M-w> <Esc>/<++><CR>c4l
 
+let g:Hexokinase_highlighters = [ 'virtual' ]
+let mapleader=" "
 inoremap <S-Tab> <BackSpace>
 
 autocmd FileType markdown inoremap <C-b> <ESC>bi**<ESC>ea**
@@ -29,6 +31,8 @@ Plug 'mzlogin/vim-markdown-toc'
 Plug 'preservim/nerdtree'
 Plug 'ayu-theme/ayu-vim'
 Plug 'neoclide/coc.nvim', {'branch': 'release'}
+Plug 'vimwiki/vimwiki'
+Plug 'rrethy/vim-hexokinase', { 'do': 'make hexokinase' }
 call plug#end()
 
 " TextEdit might fail if hidden is not set.
@@ -93,7 +97,7 @@ autocmd CursorHold * silent call CocActionAsync('highlight')
 nmap <leader>rn <Plug>(coc-rename)
 
 xmap <leader>f  <Plug>(coc-format-selected)
-nmap <leader>f  <Plug>(coc-format-selected)
+nmap <leader>f  nPlug>(coc-format-selected)
 
 augroup mygroup
   autocmd!
