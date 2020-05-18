@@ -63,7 +63,7 @@ static const Layout layouts[] = {
 static char dmenumon[2] = "0"; /* component of dmenucmd, manipulated in spawn() */
 static const char *dmenucmd[] = { "rofi","-show","run",NULL };
 static const char *rofidrun[] = { "rofi","-show","drun","-show-icons",NULL };
-static const char *termcmd[]  = { "sakura", NULL };
+static const char *termcmd[]  = { "alacritty", NULL };
 static const char *chromium[]  = { "google-chrome-stable","www.bing.com", NULL };
 
 static const char *trayer[]  = { "home/waytrue/.dwm/trayer.sh", NULL };
