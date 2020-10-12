@@ -3,11 +3,34 @@ set relativenumber
 set clipboard=unnamed
 set scrolloff=5
 
+map <F2> :e ~/.config/nvim/init.vim<CR>
 map S :w<CR>
 map Q :q!<CR>
 map R :source /home/waytrue/.config/nvim/init.vim<CR>
 map <C-n> :NERDTreeToggle<CR>
 map <M-w> <Esc>/<++><CR>c4l
+
+" 自动切换中英文
+
+let g:input_toggle = 1 
+function! Fcitx2en()
+   let s:input_status = system("fcitx5-remote")
+   if s:input_status == 2
+      let g:input_toggle = 1 
+      let l:a = system("fcitx5-remote -c")
+   endif
+endfunction
+
+function! Fcitx2zh()
+   let s:input_status = system("fcitx5-remote")
+   if s:input_status != 2 && g:input_toggle == 1
+      let l:a = system("fcitx5-remote -o")
+      let g:input_toggle = 0
+   endif
+endfunction
+
+autocmd InsertLeave * call Fcitx2en()
+autocmd InsertEnter * call Fcitx2zh()
 
 " Patterns to match for all filetypes
 " Can be a comma separated string or a list of strings
@@ -50,6 +73,7 @@ Plug 'junegunn/goyo.vim'
 Plug 'dhruvasagar/vim-table-mode'
 Plug 'plasticboy/vim-markdown'
 Plug 'godlygeek/tabular'
+Plug 'connorholyday/vim-snazzy'
 Plug 'mzlogin/vim-markdown-toc'
 Plug 'preservim/nerdtree'
 Plug 'ayu-theme/ayu-vim'
@@ -64,9 +88,11 @@ set termguicolors     " enable true colors support
 "let ayucolor="mirage" " for mirage version of theme
 let ayucolor="dark"   " for dark version of theme
 set background=dark
-colorscheme ayu
+colorscheme snazzy
 
+"autochange input method
 
+" The IME to invoke for managing input languages (macos, fcitx, ibus, xkb-switch)
 
 " coc.nvim 
 set hidden
