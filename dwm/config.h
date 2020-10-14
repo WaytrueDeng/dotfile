@@ -65,8 +65,8 @@ static const char *dmenucmd[] = { "rofi","-show","run",NULL };
 static const char *rofidrun[] = { "rofi","-show","drun","-show-icons",NULL };
 static const char *termcmd[]  = { "alacritty", NULL };
 static const char *chromium[]  = { "google-chrome-stable","www.bing.com", NULL };
+static const char *emacs[]  = { "emacsclient","-qce","(switch-to-buffer \"*dashboard*\")", NULL };
 
-static const char *trayer[]  = { "home/waytrue/.dwm/trayer.sh", NULL };
 
 static Key keys[] = {
 	/* modifier                     key        function        argument */
@@ -74,7 +74,7 @@ static Key keys[] = {
 	{ MODKEY,                       XK_g,      spawn,          {.v = chromium } },
 	{ MODKEY|ShiftMask,             XK_d,      spawn,          {.v = rofidrun } },
 	{ MODKEY|ShiftMask,             XK_Return, spawn,          {.v = termcmd } },
-	{ MODKEY|ShiftMask,             XK_t, 	   spawn,          {.v = trayer} },
+	{ MODKEY,             		XK_e, 	   spawn,          {.v = emacs} },
 	{ MODKEY,                       XK_b,      togglebar,      {0} },
 	{ MODKEY,                       XK_j,      focusstack,     {.i = +1 } },
 	{ MODKEY,                       XK_k,      focusstack,     {.i = -1 } },
@@ -108,7 +108,7 @@ static Key keys[] = {
 	TAGKEYS(                        XK_7,                      6)
 	TAGKEYS(                        XK_8,                      7)
 	TAGKEYS(                        XK_9,                      8)
-	{ MODKEY|ShiftMask,             XK_e,      quit,           {0} },
+	{ MODKEY|ShiftMask,             XK_l,      quit,           {0} },
 };
 
 /* button definitions */
