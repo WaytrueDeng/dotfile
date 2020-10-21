@@ -1,0 +1,3935 @@
+# Rime user dictionary export
+#@/db_name	luna_pinyin.userdb
+#@/db_type	userdb
+#@/rime_version	1.5.3
+#@/tick	12220
+#@/user_id	0ba0088c-26ad-4165-b815-edfac2094e5f
+啊	a	37
+阿	a	1
+啊啊	a a	4
+啊啊啊	a a a	1
+阿達	a da	0
+啊溼答答	a shi da da	1
+𠊎	ai	0
+愛的	ai de	0
+愛德華	ai de hua	1
+安	an	4
+按	an	1
+氨	an	1
+胺	an	3
+氨基	an ji	4
+氨基酸	an ji suan	31
+安靜	an jing	1
+安靜清醒	an jing qing xing	2
+安排	an pai	1
+安全	an quan	2
+安全性	an quan xing	1
+氨酸	an suan	5
+按照	an zhao	2
+安裝	an zhuang	6
+安卓	an zhuo	11
+奧	ao	1
+凹陷	ao xian	1
+吧	ba	2
+把	ba	1
+靶	ba	1
+巴比妥	ba bi tuo	1
+靶標	ba biao	2
+靶兒	ba er	1
+靶區	ba qu	1
+巴士	ba shi	1
+八字	ba zi	1
+白	bai	1
+白蛋白	bai dan bai	1
+擺動	bai dong	1
+百度	bai du	2
+白虎	bai hu	1
+白旗	bai qi	0
+白旗子	bai qi zi	1
+百日咳	bai ri ke	1
+白色	bai se	3
+白兔	bai tu	1
+白細胞	bai xi bao	3
+白蟻	bai yi	1
+半	ban	0
+瓣	ban	5
+版本	ban ben	1
+半關閉	ban guan bi	1
+瓣關閉	ban guan bi	1
+半胱	ban guang	1
+半胱氨酸	ban guang an suan	2
+半合成	ban he cheng	1
+瘢痕	ban hen	1
+半徑	ban jing	1
+半句話	ban ju hua	1
+瓣膜	ban mo	6
+瓣膜病	ban mo bing	2
+斑片	ban pian	2
+半衰期	ban shuai qi	3
+伴隨	ban sui	1
+瓣葉	ban ye	2
+伴有	ban you	5
+伴有大量	ban you da liang	1
+半月瓣	ban yue ban	1
+棒	bang	1
+綁定	bang ding	2
+保	bao	1
+包	bao	2
+胞	bao	3
+保持	bao chi	1
+保存	bao cun	3
+飽和	bao he	1
+保護	bao hu	2
+包括	bao kuo	5
+飽滿	bao man	1
+包膜	bao mo	2
+胞內	bao nei	1
+保守	bao shou	1
+保泰松	bao tai song	1
+胞質內	bao zhi nei	1
+倍	bei	3
+被	bei	13
+鋇	bei	1
+被動	bei dong	1
+被動擴散	bei dong kuo san	1
+背段	bei duan	1
+備份	bei fen	7
+北京	bei jing	1
+背景	bei jing	1
+被迫	bei po	1
+被上皮	bei shang pi	1
+苯	ben	2
+本地	ben di	1
+苯基	ben ji	1
+奔馬	ben ma	1
+奔馬律	ben ma lv	4
+泵	beng	1
+吡	bi	1
+壁	bi	5
+比	bi	9
+壁層	bi ceng	3
+彼此	bi ci	0
+彼此獨立	bi ci du li	1
+吡啶	bi ding	3
+閉合	bi he	0
+閉合性	bi he xing	1
+比較	bi jiao	2
+畢竟	bi jing	1
+比例	bi li	1
+避免	bi mian	5
+閉塞	bi se	1
+必須	bi xu	1
+必須用	bi xu yong	1
+必要	bi yao	1
+必要時	bi yao shi	2
+比值	bi zhi	6
+便	bian	2
+變	bian	4
+變動	bian dong	1
+變多	bian duo	1
+變黑	bian hei	1
+變厚	bian hou	1
+變化	bian hua	11
+變換	bian huan	1
+變量	bian liang	1
+編碼	bian ma	2
+鞭炮	bian pao	1
+辨認	bian ren	1
+變態	bian tai	1
+變爲	bian wei	2
+變細	bian xi	1
+變壓	bian ya	1
+編譯	bian yi	1
+變異	bian yi	1
+便於	bian yu	2
+邊緣	bian yuan	6
+變直	bian zhi	1
+標本	biao ben	5
+標本的	biao ben de	1
+表達式	biao da shi	2
+表格	biao ge	3
+表觀	biao guan	6
+表面	biao mian	6
+標籤	biao qian	2
+表示	biao shi	3
+標題	biao ti	1
+表現	biao xian	15
+表現爲	biao xian wei	4
+標誌	biao zhi	1
+標誌物	biao zhi wu	4
+標準	biao zhun	4
+標準測量法	biao zhun ce liang fa	1
+檳榔	bin lang	0
+檳榔肝	bin lang gan	1
+丙	bing	1
+並	bing	7
+柄	bing	1
+病	bing	20
+病變	bing bian	15
+並不	bing bu	1
+病毒	bing du	2
+病毒性	bing du xing	4
+併發	bing fa	1
+並非	bing fei	1
+冰激凌	bing ji ling	1
+病例	bing li	1
+病理	bing li	15
+病理性	bing li xing	3
+病理意義	bing li yi yi	1
+病理原因	bing li yuan yin	1
+屏氣	bing qi	2
+病情	bing qing	2
+病人	bing ren	10
+丙酮酸	bing tong suan	1
+病因	bing yin	20
+病原體	bing yuan ti	5
+並在	bing zai	1
+病竈	bing zao	3
+伯	bo	0
+搏	bo	0
+波	bo	11
+波長	bo chang	4
+搏出量	bo chu liang	3
+搏動	bo dong	19
+波動	bo dong	0
+波動率	bo dong lv	1
+搏動徵	bo dong zheng	1
+剝離	bo li	0
+剝離術	bo li shu	1
+玻片	bo pian	1
+播散	bo san	1
+博士	bo shi	1
+波形	bo xing	2
+不	bu	21
+布	bu	1
+部	bu	0
+不變	bu bian	3
+不參與	bu can yu	1
+不暢	bu chang	1
+補償	bu chang	1
+不成	bu cheng	2
+不成正比	bu cheng zheng bi	1
+補充	bu chong	1
+不錯	bu cuo	2
+不大	bu da	4
+不當	bu dang	1
+不等	bu deng	5
+不定	bu ding	1
+部分	bu fen	9
+部分容積	bu fen rong ji	1
+不敢	bu gan	1
+不夠	bu gou	1
+不規則	bu gui ze	4
+不含	bu han	1
+不好	bu hao	3
+不及時	bu ji shi	1
+補鉀	bu jia	1
+不間斷	bu jian duan	0
+不僅	bu jin	1
+不經	bu jing	1
+不均	bu jun	1
+不均勻	bu jun yun	1
+不可	bu ke	1
+不可逆	bu ke ni	1
+不快	bu kuai	1
+不良	bu liang	3
+不良反應	bu liang fan ying	3
+不能	bu neng	7
+不齊	bu qi	0
+不恰當	bu qia dang	1
+不清	bu qing	1
+不全	bu quan	5
+補全	bu quan	5
+不全者	bu quan zhe	1
+不是	bu shi	4
+不受	bu shou	1
+不太	bu tai	1
+不跳	bu tiao	1
+不同	bu tong	15
+不同不	bu tong bu	1
+部位	bu wei	8
+部吸水	bu xi shui	1
+不信	bu xin	0
+不信了	bu xin le	1
+不行	bu xing	1
+步行	bu xing	1
+不嚴重	bu yan zhong	1
+不一	bu yi	2
+不宜	bu yi	2
+不易	bu yi	4
+不一樣	bu yi yang	1
+不應	bu ying	1
+不應期	bu ying qi	1
+不影響	bu ying xiang	1
+不用	bu yong	4
+不咋地	bu za di	1
+不增高	bu zeng gao	1
+不振	bu zhen	1
+不足	bu zu	10
+才	cai	1
+猜測	cai ce	1
+菜單	cai dan	1
+採集	cai ji	3
+採集後	cai ji hou	1
+採集時	cai ji shi	1
+才能	cai neng	1
+採取	cai qu	2
+彩色	cai se	8
+採用	cai yong	5
+採用靜脈	cai yong jing mai	1
+殘	can	2
+參考值	can kao zhi	1
+參數	can shu	3
+參與	can yu	7
+操場	cao chang	1
+側	ce	3
+測出	ce chu	1
+測定	ce ding	12
+側鏈	ce lian	3
+測量	ce liang	2
+測量法	ce liang fa	1
+側面	ce mian	1
+測評	ce ping	3
+測試	ce shi	17
+側臥	ce wo	1
+側向	ce xiang	2
+層	ceng	2
+層次	ceng ci	1
+層面	ceng mian	2
+差	cha	6
+查	cha	1
+差別	cha bie	0
+差不多	cha bu duo	1
+查到	cha dao	1
+差得	cha de	1
+插件	cha jian	8
+插入	cha ru	4
+查詢	cha xun	3
+差異	cha yi	5
+差異性	cha yi xing	0
+顫動	chan dong	2
+顫抖	chan dou	1
+產生	chan sheng	17
+產物	chan wu	1
+鏟子	chan zi	1
+場	chang	1
+常	chang	13
+腸	chang	2
+長	chang	1
+常伴有	chang ban you	1
+腸道	chang dao	5
+長短	chang duan	1
+腸肝循環	chang gan xun huan	1
+常規	chang gui	1
+廠家	chang jia	1
+常見	chang jian	8
+常見於	chang jian yu	9
+長期	chang qi	4
+腸腔	chang qiang	1
+長生	chang sheng	1
+常數	chang shu	1
+場所	chang suo	1
+常爲	chang wei	1
+長效	chang xiao	1
+常須	chang xu	1
+常用	chang yong	5
+常有	chang you	2
+長軸	chang zhou	1
+潮	chao	1
+超	chao	3
+超過	chao guo	10
+超級	chao ji	1
+超聲	chao sheng	21
+超聲波	chao sheng bo	2
+潮水	chao shui	2
+朝向	chao xiang	1
+車	che	1
+陳舊	chen jiu	0
+陳舊性	chen jiu xing	2
+沉着	chen zhuo	1
+呈	cheng	17
+成	cheng	8
+稱	cheng	3
+程度	cheng du	11
+程度與	cheng du yu	1
+成分	cheng fen	7
+乘積	cheng ji	1
+成立	cheng li	0
+成人	cheng ren	2
+承受	cheng shou	1
+成爲	cheng wei	3
+稱爲	cheng wei	28
+呈現	cheng xian	2
+成像	cheng xiang	10
+成像中	cheng xiang zhong	1
+程序	cheng xu	1
+成正比	cheng zheng bi	2
+稱之爲	cheng zhi wei	1
+池	chi	1
+喫法	chi fa	1
+遲發	chi fa	1
+遲落	chi luo	1
+持續	chi xu	3
+遲於	chi yu	1
+衝	chong	3
+重	chong	0
+重疊	chong die	3
+衝動	chong dong	1
+充分	chong fen	0
+充分性	chong fen xing	1
+重複	chong fu	2
+重構	chong gou	2
+衝擊	chong ji	1
+重建	chong jian	2
+衝脈	chong mai	0
+充滿	chong man	2
+充氣	chong qi	2
+重啓	chong qi	1
+重吸收	chong xi shou	5
+重新	chong xin	2
+充血	chong xue	3
+充盈	chong ying	1
+充盈時	chong ying shi	1
+抽	chou	1
+臭	chou	2
+抽象	chou xiang	1
+出	chu	4
+杵	chu	4
+處	chu	4
+除	chu	2
+儲備	chu bei	1
+儲存	chu cun	1
+儲存庫	chu cun ku	1
+儲存在	chu cun zai	1
+觸及	chu ji	1
+觸覺	chu jue	1
+出來	chu lai	3
+處理	chu li	2
+儲量	chu liang	1
+出量	chu liang	0
+初期	chu qi	1
+出去	chu qu	1
+除去	chu qu	1
+鋤頭	chu tou	1
+除外	chu wai	1
+出現	chu xian	17
+出現在	chu xian zai	2
+出血	chu xue	9
+除一般	chu yi ban	1
+處於	chu yu	1
+觸診	chu zhen	1
+杵狀	chu zhuang	1
+傳	chuan	2
+傳播	chuan bo	3
+傳播中	chuan bo zhong	1
+穿刺	chuan ci	6
+傳到	chuan dao	1
+傳導	chuan dao	4
+傳導性	chuan dao xing	1
+傳遞	chuan di	2
+穿孔	chuan kong	1
+傳染	chuan ran	1
+傳染性	chuan ran xing	1
+傳統	chuan tong	3
+穿透性	chuan tou xing	1
+傳至	chuan zhi	1
+牀	chuang	1
+創建	chuang jian	1
+窗口	chuang kou	9
+創傷	chuang shang	0
+創傷性	chuang shang xing	1
+吹分	chui fen	1
+吹風	chui feng	1
+吹風樣	chui feng yang	1
+垂直	chui zhi	4
+次	ci	8
+此	ci	1
+詞	ci	1
+詞典	ci dian	1
+刺激性	ci ji xing	1
+詞庫	ci ku	1
+次數	ci shu	1
+此外	ci wai	2
+從	cong	9
+從而	cong er	2
+從事	cong shi	1
+促	cu	1
+簇	cu	1
+粗糙	cu cao	3
+促甲狀腺	cu jia zhuang xian	1
+促進	cu jin	2
+醋酸	cu suan	1
+催化	cui hua	2
+皴	cun	1
+存儲	cun chu	1
+存在	cun zai	10
+大	da	18
+打	da	1
+答	da	7
+打包	da bao	1
+打不過	da bu guo	1
+大出血	da chu xie	1
+答大大	da da da	1
+大動脈	da dong mai	1
+大多數	da duo shu	1
+大範圍	da fan wei	1
+大分子	da fen zi	3
+大界面	da jie mian	2
+打開	da kai	7
+大塊	da kuai	1
+大量	da liang	11
+大面積	da mian ji	2
+大面積燒傷	da mian ji shao shang	1
+大腦	da nao	3
+大批	da pi	1
+大片	da pian	3
+大秦	da qin	1
+搭撒	da sa	1
+搭撒阿達	da sa a da	1
+搭撒愛的	da sa ai de	1
+搭撒打	da sa da	6
+搭撒打搭撒打	da sa da da sa da	1
+搭撒打的	da sa da de	3
+搭撒打撒搭撒打撒旦撒搭撒打撒旦撒搭撒打撒旦撒搭撒打撒旦	da sa da sa da sa da sa dan sa da sa da sa dan sa da sa da sa dan sa da sa da sa dan	2
+搭撒打撒旦	da sa da sa dan	2
+搭撒打時	da sa da shi	1
+搭撒大時代撒旦	da sa da shi dai sa dan	1
+大時代	da shi dai	0
+大手術	da shou shu	1
+打完	da wan	1
+大小	da xiao	10
+大學	da xue	2
+打印	da yin	1
+大於	da yu	7
+代	dai	1
+帶	dai	1
+代表	dai biao	1
+代表型	dai biao xing	1
+代表藥物	dai biao yao wu	1
+代償	dai chang	6
+代償期	dai chang qi	8
+帶負電	dai fu dian	1
+帶撒旦	dai sa dan	1
+代酸	dai suan	2
+代替	dai ti	1
+代謝	dai xie	18
+代謝物	dai xie wu	1
+但	dan	9
+單	dan	3
+氮	dan	2
+蛋白	dan bai	23
+蛋白電泳	dan bai dian yong	1
+蛋白合成	dan bai he cheng	1
+蛋白血癥	dan bai xue zheng	1
+蛋白質	dan bai zhi	18
+單杯	dan bei	0
+單杯指	dan bei zhi	1
+單層	dan ceng	0
+單層螺旋	dan ceng luo xuan	1
+單純	dan chun	3
+但當	dan dang	1
+膽道	dan dao	2
+單獨	dan du	2
+單幅	dan fu	1
+擔負	dan fu	1
+膽管	dan guan	2
+單核	dan he	1
+單核細胞	dan he xi bao	1
+膽紅素	dan hong su	16
+膽囊	dan nang	1
+膽尿原	dan niao yuan	1
+但是	dan shi	2
+膽素	dan su	1
+單位	dan wei	3
+單位時間	dan wei shi jian	2
+單位時間內	dan wei shi jian nei	1
+單位爲	dan wei wei	1
+單項	dan xiang	1
+膽小	dan xiao	0
+膽小管	dan xiao guan	1
+但也	dan ye	0
+但也可	dan ye ke	1
+單一	dan yi	1
+單音	dan yin	1
+膽原	dan yuan	2
+但在	dan zai	1
+膽汁	dan zhi	9
+膽汁流量	dan zhi liu liang	1
+膽汁排泄	dan zhi pai xie	1
+膽汁酸	dan zhi suan	2
+當	dang	9
+當前	dang qian	1
+當心	dang xin	0
+當心髒	dang xin zang	1
+到	dao	9
+道	dao	0
+導出	dao chu	1
+刀割	dao ge	1
+導管	dao guan	0
+導聯	dao lian	1
+導入	dao ru	1
+倒置	dao zhi	1
+導致	dao zhi	20
+得	de	1
+德	de	1
+的	de	484
+的搭撒打時搭撒打搭撒打時搭撒打的	de da sa da shi da sa da da sa da shi da sa da de	1
+得到	de dao	1
+的撒旦撒旦	de sa dan sa dan	2
+的撒旦撒旦撒旦	de sa dan sa dan sa dan	1
+等	deng	45
+等電點	deng dian dian	2
+等電位	deng dian wei	1
+等級	deng ji	1
+等疾病	deng ji bing	1
+等技術	deng ji shu	1
+等於	deng yu	2
+低	di	11
+地	di	4
+底	di	1
+第	di	5
+底部	di bu	1
+低電壓	di dian ya	2
+第二	di er	7
+第二個	di er ge	2
+第二級	di er ji	1
+第二肋間	di er lei jian	3
+第二期	di er qi	1
+第二心音	di er xin yin	1
+地高辛	di gao xin	3
+遞歸	di gui	1
+帝國	di guo	1
+遞減	di jian	0
+遞減型	di jian xing	1
+低廉	di lian	1
+低密度	di mi du	4
+低平	di ping	1
+地平	di ping	1
+第三	di san	3
+第三代	di san dai	0
+第三代撒旦撒旦	di san dai sa dan sa dan	1
+第三個	di san ge	2
+第三級	di san ji	1
+第三肋間	di san lei jian	2
+第三期	di san qi	1
+低聲	di sheng	0
+低聲速	di sheng su	1
+第四	di si	3
+第四期	di si qi	1
+地下	di xia	1
+低血糖	di xue tang	1
+低血壓	di xue ya	2
+第一	di yi	6
+第一個	di yi ge	2
+第一期	di yi qi	1
+第一章	di yi zhang	1
+低於	di yu	4
+嗲	dia	1
+碘	dian	2
+電	dian	1
+點	dian	1
+電池	dian chi	1
+點對點	dian dui dian	1
+澱粉樣	dian fen yang	0
+澱粉樣變	dian fen yang bian	1
+電風扇	dian feng shan	1
+電話	dian hua	1
+電解質	dian jie zhi	1
+電鋸	dian ju	1
+電位	dian wei	0
+典型	dian xing	5
+電泳	dian yong	4
+電軸	dian zhou	1
+凋亡	diao wang	1
+調用	diao yong	1
+爹爹	die die	1
+疊加	die jia	1
+定	ding	4
+丁醇	ding chun	1
+定義	ding yi	26
+定植	ding zhi	1
+凍	dong	1
+動	dong	8
+東阿	dong a	1
+動𠊎	dong ai	1
+動𠊎啊	dong ai a	1
+動𠊎𠊎	dong ai ai	1
+東大	dong da	2
+動靜	dong jing	0
+動靜脈瘺	dong jing mai lou	1
+動力	dong li	1
+動力學	dong li xue	6
+動脈	dong mai	4
+動脈導管	dong mai dao guan	2
+動脈瘤	dong mai liu	1
+動脈期	dong mai qi	1
+動脈區	dong mai qu	1
+動脈系統	dong mai xi tong	1
+動態	dong tai	4
+東西	dong xi	2
+動作	dong zuo	1
+都	dou	6
+竇房結	dou fang jie	1
+都很	dou hen	1
+都可	dou ke	1
+都能	dou neng	1
+都是	dou shi	1
+竇性	dou xing	5
+都應	dou ying	1
+鬥魚	dou yu	2
+度	du	2
+毒	du	1
+讀	du	1
+讀博	du bo	1
+毒力	du li	1
+獨立	du li	0
+讀取	du qu	1
+獨特	du te	1
+毒腺	du xian	1
+毒性	du xing	4
+段	duan	6
+短	duan	1
+端	duan	2
+斷層	duan ceng	1
+短絀	duan chu	3
+短促	duan cu	1
+端口	duan kou	1
+鍛鍊	duan lian	1
+斷裂	duan lie	1
+斷崖	duan ya	1
+短軸	duan zhou	1
+端坐	duan zuo	1
+端坐呼吸	duan zuo hu xi	1
+對	dui	27
+對比	dui bi	6
+對比呈	dui bi cheng	1
+對比度	dui bi du	1
+對比分辨力	dui bi fen bian li	1
+對比劑	dui bi ji	10
+對不	dui bu	0
+對不齊	dui bu qi	1
+對呼吸系統	dui hu xi xi tong	1
+對象	dui xiang	1
+對症	dui zheng	1
+多	duo	6
+多部	duo bu	1
+多層	duo ceng	2
+多層面	duo ceng mian	1
+多呈	duo cheng	1
+多發	duo fa	2
+多發生	duo fa sheng	1
+多方位	duo fang wei	1
+多個	duo ge	1
+躲過	duo guo	1
+多見	duo jian	1
+多角度	duo jiao du	1
+多囊腎	duo nang shen	1
+多平面	duo ping mian	1
+多普勒	duo pu le	5
+多期	duo qi	2
+多任務	duo ren wu	1
+多時	duo shi	0
+多數	duo shu	1
+多數爲	duo shu wei	1
+多肽	duo tai	3
+多爲	duo wei	4
+多樣性	duo yang xing	1
+多以	duo yi	1
+多在	duo zai	1
+躲在	duo zai	1
+多種	duo zhong	3
+惡霸	e ba	1
+額外	e wai	1
+額外心音	e wai xin yin	1
+惡性	e xing	2
+惡性腫瘤	e xing zhong liu	2
+鱷魚	e yu	1
+二	er	5
+兒	er	5
+而	er	25
+耳	er	1
+而後	er hou	1
+二胡	er hu	1
+耳機	er ji	1
+二尖瓣	er jian ban	8
+二進制	er jin zhi	1
+二聯	er lian	0
+二聯律	er lian lv	1
+二磷酸	er lin suan	1
+二怕	er pa	1
+而且	er qie	1
+兒童	er tong	2
+兒童期	er tong qi	2
+二型	er xing	1
+二氧化碳	er yang hua tan	6
+而影響	er ying xiang	1
+而在	er zai	1
+二者	er zhe	1
+兒子	er zi	1
+法	fa	3
+發	fa	1
+發白	fa bai	2
+發病	fa bing	4
+發病快	fa bing kuai	1
+發佈	fa bu	1
+發出	fa chu	1
+發紺	fa gan	2
+發冷	fa leng	1
+乏力	fa li	4
+法洛	fa luo	1
+發熱	fa re	2
+發散	fa san	3
+發生	fa sheng	16
+發生在	fa sheng zai	1
+法線	fa xian	1
+發現	fa xian	9
+發育	fa yu	4
+發展	fa zhan	3
+發作	fa zuo	2
+發作時	fa zuo shi	1
+發作性	fa zuo xing	1
+凡	fan	1
+反	fan	4
+反比	fan bi	2
+反常	fan chang	2
+反覆	fan fu	4
+返回	fan hui	1
+反流	fan liu	2
+繁榮	fan rong	1
+反射	fan she	9
+反射角	fan she jiao	1
+反射性	fan she xing	1
+範圍	fan wei	8
+反選	fan xuan	3
+翻頁	fan ye	1
+翻譯	fan yi	1
+反應	fan ying	20
+反映	fan ying	4
+反映出	fan ying chu	1
+反應生成	fan ying sheng cheng	1
+反應性	fan ying xing	2
+梵語	fan yu	1
+煩躁不安	fan zao bu an	1
+反之	fan zhi	1
+房	fang	3
+放	fang	1
+房顫	fang chan	3
+放大器	fang da qi	1
+方法	fang fa	14
+防護	fang hu	4
+方面	fang mian	1
+防沙	fang sha	1
+放射	fang she	1
+房室	fang shi	9
+方式	fang shi	7
+房室傳導	fang shi chuan dao	1
+房室結	fang shi jie	1
+房室模型	fang shi mo xing	1
+房室中	fang shi zhong	1
+房速	fang su	1
+方位	fang wei	1
+方向	fang xiang	7
+方向內	fang xiang nei	1
+方向上	fang xiang shang	2
+方向性	fang xiang xing	1
+芳香族	fang xiang zu	1
+芳香族氨基酸	fang xiang zu an ji suan	1
+肥	fei	3
+肺	fei	43
+非	fei	16
+肺部	fei bu	6
+肥大	fei da	3
+肥大細胞	fei da xi bao	1
+飛得	fei de	1
+肺動脈	fei dong mai	12
+肥厚	fei hou	7
+肺活量	fei huo liang	1
+非極性	fei ji xing	1
+肺結	fei jie	1
+肺結核	fei jie he	3
+匪類	fei lei	1
+非離子	fei li zi	1
+肺內	fei nei	1
+肺膿腫	fei nong zhong	3
+肥胖	fei pang	0
+肺泡	fei pao	3
+肺泡性	fei pao xing	1
+肺氣腫	fei qi zhong	0
+肺通氣	fei tong qi	1
+廢物	fei wu	1
+非線性	fei xian xing	0
+非線性動力學	fei xian xing dong li xue	2
+肺心病	fei xin bing	2
+肺型	fei xing	1
+飛行員	fei xing yuan	1
+肺炎	fei yan	19
+費用	fei yong	1
+肺臟	fei zang	2
+分	fen	7
+分辨	fen bian	3
+糞便	fen bian	7
+分辨力	fen bian li	20
+分辨率	fen bian lv	3
+分辨率高	fen bian lv gao	1
+分辨略	fen bian lve	1
+分別	fen bie	2
+分別起	fen bie qi	1
+分佈	fen bu	18
+分佈到	fen bu dao	2
+分佈的	fen bu de	2
+分佈量	fen bu liang	1
+分佈在	fen bu zai	2
+粉紅色	fen hong se	1
+分級	fen ji	6
+分解	fen jie	4
+分類	fen lei	19
+分離	fen li	3
+分離時	fen li shi	1
+分裂	fen lie	7
+分流	fen liu	3
+分泌	fen mi	4
+分配	fen pei	2
+分區	fen qu	1
+分散	fen san	1
+分數	fen shu	2
+分爲	fen wei	7
+分析	fen xi	3
+分享	fen xiang	1
+分鐘	fen zhong	2
+分子	fen zi	4
+分子大小	fen zi da xiao	1
+分子量	fen zi liang	1
+峯	feng	5
+風	feng	1
+豐富	feng fu	2
+豐滿	feng man	1
+風溼性	feng shi xing	2
+風心	feng xin	1
+峯值	feng zhi	2
+佛陀	fo tuo	2
+否則	fou ze	1
+拂	fu	1
+氟	fu	1
+負	fu	1
+覆瓣區	fu ban qu	1
+腹部	fu bu	1
+輻輳	fu cou	1
+負電	fu dian	0
+復發	fu fa	2
+付費	fu fei	1
+符合	fu he	1
+負荷	fu he	5
+負荷過高	fu he guo gao	1
+複合物	fu he wu	1
+附加	fu jia	1
+附近	fu jin	3
+服了	fu le	1
+負面	fu mian	1
+婦女	fu nv	2
+腹腔	fu qiang	0
+腹腔積液	fu qiang ji ye	1
+輻射	fu she	6
+腹水	fu shui	4
+服務	fu wu	1
+服務器	fu wu qi	1
+負性	fu xing	1
+負壓	fu ya	1
+附議	fu yi	1
+複雜	fu za	1
+腹脹	fu zhang	1
+複製	fu zhi	1
+輔助	fu zhu	1
+附着	fu zhuo	1
+該	gai	2
+改版	gai ban	1
+改變	gai bian	19
+鈣化	gai hua	2
+概率	gai lv	1
+概念	gai nian	5
+改善	gai shan	2
+鈣質	gai zhi	1
+幹	gan	1
+感	gan	3
+肝	gan	15
+苷	gan	1
+酐	gan	9
+肝癌	gan ai	2
+甘氨酸	gan an suan	1
+肝病	gan bing	2
+肝大	gan da	1
+感到	gan dao	1
+肝功能	gan gong neng	6
+感光	gan guang	1
+感覺	gan jue	8
+感覺我還是不能	gan jue wo hai shi bu neng	1
+感覺這個東西根本就沒用	gan jue zhe ge dong xi gen ben jiu mei yong	1
+桿菌	gan jun	2
+乾咳	gan ke	2
+乾酪	gan lao	2
+乾酪性	gan lao xing	1
+感冒	gan mao	2
+肝內	gan nei	1
+感染	gan ran	18
+感染性	gan ran xing	2
+肝腎	gan shen	1
+肝損害	gan sun hai	1
+肝損傷	gan sun shang	4
+感嘆	gan tan	2
+肝細胞	gan xi bao	6
+肝細胞性	gan xi bao xing	1
+乾性	gan xing	2
+肝炎	gan yan	11
+肝炎病毒	gan yan bing du	1
+肝炎時	gan yan shi	1
+肝硬化	gan ying hua	2
+肝硬化時	gan ying hua shi	1
+肝臟	gan zang	11
+乾燥	gan zao	0
+感知	gan zhi	0
+缸兒	gang er	1
+肛門	gang men	2
+高	gao	12
+高的	gao de	1
+高低	gao di	0
+高度	gao du	1
+高端	gao duan	0
+高端機	gao duan ji	1
+高級	gao ji	1
+高家	gao jia	1
+高舉	gao ju	1
+高亮	gao liang	1
+高密度	gao mi du	3
+高鈉	gao na	1
+高尿酸	gao niao suan	1
+高排	gao pai	1
+高排型	gao pai xing	1
+高熱	gao re	4
+高碳酸	gao tan suan	2
+高位	gao wei	4
+膏血	gao xue	0
+膏血鉀	gao xue jia	1
+高血壓	gao xue ya	14
+高壓	gao ya	3
+高壓性	gao ya xing	1
+高於	gao yu	2
+高者	gao zhe	1
+高中	gao zhong	2
+個	ge	6
+各	ge	4
+各部位	ge bu wei	1
+各處	ge chu	1
+各個	ge ge	1
+膈肌	ge ji	2
+個人	ge ren	1
+個體	ge ti	0
+個體差異性	ge ti cha yi xing	1
+各種	ge zhong	5
+各種不同	ge zhong bu tong	1
+各組織	ge zu zhi	1
+給藥	gei yao	5
+根	gen	0
+跟	gen	1
+根本	gen ben	1
+根本就	gen ben jiu	0
+根據	gen ju	9
+根據側鏈	gen ju ce lian	1
+根絕	gen jue	2
+更	geng	8
+更低	geng di	1
+更多	geng duo	1
+更高	geng gao	1
+更好	geng hao	3
+更能	geng neng	2
+更年期	geng nian qi	1
+更少	geng shao	1
+梗死	geng si	3
+更爲	geng wei	4
+更新	geng xin	3
+梗住	geng zhu	1
+梗阻	geng zu	1
+梗阻性	geng zu xing	1
+供	gong	1
+共	gong	0
+弓	gong	1
+弓背	gong bei	2
+宮殿	gong dian	1
+共軛	gong e	1
+供給	gong ji	0
+供給營養	gong ji ying yang	1
+供加熱	gong jia re	1
+共加熱	gong jia re	1
+公里	gong li	2
+功能	gong neng	47
+功能減退	gong neng jian tui	1
+功能亢進	gong neng kang jin	1
+功能性	gong neng xing	1
+公式	gong shi	1
+共同	gong tong	2
+共同點	gong tong dian	1
+供應	gong ying	1
+工資	gong zi	2
+工作	gong zuo	1
+夠	gou	1
+苟	gou	1
+構成	gou cheng	2
+故	gu	7
+股	gu	1
+谷	gu	2
+骨	gu	3
+鼓	gu	1
+穀氨酸	gu an suan	5
+固定	gu ding	1
+股動脈	gu dong mai	1
+谷歌	gu ge	3
+骨骼肌	gu ge ji	1
+谷歌雲	gu ge yun	1
+谷胱甘肽	gu guang gan tai	2
+估計	gu ji	1
+孤立	gu li	1
+孤立性	gu li xing	1
+故名	gu ming	1
+鼓膜	gu mo	1
+估算	gu suan	1
+固體	gu ti	1
+固有	gu you	2
+瓜	gua	1
+寡肽	gua tai	1
+掛在	gua zai	1
+掛載	gua zai	1
+怪事	guai shi	1
+管	guan	6
+管壁	guan bi	2
+關閉	guan bi	17
+關閉不全	guan bi bu quan	6
+觀察	guan cha	2
+官方	guan fang	2
+關鍵	guan jian	1
+關節	guan jie	1
+管理器	guan li qi	1
+灌流	guan liu	1
+管腔	guan qiang	2
+管腔內	guan qiang nei	1
+關外	guan wai	0
+灌洗	guan xi	1
+關係	guan xi	4
+冠心病	guan xin bing	7
+灌注	guan zhu	2
+光	guang	1
+胱氨酸	guang an suan	1
+光標	guang biao	1
+廣度	guang du	1
+廣泛	guang fan	2
+廣泛性	guang fan xing	1
+光滑	guang hua	1
+光面	guang mian	1
+光盤	guang pan	1
+歸	gui	1
+貴	gui	1
+規格	gui ge	1
+軌跡	gui ji	1
+規律	gui lv	4
+歸宿	gui su	1
+規則	gui ze	3
+過	guo	3
+過胞	guo bao	1
+國產	guo chan	2
+過程	guo cheng	9
+過大	guo da	1
+過度	guo du	3
+過多	guo duo	3
+過高	guo gao	0
+過環	guo huan	1
+國內	guo nei	2
+國旗	guo qi	1
+過清	guo qing	1
+過去	guo qu	1
+過速	guo su	5
+哈	ha	1
+哈哈	ha ha	3
+還	hai	6
+還包括	hai bao kuo	1
+還不錯	hai bu cuo	1
+還不是	hai bu shi	1
+還可能	hai ke neng	1
+還可以	hai ke yi	3
+還能用	hai neng yong	1
+還要	hai yao	1
+含	han	2
+含氮	han dan	1
+含碘	han dian	1
+含量	han liang	3
+含氣	han qi	0
+含氣組織	han qi zu zhi	1
+寒熱	han re	1
+函數	han shu	1
+汗液	han ye	0
+汗液淚液	han ye lei ye	1
+含有	han you	4
+寒戰	han zhan	1
+行	hang	3
+行號	hang hao	1
+好	hao	4
+號	hao	2
+好發	hao fa	1
+好久	hao jiu	1
+毫升	hao sheng	1
+好像	hao xiang	2
+好用	hao yong	1
+和	he	195
+核	he	2
+合併	he bing	9
+合併肥胖	he bing fei pang	1
+合併有	he bing you	1
+合成	he cheng	6
+合理	he li	0
+合理選擇	he li xuan ze	1
+合適	he shi	2
+核素	he su	1
+覈算	he suan	3
+核心	he xin	2
+合用	he yong	1
+黑白	hei bai	3
+黑色	hei se	2
+很	hen	2
+很大	hen da	1
+很低	hen di	1
+很強	hen qiang	1
+很少	hen shao	3
+橫	heng	1
+橫波	heng bo	1
+恆定	heng ding	1
+哼歌	heng ge	1
+橫隔	heng ge	1
+橫向	heng xiang	2
+橫座標	heng zuo biao	1
+紅白	hong bai	1
+紅斑	hong ban	1
+紅黴素	hong mei su	2
+紅色	hong se	2
+紅細胞	hong xi bao	3
+紅細胞者	hong xi bao zhe	1
+厚	hou	1
+後	hou	28
+厚壁	hou bi	1
+喉部	hou bu	1
+厚度	hou du	6
+後端	hou duan	1
+後方	hou fang	3
+後負荷	hou fu he	3
+後期	hou qi	2
+後移動	hou yi dong	1
+後者	hou zhe	1
+呼	hu	5
+蝴蝶	hu die	1
+互聯	hu lian	1
+琥珀酸	hu po suan	1
+呼氣	hu qi	5
+呼氣性	hu qi xing	2
+呼氣音	hu qi yin	1
+忽然	hu ran	1
+呼衰	hu shuai	5
+呼酸	hu suan	1
+呼吸	hu xi	40
+呼吸道	hu xi dao	3
+呼吸改變	hu xi gai bian	1
+呼吸機	hu xi ji	2
+呼吸窘迫	hu xi jiong po	1
+呼吸困難	hu xi kun nan	2
+呼吸系統	hu xi xi tong	0
+呼吸性	hu xi xing	2
+呼吸音	hu xi yin	3
+互信	hu xin	1
+弧形	hu xing	1
+虎牙	hu ya	2
+化	hua	2
+華	hua	1
+華法林	hua fa lin	1
+化糞池	hua fen chi	1
+化過程	hua guo cheng	1
+化合物	hua he wu	3
+化療	hua liao	1
+化膿	hua nong	1
+花旗	hua qi	1
+話說	hua shuo	3
+話筒	hua tong	1
+華西	hua xi	2
+化學	hua xue	1
+壞死	huai si	7
+懷疑	huai yi	2
+懷疑爲	huai yi wei	1
+環	huan	2
+患癌	huan ai	1
+患病	huan bing	1
+患側	huan ce	1
+緩存	huan cun	1
+換行	huan hang	1
+環化	huan hua	1
+環節	huan jie	1
+環境	huan jing	5
+緩慢	huan man	2
+換能期	huan neng qi	1
+換氣	huan qi	1
+環形	huan xing	1
+還原	huan yuan	2
+還原產物	huan yuan chan wu	1
+還原劑	huan yuan ji	1
+還原酶	huan yuan mei	1
+還原性	huan yuan xing	1
+患者	huan zhe	14
+黃變症	huang bian zheng	1
+黃疸	huang dan	8
+黃褐色	huang he se	1
+回	hui	2
+會	hui	2
+灰	hui	1
+灰白色	hui bai se	1
+會不會	hui bu hui	1
+揮出	hui chu	1
+繪出	hui chu	1
+灰度	hui du	9
+恢復	hui fu	1
+灰階	hui jie	1
+會聚	hui ju	2
+會聚後	hui ju hou	1
+迴流	hui liu	2
+迴流徵	hui liu zheng	1
+灰色	hui se	1
+回聲	hui sheng	5
+回退	hui tui	1
+回血	hui xue	1
+繪製	hui zhi	1
+回自動	hui zi dong	1
+混入	hun ru	1
+渾濁	hun zhuo	1
+或	huo	85
+活	huo	3
+火車	huo che	1
+或存在	huo cun zai	1
+獲得	huo de	3
+獲得性	huo de xing	3
+活動	huo dong	12
+活動後	huo dong hou	1
+活動性	huo dong xing	1
+活檢	huo jian	1
+或區域	huo qu yu	1
+活體	huo ti	1
+活性	huo xing	4
+或者	huo zhe	1
+劑	ji	1
+即	ji	9
+及	ji	34
+機	ji	2
+級	ji	12
+基本	ji ben	15
+基本上	ji ben shang	1
+記筆記	ji bi ji	1
+級別	ji bie	1
+疾病	ji bing	20
+疾病的	ji bing de	1
+基礎	ji chu	4
+急促	ji cu	1
+基地	ji di	1
+激動	ji dong	1
+激發	ji fa	4
+繼發	ji fa	5
+繼發性	ji fa xing	2
+繼發於	ji fa yu	1
+積分	ji fen	1
+幾個月	ji ge yue	1
+幾乎	ji hu	3
+急緩	ji huan	1
+疾患	ji huan	1
+機會	ji hui	1
+激活	ji huo	2
+肌腱	ji jian	1
+急劇	ji ju	1
+集聚	ji ju	1
+即可	ji ke	2
+機理	ji li	2
+劑量	ji liang	11
+劑量低	ji liang di	1
+雞毛撣子	ji mao dan zi	2
+及其	ji qi	8
+幾期	ji qi	3
+機器	ji qi	0
+機器轉動	ji qi zhuan dong	1
+肌肉	ji rou	7
+及時	ji shi	1
+技術	ji shu	4
+激素	ji su	4
+計算	ji suan	5
+脊髓	ji sui	5
+吉他	ji ta	1
+機體	ji ti	3
+幾條	ji tiao	1
+基團	ji tuan	2
+即爲	ji wei	2
+機械	ji xie	1
+機械輔助	ji xie fu zhu	1
+機械通氣	ji xie tong qi	1
+急性	ji xing	40
+極性	ji xing	7
+急性肝炎	ji xing gan yan	2
+極性脂肪	ji xing zhi fang	1
+繼續	ji xu	3
+積液	ji ye	14
+記憶	ji yi	1
+基因	ji yin	2
+既有	ji you	1
+基於	ji yu	2
+給予	ji yu	2
+機制	ji zhi	16
+繼之	ji zhi	2
+急驟	ji zou	1
+假	jia	2
+加	jia	6
+家	jia	1
+鉀	jia	4
+甲苯	jia ben	1
+加查	jia cha	3
+甲減	jia jian	1
+加劇	jia ju	2
+甲亢	jia kang	6
+加快	jia kuai	4
+加氫	jia qing	1
+加熱	jia re	0
+加熱分解	jia re fen jie	1
+加上	jia shang	1
+假設	jia she	3
+加速	jia su	1
+加以	jia yi	1
+加載	jia zai	2
+價值	jia zhi	1
+加重	jia zhong	1
+家中	jia zhong	2
+加裝	jia zhuang	1
+甲狀腺	jia zhuang xian	7
+甲狀腺功能	jia zhuang xian gong neng	1
+家族	jia zu	2
+件	jian	1
+兼	jian	0
+尖	jian	1
+建	jian	1
+間	jian	11
+鹼	jian	3
+簡便	jian bian	1
+鑑別	jian bie	9
+檢測	jian ce	2
+監測	jian ce	1
+檢查	jian cha	56
+檢查時	jian cha shi	2
+簡稱	jian cheng	1
+簡答題	jian da ti	9
+簡單	jian dan	1
+剪刀	jian dao	1
+尖端	jian duan	1
+間隔	jian ge	0
+堅果	jian guo	2
+堅厚	jian hou	1
+簡化	jian hua	1
+肩胛	jian jia	0
+肩胛下	jian jia xia	2
+間接	jian jie	1
+間接反應	jian jie fan ying	1
+間距	jian ju	3
+健康	jian kang	1
+間裂	jian lie	0
+減慢	jian man	4
+間期	jian qi	2
+減輕	jian qing	1
+尖銳	jian rui	0
+尖銳性	jian rui xing	1
+減弱	jian ruo	14
+減少	jian shao	19
+健身	jian shen	3
+簡述	jian shu	5
+剪貼板	jian tie ban	1
+減退	jian tui	0
+鍵位	jian wei	1
+間隙	jian xi	1
+減小	jian xiao	1
+間歇	jian xie	1
+鹼性	jian xing	5
+兼性離子	jian xing li zi	1
+檢驗	jian yan	1
+減影	jian ying	6
+兼有	jian you	3
+見於	jian yu	13
+簡直	jian zhi	1
+簡直就是	jian zhi jiu shi	1
+鹼中毒	jian zhong du	3
+將	jiang	6
+降低	jiang di	15
+將會	jiang hui	1
+將機體	jiang ji ti	1
+講解	jiang jie	1
+降解	jiang jie	4
+漿膜	jiang mo	2
+漿膜腔	jiang mo qiang	3
+將其	jiang qi	1
+降糖	jiang tang	1
+降壓	jiang ya	4
+降壓藥	jiang ya yao	1
+漿液	jiang ye	1
+將整體	jiang zheng ti	1
+焦	jiao	1
+腳	jiao	1
+角	jiao	1
+較	jiao	10
+腳本	jiao ben	1
+教程	jiao cheng	1
+較大	jiao da	3
+較低	jiao di	4
+焦點	jiao dian	1
+角度	jiao du	2
+較多	jiao duo	1
+交感	jiao gan	4
+較高	jiao gao	5
+較高時	jiao gao shi	1
+較好	jiao hao	1
+交換	jiao huan	1
+交接	jiao jie	1
+交界	jiao jie	0
+酵解	jiao jie	0
+交界區	jiao jie qu	3
+較快	jiao kuai	1
+膠片	jiao pian	1
+腳氣病	jiao qi bing	3
+較強	jiao qiang	4
+較少	jiao shao	1
+較少時	jiao shao shi	1
+交替	jiao ti	5
+交替改變	jiao ti gai bian	1
+交通	jiao tong	0
+絞痛	jiao tong	1
+交通性	jiao tong xing	1
+較爲	jiao wei	1
+較小	jiao xiao	2
+膠原	jiao yuan	6
+結	jie	1
+結腸癌	jie chang ai	1
+接觸	jie chu	1
+解除	jie chu	2
+結構	jie gou	18
+結構和	jie gou he	1
+結合	jie he	20
+結核	jie he	11
+結核病	jie he bing	6
+結核菌素	jie he jun su	1
+結合率	jie he lv	2
+結核性	jie he xing	2
+結節	jie jie	1
+接近	jie jin	1
+拮抗	jie kang	2
+皆可	jie ke	1
+解離	jie li	3
+解離成	jie li cheng	1
+戒律	jie lv	0
+節律	jie lv	3
+戒律規則	jie lv gui ze	1
+界面	jie mian	10
+解剖	jie pou	4
+解剖學	jie pou xue	1
+介入	jie ru	2
+解釋	jie shi	17
+接收器	jie shou qi	1
+結束	jie shu	1
+介質	jie zhi	4
+介質中	jie zhi zhong	1
+僅	jin	2
+進	jin	1
+金	jin	2
+近場	jin chang	3
+進程	jin cheng	1
+筋斗雲	jin dou yun	1
+近端	jin duan	2
+禁忌症	jin ji zheng	7
+儘量	jin liang	1
+今日	jin ri	2
+進入	jin ru	10
+浸潤	jin run	4
+浸潤性	jin run xing	1
+謹慎	jin shen	2
+進行	jin xing	13
+進一步	jin yi bu	3
+禁用	jin yong	3
+僅用於	jin yong yu	2
+僅有	jin you	2
+僅在	jin zai	1
+盡在	jin zai	1
+進展	jin zhan	0
+進展快	jin zhan kuai	1
+進展爲	jin zhan wei	1
+進展性	jin zhan xing	1
+緊張	jin zhang	1
+緊張素	jin zhang su	1
+徑	jing	1
+經	jing	3
+肼	jing	2
+靜	jing	1
+精氨酸	jing an suan	1
+頸部	jing bu	1
+經典	jing dian	1
+警告	jing gao	1
+經過	jing guo	2
+荊棘	jing ji	2
+頸靜脈	jing jing mai	7
+徑路	jing lu	2
+靜脈	jing mai	12
+靜脈期	jing mai qi	1
+靜脈曲張	jing mai qu zhang	1
+靜脈壓	jing mai ya	2
+精確度	jing que du	1
+竟然	jing ran	3
+精神	jing shen	3
+靜態	jing tai	4
+鏡像	jing xiang	1
+競爭	jing zheng	1
+精準	jing zhun	1
+窘迫	jiong po	0
+就	jiu	8
+酒杯	jiu bei	1
+酒壺	jiu hu	1
+酒精性	jiu jing xing	1
+酒瓶	jiu ping	1
+救生圈	jiu sheng quan	1
+就是	jiu shi	3
+就行	jiu xing	1
+糾正	jiu zheng	1
+具	ju	2
+局部	ju bu	8
+巨大	ju da	1
+聚焦	ju jiao	3
+距離	ju li	8
+巨噬細胞	ju shi xi bao	1
+居首	ju shou	1
+聚糖	ju tang	1
+侷限	ju xian	1
+侷限性	ju xian xing	1
+具有	ju you	15
+具有主動	ju you zhu dong	1
+矩陣	ju zhen	1
+句子	ju zi	1
+卷福	juan fu	1
+覺得	jue de	0
+絕對	jue dui	4
+絕對值	jue dui zhi	1
+覺有	jue you	1
+均	jun	1
+菌	jun	2
+菌羣	jun qun	1
+軍團	jun tuan	1
+均有	jun you	3
+均勻	jun yun	5
+均質	jun zhi	0
+均質體	jun zhi ti	2
+喀	ka	1
+卡特	ka te	1
+咯血	ka xue	5
+開	kai	1
+開瓣膜	kai ban mo	1
+開瓣音	kai ban yin	1
+開放	kai fang	3
+開後蓋	kai hou gai	1
+開啓	kai qi	3
+開始	kai shi	1
+看	kan	3
+看成	kan cheng	1
+看好	kan hao	1
+看看	kan kan	1
+看血壓	kan xue ya	1
+康	kang	1
+抗	kang	3
+亢進	kang jin	7
+抗菌	kang jun	1
+抗凝	kang ning	3
+抗生素	kang sheng su	1
+抗炎	kang yan	1
+靠	kao	1
+拷貝	kao bei	1
+靠近	kao jin	1
+考慮	kao lv	1
+考研	kao yan	2
+可	ke	42
+可不	ke bu	1
+可查	ke cha	3
+可呈	ke cheng	2
+可出現	ke chu xian	1
+蝌蚪	ke dou	1
+可發現	ke fa xian	1
+可分	ke fen	1
+可分爲	ke fen wei	4
+克服	ke fu	1
+客服	ke fu	1
+客觀上	ke guan shang	1
+客戶端	ke hu duan	1
+可見	ke jian	3
+可靠	ke kao	2
+克雷	ke lei	0
+克雷伯	ke lei bo	3
+顆粒	ke li	2
+可明顯感知	ke ming xian gan zhi	1
+可能	ke neng	3
+可能爲	ke neng wei	1
+可逆	ke ni	1
+可逆性	ke ni xing	1
+可使	ke shi	4
+咳嗽	ke sou	7
+咳痰	ke tan	5
+咳痰血	ke tan xue	1
+可聞及	ke wen ji	2
+可無	ke wu	2
+喀血	ke xue	1
+可以	ke yi	8
+可因	ke yin	2
+可用於	ke yong yu	1
+可有	ke you	5
+可由	ke you	1
+可於	ke yu	1
+可與	ke yu	1
+可在	ke zai	2
+可致	ke zhi	2
+坑	keng	1
+空	kong	1
+空洞	kong dong	6
+空間	kong jian	6
+空間分辨力	kong jian fen bian li	1
+空氣	kong qi	1
+控制	kong zhi	4
+口	kou	0
+釦	kou	1
+口脣	kou chun	1
+口服	kou fu	2
+叩擊	kou ji	4
+口腔	kou qiang	1
+叩診	kou zhen	2
+庫	ku	2
+塊	kuai	1
+快	kuai	8
+快反應	kuai fan ying	1
+快捷鍵	kuai jie jian	3
+快徑路	kuai jing lu	1
+快弱	kuai ruo	1
+快速	kuai su	10
+寬	kuan	4
+款	kuan	0
+寬度	kuan du	5
+寬容	kuan rong	1
+款溶度	kuan rong du	1
+喹	kui	1
+奎寧	kui ning	1
+潰瘍	kui yang	1
+困難	kun nan	16
+擴	kuo	1
+擴大	kuo da	3
+括號	kuo hao	3
+括號內	kuo hao nei	1
+擴散	kuo san	4
+擴心病	kuo xin bing	2
+擴張	kuo zhang	21
+啦	la	1
+喇叭	la ba	1
+垃圾	la ji	1
+拉絲	la si	1
+蠟燭	la zhu	1
+來	lai	2
+賴	lai	1
+來湊	lai cou	1
+來自	lai zi	3
+藍	lan	3
+蘭	lan	1
+藍基因	lan ji yin	2
+藍紫色	lan zi se	3
+狼瘡	lang chuang	1
+狼牙棒	lang ya bang	1
+銠	lao	1
+勞累	lao lei	1
+勞力	lao li	3
+老年	lao nian	2
+老年肺氣腫	lao nian fei qi zhong	1
+老年性	lao nian xing	1
+老鷹	lao ying	1
+了	le	15
+類	lei	13
+淚滴	lei di	2
+肋間	lei jian	8
+類似	lei si	3
+類型	lei xing	4
+淚液	lei ye	0
+冷熱	leng re	1
+力	li	9
+理	li	5
+立	li	1
+粒	li	1
+利福平	li fu ping	1
+理化	li hua	6
+理化性質	li hua xing zhi	1
+立即	li ji	1
+立刻	li ke	1
+力量	li liang	3
+利尿	li niao	4
+利尿劑	li niao ji	7
+李殺	li sha	2
+立體角	li ti jiao	1
+粒細胞	li xi bao	1
+離心	li xin	0
+離心後	li xin hou	1
+梨形	li xing	1
+利用	li yong	3
+離子	li zi	6
+離子數量	li zi shu liang	1
+離子型	li zi xing	1
+聯	lian	4
+臉	lian	1
+連	lian	3
+聯合	lian he	1
+廉價	lian jia	1
+連接	lian jie	2
+鏈接	lian jie	6
+鏈黴素	lian mei su	1
+臉盆	lian pen	1
+鏈球菌	lian qiu jun	1
+聯繫	lian xi	1
+連續	lian xu	4
+連續性	lian xu xing	1
+兩	liang	2
+良	liang	1
+量	liang	12
+兩邊	liang bian	1
+兩側	liang ce	6
+兩次	liang ci	1
+亮點	liang dian	1
+量多	liang duo	1
+兩個	liang ge	9
+良好	liang hao	1
+量化	liang hua	1
+兩類	liang lei	1
+兩年	liang nian	1
+兩小	liang xiao	0
+兩小點	liang xiao dian	1
+兩性	liang xing	0
+兩性解離	liang xing jie li	1
+兩者	liang zhe	2
+兩種	liang zhong	4
+療法	liao fa	1
+療效	liao xiao	7
+裂孔	lie kong	1
+淋巴細胞	lin ba xi bao	1
+臨牀	lin chuang	18
+臨牀意義	lin chuang yi yi	1
+臨近	lin jin	1
+鄰近	lin jin	1
+磷酸	lin suan	0
+磷脂	lin zhi	1
+零級	ling ji	1
+零食	ling shi	1
+另一	ling yi	0
+另一分子	ling yi fen zi	1
+另一個	ling yi ge	2
+另一類	ling yi lei	1
+流	liu	1
+瘤	liu	0
+硫	liu	1
+流暢	liu chang	0
+流暢度	liu chang du	3
+流出	liu chu	0
+流出道	liu chu dao	1
+瘤蒂	liu di	1
+流感	liu gan	1
+流經	liu jing	1
+瀏覽	liu lan	1
+榴槤	liu lian	1
+流量	liu liang	2
+溜溜	liu liu	1
+流速	liu su	3
+硫酸	liu suan	2
+硫酸鋇	liu suan bei	1
+流向	liu xiang	2
+流行性	liu xing xing	1
+隆	long	2
+隆起	long qi	3
+瘺	lou	0
+路	lu	1
+鹿	lu	1
+盧溝橋	lu gou qiao	1
+顱骨	lu gu	2
+顱內	lu nei	1
+落	luo	0
+酪氨酸	luo an suan	2
+羅馬	luo ma	1
+螺絲	luo si	1
+螺旋	luo xuan	3
+囉音	luo yin	3
+律	lv	8
+氯	lv	1
+率	lv	7
+率常數	lv chang shu	1
+濾過	lv guo	4
+濾過率	lv guo lv	3
+氯化物	lv hua wu	5
+氯離子	lv li zi	1
+氯黴素	lv mei su	1
+率升高	lv sheng gao	1
+略	lve	0
+嗎	ma	2
+嗎啡	ma fei	1
+脈	mai	6
+脈搏	mai bo	5
+脈搏衝擊	mai bo chong ji	1
+脈絡膜	mai luo mo	1
+脈律	mai lv	2
+脈壓	mai ya	1
+慢	man	6
+滿	man	1
+慢的	man de	1
+慢跑	man pao	2
+慢性	man xing	17
+慢性感染	man xing gan ran	1
+慢性呼衰	man xing hu shuai	1
+貓	mao	1
+毛細	mao xi	3
+毛細管	mao xi guan	1
+毛細血管	mao xi xue guan	2
+毛細血管壁	mao xi xue guan bi	1
+每	mei	1
+沒	mei	4
+酶	mei	12
+每次	mei ci	1
+酶促	mei cu	1
+沒得	mei de	1
+酶的	mei de	1
+酶量	mei liang	2
+每年	mei nian	1
+黴素	mei su	1
+美圖	mei tu	2
+沒學	mei xue	0
+沒學過	mei xue guo	1
+每一次	mei yi ci	1
+每一個	mei yi ge	1
+沒用	mei yong	0
+沒有	mei you	2
+魅族	mei zu	11
+們	men	1
+門	men	2
+門靜脈	men jing mai	1
+門脈	men mai	3
+咪	mi	1
+米	mi	0
+密度	mi du	15
+密碼	mi ma	1
+瀰漫性	mi man xing	1
+泌尿	mi niao	1
+彌散	mi san	1
+迷走	mi zou	1
+咪唑	mi zuo	1
+免費	mian fei	1
+免費的	mian fei de	1
+面積	mian ji	4
+免受	mian shou	1
+免疫	mian yi	2
+免疫學	mian yi xue	1
+免遭	mian zao	1
+秒	miao	4
+滅火器	mie huo qi	1
+滅菌	mie jun	1
+敏感	min gan	1
+敏感性	min gan xing	2
+名	ming	1
+鳴	ming	1
+名詞	ming ci	19
+名詞解釋	ming ci jie shi	1
+命令	ming ling	4
+明年	ming nian	1
+明確	ming que	3
+明顯	ming xian	14
+明顯上升	ming xian shang sheng	1
+冥想	ming xiang	3
+末	mo	3
+膜	mo	3
+摩擦	mo ca	2
+摩擦音	mo ca yin	2
+末端	mo duan	2
+模糊	mo hu	1
+膜孔	mo kong	0
+模塊	mo kuai	2
+模擬	mo ni	3
+末期	mo qi	2
+默認	mo ren	6
+模型	mo xing	3
+模型的	mo xing de	1
+模型體件	mo xing ti jian	1
+某	mou	1
+某些	mou xie	0
+某一	mou yi	3
+某種	mou zhong	2
+鉬靶	mu ba	1
+目標	mu biao	3
+暮春	mu chun	0
+暮春酸	mu chun suan	1
+目的	mu di	1
+目錄	mu lu	3
+目前	mu qian	4
+母豬	mu zhu	1
+納	na	2
+那	na	1
+鈉	na	4
+那個	na ge	3
+那麼	na me	2
+那麼快	na me kuai	0
+哪些	na xie	3
+耐	nai	1
+耐受性	nai shou xing	1
+南充	nan chong	1
+難道	nan dao	1
+難以	nan yi	2
+囊腫	nang zhong	2
+囊狀	nang zhuang	4
+腦	nao	5
+腦脊液	nao ji ye	12
+腦膜炎	nao mo yan	1
+腦內	nao nei	1
+腦區	nao qu	2
+腦室	nao shi	1
+鬧鐘	nao zhong	1
+腦組織	nao zu zhi	1
+呢	ne	0
+內	nei	18
+內壁	nei bi	1
+內部	nei bu	2
+內側	nei ce	1
+內側處	nei ce chu	1
+內的	nei de	1
+內分泌	nei fen mi	2
+內徑	nei jing	2
+內科學	nei ke xue	1
+內容	nei rong	1
+內生	nei sheng	5
+內網	nei wang	1
+內陷	nei xian	1
+內源	nei yuan	0
+內源性	nei yuan xing	2
+內質網	nei zhi wang	1
+能	neng	16
+能促進	neng cu jin	1
+能夠	neng gou	2
+能將	neng jiang	1
+能力	neng li	8
+能量	neng liang	3
+能譜	neng pu	1
+能用	neng yong	0
+你	ni	4
+逆	ni	1
+你不	ni bu	1
+你繼續	ni ji xu	0
+逆流	ni liu	1
+你們	ni men	3
+逆時針	ni shi zhen	1
+逆行	ni xing	1
+粘度	nian du	1
+粘連	nian lian	3
+年齡	nian ling	2
+粘膜	nian mo	1
+粘液	nian ye	3
+黏液	nian ye	0
+黏液瘤	nian ye liu	1
+尿	niao	12
+鳥	niao	0
+鳥氨酸	niao an suan	1
+尿膽原	niao dan yuan	3
+尿毒症	niao du zheng	2
+尿酐	niao gan	1
+尿壺	niao hu	1
+尿路	niao lu	2
+尿內	niao nei	2
+尿內尿膽原	niao nei niao dan yuan	1
+尿素	niao su	4
+尿素氮	niao su dan	2
+尿酸	niao suan	2
+尿中	niao zhong	1
+凝	ning	4
+凝固	ning gu	1
+檸檬	ning meng	0
+檸檬色	ning meng se	1
+牛	niu	1
+牛逼	niu bi	1
+弄	nong	1
+膿	nong	10
+濃度	nong du	16
+濃密	nong mi	1
+膿腔	nong qiang	2
+濃縮	nong suo	1
+膿痰	nong tan	1
+膿性	nong xing	1
+膿腫	nong zhong	12
+怒張	nu zhang	6
+諾	nuo	1
+偶聯	ou lian	1
+帕	pa	0
+怕	pa	3
+排	pai	1
+排出	pai chu	7
+排除	pai chu	2
+排出多時	pai chu duo shi	1
+排出量	pai chu liang	2
+拍擊	pai ji	1
+拍擊樣	pai ji yang	1
+排量	pai liang	0
+排入	pai ru	1
+排泄	pai xie	8
+排泄率	pai xie lv	1
+排泄途徑	pai xie tu jing	1
+排血量	pai xue liang	1
+盤	pan	2
+袢	pan	2
+判斷	pan duan	2
+旁路	pang lu	1
+螃蟹	pang xie	1
+跑步	pao bu	1
+泡沫	pao mo	0
+泡沫樣	pao mo yang	1
+培養	pei yang	0
+配置	pei zhi	1
+盆部	pen bu	1
+盆腔	pen qiang	1
+噴射	pen she	1
+噴射性	pen she xing	1
+碰撞	peng zhuang	1
+皮膚	pi fu	1
+匹配	pi pei	1
+皮質	pi zhi	0
+皮質激素	pi zhi ji su	1
+偏	pian	1
+片	pian	1
+片段	pian duan	1
+拼	pin	2
+頻	pin	1
+頻率	pin lv	3
+貧血	pin xie	1
+貧血	pin xue	4
+貧血等	pin xue deng	1
+拼音	pin yin	1
+屏	ping	1
+平	ping	3
+屏蔽	ping bi	1
+平方	ping fang	1
+評估	ping gu	1
+蘋果	ping guo	4
+平衡	ping heng	2
+平滑肌	ping hua ji	1
+評價	ping jia	1
+平均	ping jun	1
+平均爲	ping jun wei	1
+平均穩態	ping jun wen tai	1
+平均值	ping jun zhi	2
+平面	ping mian	4
+平面型	ping mian xing	1
+屏幕	ping mu	2
+平掃	ping sao	1
+屏上	ping shang	1
+平坦	ping tan	1
+屏障	ping zhang	4
+破壞	po huai	5
+破壞的	po huai de	1
+破壞其	po huai qi	1
+破裂音	po lie yin	1
+脯	pu	1
+譜	pu	1
+脯氨酰胺	pu an xian an	1
+普遍	pu bian	1
+普查	pu cha	1
+撲落	pu luo	1
+葡萄	pu tao	1
+葡萄糖	pu tao tang	10
+普通	pu tong	1
+其	qi	11
+期	qi	16
+氣	qi	20
+起	qi	0
+齊	qi	0
+起病	qi bing	1
+期測量	qi ce liang	1
+其次	qi ci	2
+氣促	qi cu	1
+氣道	qi dao	9
+起到	qi dao	2
+氣道阻力	qi dao zu li	1
+啓動	qi dong	7
+啓動那麼快	qi dong na me kuai	1
+企鵝	qi e	1
+起伏	qi fu	1
+奇怪的	qi guai de	1
+器官	qi guan	6
+氣管	qi guan	3
+器具	qi ju	1
+奇脈	qi mai	7
+其內部	qi nei bu	1
+氣泡	qi pao	1
+氣球	qi qiu	1
+憩室	qi shi	2
+騎士	qi shi	1
+其他	qi ta	18
+氣體	qi ti	2
+其爲	qi wei	1
+起效	qi xiao	2
+器械	qi xie	1
+氣胸	qi xiong	17
+氣胸線	qi xiong xian	1
+器質性	qi zhi xing	7
+其中	qi zhong	1
+前	qian	12
+前臂	qian bi	1
+前方	qian fang	1
+前負荷	qian fu he	3
+前膠原	qian jiao yuan	2
+前景	qian jing	1
+牽拉	qian la	2
+前清	qian qing	1
+淺深	qian shen	1
+牽伸	qian shen	1
+千位	qian wei	1
+前胸	qian xiong	0
+前胸壁	qian xiong bi	1
+牽引	qian yin	1
+潛在	qian zai	1
+前者	qian zhe	1
+強	qiang	0
+腔	qiang	2
+強度	qiang du	1
+槍擊	qiang ji	2
+羥基	qiang ji	1
+槍擊音	qiang ji yin	1
+強弱	qiang ruo	4
+強心	qiang xin	2
+強制	qiang zhi	2
+喬布斯	qiao bu si	1
+橋接	qiao jie	0
+橋接端口	qiao jie duan kou	1
+且	qie	5
+切割	qie ge	1
+切換	qie huan	8
+切開術	qie kai shu	1
+切面	qie mian	2
+嗪	qin	1
+親	qin	0
+親和	qin he	1
+親和力	qin he li	3
+親酯類	qin zhi lei	1
+親脂性	qin zhi xing	1
+氫	qing	0
+清	qing	3
+請	qing	0
+清除	qing chu	5
+清除率	qing chu lv	1
+清蛋白	qing dan bai	7
+請蛋白	qing dan bai	2
+輕度	qing du	5
+輕度升高	qing du sheng gao	1
+輕紡	qing fang	1
+清潔	qing jie	0
+清潔乾燥	qing jie gan zao	1
+情況	qing kuang	2
+情況下	qing kuang xia	1
+青黴素	qing mei su	3
+青年	qing nian	1
+青少年	qing shao nian	3
+青蛙	qing wa	1
+清晰	qing xi	4
+清醒	qing xing	1
+清雅	qing ya	1
+輕壓	qing ya	2
+輕於	qing yu	1
+輕重	qing zhong	1
+巰	qiu	1
+球	qiu	1
+球蛋白	qiu dan bai	2
+球兒	qiu er	1
+球管	qiu guan	1
+球菌	qiu jun	2
+球囊	qiu nang	1
+球衣	qiu yi	1
+區	qu	15
+去	qu	2
+取	qu	2
+祛除	qu chu	1
+取代	qu dai	2
+取得	qu de	1
+取決於	qu jue yu	5
+曲面	qu mian	1
+趨勢	qu shi	1
+曲線	qu xian	2
+曲線下	qu xian xia	1
+曲線性	qu xian xing	1
+趨向	qu xiang	1
+區域	qu yu	3
+全	quan	3
+全部	quan bu	3
+全程	quan cheng	1
+醛固酮	quan gu tong	2
+全局	quan ju	2
+全貌	quan mao	1
+全屏	quan ping	5
+全身	quan shen	1
+全身性	quan shen xing	1
+醛酸	quan suan	7
+全心	quan xin	1
+全資	quan zi	1
+缺	que	1
+缺點	que dian	2
+缺點是	que dian shi	1
+確定	que ding	1
+缺乏	que fa	3
+確切	que qie	1
+確實	que shi	1
+缺損	que sun	1
+缺陷	que xian	1
+缺血	que xue	1
+缺血型	que xue xing	1
+缺血性	que xue xing	2
+缺氧	que yang	5
+確診	que zhen	1
+羣	qun	1
+染	ran	1
+然後	ran hou	1
+繞射	rao she	2
+熱搜	re sou	1
+熱退	re tui	2
+人	ren	1
+人工	ren gong	2
+人工對比	ren gong dui bi	1
+任何	ren he	3
+人類	ren lei	2
+妊娠	ren shen	2
+人體	ren ti	8
+人體組織	ren ti zu zhi	1
+人爲	ren wei	1
+認爲	ren wei	1
+任務	ren wu	1
+任意	ren yi	3
+仍	reng	1
+日常	ri chang	3
+溶	rong	1
+溶度	rong du	0
+容積	rong ji	10
+溶解度	rong jie du	1
+容量	rong liang	5
+絨毛	rong mao	1
+容器	rong qi	4
+溶血	rong xue	0
+溶血性	rong xue xing	1
+溶液	rong ye	1
+溶液中	rong ye zhong	1
+容易	rong yi	5
+溶質	rong zhi	1
+柔和	rou he	1
+柔軟	rou ruan	0
+入	ru	3
+如	ru	14
+入肝	ru gan	1
+如果	ru guo	10
+如何	ru he	6
+入射	ru she	8
+入手	ru shou	1
+乳酸	ru suan	1
+乳腺	ru xian	3
+入血	ru xue	1
+軟	ruan	1
+軟骨	ruan gu	2
+軟件	ruan jian	5
+軟組織	ruan zu zhi	4
+銳化	rui hua	1
+若	ruo	2
+若干	ruo gan	1
+若干個	ruo gan ge	1
+若干毫升	ruo gan hao sheng	1
+弱酸	ruo suan	0
+弱酸性	ruo suan xing	2
+撒	sa	0
+撒搭撒打撒旦撒搭撒打時搭撒打	sa da sa da sa dan sa da sa da shi da sa da	1
+撒旦	sa dan	0
+灑灑	sa sa	0
+薩斯	sa si	0
+塞	sai	2
+噻嗪	sai qin	1
+三	san	10
+傘	san	1
+三倍	san bei	1
+三層	san ceng	1
+三大	san da	3
+三代	san dai	1
+三個	san ge	2
+三尖瓣	san jian ban	3
+三角	san jiao	1
+三角形	san jiao xing	1
+三類	san lei	1
+三聯	san lian	2
+三期	san qi	1
+散射	san she	6
+散射點	san she dian	1
+三肽	san tai	1
+三酮	san tong	1
+三項	san xiang	1
+三音	san yin	1
+三音律	san yin lv	2
+三種	san zhong	1
+喪失	sang shi	1
+掃	sao	1
+掃描	sao miao	19
+色	se	0
+色氨酸	se an suan	2
+色素	se su	1
+鯊魚	sha yu	1
+篩查	shai cha	6
+篩檢	shai jian	0
+篩檢檢查	shai jian jian cha	1
+疝	shan	1
+刪除	shan chu	2
+閃光	shan guang	4
+珊瑚	shan hu	1
+上	shang	23
+傷	shang	1
+尚	shang	0
+上課	shang ke	1
+尚可	shang ke	1
+上臉	shang lian	1
+上面	shang mian	1
+上皮	shang pi	0
+上翹	shang qiao	1
+尚柔軟	shang rou ruan	1
+上升	shang sheng	0
+上述	shang shu	1
+尚無	shang wu	1
+上肢	shang zhi	2
+少	shao	1
+稍	shao	1
+稍加	shao jia	0
+稍加壓力	shao jia ya li	1
+少量	shao liang	1
+少尿	shao niao	3
+燒瓶	shao ping	1
+燒傷	shao shang	0
+少數	shao shu	1
+少數情況	shao shu qing kuang	1
+少於	shao yu	2
+攝	she	0
+蛇	she	1
+設備	she bei	9
+設計	she ji	2
+攝片	she pian	2
+攝片條件	she pian tiao jian	1
+射槍	she qiang	1
+攝取	she qu	2
+社區	she qu	2
+攝入	she ru	3
+設想	she xiang	1
+射血	she xue	1
+攝影	she ying	1
+設置	she zhi	7
+深	shen	1
+腎	shen	20
+蔘	shen	1
+深處	shen chu	1
+滲出	shen chu	5
+滲出量	shen chu liang	1
+滲出性	shen chu xing	3
+腎動脈	shen dong mai	1
+深度	shen du	1
+腎功能	shen gong neng	6
+神經	shen jing	12
+滲漏	shen lou	1
+什麼	shen me	10
+腎排泄	shen pai xie	1
+神奇的	shen qi de	0
+深淺	shen qian	1
+腎前	shen qian	1
+申請	shen qing	1
+腎上腺	shen shang xian	1
+腎衰竭	shen shuai jie	8
+腎衰竭期	shen shuai jie qi	1
+滲透壓	shen tou ya	1
+深吸氣	shen xi qi	2
+腎小管	shen xiao guan	6
+腎小球	shen xiao qiu	7
+腎性	shen xing	1
+腎炎	shen yan	3
+腎盂	shen yu	1
+腎臟	shen zang	3
+神志	shen zhi	0
+神志模糊	shen zhi mo hu	1
+昇	sheng	0
+生	sheng	5
+聲	sheng	10
+聲波	sheng bo	4
+聲波在	sheng bo zai	1
+生產力	sheng chan li	1
+聲場	sheng chang	2
+生成	sheng cheng	6
+升高	sheng gao	16
+生化	sheng hua	2
+生活	sheng huo	1
+升級	sheng ji	1
+生理	sheng li	8
+生理性	sheng li xing	4
+生理作用	sheng li zuo yong	1
+聲強處	sheng qiang chu	1
+聲強高低	sheng qiang gao di	1
+聲束	sheng shu	22
+聲束邊緣	sheng shu bian yuan	1
+聲速	sheng su	3
+生物	sheng wu	3
+生物肽	sheng wu tai	1
+聲像	sheng xiang	0
+聲像圖	sheng xiang tu	1
+聲學	sheng xue	2
+聲音	sheng yin	6
+聲音類似	sheng yin lei si	1
+聲源	sheng yuan	6
+生殖系統	sheng zhi xi tong	1
+聲軸	sheng zhou	1
+昇主動脈	sheng zhu dong mai	1
+使	shi	4
+室	shi	9
+式	shi	3
+是	shi	44
+時	shi	73
+氏	shi	1
+溼	shi	0
+視	shi	1
+試	shi	1
+失敗	shi bai	2
+室壁	shi bi	1
+室壁振動	shi bi zhen dong	1
+實變	shi bian	2
+是不是	shi bu shi	1
+失常	shi chang	6
+溼答答	shi da da	0
+是搭撒打	shi da sa da	1
+時代	shi dai	1
+使得	shi de	3
+十二指腸	shi er zhi chang	2
+釋放	shi fang	2
+釋放的	shi fang de	1
+十分	shi fen	3
+是否	shi fou	1
+食管	shi guan	2
+世紀	shi ji	1
+事件	shi jian	1
+時間	shi jian	13
+時間防護	shi jian fang hu	1
+室間隔	shi jian ge	3
+時間內	shi jian nei	0
+世界	shi jie	1
+嗜酒	shi jiu	1
+適量	shi liang	1
+石榴	shi liu	2
+溼囉音	shi luo yin	3
+是某些藥物	shi mou xie yao wu	1
+時期	shi qi	1
+失去	shi qu	4
+食神	shi shen	1
+是什麼	shi shen me	2
+實時	shi shi	2
+試試	shi shi	1
+室速	shi su	1
+是探頭	shi tan tou	1
+失調	shi tiao	1
+視圖	shi tu	1
+視爲	shi wei	2
+食物	shi wu	1
+時限	shi xian	1
+事項	shi xiang	1
+時相	shi xiang	1
+失效	shi xiao	1
+施行	shi xing	1
+溼性	shi xing	1
+嗜血	shi xue	1
+實驗	shi yan	5
+試驗	shi yan	18
+實驗方法	shi yan fang fa	1
+實驗室	shi yan shi	9
+使藥物	shi yao wu	1
+試一下	shi yi xia	1
+適應症	shi ying zheng	2
+使用	shi yong	10
+是用來	shi yong lai	1
+適用於	shi yong yu	2
+是由於	shi you yu	1
+食慾	shi yu	0
+食慾不振	shi yu bu zhen	1
+食慾亢進	shi yu kang jin	1
+使之	shi zhi	1
+實質	shi zhi	2
+是指	shi zhi	3
+受	shou	3
+守	shou	1
+受到	shou dao	1
+手動	shou dong	1
+手段	shou duan	1
+手機	shou ji	6
+受涼	shou liang	1
+手槍	shou qiang	1
+受溶質	shou rong zhi	1
+手術	shou shu	2
+受損	shou sun	2
+收縮	shou suo	19
+收縮力	shou suo li	1
+收縮理	shou suo li	2
+收縮期	shou suo qi	13
+收縮壓	shou suo ya	2
+手套	shou tao	1
+受體	shou ti	7
+手腕	shou wan	1
+首先	shou xian	1
+手性	shou xing	1
+受壓	shou ya	2
+手掌	shou zhang	1
+手指	shou zhi	2
+受阻	shou zu	1
+屬	shu	1
+束	shu	3
+術	shu	0
+輸	shu	1
+數據	shu ju	1
+數量	shu liang	0
+薯片	shu pian	1
+輸入	shu ru	12
+輸入法	shu ru fa	8
+屬實	shu shi	1
+疏水	shu shui	1
+屬於	shu yu	3
+舒張	shu zhang	21
+舒張功能	shu zhang gong neng	1
+舒張末期	shu zhang mo qi	1
+舒張期	shu zhang qi	11
+舒張試驗	shu zhang shi yan	1
+舒張性	shu zhang xing	1
+舒張壓	shu zhang ya	2
+數字	shu zi	3
+數字化	shu zi hua	1
+刷	shua	1
+刷新	shua xin	1
+衰減	shuai jian	3
+衰竭	shuai jie	19
+衰竭期	shuai jie qi	2
+栓	shuan	2
+栓塞	shuan se	3
+雙	shuang	10
+爽啊	shuang a	1
+雙側	shuang ce	1
+雙重	shuang chong	3
+雙鍵	shuang jian	1
+雙拼	shuang pin	6
+雙期	shuang qi	1
+雙深	shuang shen	1
+雙腿	shuang tui	1
+雙下肺	shuang xia fei	2
+雙向	shuang xiang	1
+雙源	shuang yuan	1
+水	shui	3
+睡	shui	1
+水衝	shui chong	1
+水衝脈	shui chong mai	3
+水衝貓	shui chong mao	1
+水分	shui fen	1
+水合物	shui he wu	1
+水解	shui jie	2
+水溶性	shui rong xing	3
+水中	shui zhong	0
+水腫	shui zhong	14
+水中的	shui zhong de	1
+瞬間	shun jian	1
+瞬目	shun mu	2
+瞬時	shun shi	1
+順序	shun xu	1
+順應	shun ying	4
+順應性	shun ying xing	3
+順鐘向	shun zhong xiang	2
+說	shuo	2
+說話	shuo hua	1
+說哦	shuo o	1
+似	si	2
+四	si	2
+飼料	si liao	2
+思路	si lu	2
+絲帕	si pa	1
+死亡	si wang	2
+司儀	si yi	1
+四肢	si zhi	1
+四種	si zhong	1
+四周	si zhou	1
+送檢	song jian	1
+搜索	sou suo	2
+素	su	1
+速	su	1
+蘇打水	su da shui	0
+蘇打水搭撒打時搭撒打時搭撒打薩斯搭撒打撒搭撒打時撒搭撒打大搭撒打時搭撒打時搭撒打時大大灑灑啊	su da shui da sa da shi da sa da shi da sa da sa si da sa da sa da sa da shi sa da sa da da da sa da shi da sa da shi da sa da shi da da sa sa a	1
+蘇打水的撒旦撒旦	su da shui de sa dan sa dan	1
+速度	su du	8
+速率	su lv	3
+速率過程	su lv guo cheng	2
+算	suan	1
+酸	suan	10
+酸化	suan hua	1
+酸鹼	suan jian	1
+酸鹼度	suan jian du	1
+酸溶液	suan rong ye	1
+酸性	suan xing	5
+酸性氨基酸	suan xing an ji suan	1
+酸性糖蛋白	suan xing tang dan bai	1
+酸中毒	suan zhong du	2
+隨	sui	6
+隨訪	sui fang	2
+隨後	sui hou	1
+隨着	sui zhe	1
+損害	sun hai	5
+損害的	sun hai de	1
+損壞	sun huai	1
+損傷	sun shang	5
+損傷後	sun shang hou	1
+所	suo	6
+索	suo	1
+縮	suo	0
+所產生	suo chan sheng	1
+鎖骨	suo gu	2
+所含	suo han	1
+縮合	suo he	0
+縮合稱爲	suo he cheng wei	1
+羧基	suo ji	2
+縮進	suo jin	11
+所顯示	suo xian shi	1
+縮小	suo xiao	1
+所需	suo xu	1
+縮血管	suo xue guan	1
+所用	suo yong	1
+縮窄	suo zhai	1
+縮窄性	suo zhai xing	5
+所致	suo zhi	10
+所致的	suo zhi de	1
+他	ta	1
+它的	ta de	1
+它們	ta men	1
+塌陷	ta xian	2
+太	tai	2
+肽	tai	11
+胎	tai	1
+太高	tai gao	1
+肽鍵	tai jian	3
+擡舉	tai ju	1
+肽鏈	tai lian	1
+肽酶	tai mei	1
+胎盤	tai pan	1
+擡起	tai qi	1
+太小	tai xiao	1
+胎心律	tai xin lv	1
+太原	tai yuan	1
+痰	tan	7
+探測器	tan ce qi	1
+彈力	tan li	1
+痰培養	tan pei yang	1
+碳酸	tan suan	2
+碳酸氫根	tan suan qing gen	1
+探頭	tan tou	6
+彈性	tan xing	1
+痰液	tan ye	2
+糖蛋白	tang dan bai	0
+糖尿病	tang niao bing	3
+特比	te bi	1
+特別	te bie	1
+特點	te dian	11
+特殊	te shu	4
+特性	te xing	8
+特性阻抗	te xing zu kang	1
+特意	te yi	2
+特異	te yi	2
+特異性	te yi xing	1
+特徵	te zheng	3
+疼痛	teng tong	4
+騰訊	teng xun	0
+騰訊雲	teng xun yun	2
+體	ti	2
+體層	ti ceng	1
+替代	ti dai	1
+替丁	ti ding	1
+梯度	ti du	3
+提高	ti gao	5
+體格	ti ge	2
+提供	ti gong	1
+體件	ti jian	1
+體力	ti li	4
+體內	ti nei	6
+蹄聲	ti sheng	1
+提示	ti shi	5
+體位	ti wei	5
+梯形	ti xing	0
+梯形法	ti xing fa	1
+體循環	ti xun huan	3
+體液	ti ye	7
+體液兩	ti ye liang	1
+提早	ti zao	1
+體徵	ti zheng	17
+體徵之一	ti zheng zhi yi	1
+體重	ti zhong	2
+梯子	ti zi	1
+天	tian	10
+天意	tian yi	0
+天翼	tian yi	9
+天翼雲	tian yi yun	1
+天意雲盤	tian yi yun pan	2
+條件	tiao jian	3
+條件下	tiao jian xia	2
+調節	tiao jie	6
+條索	tiao suo	2
+條索狀	tiao suo zhuang	1
+調整	tiao zheng	1
+跳轉	tiao zhuan	3
+鐵塔	tie ta	1
+鐵鏽	tie xiu	0
+鐵鏽色	tie xiu se	1
+停	ting	2
+聽到	ting dao	4
+聽診	ting zhen	3
+聽診器	ting zhen qi	3
+聽診聞及	ting zhen wen ji	1
+停止	ting zhi	2
+痛	tong	3
+同步	tong bu	2
+通常	tong chang	3
+通暢	tong chang	1
+統稱	tong cheng	1
+通風	tong feng	1
+同工	tong gong	0
+同工酶	tong gong mei	2
+通過	tong guo	15
+銅綠	tong lv	1
+通氣	tong qi	10
+通氣功能	tong qi gong neng	1
+通氣量	tong qi liang	1
+同日	tong ri	1
+同時	tong shi	7
+同時伴有	tong shi ban you	1
+通透性	tong tou xing	1
+同文	tong wen	2
+同學	tong xue	3
+同一	tong yi	1
+統一	tong yi	1
+同一個	tong yi ge	1
+統一平面	tong yi ping mian	1
+頭孢	tou bao	1
+頭頂	tou ding	1
+頭骨	tou gu	2
+透鏡	tou jing	1
+透亮	tou liang	1
+透明	tou ming	6
+透明膜	tou ming mo	2
+透視	tou shi	4
+頭痛	tou tong	1
+透析	tou xi	1
+圖	tu	2
+突出	tu chu	2
+突發	tu fa	2
+途徑	tu jing	3
+途徑的	tu jing de	1
+圖片	tu pian	2
+圖譜	tu pu	1
+突然	tu ran	3
+圖像	tu xiang	34
+突眼	tu yan	2
+圖樣	tu yang	1
+湍流	tuan liu	1
+推薦	tui jian	1
+臀部	tun bu	1
+吞嚥	tun yan	1
+脫去	tuo qu	1
+脫水	tuo shui	1
+唾液	tuo ye	1
+外	wai	6
+外部	wai bu	2
+外側	wai ce	1
+外觀	wai guan	4
+外呼吸	wai hu xi	1
+外力	wai li	1
+外傷	wai shang	0
+外傷性	wai shang xing	1
+外凸	wai tu	1
+外源	wai yuan	0
+外源性	wai yuan xing	1
+外周	wai zhou	3
+晚	wan	1
+完成	wan cheng	1
+晚期	wan qi	2
+完全	wan quan	3
+完全性	wan quan xing	2
+玩意	wan yi	1
+晚於	wan yu	1
+往	wang	3
+王	wang	1
+網	wang	2
+網格	wang ge	1
+網盤	wang pan	3
+往往	wang wang	3
+望遠鏡	wang yuan jing	1
+僞	wei	1
+微	wei	0
+未	wei	2
+爲	wei	65
+胃	wei	3
+胃癌	wei ai	1
+尾巴	wei ba	1
+僞差	wei cha	1
+維持	wei chi	4
+胃鏡	wei jing	1
+維拉	wei la	0
+維拉帕米	wei la pa mi	1
+爲了	wei le	3
+微粒	wei li	1
+微量	wei liang	1
+韋林	wei lin	1
+未能	wei neng	1
+微球蛋白	wei qiu dan bai	1
+圍繞	wei rao	1
+微弱	wei ruo	1
+爲什麼	wei shen me	9
+爲什麼他	wei shen me ta	1
+維生素	wei sheng su	1
+萎縮	wei suo	1
+爲物體	wei wu ti	1
+危險	wei xian	1
+微小	wei xiao	0
+微小差別	wei xiao cha bie	1
+威脅	wei xie	1
+僞影	wei ying	1
+位於	wei yu	4
+位置	wei zhi	3
+爲主	wei zhu	6
+爲左心室	wei zuo xin shi	1
+文	wen	1
+聞	wen	0
+文本	wen ben	2
+穩定	wen ding	2
+吻合	wen he	1
+聞及	wen ji	4
+文件	wen jian	31
+紋理	wen li	2
+紊亂	wen luan	2
+穩態	wen tai	0
+穩態濃度	wen tai nong du	1
+問題	wen ti	1
+喔	wo	3
+我	wo	28
+我的	wo de	12
+我的天	wo de tian	5
+我的天啊	wo de tian a	1
+我感覺	wo gan jiao	2
+我感覺	wo gan jue	5
+我感覺還可以你們覺得呢我感覺現在完全	wo gan jue hai ke yi ni men jue de ne wo gan jue xian zai wan quan	1
+我還是	wo hai shi	0
+我將	wo jiang	1
+握緊	wo jin	0
+握緊病人	wo jin bing ren	1
+我今天	wo jin tian	1
+我覺得	wo jue de	2
+我來	wo lai	1
+我們	wo men	2
+蝸牛	wo niu	1
+我去	wo qu	1
+臥位	wo wei	2
+我用	wo yong	1
+我用系統	wo yong xi tong	1
+我再來	wo zai lai	3
+我再來測試一下來	wo zai lai ce shi yi xia lai	1
+我再來試一下我	wo zai lai shi yi xia wo	1
+五	wu	1
+勿	wu	1
+無	wu	23
+物	wu	2
+務必	wu bi	1
+無變化	wu bian hua	1
+無創	wu chuang	1
+戊二酸	wu er suan	1
+無法	wu fa	5
+五個	wu ge	1
+無害	wu hai	1
+武漢	wu han	1
+霧化	wu hua	1
+五角星	wu jiao xing	1
+無界面	wu jie mian	1
+物理	wu li	1
+物理量	wu li liang	1
+武林	wu lin	1
+無論	wu lun	1
+武器	wu qi	1
+無器質性	wu qi zhi xing	1
+無色	wu se	2
+巫山	wu shan	1
+污水	wu shui	1
+物體	wu ti	2
+無限	wu xian	3
+無氧	wu yang	0
+無氧酵解	wu yang jiao jie	1
+物質	wu zhi	3
+物質代謝	wu zhi dai xie	1
+吸	xi	4
+息	xi	2
+系	xi	2
+細	xi	3
+細胞	xi bao	26
+細胞內	xi bao nei	2
+稀便	xi bian	1
+細菌	xi jun	7
+細菌性	xi jun xing	1
+細菌性腦膜炎	xi jun xing nao mo yan	1
+細菌學	xi jun xue	1
+希臘	xi la	2
+吸氣	xi qi	7
+吸氣末	xi qi mo	1
+吸氣時	xi qi shi	1
+息肉	xi rou	1
+吸入	xi ru	1
+吸入性	xi ru xing	1
+稀釋	xi shi	1
+吸收	xi shou	9
+吸收到	xi shou dao	1
+吸收入	xi shou ru	1
+吸收性	xi shou xing	1
+吸衰	xi shuai	1
+吸水	xi shui	0
+系統	xi tong	24
+細微	xi wei	1
+細線條	xi xian tiao	1
+細小	xi xiao	4
+吸氧	xi yang	2
+吸氧氣	xi yang qi	1
+蜥蜴	xi yi	1
+下	xia	13
+下傳	xia chuan	2
+下垂	xia chui	1
+下段	xia duan	2
+下降	xia jiang	9
+下降至	xia jiang zhi	1
+下腔	xia qiang	4
+下午	xia wu	0
+下葉	xia ye	2
+下移	xia yi	2
+狹窄	xia zhai	11
+狹窄口	xia zhai kou	1
+下肢	xia zhi	3
+先	xian	1
+線	xian	48
+酰胺	xian an	1
+限度	xian du	1
+線管	xian guan	1
+顯露	xian lu	1
+線上	xian shang	1
+顯示	xian shi	14
+現實的	xian shi de	1
+線束	xian shu	1
+限速	xian su	1
+先天性	xian tian xing	4
+線條	xian tiao	0
+線圖像	xian tu xiang	1
+線外	xian wai	1
+纖維	xian wei	16
+纖維蛋白	xian wei dan bai	0
+纖維蛋白性	xian wei dan bai xing	1
+纖維化	xian wei hua	8
+顯微鏡	xian wei jing	1
+纖維素	xian wei su	2
+現象	xian xiang	5
+現行	xian xing	1
+線性	xian xing	0
+線性動力	xian xing dong li	1
+顯影	xian ying	1
+現在	xian zai	2
+限制	xian zhi	4
+限制性	xian zhi xing	3
+顯著	xian zhu	7
+像	xiang	1
+向	xiang	9
+相	xiang	8
+香	xiang	2
+相當於	xiang dang yu	1
+相等	xiang deng	4
+相對	xiang dui	5
+相對緩慢	xiang dui huan man	1
+相對性	xiang dui xing	2
+相關	xiang guan	3
+相結合	xiang jie he	1
+響亮	xiang liang	2
+項目	xiang mu	3
+向內	xiang nei	1
+向前	xiang qian	1
+相似	xiang si	2
+像素	xiang su	1
+相同	xiang tong	3
+向外	xiang wai	1
+向下	xiang xia	1
+想想	xiang xiang	1
+香菸	xiang yan	1
+相應	xiang ying	2
+向左	xiang zuo	1
+小	xiao	17
+小靶標	xiao ba biao	1
+小班	xiao ban	0
+小班片影	xiao ban pian ying	1
+消除	xiao chu	9
+哮喘	xiao chuan	7
+小春	xiao chun	1
+消毒劑	xiao du ji	1
+小兒	xiao er	1
+小分子	xiao fen zi	1
+小管	xiao guan	1
+效果	xiao guo	3
+小鶴	xiao he	7
+消化	xiao hua	3
+消化道	xiao hua dao	7
+消化酶	xiao hua mei	1
+小劑量	xiao ji liang	1
+小界面	xiao jie mian	3
+效率	xiao lv	2
+哮鳴	xiao ming	2
+哮鳴音	xiao ming yin	1
+小片	xiao pian	1
+小片狀	xiao pian zhuang	1
+小球	xiao qiu	1
+校區	xiao qu	1
+消散	xiao san	1
+消失	xiao shi	5
+小時內	xiao shi nei	1
+小心	xiao xin	1
+小血管	xiao xue guan	1
+小葉	xiao ye	0
+小葉性	xiao ye xing	1
+效應	xiao ying	7
+小於	xiao yu	5
+小衆	xiao zhong	3
+些	xie	1
+寫	xie	2
+協和	xie he	1
+寫入	xie ru	1
+謝謝	xie xie	1
+心	xin	29
+新	xin	3
+心包	xin bao	31
+心包炎症	xin bao yan zheng	1
+心病	xin bing	0
+心電	xin dian	1
+心電圖	xin dian tu	8
+心動	xin dong	7
+心動過速	xin dong guo su	4
+心動圖	xin dong tu	1
+心耳	xin er	1
+心房	xin fang	9
+新房	xin fang	1
+心肺	xin fei	1
+心梗	xin geng	1
+新功能	xin gong neng	2
+信號	xin hao	3
+心悸	xin ji	3
+心肌	xin ji	28
+心肌病	xin ji bing	11
+心肌梗死	xin ji geng si	1
+心肌炎	xin ji yan	3
+心尖	xin jian	16
+新建	xin jian	3
+心尖區	xin jian qu	2
+心絞痛	xin jiao tong	2
+心力	xin li	6
+心理	xin li	1
+心力衰竭	xin li shuai jie	1
+心律	xin lv	21
+心率	xin lv	1
+心率不齊	xin lv bu qi	1
+心律快	xin lv kuai	1
+心律失常	xin lv shi chang	1
+心內	xin nei	1
+心內膜	xin nei mo	2
+心排量	xin pai liang	1
+心前	xin qian	1
+心腔	xin qiang	2
+心室	xin shi	10
+心室收縮	xin shi shou suo	1
+心帥	xin shuai	1
+心跳	xin tiao	3
+心跳加快	xin tiao jia kuai	1
+信息	xin xi	5
+新鮮	xin xian	3
+心血管	xin xue guan	2
+心腰	xin yao	2
+心音	xin yin	15
+心影	xin ying	4
+心源	xin yuan	2
+心源性	xin yuan xing	1
+心臟	xin zang	40
+心臟病	xin zang bing	5
+型	xing	23
+形	xing	3
+性	xing	88
+星	xing	0
+行	xing	4
+形成	xing cheng	28
+興奮	xing fen	2
+興奮劑	xing fen ji	1
+興奮性	xing fen xing	2
+幸福	xing fu	1
+性能	xing neng	5
+形式	xing shi	1
+形態	xing tai	3
+行爲	xing wei	1
+星星	xing xing	0
+星星星	xing xing xing	1
+性質	xing zhi	9
+星狀	xing zhuang	2
+胸	xiong	4
+胸壁	xiong bi	2
+胸腹	xiong fu	3
+胸骨	xiong gu	8
+胸廓	xiong kuo	1
+胸悶	xiong men	2
+胸膜	xiong mo	3
+胸膜腔	xiong mo qiang	2
+胸膜炎	xiong mo yan	1
+胸前	xiong qian	1
+胸腔	xiong qiang	10
+胸腔內	xiong qiang nei	2
+胸水	xiong shui	1
+修改	xiu gai	4
+休克	xiu ke	4
+休息	xiu xi	2
+需	xu	4
+徐緩	xu huan	1
+蓄積	xu ji	1
+須與	xu yu	1
+絮狀	xu zhuang	1
+選	xuan	2
+選定	xuan ding	1
+選用	xuan yong	1
+選擇	xuan ze	3
+選擇性	xuan ze xing	2
+選中	xuan zhong	3
+旋轉	xuan zhuan	2
+學	xue	12
+血	xue	29
+血管	xue guan	23
+血管壁	xue guan bi	1
+血管搏動徵	xue guan bo dong zheng	1
+血管瘤	xue guan liu	1
+血管膜	xue guan mo	1
+血管外	xue guan wai	1
+血關外	xue guan wai	1
+血管性	xue guan xing	1
+血管徵	xue guan zheng	2
+學過	xue guo	1
+血肌酐	xue ji gan	1
+血漿	xue jiang	6
+血漿蛋白	xue jiang dan bai	3
+血漿內的	xue jiang nei de	1
+血漿藥物	xue jiang yao wu	1
+血量	xue liang	1
+血流	xue liu	14
+血流方向	xue liu fang xiang	1
+血流量	xue liu liang	6
+血流速	xue liu su	1
+血流信號	xue liu xin hao	1
+血腦	xue nao	1
+血尿	xue niao	1
+血尿酸	xue niao suan	1
+血清	xue qing	17
+血清蛋白	xue qing dan bai	1
+血清中	xue qing zhong	1
+血清總蛋白	xue qing zong dan bai	1
+血容量	xue rong liang	7
+血色	xue se	2
+血栓	xue shuan	1
+血糖	xue tang	3
+學習	xue xi	6
+血象	xue xiang	1
+學校	xue xiao	1
+血小板	xue xiao ban	1
+學行	xue xing	0
+血型	xue xing	1
+學行性	xue xing xing	1
+血壓	xue ya	7
+血壓低	xue ya di	1
+血藥濃度	xue yao nong du	2
+血液	xue ye	12
+血液後	xue ye hou	1
+血液中的	xue ye zhong de	1
+血源	xue yuan	2
+血源性	xue yuan xing	1
+血癥	xue zheng	12
+血脂	xue zhi	2
+血中	xue zhong	2
+血賺	xue zuan	1
+循環	xun huan	8
+循環障礙等	xun huan zhang ai deng	1
+薰了	xun le	1
+訓練	xun lian	9
+迅速	xun su	4
+迅速與	xun su yu	1
+尋找	xun zhao	1
+亞	ya	0
+壓	ya	2
+亞家族	ya jia zu	1
+壓力	ya li	4
+壓力差	ya li cha	1
+壓力的	ya li de	1
+壓力增高	ya li zeng gao	1
+亞塞	ya sai	1
+壓塞	ya sai	3
+壓痛	ya tong	1
+呀無	ya wu	1
+煙	yan	3
+眼	yan	2
+鹽	yan	1
+延長	yan chang	9
+延遲	yan chi	3
+掩蓋	yan gai	1
+嚴格	yan ge	2
+眼瞼	yan jian	1
+研究	yan jiu	1
+研究生	yan jiu sheng	1
+眼球	yan qiu	0
+眼球突出和	yan qiu tu chu he	1
+顏色	yan se	1
+衍射	yan she	1
+演算	yan suan	1
+炎性	yan xing	2
+厭氧	yan yang	1
+厭氧菌	yan yang jun	3
+炎症	yan zheng	5
+眼徵	yan zheng	1
+炎症浸潤	yan zheng jin run	1
+嚴重	yan zhong	22
+嚴重創傷	yan zhong chuang shang	1
+嚴重貧血	yan zhong pin xue	2
+嚴重時	yan zhong shi	1
+楊	yang	1
+樣	yang	9
+陽	yang	1
+洋地黃	yang di huang	5
+氧化	yang hua	3
+陽極	yang ji	1
+陽離子	yang li zi	3
+陽性	yang xing	9
+藥	yao	2
+要	yao	10
+腰包	yao bao	1
+要到	yao dao	1
+要點	yao dian	10
+藥理	yao li	3
+藥理學	yao li xue	1
+藥酶	yao mei	1
+要求	yao qiu	1
+鑰匙	yao shi	1
+藥物	yao wu	58
+藥物的	yao wu de	1
+藥物濃度	yao wu nong du	1
+遙遠	yao yuan	1
+藥中	yao zhong	1
+也	ye	8
+葉	ye	5
+夜間	ye jian	3
+葉間裂	ye jian lie	1
+也可	ye ke	5
+也可被	ye ke bei	1
+也可以	ye ke yi	1
+液區	ye qu	1
+液區內	ye qu nei	1
+也是	ye shi	2
+液體	ye ti	4
+液體量	ye ti liang	1
+也未	ye wei	1
+也無	ye wu	1
+液型	ye xing	1
+一	yi	1
+乙	yi	1
+以	yi	5
+易	yi	9
+義	yi	2
+一把	yi ba	1
+一般	yi ban	10
+一般不會	yi ban bu hui	1
+一般而言	yi ban er yan	1
+一般人	yi ban ren	0
+一般人爲	yi ban ren wei	1
+易變性	yi bian xing	1
+一側	yi ce	2
+異常	yi chang	8
+亦稱	yi cheng	0
+亦稱爲	yi cheng wei	1
+益處	yi chu	1
+遺傳	yi chuan	1
+遺傳和	yi chuan he	1
+遺傳因素	yi chuan yin su	2
+一次	yi ci	1
+異次元	yi ci yuan	1
+胰島素	yi dao su	1
+一定	yi ding	1
+移動	yi dong	3
+一段	yi duan	1
+一個	yi ge	28
+一個字	yi ge zi	2
+一過	yi guo	0
+一過性	yi guo xing	1
+以後	yi hou	2
+一級	yi ji	3
+以及	yi ji	2
+溢價	yi jia	1
+一劫	yi jie	1
+已經	yi jing	2
+一句話	yi ju hua	1
+一秒	yi miao	0
+一秒率	yi miao lv	1
+以膜孔擴散	yi mo kong kuo san	1
+一批	yi pi	0
+一起	yi qi	3
+儀器	yi qi	2
+以上	yi shang	11
+一室	yi shi	0
+一室模型	yi shi mo xing	1
+意思	yi si	1
+一提	yi ti	1
+移位	yi wei	2
+異物	yi wu	1
+一下	yi xia	2
+以下	yi xia	5
+一下來	yi xia lai	0
+胰腺炎	yi xian yan	1
+一笑	yi xiao	1
+一些	yi xie	3
+醫學	yi xue	1
+醫學院	yi xue yuan	1
+意義	yi yi	13
+意義不大	yi yi bu da	1
+醫用	yi yong	1
+易於	yi yu	1
+醫院	yi yuan	1
+一致	yi zhi	5
+以致	yi zhi	3
+抑制	yi zhi	4
+抑制劑	yi zhi ji	2
+一致性	yi zhi xing	1
+一種	yi zhong	6
+一週	yi zhou	1
+一組	yi zu	1
+因	yin	2
+茚	yin	1
+音	yin	18
+隱藏	yin cang	1
+因此	yin ci	4
+引導	yin dao	1
+音調	yin diao	1
+印度	yin du	4
+吲哚	yin duo	1
+引號	yin hao	1
+印劇	yin ju	1
+陰離子	yin li zi	3
+音量	yin liang	1
+引流	yin liu	3
+隱匿	yin ni	1
+引起	yin qi	12
+引入	yin ru	3
+引入法	yin ru fa	1
+茚三酮	yin san tong	5
+飲食	yin shi	2
+因素	yin su	13
+因爲	yin wei	2
+陰性	yin xing	1
+隱血	yin xue	5
+陰影	yin ying	7
+引用	yin yong	1
+因子	yin zi	1
+影	ying	7
+應	ying	12
+應查	ying cha	2
+嬰兒	ying er	1
+應該	ying gai	2
+熒光	ying guang	3
+硬化	ying hua	2
+應激	ying ji	1
+硬殼	ying ke	1
+英文	ying wen	2
+鸚鵡	ying wu	1
+影像	ying xiang	7
+影響	ying xiang	24
+影響胸廓	ying xiang xiong kuo	1
+影像學	ying xiang xue	2
+影響藥物	ying xiang yao wu	1
+營養	ying yang	0
+營養不良	ying yang bu liang	1
+應用	ying yong	10
+嬰幼兒	ying you er	2
+英語	ying yu	3
+用	yong	14
+用的	yong de	1
+泳動	yong dong	1
+用戶	yong hu	4
+用來	yong lai	1
+用藥	yong yao	0
+用藥前	yong yao qian	1
+用以	yong yi	3
+用於	yong yu	7
+又	you	9
+右	you	4
+有	you	21
+由	you	4
+有本事	you ben shi	0
+有本事你繼續	you ben shi ni ji xu	1
+又稱	you cheng	1
+有待	you dai	1
+誘導	you dao	1
+有的	you de	1
+優點	you dian	1
+優點是	you dian shi	1
+右房	you fang	1
+有蓋	you gai	2
+有關	you guan	7
+有規律	you gui lv	1
+友好	you hao	1
+優化	you hua	1
+又叫	you jiao	2
+又可	you ke	1
+有力	you li	4
+遊離	you li	0
+遊離壁	you li bi	1
+遊離型	you li xing	2
+有沒有	you mei you	1
+有哪些	you na xie	4
+尤其	you qi	1
+油漆	you qi	1
+尤其是	you qi shi	1
+右前	you qian	1
+猶如	you ru	2
+有三個	you san ge	1
+優勢	you shi	1
+有時	you shi	3
+遊艇	you ting	1
+有無	you wu	1
+有效	you xiao	3
+有些	you xie	2
+有些藥物	you xie yao wu	1
+右心	you xin	3
+右心房	you xin fang	1
+右心室	you xin shi	7
+有心臟	you xin zang	1
+有形	you xing	2
+有氧	you yang	1
+誘因	you yin	3
+又有	you you	1
+由於	you yu	3
+於	yu	8
+與	yu	79
+語	yu	1
+預測	yu ce	1
+與此	yu ci	1
+遇到	yu dao	2
+語法	yu fa	1
+癒合	yu he	1
+預後	yu hou	2
+淤積	yu ji	1
+預計	yu ji	0
+預計值	yu ji zhi	1
+於是	yu shi	1
+預示	yu shi	1
+淤血	yu xue	4
+語言	yu yan	4
+原	yuan	1
+源	yuan	4
+遠	yuan	3
+遠場	yuan chang	2
+遠大於	yuan da yu	1
+遠端	yuan duan	2
+原發	yuan fa	6
+原發性	yuan fa xing	6
+原理	yuan li	8
+原文	yuan wen	1
+原型	yuan xing	1
+圓形	yuan xing	3
+原因	yuan yin	8
+原有	yuan you	5
+原則	yuan ze	8
+原子彈	yuan zi dan	1
+月	yue	1
+約	yue	1
+越	yue	2
+越低	yue di	1
+閱讀器	yue du qi	2
+越高	yue gao	1
+越好	yue hao	1
+越細	yue xi	1
+雲	yun	5
+運動	yun dong	7
+孕婦	yun fu	1
+暈厥	yun jue	1
+雲盤	yun pan	7
+咋辦	za ban	1
+雜音	za yin	25
+仔	zai	1
+再	zai	4
+在	zai	49
+在兒童	zai er tong	1
+再分	zai fen	1
+再進	zai jin	0
+再進行	zai jin xing	1
+再來	zai lai	1
+在其	zai qi	1
+載入	zai ru	1
+在上	zai shang	1
+再生	zai sheng	1
+再隨	zai sui	1
+載體	zai ti	4
+再以	zai yi	1
+在一定	zai yi ding	1
+再與	zai yu	1
+髒	zang	0
+髒層	zang ceng	3
+臟器	zang qi	2
+造成	zao cheng	5
+早到	zao dao	1
+早期	zao qi	16
+造影	zao ying	13
+造影後	zao ying hou	1
+造影檢查	zao ying jian cha	1
+遭遇	zao yu	1
+早孕	zao yun	0
+早孕者	zao yun zhe	1
+則	ze	8
+則可	ze ke	1
+怎麼	zen me	3
+怎樣	zen yang	1
+增粗	zeng cu	1
+增大	zeng da	16
+增多	zeng duo	7
+增高	zeng gao	11
+增厚	zeng hou	2
+增加	zeng jia	28
+增快	zeng kuai	3
+增寬	zeng kuan	1
+增強	zeng qiang	20
+增生	zeng sheng	2
+增益	zeng yi	1
+增長	zeng zhang	1
+粘連	zhan lian	4
+佔用	zhan yong	2
+張	zhang	2
+章	zhang	1
+障礙	zhang ai	12
+障礙性	zhang ai xing	1
+掌側	zhang ce	1
+張力	zhang li	1
+張力性	zhang li xing	1
+掌握	zhang wo	1
+照	zhao	1
+找到	zhao dao	1
+照射	zhao she	1
+者	zhe	9
+這	zhe	4
+遮擋	zhe dang	1
+摺疊	zhe die	2
+折返	zhe fan	3
+折返性	zhe fan xing	1
+這個	zhe ge	11
+這個東西	zhe ge dong xi	0
+這個流暢度	zhe ge liu chang du	1
+這麼	zhe me	2
+折射	zhe she	3
+這是	zhe shi	37
+這時	zhe shi	0
+這時的	zhe shi de	1
+這是一個	zhe shi yi ge	1
+這下	zhe xia	0
+這下我	zhe xia wo	1
+這下午	zhe xia wu	1
+這些	zhe xie	1
+這樣就	zhe yang jiu	1
+這一	zhe yi	1
+這與	zhe yu	1
+這在	zhe zai	1
+這種	zhe zhong	2
+這種事	zhe zhong shi	1
+真	zhen	3
+震顫	zhen chan	3
+針刺	zhen ci	1
+震盪	zhen dang	1
+真的是	zhen de shi	0
+真的是神奇的一批我感覺我	zhen de shi shen qi de yi pi wo gan jue wo	1
+振動	zhen dong	3
+震動	zhen dong	2
+振動波	zhen dong bo	1
+振動頻率	zhen dong pin lv	1
+診斷	zhen duan	36
+診斷成立	zhen duan cheng li	1
+陣發性	zhen fa xing	5
+振幅	zhen fu	0
+振幅高度	zhen fu gao du	1
+鎮靜	zhen jing	1
+真菌	zhen jun	2
+診療	zhen liao	1
+鎮痛	zhen tong	1
+真正	zhen zheng	1
+徵	zheng	21
+正	zheng	2
+正比	zheng bi	5
+正常	zheng chang	23
+正常人	zheng chang ren	3
+正常時	zheng chang shi	2
+正常值	zheng chang zhi	1
+正電	zheng dian	1
+政府	zheng fu	1
+整幅	zheng fu	1
+整幅圖像	zheng fu tu xiang	1
+整個	zheng ge	2
+證據	zheng ju	1
+整齊	zheng qi	1
+正確	zheng que	4
+整體	zheng ti	1
+正相關	zheng xiang guan	2
+正性	zheng xing	1
+正則	zheng ze	3
+症狀	zheng zhuang	23
+值	zhi	3
+只	zhi	2
+指	zhi	19
+支	zhi	2
+置	zhi	1
+至	zhi	5
+致	zhi	2
+指標	zhi biao	10
+致病	zhi bing	1
+之差	zhi cha	1
+支持	zhi chi	4
+脂蛋白	zhi dan bai	6
+知道	zhi dao	2
+值得	zhi de	1
+指定	zhi ding	5
+制動	zhi dong	2
+只讀	zhi du	1
+脂肪	zhi fang	2
+脂肪族	zhi fang zu	1
+之後	zhi hou	2
+指甲	zhi jia	1
+之間	zhi jian	3
+直接	zhi jie	1
+直徑	zhi jing	1
+支擴	zhi kuo	4
+酯類	zhi lei	0
+智力	zhi li	1
+質量	zhi liang	3
+治療	zhi liao	28
+治療不當	zhi liao bu dang	1
+滯留	zhi liu	0
+滯留率	zhi liu lv	1
+緻密	zhi mi	1
+致命	zhi ming	1
+只能	zhi neng	1
+支氣管	zhi qi guan	33
+脂溶	zhi rong	1
+脂溶性	zhi rong xing	4
+至少	zhi shao	1
+致使	zhi shi	1
+之外	zhi wai	1
+執行	zhi xing	3
+只要	zhi yao	1
+之一	zhi yi	2
+只用	zhi yong	1
+只有	zhi you	2
+支原體	zhi yuan ti	1
+指證	zhi zheng	1
+直至	zhi zhi	1
+質子	zhi zi	2
+中	zhong	19
+終	zhong	1
+腫	zhong	3
+衆	zhong	1
+重	zhong	2
+鐘擺	zhong bai	2
+腫大	zhong da	5
+中的	zhong de	1
+中等	zhong deng	2
+中度	zhong du	2
+中毒	zhong du	3
+重度	zhong du	6
+重度關閉不全	zhong du guan bi bu quan	1
+中間	zhong jian	0
+中間不間斷	zhong jian bu jian duan	1
+腫塊	zhong kuai	1
+重量	zhong liang	1
+腫瘤	zhong liu	8
+終末期	zhong mo qi	1
+中期	zhong qi	1
+中樞	zhong shu	3
+中樞性	zhong shu xing	1
+中文	zhong wen	9
+中下	zhong xia	1
+中線	zhong xian	2
+中心	zhong xin	2
+中性	zhong xing	5
+中學	zhong xue	1
+中央	zhong yang	1
+中央管	zhong yang guan	1
+中央室	zhong yang shi	1
+重要	zhong yao	11
+重要指標	zhong yao zhi biao	1
+重要作用	zhong yao zuo yong	1
+終於	zhong yu	1
+重症	zhong zheng	4
+驟	zhou	0
+週邊	zhou bian	0
+週邊室	zhou bian shi	1
+皺起	zhou qi	1
+驟起	zhou qi	0
+驟起驟落	zhou qi zhou luo	1
+驟然	zhou ran	1
+皺縮	zhou suo	1
+周圍	zhou wei	11
+周圍血管徵	zhou wei xue guan zheng	1
+軸線	zhou xian	2
+軸向	zhou xiang	2
+粥樣硬化	zhou yang ying hua	1
+晝夜	zhou ye	1
+主	zhu	1
+住	zhu	1
+逐步	zhu bu	1
+主動	zhu dong	3
+主動重吸收	zhu dong chong xi shou	1
+主動脈	zhu dong mai	6
+主動脈瓣	zhu dong mai ban	2
+主動脈瓣區	zhu dong mai ban qu	1
+主動脈弓	zhu dong mai gong	1
+主動脈內	zhu dong mai nei	1
+主動脈重度	zhu dong mai zhong du	1
+主動脈重度關閉不全	zhu dong mai zhong du guan bi bu quan	1
+主機	zhu ji	3
+逐漸	zhu jian	3
+瀦留	zhu liu	6
+注入	zhu ru	5
+注射	zhu she	5
+注射給藥	zhu she gei yao	1
+注射器	zhu she qi	1
+主題	zhu ti	2
+蛛網	zhu wang	0
+蛛網膜	zhu wang mo	5
+主要	zhu yao	30
+主要根據	zhu yao gen ju	1
+主要見於	zhu yao jian yu	3
+主要爲	zhu yao wei	1
+主要用於	zhu yao yong yu	1
+主要有	zhu yao you	1
+主要與	zhu yao yu	1
+主要在	zhu yao zai	2
+注意	zhu yi	3
+注意下	zhu yi xia	1
+柱狀	zhu zhuang	2
+磚	zhuan	1
+轉氨酶	zhuan an mei	1
+轉變	zhuan bian	1
+轉變爲	zhuan bian wei	2
+轉動	zhuan dong	0
+轉化	zhuan hua	1
+轉換	zhuan huan	1
+專利	zhuan li	1
+專門	zhuan men	3
+轉送	zhuan song	1
+轉位	zhuan wei	3
+專業	zhuan ye	1
+轉移	zhuan yi	1
+轉移到	zhuan yi dao	1
+轉移酶	zhuan yi mei	2
+轉運	zhuan yun	8
+狀	zhuang	6
+裝	zhuang	1
+狀態	zhuang tai	6
+狀態下	zhuang tai xia	1
+椎管	zhui guan	1
+準	zhun	1
+卓	zhuo	2
+濁	zhuo	1
+桌面	zhuo mian	1
+濁音	zhuo yin	4
+濁音區	zhuo yin qu	1
+子	zi	0
+甾	zi	1
+自	zi	1
+自帶	zi dai	1
+自動	zi dong	24
+自發性	zi fa xing	2
+子公司	zi gong si	1
+自己	zi ji	4
+自己寫	zi ji xie	1
+自律性	zi lv xing	1
+字母	zi mu	4
+自然	zi ran	3
+紫色	zi se	1
+字體	zi ti	12
+紫外線	zi wai xian	1
+自行車	zi xing che	1
+自由	zi you	1
+總	zong	3
+縱波	zong bo	1
+縱隔	zong ge	2
+綜合	zong he	1
+綜合徵	zong he zheng	4
+總量	zong liang	2
+總論	zong lun	2
+總數	zong shu	2
+總訴	zong su	1
+總要	zong yao	1
+走路	zou lu	1
+族	zu	1
+阻礙	zu ai	1
+組成	zu cheng	9
+組分	zu fen	1
+組合	zu he	1
+阻抗	zu kang	6
+阻力	zu li	2
+阻留	zu liu	1
+阻塞	zu se	5
+阻塞後	zu se hou	1
+阻塞性	zu se xing	5
+組織	zu zhi	52
+阻止	zu zhi	1
+阻滯	zu zhi	12
+組織的	zu zhi de	1
+組織時	zu zhi shi	1
+組織學	zu zhi xue	1
+賺	zuan	1
+鑽戒	zuan jie	1
+最	zui	10
+最常見	zui chang jian	1
+最常用	zui chang yong	1
+最大	zui da	3
+最低	zui di	1
+最貴	zui gui	1
+最近	zui jin	1
+最美	zui mei	1
+最強	zui qiang	1
+最終	zui zhong	1
+最重要	zui zhong yao	1
+遵循	zun xun	3
+做	zuo	2
+唑	zuo	2
+左	zuo	8
+座標	zuo biao	1
+左側	zuo ce	1
+做到	zuo dao	1
+左房	zuo fang	2
+做功	zuo gong	2
+左肩	zuo jian	1
+左輪	zuo lun	1
+左室	zuo shi	6
+作爲	zuo wei	3
+做爲	zuo wei	1
+坐位	zuo wei	3
+左下	zuo xia	1
+左心	zuo xin	4
+左心耳	zuo xin er	1
+左心房	zuo xin fang	1
+左心室	zuo xin shi	4
+左胸	zuo xiong	1
+左移	zuo yi	1
+作用	zuo yong	23
+作用機制	zuo yong ji zhi	1
+作用快	zuo yong kuai	1
+作用下	zuo yong xia	2
+作用小	zuo yong xiao	1
+左右	zuo you	2
+作緣	zuo yuan	1

@@ -1,0 +1,3723 @@
+# Rime user dictionary
+#@/db_name	luna_pinyin.userdb
+#@/db_type	userdb
+#@/rime_version	1.5.3
+#@/tick	11615
+#@/user_id	0ba0088c-26ad-4165-b815-edfac2094e5f
+a 	啊	c=33 d=1.71352 t=11615
+a 	阿	c=1 d=0.000262568 t=11615
+a a 	啊啊	c=4 d=0.0105675 t=11615
+a a a 	啊啊啊	c=1 d=0.22091 t=11615
+a da 	阿達	c=0 d=0.0216536 t=11615
+a shi da da 	啊溼答答	c=1 d=0.219808 t=11615
+ai de 	愛的	c=0 d=8.61001e-06 t=11615
+ai de hua 	愛德華	c=1 d=1.51907e-07 t=11615
+an 	安	c=3 d=7.27044e-15 t=11615
+an 	按	c=1 d=3.84472e-20 t=11615
+an 	氨	c=1 d=2.52571e-12 t=11615
+an 	胺	c=3 d=1.36463 t=11615
+an ji 	氨基	c=4 d=2.65354e-12 t=11615
+an ji suan 	氨基酸	c=31 d=4.01493e-12 t=11615
+an jing 	安靜	c=1 d=0.00143728 t=11615
+an jing qing xing 	安靜清醒	c=2 d=1.5162e-13 t=11615
+an pai 	安排	c=1 d=7.94804e-05 t=11615
+an quan 	安全	c=2 d=3.77426e-18 t=11615
+an quan xing 	安全性	c=1 d=9.59778e-18 t=11615
+an suan 	氨酸	c=5 d=5.61299e-13 t=11615
+an zhuang 	安裝	c=3 d=0.0620649 t=11615
+an zhuo 	安卓	c=10 d=1.25974 t=11615
+ao xian 	凹陷	c=1 d=0.00119453 t=11615
+ba 	吧	c=2 d=0.0113334 t=11615
+ba 	把	c=1 d=1 t=11604
+ba 	靶	c=1 d=6.38606e-19 t=11615
+ba bi tuo 	巴比妥	c=1 d=7.16557e-21 t=11615
+ba biao 	靶標	c=2 d=2.21943e-16 t=11615
+ba qu 	靶區	c=1 d=6.90007e-18 t=11615
+ba zi 	八字	c=1 d=1.09831e-15 t=11615
+bai 	白	c=1 d=2.85416e-15 t=11615
+bai dan bai 	白蛋白	c=1 d=0.50409 t=11615
+bai dong 	擺動	c=1 d=0.000430743 t=11615
+bai du 	百度	c=2 d=1.99501 t=11611
+bai ri ke 	百日咳	c=1 d=0.00285124 t=11615
+bai se 	白色	c=3 d=0.000266536 t=11615
+bai xi bao 	白細胞	c=2 d=0.227638 t=11615
+ban 	半	c=0 d=1.42667e-05 t=11615
+ban 	瓣	c=5 d=8.84129e-08 t=11615
+ban ben 	版本	c=1 d=0.000151489 t=11615
+ban guan bi 	半關閉	c=1 d=3.14619e-14 t=11615
+ban guan bi 	瓣關閉	c=1 d=3.1305e-14 t=11615
+ban guang 	半胱	c=1 d=4.17359e-15 t=11615
+ban guang an suan 	半胱氨酸	c=2 d=1.92123e-14 t=11615
+ban he cheng 	半合成	c=1 d=0.000143382 t=11615
+ban hen 	瘢痕	c=1 d=5.74365e-07 t=11615
+ban jing 	半徑	c=1 d=5.60661e-17 t=11615
+ban ju hua 	半句話	c=1 d=0.0332068 t=11615
+ban mo 	瓣膜	c=6 d=0.000894469 t=11615
+ban mo bing 	瓣膜病	c=2 d=4.40772e-09 t=11615
+ban pian 	斑片	c=2 d=0.000531877 t=11615
+ban shuai qi 	半衰期	c=3 d=6.3828e-13 t=11615
+ban ye 	瓣葉	c=2 d=2.91379e-14 t=11615
+ban you 	伴有	c=5 d=0.0292888 t=11615
+ban you da liang 	伴有大量	c=1 d=2.54367e-13 t=11615
+ban yue ban 	半月瓣	c=1 d=0.00334597 t=11615
+bang ding 	綁定	c=2 d=0.000111109 t=11615
+bao 	保	c=1 d=2.61303e-06 t=11615
+bao 	包	c=2 d=0.125556 t=11615
+bao 	胞	c=3 d=0.697676 t=11615
+bao cun 	保存	c=3 d=0.011659 t=11615
+bao he 	飽和	c=1 d=3.00928e-20 t=11615
+bao hu 	保護	c=2 d=0.0982736 t=11615
+bao kuo 	包括	c=5 d=0.541273 t=11615
+bao man 	飽滿	c=1 d=0.66034 t=11615
+bao mo 	包膜	c=2 d=0.00175669 t=11615
+bao shou 	保守	c=1 d=0.941765 t=11615
+bao tai song 	保泰松	c=1 d=8.11965e-21 t=11615
+bao zhi nei 	胞質內	c=1 d=1.22265e-12 t=11615
+bei 	倍	c=3 d=3.50656e-11 t=11615
+bei 	被	c=10 d=0.230928 t=11615
+bei 	鋇	c=1 d=5.95432e-19 t=11615
+bei dong 	被動	c=1 d=0.860708 t=11615
+bei dong kuo san 	被動擴散	c=1 d=1.89024e-20 t=11615
+bei duan 	背段	c=1 d=0.000800719 t=11615
+bei fen 	備份	c=7 d=0.190472 t=11615
+bei jing 	北京	c=1 d=7.06873e-08 t=11615
+bei jing 	背景	c=1 d=1.97966e-05 t=11615
+bei po 	被迫	c=1 d=1.68403e-14 t=11615
+bei shang pi 	被上皮	c=1 d=1.46478e-20 t=11615
+ben 	苯	c=2 d=4.9804e-06 t=11615
+ben ji 	苯基	c=1 d=3.7202e-15 t=11615
+ben ma 	奔馬	c=1 d=0.211223 t=11615
+ben ma lv 	奔馬律	c=4 d=0.183939 t=11615
+bi 	吡	c=1 d=0.375311 t=11615
+bi 	壁	c=5 d=0.0349567 t=11615
+bi 	比	c=8 d=0.00690859 t=11615
+bi ceng 	壁層	c=3 d=0.00194129 t=11615
+bi ci 	彼此	c=0 d=1.30565e-21 t=11615
+bi ci du li 	彼此獨立	c=1 d=1.3122e-20 t=11615
+bi ding 	吡啶	c=3 d=1.83891e-05 t=11615
+bi he 	閉合	c=0 d=0.0559898 t=11615
+bi he xing 	閉合性	c=1 d=0.562705 t=11615
+bi jiao 	比較	c=2 d=0.00873865 t=11615
+bi jing 	畢竟	c=1 d=6.20702e-08 t=11615
+bi li 	比例	c=1 d=4.2985e-09 t=11615
+bi mian 	避免	c=5 d=0.105615 t=11615
+bi se 	閉塞	c=1 d=0.0682212 t=11615
+bi xu 	必須	c=1 d=0.0297478 t=11615
+bi xu yong 	必須用	c=1 d=4.01827e-10 t=11615
+bi yao 	必要	c=1 d=1.6169e-06 t=11615
+bi yao shi 	必要時	c=2 d=1.07041e-10 t=11615
+bi zhi 	比值	c=5 d=8.76147e-10 t=11615
+bian 	便	c=1 d=2.48213e-19 t=11615
+bian 	變	c=4 d=0.000539596 t=11615
+bian dong 	變動	c=1 d=2.26618e-07 t=11615
+bian duo 	變多	c=1 d=1.54334e-17 t=11615
+bian hei 	變黑	c=1 d=1.50523e-17 t=11615
+bian hou 	變厚	c=1 d=7.85265e-10 t=11615
+bian hua 	變化	c=11 d=0.140396 t=11615
+bian huan 	變換	c=1 d=1.12535e-07 t=11615
+bian liang 	變量	c=1 d=0.128735 t=11615
+bian ma 	編碼	c=1 d=7.22773e-05 t=11615
+bian ren 	辨認	c=1 d=1.16825e-06 t=11615
+bian tai 	變態	c=1 d=0.186374 t=11615
+bian wei 	變爲	c=2 d=0.955997 t=11615
+bian xi 	變細	c=1 d=9.79e-16 t=11615
+bian ya 	變壓	c=1 d=1.84614e-07 t=11615
+bian yi 	編譯	c=1 d=0.0475963 t=11615
+bian yi 	變異	c=1 d=0.0256042 t=11615
+bian yu 	便於	c=2 d=0.782705 t=11615
+bian yuan 	邊緣	c=6 d=0.00351722 t=11615
+bian zhi 	變直	c=1 d=1.13373e-06 t=11615
+biao ben 	標本	c=5 d=0.191201 t=11615
+biao ben de 	標本的	c=1 d=0.0536647 t=11615
+biao da shi 	表達式	c=2 d=1.92117e-05 t=11615
+biao ge 	表格	c=3 d=0.2903 t=11615
+biao guan 	表觀	c=6 d=5.60891e-19 t=11615
+biao mian 	表面	c=6 d=0.0475431 t=11615
+biao qian 	標籤	c=2 d=0.0500366 t=11615
+biao shi 	表示	c=3 d=1.30904e-09 t=11615
+biao ti 	標題	c=1 d=4.36198e-05 t=11615
+biao xian 	表現	c=13 d=0.11891 t=11615
+biao xian wei 	表現爲	c=3 d=0.842428 t=11615
+biao zhi 	標誌	c=1 d=0.0555762 t=11615
+biao zhi wu 	標誌物	c=4 d=0.0349094 t=11615
+biao zhun 	標準	c=4 d=0.929787 t=11615
+biao zhun ce liang fa 	標準測量法	c=1 d=7.25138e-14 t=11615
+bin lang 	檳榔	c=0 d=7.23019e-10 t=11615
+bin lang gan 	檳榔肝	c=1 d=7.26644e-09 t=11615
+bing 	丙	c=1 d=5.35808e-13 t=11615
+bing 	並	c=7 d=0.477904 t=11615
+bing 	柄	c=1 d=2.03642e-14 t=11615
+bing 	病	c=20 d=0.355631 t=11615
+bing bian 	病變	c=14 d=0.473649 t=11615
+bing bu 	並不	c=1 d=9.98947e-18 t=11615
+bing du 	病毒	c=2 d=0.000284437 t=11615
+bing du xing 	病毒性	c=4 d=8.27249e-05 t=11615
+bing fa 	併發	c=1 d=1.28823e-09 t=11615
+bing fei 	並非	c=1 d=0.00339653 t=11615
+bing li 	病理	c=14 d=0.218599 t=11615
+bing li xing 	病理性	c=3 d=0.149931 t=11615
+bing li yi yi 	病理意義	c=1 d=2.74887e-14 t=11615
+bing li yuan yin 	病理原因	c=1 d=0.398519 t=11615
+bing qi 	屏氣	c=2 d=7.61402e-18 t=11615
+bing qing 	病情	c=2 d=0.00304273 t=11615
+bing ren 	病人	c=10 d=0.0955678 t=11615
+bing tong suan 	丙酮酸	c=1 d=1.09529e-12 t=11615
+bing yin 	病因	c=19 d=0.923329 t=11615
+bing yuan ti 	病原體	c=5 d=0.0437178 t=11615
+bing zai 	並在	c=1 d=0.0483156 t=11615
+bing zao 	病竈	c=3 d=0.00369076 t=11615
+bo 	伯	c=0 d=1.04117e-05 t=11615
+bo 	搏	c=0 d=7.284e-09 t=11615
+bo 	波	c=11 d=0.059311 t=11615
+bo chang 	波長	c=4 d=7.30801e-15 t=11615
+bo chu liang 	搏出量	c=3 d=2.76878e-06 t=11615
+bo dong 	搏動	c=19 d=0.0073776 t=11615
+bo dong 	波動	c=0 d=0.00211736 t=11615
+bo dong lv 	波動率	c=1 d=0.0212797 t=11615
+bo dong zheng 	搏動徵	c=1 d=1.50076e-13 t=11615
+bo li 	剝離	c=0 d=1.93578e-07 t=11615
+bo li shu 	剝離術	c=1 d=1.94548e-06 t=11615
+bo pian 	玻片	c=1 d=1.20757e-13 t=11615
+bo san 	播散	c=1 d=0.196912 t=11615
+bo shi 	博士	c=1 d=1.65355e-05 t=11615
+bo xing 	波形	c=2 d=1.1144e-16 t=11615
+bu 	不	c=19 d=0.292782 t=11615
+bu 	布	c=1 d=0.301194 t=11615
+bu 	部	c=0 d=0.00547488 t=11615
+bu bian 	不變	c=3 d=0.0821694 t=11615
+bu can yu 	不參與	c=1 d=2.82576e-15 t=11615
+bu chang 	不暢	c=1 d=2.90281e-08 t=11615
+bu chang 	補償	c=1 d=8.63964e-16 t=11615
+bu cheng 	不成	c=2 d=7.39343e-20 t=11615
+bu cheng zheng bi 	不成正比	c=1 d=3.67555e-20 t=11615
+bu chong 	補充	c=1 d=3.48311e-05 t=11615
+bu cuo 	不錯	c=2 d=0.0103063 t=11615
+bu da 	不大	c=4 d=0.00144176 t=11615
+bu dang 	不當	c=1 d=1.24392e-10 t=11615
+bu deng 	不等	c=5 d=0.00227676 t=11615
+bu ding 	不定	c=1 d=2.84582e-10 t=11615
+bu fen 	部分	c=9 d=0.0100432 t=11615
+bu fen rong ji 	部分容積	c=1 d=1.58241e-17 t=11615
+bu gan 	不敢	c=1 d=3.00621e-08 t=11615
+bu gou 	不夠	c=1 d=7.35721e-08 t=11615
+bu gui ze 	不規則	c=4 d=0.00406639 t=11615
+bu hao 	不好	c=3 d=0.0982736 t=11615
+bu ji shi 	不及時	c=1 d=0.108609 t=11615
+bu jia 	補鉀	c=1 d=0.108067 t=11615
+bu jian duan 	不間斷	c=0 d=4.24691e-15 t=11615
+bu jin 	不僅	c=1 d=3.68957e-06 t=11615
+bu jing 	不經	c=1 d=1.77007e-12 t=11615
+bu jun 	不均	c=1 d=0.000160054 t=11615
+bu jun yun 	不均勻	c=1 d=0.369723 t=11615
+bu ke 	不可	c=1 d=2.93398e-16 t=11615
+bu ke ni 	不可逆	c=1 d=2.52926e-05 t=11615
+bu kuai 	不快	c=1 d=3.72792e-10 t=11615
+bu liang 	不良	c=2 d=1.04145e-05 t=11615
+bu liang fan ying 	不良反應	c=3 d=2.03931e-05 t=11615
+bu neng 	不能	c=5 d=0.501576 t=11615
+bu qi 	不齊	c=0 d=2.94568e-05 t=11615
+bu qia dang 	不恰當	c=1 d=0.109154 t=11615
+bu qing 	不清	c=1 d=0.00160441 t=11615
+bu quan 	不全	c=5 d=2.7693e-06 t=11615
+bu quan 	補全	c=5 d=0.000430743 t=11615
+bu quan zhe 	不全者	c=1 d=2.747e-06 t=11615
+bu shi 	不是	c=4 d=0.00550277 t=11615
+bu shou 	不受	c=1 d=1.27211e-08 t=11615
+bu tai 	不太	c=1 d=1.58871e-05 t=11615
+bu tiao 	不跳	c=1 d=0.0131675 t=11615
+bu tong 	不同	c=15 d=0.202698 t=11615
+bu tong bu 	不同不	c=1 d=0.14808 t=11615
+bu wei 	部位	c=8 d=0.000773388 t=11615
+bu xi shui 	部吸水	c=1 d=0.0550232 t=11615
+bu xin 	不信	c=0 d=0.00111647 t=11615
+bu xin le 	不信了	c=1 d=0.0112206 t=11615
+bu xing 	不行	c=1 d=0.0125254 t=11615
+bu xing 	步行	c=1 d=1.93611e-08 t=11615
+bu yan zhong 	不嚴重	c=1 d=8.78693e-09 t=11615
+bu yi 	不一	c=2 d=0.242926 t=11615
+bu yi 	不宜	c=2 d=1.14117e-05 t=11615
+bu yi 	不易	c=4 d=0.690734 t=11615
+bu yi yang 	不一樣	c=1 d=0.00822975 t=11615
+bu ying 	不應	c=1 d=1.23912e-08 t=11615
+bu ying qi 	不應期	c=1 d=4.62211e-10 t=11615
+bu ying xiang 	不影響	c=1 d=6.72284e-06 t=11615
+bu yong 	不用	c=4 d=0.0441572 t=11615
+bu za di 	不咋地	c=1 d=1.69541e-05 t=11615
+bu zeng gao 	不增高	c=1 d=0.140858 t=11615
+bu zhen 	不振	c=1 d=0.00123091 t=11615
+bu zu 	不足	c=8 d=4.13319e-08 t=11615
+cai 	才	c=1 d=3.45021e-11 t=11615
+cai ce 	猜測	c=1 d=1.98647e-16 t=11615
+cai dan 	菜單	c=1 d=4.63171e-05 t=11615
+cai ji 	採集	c=3 d=0.132159 t=11615
+cai ji hou 	採集後	c=1 d=0.0485578 t=11615
+cai ji shi 	採集時	c=1 d=0.060205 t=11615
+cai neng 	才能	c=1 d=6.87523e-05 t=11615
+cai qu 	採取	c=2 d=0.0379479 t=11615
+cai se 	彩色	c=8 d=1.28711e-15 t=11615
+cai yong 	採用	c=5 d=0.0642206 t=11615
+cai yong jing mai 	採用靜脈	c=1 d=6.66275e-18 t=11615
+can 	殘	c=2 d=5.22576e-05 t=11615
+can kao zhi 	參考值	c=1 d=1.04439e-11 t=11615
+can shu 	參數	c=3 d=5.41443e-17 t=11615
+can yu 	參與	c=7 d=0.105399 t=11615
+ce 	側	c=3 d=0.946064 t=11615
+ce chu 	測出	c=1 d=6.5466e-17 t=11615
+ce ding 	測定	c=12 d=0.0459021 t=11615
+ce lian 	側鏈	c=3 d=1.04395e-14 t=11615
+ce liang 	測量	c=2 d=2.8303e-16 t=11615
+ce liang fa 	測量法	c=1 d=8.89743e-14 t=11615
+ce mian 	側面	c=1 d=3.36503e-11 t=11615
+ce ping 	測評	c=3 d=5.62709e-17 t=11615
+ce shi 	測試	c=17 d=0.019045 t=11615
+ce wo 	側臥	c=1 d=0.631284 t=11615
+ce xiang 	側向	c=2 d=1.73942e-16 t=11615
+ceng 	層	c=2 d=0.00379148 t=11615
+ceng ci 	層次	c=1 d=1.53564e-17 t=11615
+ceng mian 	層面	c=2 d=1.9036e-17 t=11615
+cha 	差	c=6 d=0.179955 t=11615
+cha 	查	c=1 d=6.70891e-11 t=11615
+cha bie 	差別	c=0 d=1.379e-17 t=11615
+cha bu duo 	差不多	c=1 d=6.55797e-08 t=11615
+cha dao 	查到	c=1 d=0.000120363 t=11615
+cha de 	差得	c=1 d=0.00477195 t=11615
+cha jian 	插件	c=8 d=0.000547596 t=11615
+cha ru 	插入	c=4 d=0.00022263 t=11615
+cha xun 	查詢	c=3 d=0.415598 t=11615
+cha yi 	差異	c=5 d=8.04073e-18 t=11615
+cha yi xing 	差異性	c=0 d=5.90329e-07 t=11615
+chan dong 	顫動	c=2 d=0.00265576 t=11615
+chan dou 	顫抖	c=1 d=2.77556e-10 t=11615
+chan sheng 	產生	c=17 d=1.17966 t=11615
+chan wu 	產物	c=1 d=7.05535e-16 t=11615
+chang 	場	c=1 d=3.38362e-17 t=11615
+chang 	常	c=13 d=0.367879 t=11615
+chang 	腸	c=2 d=0.000116806 t=11615
+chang 	長	c=1 d=1.28512e-10 t=11615
+chang ban you 	常伴有	c=1 d=4.69356e-14 t=11615
+chang dao 	腸道	c=5 d=1.39239e-12 t=11615
+chang duan 	長短	c=1 d=4.64528e-10 t=11615
+chang gan xun huan 	腸肝循環	c=1 d=1.40734e-20 t=11615
+chang gui 	常規	c=1 d=4.88677e-18 t=11615
+chang jia 	廠家	c=1 d=2.15749e-17 t=11615
+chang jian 	常見	c=8 d=0.533512 t=11615
+chang jian yu 	常見於	c=9 d=0.00554422 t=11615
+chang qi 	長期	c=4 d=0.000211772 t=11615
+chang qiang 	腸腔	c=1 d=1.58569e-12 t=11615
+chang sheng 	長生	c=1 d=0.40657 t=11615
+chang shu 	常數	c=1 d=2.575e-20 t=11615
+chang suo 	場所	c=1 d=4.80322e-21 t=11615
+chang wei 	常爲	c=1 d=8.74609e-13 t=11615
+chang xiao 	長效	c=1 d=2.67226e-05 t=11615
+chang xu 	常須	c=1 d=4.92398e-19 t=11615
+chang yong 	常用	c=5 d=0.348192 t=11615
+chang you 	常有	c=2 d=0.0045169 t=11615
+chang zhou 	長軸	c=1 d=9.15176e-17 t=11615
+chao 	超	c=3 d=0.00029256 t=11615
+chao guo 	超過	c=10 d=0.00300692 t=11615
+chao sheng 	超聲	c=21 d=1.30035e-06 t=11615
+chao sheng bo 	超聲波	c=2 d=3.29727e-07 t=11615
+chao shui 	潮水	c=1 d=4.8365e-14 t=11615
+chao xiang 	朝向	c=1 d=1.25079e-15 t=11615
+chen jiu 	陳舊	c=0 d=0.0115325 t=11615
+chen jiu xing 	陳舊性	c=2 d=0.235935 t=11615
+chen zhuo 	沉着	c=1 d=5.83046e-07 t=11615
+cheng 	呈	c=17 d=0.0883444 t=11615
+cheng 	成	c=8 d=6.84211e-07 t=11615
+cheng 	稱	c=3 d=0.0188221 t=11615
+cheng du 	程度	c=11 d=3.1953e-06 t=11615
+cheng du yu 	程度與	c=1 d=3.34767e-09 t=11615
+cheng fen 	成分	c=7 d=0.145009 t=11615
+cheng ji 	乘積	c=1 d=2.83307e-16 t=11615
+cheng ren 	成人	c=2 d=0.0029186 t=11615
+cheng shou 	承受	c=1 d=0.241714 t=11615
+cheng wei 	成爲	c=3 d=2.05264e-12 t=11615
+cheng wei 	稱爲	c=28 d=1.38027 t=11615
+cheng xian 	呈現	c=2 d=0.000139144 t=11615
+cheng xiang 	成像	c=10 d=2.7785e-17 t=11615
+cheng xiang zhong 	成像中	c=1 d=2.06754e-16 t=11615
+cheng xu 	程序	c=1 d=0.304221 t=11615
+cheng zheng bi 	成正比	c=2 d=1.30186e-15 t=11615
+cheng zhi wei 	稱之爲	c=1 d=0.436049 t=11615
+chi 	池	c=1 d=0.00831246 t=11615
+chi fa 	喫法	c=1 d=0.183599 t=11615
+chi fa 	遲發	c=1 d=0.18452 t=11615
+chi xu 	持續	c=3 d=0.000642592 t=11615
+chi yu 	遲於	c=1 d=0.00357068 t=11615
+chong 	衝	c=3 d=0.219808 t=11615
+chong 	重	c=0 d=9.62426e-22 t=11615
+chong die 	重疊	c=3 d=1.53071e-16 t=11615
+chong dong 	衝動	c=1 d=8.31812e-11 t=11615
+chong fen 	充分	c=0 d=3.51142e-13 t=11615
+chong fen xing 	充分性	c=1 d=3.52902e-12 t=11615
+chong fu 	重複	c=2 d=4.29704e-05 t=11615
+chong gou 	重構	c=2 d=0.0150707 t=11615
+chong ji 	衝擊	c=1 d=0.000437252 t=11615
+chong jian 	重建	c=2 d=6.05572e-18 t=11615
+chong mai 	衝脈	c=0 d=4.86074e-15 t=11615
+chong man 	充滿	c=2 d=0.0163776 t=11615
+chong qi 	充氣	c=2 d=0.016875 t=11615
+chong qi 	重啓	c=1 d=0.000246044 t=11615
+chong xi shou 	重吸收	c=5 d=1.87841e-12 t=11615
+chong xin 	重新	c=2 d=4.97078e-09 t=11615
+chong xue 	充血	c=3 d=0.225373 t=11615
+chong ying 	充盈	c=1 d=6.09882e-07 t=11615
+chong ying shi 	充盈時	c=1 d=1.58596e-14 t=11615
+chou 	抽	c=1 d=6.05377e-08 t=11615
+chou 	臭	c=2 d=0.00116302 t=11615
+chou xiang 	抽象	c=1 d=4.08247e-20 t=11615
+chu 	出	c=4 d=0.00160693 t=11615
+chu 	杵	c=4 d=0.0183593 t=11615
+chu 	處	c=4 d=0.741307 t=11615
+chu 	除	c=2 d=0.00207641 t=11615
+chu bei 	儲備	c=1 d=1.86083e-12 t=11615
+chu cun 	儲存	c=1 d=0.453845 t=11615
+chu cun ku 	儲存庫	c=1 d=0.477114 t=11615
+chu cun zai 	儲存在	c=1 d=1.42861e-20 t=11615
+chu ji 	觸及	c=1 d=8.87373e-07 t=11615
+chu jue 	觸覺	c=1 d=0.26982 t=11615
+chu lai 	出來	c=3 d=1.66184e-05 t=11615
+chu li 	處理	c=2 d=0.794534 t=11615
+chu liang 	儲量	c=1 d=0.111359 t=11615
+chu liang 	出量	c=0 d=7.284e-09 t=11615
+chu qi 	初期	c=1 d=1.93677e-12 t=11615
+chu qu 	出去	c=1 d=4.29996e-13 t=11615
+chu qu 	除去	c=1 d=3.23143e-05 t=11615
+chu wai 	除外	c=1 d=2.78369e-15 t=11615
+chu xian 	出現	c=16 d=0.282977 t=11615
+chu xian zai 	出現在	c=2 d=0.1764 t=11615
+chu xue 	出血	c=8 d=0.542929 t=11615
+chu yi ban 	除一般	c=1 d=5.33045e-11 t=11615
+chu yu 	處於	c=1 d=3.11488e-14 t=11615
+chu zhen 	觸診	c=1 d=0.000699601 t=11615
+chu zhuang 	杵狀	c=1 d=0.00138093 t=11615
+chuan 	傳	c=2 d=0.000850233 t=11615
+chuan bo 	傳播	c=3 d=1.0816e-15 t=11615
+chuan bo zhong 	傳播中	c=1 d=7.36222e-16 t=11615
+chuan ci 	穿刺	c=6 d=0.965605 t=11615
+chuan dao 	傳到	c=1 d=0.153355 t=11615
+chuan dao 	傳導	c=4 d=9.53126e-06 t=11615
+chuan dao xing 	傳導性	c=1 d=8.67557e-06 t=11615
+chuan di 	傳遞	c=2 d=8.12467e-17 t=11615
+chuan kong 	穿孔	c=1 d=2.60044e-08 t=11615
+chuan ran 	傳染	c=1 d=4.55407e-12 t=11615
+chuan ran xing 	傳染性	c=1 d=0.209088 t=11615
+chuan tong 	傳統	c=3 d=8.47664e-19 t=11615
+chuan tou xing 	穿透性	c=1 d=1.32859e-19 t=11615
+chuan zhi 	傳至	c=1 d=0.000911882 t=11615
+chuang 	牀	c=1 d=3.02385e-18 t=11615
+chuang jian 	創建	c=1 d=5.48998e-05 t=11615
+chuang kou 	窗口	c=9 d=0.000384843 t=11615
+chuang shang 	創傷	c=0 d=9.66736e-10 t=11615
+chuang shang xing 	創傷性	c=1 d=9.71106e-09 t=11615
+chui fen 	吹分	c=1 d=1.04457e-13 t=11615
+chui feng 	吹風	c=1 d=4.91377e-14 t=11615
+chui feng yang 	吹風樣	c=1 d=1.07638e-13 t=11615
+chui zhi 	垂直	c=4 d=0.000382292 t=11615
+ci 	次	c=8 d=0.0372788 t=11615
+ci 	此	c=1 d=0.421052 t=11615
+ci 	詞	c=1 d=0.00530026 t=11615
+ci dian 	詞典	c=1 d=0.995012 t=11615
+ci ji xing 	刺激性	c=1 d=1.23112e-05 t=11615
+ci ku 	詞庫	c=1 d=1 t=11601
+ci wai 	此外	c=2 d=8.05449e-11 t=11615
+cong 	從	c=8 d=0.000236611 t=11615
+cong er 	從而	c=2 d=7.97444e-19 t=11615
+cong shi 	從事	c=1 d=1.53063e-08 t=11615
+cu 	促	c=1 d=9.57363e-15 t=11615
+cu 	簇	c=1 d=0.00660453 t=11615
+cu cao 	粗糙	c=3 d=0.000893825 t=11615
+cu jia zhuang xian 	促甲狀腺	c=1 d=1.17491e-14 t=11615
+cu jin 	促進	c=2 d=0.900325 t=11615
+cu suan 	醋酸	c=1 d=5.71793e-13 t=11615
+cui hua 	催化	c=2 d=3.58132e-12 t=11615
+cun chu 	存儲	c=1 d=3.35052e-19 t=11615
+cun zai 	存在	c=9 d=0.0116677 t=11615
+da 	大	c=18 d=0.00473236 t=11615
+da 	打	c=1 d=9.52094e-05 t=11615
+da 	答	c=6 d=0.0824266 t=11615
+da bao 	打包	c=1 d=0.0464212 t=11615
+da bu guo 	打不過	c=1 d=0.00918669 t=11615
+da chu xie 	大出血	c=1 d=4.66936e-12 t=11615
+da da 	大大	c=-1 d=0.250285 t=11615
+da da da 	答大大	c=1 d=0.225373 t=11615
+da dao 	達到	c=-1 d=3.54025e-10 t=11615
+da dong mai 	大動脈	c=1 d=8.50957e-14 t=11615
+da duo shu 	大多數	c=1 d=3.7183e-09 t=11615
+da fan wei 	大範圍	c=1 d=0.282239 t=11615
+da fen zi 	大分子	c=3 d=0.826959 t=11615
+da jie mian 	大界面	c=2 d=1.43037e-15 t=11615
+da kai 	打開	c=7 d=0.124307 t=11615
+da kuai 	大塊	c=1 d=2.10788e-08 t=11615
+da liang 	大量	c=11 d=0.649794 t=11615
+da mian ji 	大面積	c=2 d=0.00308872 t=11615
+da mian ji shao shang 	大面積燒傷	c=1 d=4.69276e-12 t=11615
+da nao 	大腦	c=3 d=0.721639 t=11615
+da pi 	大批	c=1 d=1.77345e-05 t=11615
+da pian 	大片	c=3 d=0.0019973 t=11615
+da qin 	大秦	c=1 d=1.46657e-05 t=11615
+da sa 	搭撒	c=1 d=0.021743 t=11615
+da sa a da 	搭撒阿達	c=1 d=0.217621 t=11615
+da sa ai de 	搭撒愛的	c=1 d=8.65317e-05 t=11615
+da sa da 	搭撒打	c=6 d=0.0415578 t=11615
+da sa da da sa da 	搭撒打搭撒打	c=1 d=3.16745e-05 t=11615
+da sa da de 	搭撒打的	c=3 d=0.0148246 t=11615
+da sa da sa da sa da sa dan sa da sa da sa dan sa da sa da sa dan sa da sa da sa dan 	搭撒打撒搭撒打撒旦撒搭撒打撒旦撒搭撒打撒旦撒搭撒打撒旦	c=2 d=0.0269344 t=11615
+da sa da sa dan 	搭撒打撒旦	c=2 d=0.00281244 t=11615
+da sa da shi 	搭撒打時	c=1 d=0.00414545 t=11615
+da sa da shi dai sa dan 	搭撒大時代撒旦	c=1 d=2.76745e-05 t=11615
+da shi dai 	大時代	c=0 d=2.75364e-06 t=11615
+da shou shu 	大手術	c=1 d=4.73992e-12 t=11615
+da wan 	打完	c=1 d=0.000206543 t=11615
+da xiao 	大小	c=10 d=0.918513 t=11615
+da xue 	大學	c=2 d=1.52362e-05 t=11615
+da yin 	打印	c=1 d=3.3842e-19 t=11615
+da yu 	大於	c=7 d=0.404542 t=11615
+dai 	代	c=1 d=3.10737e-15 t=11615
+dai 	帶	c=1 d=5.09261e-15 t=11615
+dai biao 	代表	c=1 d=1.37427e-06 t=11615
+dai biao xing 	代表型	c=1 d=5.25556e-21 t=11615
+dai biao yao wu 	代表藥物	c=1 d=1.38116e-05 t=11615
+dai chang 	代償	c=6 d=0.0889456 t=11615
+dai chang qi 	代償期	c=8 d=5.9365e-05 t=11615
+dai fu dian 	帶負電	c=1 d=4.82483e-15 t=11615
+dai suan 	代酸	c=2 d=0.0560337 t=11615
+dai ti 	代替	c=1 d=0.00392653 t=11615
+dai xie 	代謝	c=17 d=0.102276 t=11615
+dai xie wu 	代謝物	c=1 d=1.05306e-20 t=11615
+dan 	但	c=9 d=0.177284 t=11615
+dan 	單	c=3 d=0.000115701 t=11615
+dan 	氮	c=2 d=7.00325e-12 t=11615
+dan bai 	蛋白	c=23 d=0.947811 t=11615
+dan bai dian yong 	蛋白電泳	c=1 d=5.74561e-11 t=11615
+dan bai he cheng 	蛋白合成	c=1 d=1.27562e-11 t=11615
+dan bai xue zheng 	蛋白血癥	c=1 d=0.0163259 t=11615
+dan bai zhi 	蛋白質	c=17 d=0.257117 t=11615
+dan bei 	單杯	c=0 d=1.78385e-16 t=11615
+dan bei zhi 	單杯指	c=1 d=1.7928e-15 t=11615
+dan ceng 	單層	c=0 d=2.91985e-19 t=11615
+dan ceng luo xuan 	單層螺旋	c=1 d=2.93448e-18 t=11615
+dan chun 	單純	c=3 d=0.565525 t=11615
+dan dang 	但當	c=1 d=1.19844e-12 t=11615
+dan dao 	膽道	c=2 d=2.65822e-12 t=11615
+dan du 	單獨	c=2 d=0.000699601 t=11615
+dan fu 	單幅	c=1 d=2.09409e-19 t=11615
+dan fu 	擔負	c=1 d=1.9623e-19 t=11615
+dan guan 	膽管	c=2 d=5.63625e-12 t=11615
+dan he 	單核	c=1 d=0.000978001 t=11615
+dan hong su 	膽紅素	c=16 d=2.67722e-10 t=11615
+dan nang 	膽囊	c=1 d=1.43577e-20 t=11615
+dan niao yuan 	膽尿原	c=1 d=6.25534e-11 t=11615
+dan shi 	但是	c=2 d=5.01177e-11 t=11615
+dan su 	膽素	c=1 d=6.31821e-11 t=11615
+dan wei 	單位	c=3 d=8.01836e-14 t=11615
+dan wei shi jian 	單位時間	c=2 d=8.96675e-13 t=11615
+dan wei shi jian nei 	單位時間內	c=1 d=3.50295e-13 t=11615
+dan wei wei 	單位爲	c=1 d=2.50018e-16 t=11615
+dan xiang 	單項	c=1 d=3.03901e-18 t=11615
+dan xiao 	膽小	c=0 d=1.35801e-13 t=11615
+dan xiao guan 	膽小管	c=1 d=1.36482e-12 t=11615
+dan ye 	但也	c=0 d=3.99198e-22 t=11615
+dan ye ke 	但也可	c=1 d=4.01199e-21 t=11615
+dan yi 	單一	c=1 d=6.41697e-17 t=11615
+dan yin 	單音	c=1 d=0.00271219 t=11615
+dan yuan 	膽原	c=2 d=2.12853e-11 t=11615
+dan zai 	但在	c=1 d=1.30139e-11 t=11615
+dan zhi 	膽汁	c=9 d=1.21498e-11 t=11615
+dan zhi liu liang 	膽汁流量	c=1 d=1.77128e-20 t=11615
+dan zhi pai xie 	膽汁排泄	c=1 d=1.28621e-20 t=11615
+dan zhi suan 	膽汁酸	c=2 d=9.58096e-11 t=11615
+dang 	當	c=9 d=0.0692778 t=11615
+dang qian 	當前	c=1 d=5.24841e-05 t=11615
+dang xin 	當心	c=0 d=1.25058e-14 t=11615
+dang xin zang 	當心髒	c=1 d=1.25685e-13 t=11615
+dao 	到	c=7 d=0.59807 t=11615
+dao 	道	c=0 d=1.01843e-10 t=11615
+dao chu 	導出	c=1 d=1.96979e-05 t=11615
+dao ge 	刀割	c=1 d=0.621885 t=11615
+dao guan 	導管	c=0 d=4.42023e-15 t=11615
+dao lian 	導聯	c=1 d=2.85221e-07 t=11615
+dao ru 	導入	c=1 d=1 t=11595
+dao zhi 	倒置	c=1 d=1.28468e-06 t=11615
+dao zhi 	導致	c=18 d=0.423509 t=11615
+de 	得	c=1 d=0.178173 t=11615
+de 	德	c=1 d=1.62108e-07 t=11615
+de 	的	c=463 d=10.4607 t=11615
+de da sa da shi da sa da da sa da shi da sa da de 	的搭撒打時搭撒打搭撒打時搭撒打的	c=1 d=0.0137049 t=11615
+de dao 	得到	c=1 d=2.56391e-18 t=11615
+de sa dan sa dan 	的撒旦撒旦	c=2 d=6.25109e-05 t=11615
+de sa dan sa dan sa dan 	的撒旦撒旦撒旦	c=1 d=3.04325e-05 t=11615
+deng 	等	c=44 d=0.915138 t=11615
+deng dian dian 	等電點	c=2 d=1.03598e-14 t=11615
+deng dian wei 	等電位	c=1 d=2.9835e-07 t=11615
+deng ji 	等級	c=1 d=2.66854e-18 t=11615
+deng ji bing 	等疾病	c=1 d=8.49338e-21 t=11615
+deng ji shu 	等技術	c=1 d=6.41807e-19 t=11615
+deng yu 	等於	c=2 d=0.0214936 t=11615
+di 	低	c=8 d=0.622774 t=11615
+di 	地	c=4 d=0.0953692 t=11615
+di 	底	c=1 d=2.78132e-05 t=11615
+di 	第	c=5 d=0.0017934 t=11615
+di bu 	底部	c=1 d=2.3352e-07 t=11615
+di dian ya 	低電壓	c=2 d=1.573e-06 t=11615
+di er 	第二	c=7 d=0.00172741 t=11615
+di er ge 	第二個	c=2 d=6.84711e-05 t=11615
+di er ji 	第二級	c=1 d=3.66169e-05 t=11615
+di er lei jian 	第二肋間	c=3 d=0.00106477 t=11615
+di er qi 	第二期	c=1 d=6.72627e-12 t=11615
+di er xin yin 	第二心音	c=1 d=0.00264522 t=11615
+di gao xin 	地高辛	c=3 d=5.21239e-08 t=11615
+di gui 	遞歸	c=1 d=6.44256e-05 t=11615
+di guo 	帝國	c=1 d=1.47392e-05 t=11615
+di jian 	遞減	c=0 d=3.80453e-15 t=11615
+di jian xing 	遞減型	c=1 d=3.8236e-14 t=11615
+di lian 	低廉	c=1 d=2.19047e-19 t=11615
+di mi du 	低密度	c=4 d=1.02126e-12 t=11615
+di ping 	低平	c=1 d=1.27827e-06 t=11615
+di ping 	地平	c=1 d=5.00537e-06 t=11615
+di san 	第三	c=3 d=0.000221425 t=11615
+di san dai 	第三代	c=0 d=2.72625e-06 t=11615
+di san dai sa dan sa dan 	第三代撒旦撒旦	c=1 d=2.73991e-05 t=11615
+di san ge 	第三個	c=2 d=3.53575e-05 t=11615
+di san ji 	第三級	c=1 d=3.71703e-05 t=11615
+di san lei jian 	第三肋間	c=2 d=0.00233501 t=11615
+di san qi 	第三期	c=1 d=6.82793e-12 t=11615
+di sheng 	低聲	c=0 d=8.99224e-17 t=11615
+di sheng su 	低聲速	c=1 d=9.03731e-16 t=11615
+di si 	第四	c=3 d=0.00125643 t=11615
+di si qi 	第四期	c=1 d=6.93112e-12 t=11615
+di xia 	地下	c=1 d=8.93978e-06 t=11615
+di xue tang 	低血糖	c=1 d=4.46161e-06 t=11615
+di xue ya 	低血壓	c=2 d=0.000385874 t=11615
+di yi 	第一	c=6 d=0.00478501 t=11615
+di yi ge 	第一個	c=2 d=3.31324e-05 t=11615
+di yi qi 	第一期	c=1 d=6.62613e-12 t=11615
+di yi zhang 	第一章	c=1 d=3.10473e-05 t=11615
+di yu 	低於	c=4 d=0.00307746 t=11615
+dia 	嗲	c=1 d=0.000209665 t=11615
+dian 	碘	c=2 d=9.92759e-18 t=11615
+dian 	電	c=1 d=3.13646e-07 t=11615
+dian 	點	c=1 d=3.94416e-16 t=11615
+dian fen yang 	澱粉樣	c=0 d=1.19514e-10 t=11615
+dian fen yang bian 	澱粉樣變	c=1 d=1.20113e-09 t=11615
+dian wei 	電位	c=0 d=2.96862e-08 t=11615
+dian xing 	典型	c=5 d=0.861782 t=11615
+dian yong 	電泳	c=4 d=1.61893e-10 t=11615
+dian zhou 	電軸	c=1 d=0.0692522 t=11615
+diao wang 	凋亡	c=1 d=2.30082e-09 t=11615
+diao yong 	調用	c=1 d=3.31324e-05 t=11615
+die die 	爹爹	c=1 d=0.00128115 t=11615
+die jia 	疊加	c=1 d=2.16308e-18 t=11615
+ding 	定	c=4 d=0.882885 t=11615
+ding chun 	丁醇	c=1 d=0.390628 t=11615
+ding yi 	定義	c=26 d=0.367055 t=11615
+ding zhi 	定植	c=1 d=0.000623601 t=11615
+dong 	凍	c=1 d=0.000147011 t=11615
+dong 	動	c=7 d=0.000401036 t=11615
+dong a 	東阿	c=1 d=2.32996e-10 t=11615
+dong da 	東大	c=2 d=3.34653e-05 t=11615
+dong jing 	動靜	c=0 d=5.48047e-15 t=11615
+dong jing mai lou 	動靜脈瘺	c=1 d=5.50794e-14 t=11615
+dong li 	動力	c=1 d=2.57916e-20 t=11615
+dong li xue 	動力學	c=6 d=9.80866e-09 t=11615
+dong mai 	動脈	c=4 d=0.00832716 t=11615
+dong mai dao guan 	動脈導管	c=2 d=9.92283e-14 t=11615
+dong mai liu 	動脈瘤	c=1 d=2.74178e-13 t=11615
+dong mai qi 	動脈期	c=1 d=5.82135e-18 t=11615
+dong mai qu 	動脈區	c=1 d=3.61898e-14 t=11615
+dong mai xi tong 	動脈系統	c=1 d=7.62576e-18 t=11615
+dong tai 	動態	c=4 d=0.120129 t=11615
+dong xi 	東西	c=2 d=0.0114271 t=11615
+dong zuo 	動作	c=1 d=1.94046e-05 t=11615
+dou 	都	c=6 d=1.69687e-05 t=11615
+dou fang jie 	竇房結	c=1 d=8.85082e-06 t=11615
+dou hen 	都很	c=1 d=0.0112206 t=11615
+dou neng 	都能	c=1 d=6.29205e-21 t=11615
+dou shi 	都是	c=1 d=4.85826e-08 t=11615
+dou xing 	竇性	c=5 d=0.00238581 t=11615
+dou ying 	都應	c=1 d=0.0587185 t=11615
+dou yu 	鬥魚	c=2 d=3.60961e-05 t=11615
+du 	度	c=2 d=0.0434998 t=11615
+du 	毒	c=1 d=0.0948935 t=11615
+du 	讀	c=1 d=3.31719e-19 t=11615
+du bo 	讀博	c=1 d=1.70391e-05 t=11615
+du li 	毒力	c=1 d=0.00067217 t=11615
+du li 	獨立	c=0 d=1.30565e-21 t=11615
+du qu 	讀取	c=1 d=0.000201444 t=11615
+du te 	獨特	c=1 d=0.366045 t=11615
+du xing 	毒性	c=4 d=3.45674e-11 t=11615
+duan 	段	c=6 d=0.0023803 t=11615
+duan 	短	c=1 d=6.54438e-13 t=11615
+duan 	端	c=2 d=2.4338e-14 t=11615
+duan ceng 	斷層	c=1 d=1.16061e-17 t=11615
+duan chu 	短絀	c=3 d=0.00275462 t=11615
+duan cu 	短促	c=1 d=9.12658e-14 t=11615
+duan kou 	端口	c=1 d=0.0728029 t=11615
+duan lian 	鍛鍊	c=1 d=3.9272e-05 t=11615
+duan lie 	斷裂	c=1 d=2.63974e-08 t=11615
+duan ya 	斷崖	c=1 d=5.43536e-05 t=11615
+duan zhou 	短軸	c=1 d=1.02159e-16 t=11615
+duan zuo 	端坐	c=1 d=8.58482e-08 t=11615
+duan zuo hu xi 	端坐呼吸	c=1 d=8.19149e-07 t=11615
+dui 	對	c=21 d=0.446476 t=11615
+dui bi 	對比	c=6 d=1.95478e-17 t=11615
+dui bi cheng 	對比呈	c=1 d=1.12359e-18 t=11615
+dui bi du 	對比度	c=1 d=1.56666e-17 t=11615
+dui bi fen bian li 	對比分辨力	c=1 d=1.19885e-16 t=11615
+dui bi ji 	對比劑	c=10 d=4.95502e-17 t=11615
+dui bu 	對不	c=0 d=1.27806e-05 t=11615
+dui bu qi 	對不齊	c=1 d=0.000128446 t=11615
+dui xiang 	對象	c=1 d=1.40906e-05 t=11615
+dui zheng 	對症	c=1 d=5.1197e-07 t=11615
+duo 	多	c=6 d=0.687289 t=11615
+duo bu 	多部	c=1 d=0.0473589 t=11615
+duo ceng 	多層	c=2 d=9.98864e-18 t=11615
+duo ceng mian 	多層面	c=1 d=7.83904e-19 t=11615
+duo cheng 	多呈	c=1 d=3.47589e-10 t=11615
+duo fa 	多發	c=2 d=0.000989014 t=11615
+duo fa sheng 	多發生	c=1 d=0.00486835 t=11615
+duo fang wei 	多方位	c=1 d=7.51222e-18 t=11615
+duo ge 	多個	c=1 d=1.93078e-05 t=11615
+duo guo 	躲過	c=1 d=4.77276e-05 t=11615
+duo jian 	多見	c=1 d=0.000754089 t=11615
+duo jiao du 	多角度	c=1 d=7.54988e-18 t=11615
+duo nang shen 	多囊腎	c=1 d=3.76603e-12 t=11615
+duo ping mian 	多平面	c=1 d=7.47476e-18 t=11615
+duo pu le 	多普勒	c=5 d=1.82423e-15 t=11615
+duo qi 	多期	c=2 d=1.08124e-17 t=11615
+duo shi 	多時	c=0 d=1.66813e-21 t=11615
+duo shu 	多數	c=1 d=0.0172045 t=11615
+duo shu wei 	多數爲	c=1 d=0.172907 t=11615
+duo tai 	多肽	c=3 d=2.82437e-14 t=11615
+duo wei 	多爲	c=4 d=0.138069 t=11615
+duo yang xing 	多樣性	c=1 d=2.6085e-15 t=11615
+duo yi 	多以	c=1 d=9.36081e-18 t=11615
+duo zai 	多在	c=1 d=1.01826e-07 t=11615
+duo zai 	躲在	c=1 d=1.01318e-07 t=11615
+duo zhong 	多種	c=3 d=0.0116203 t=11615
+e wai 	額外	c=1 d=0.0201897 t=11615
+e wai xin yin 	額外心音	c=1 d=0.202909 t=11615
+e xing 	惡性	c=2 d=0.0365162 t=11615
+e xing zhong liu 	惡性腫瘤	c=2 d=0.039135 t=11615
+er 	二	c=5 d=0.00134011 t=11615
+er 	而	c=25 d=0.734041 t=11615
+er 	耳	c=1 d=0.00367942 t=11615
+er hou 	而後	c=1 d=3.56328e-08 t=11615
+er jian ban 	二尖瓣	c=8 d=0.00376697 t=11615
+er lian 	二聯	c=0 d=3.00519e-05 t=11615
+er lian lv 	二聯律	c=1 d=0.000302025 t=11615
+er lin suan 	二磷酸	c=1 d=7.91379e-13 t=11615
+er pa 	二怕	c=1 d=3.61775e-10 t=11615
+er qie 	而且	c=1 d=0.00474815 t=11615
+er tong 	兒童	c=2 d=2.97436e-11 t=11615
+er tong qi 	兒童期	c=2 d=4.9657e-13 t=11615
+er xing 	二型	c=1 d=0.0297478 t=11615
+er yang hua tan 	二氧化碳	c=2 d=0.193443 t=11615
+er ying xiang 	而影響	c=1 d=8.75204e-21 t=11615
+er zai 	而在	c=1 d=3.22583e-14 t=11615
+er zhe 	二者	c=1 d=3.5725e-09 t=11615
+er zi 	兒子	c=1 d=5.36921e-08 t=11615
+fa 	法	c=3 d=1.67359e-18 t=11615
+fa 	發	c=1 d=1.09511e-10 t=11615
+fa bai 	發白	c=2 d=2.53925e-13 t=11615
+fa bing 	發病	c=2 d=0.0211189 t=11615
+fa bing kuai 	發病快	c=1 d=0.212248 t=11615
+fa bu 	發佈	c=1 d=0.0395575 t=11615
+fa chu 	發出	c=1 d=4.03073e-17 t=11615
+fa gan 	發紺	c=1 d=0.0181334 t=11615
+fa leng 	發冷	c=1 d=3.97693e-06 t=11615
+fa li 	乏力	c=4 d=0.00121134 t=11615
+fa luo 	法洛	c=1 d=2.25603e-13 t=11615
+fa re 	發熱	c=2 d=0.000539399 t=11615
+fa san 	發散	c=3 d=2.34508e-15 t=11615
+fa sheng 	發生	c=15 d=0.647205 t=11615
+fa sheng zai 	發生在	c=1 d=0.199888 t=11615
+fa xian 	法線	c=1 d=5.16219e-16 t=11615
+fa xian 	發現	c=9 d=0.0613636 t=11615
+fa yu 	發育	c=4 d=0.0778127 t=11615
+fa zhan 	發展	c=3 d=0.328358 t=11615
+fa zuo 	發作	c=2 d=0.0165677 t=11615
+fa zuo shi 	發作時	c=1 d=0.0164078 t=11615
+fa zuo xing 	發作性	c=1 d=0.0157644 t=11615
+fan 	凡	c=1 d=5.34243e-08 t=11615
+fan 	反	c=2 d=0.00522135 t=11615
+fan bi 	反比	c=2 d=1.35535e-16 t=11615
+fan chang 	反常	c=2 d=0.0178634 t=11615
+fan fu 	反覆	c=4 d=0.0209729 t=11615
+fan hui 	返回	c=1 d=5.90832e-16 t=11615
+fan liu 	反流	c=1 d=2.70657e-08 t=11615
+fan rong 	繁榮	c=1 d=0.00263203 t=11615
+fan she 	反射	c=9 d=8.12959e-07 t=11615
+fan she jiao 	反射角	c=1 d=5.24021e-16 t=11615
+fan she xing 	反射性	c=1 d=8.17034e-06 t=11615
+fan wei 	範圍	c=8 d=0.254107 t=11615
+fan ye 	翻頁	c=1 d=0.000113353 t=11615
+fan yi 	翻譯	c=1 d=0.394554 t=11615
+fan ying 	反應	c=20 d=0.249182 t=11615
+fan ying 	反映	c=4 d=2.06846e-16 t=11615
+fan ying chu 	反映出	c=1 d=2.23898e-12 t=11615
+fan ying sheng cheng 	反應生成	c=1 d=6.41588e-15 t=11615
+fan ying xing 	反應性	c=2 d=0.142987 t=11615
+fan yu 	梵語	c=1 d=0.0002139 t=11615
+fan zao bu an 	煩躁不安	c=1 d=1.2375e-07 t=11615
+fan zhi 	反之	c=1 d=7.09427e-21 t=11615
+fang 	房	c=3 d=0.920129 t=11615
+fang 	放	c=1 d=9.35762e-14 t=11615
+fang chan 	房顫	c=3 d=1.44286e-09 t=11615
+fang da qi 	放大器	c=1 d=1.28577e-16 t=11615
+fang fa 	方法	c=14 d=0.29671 t=11615
+fang hu 	防護	c=4 d=6.72068e-18 t=11615
+fang mian 	方面	c=1 d=2.71357e-09 t=11615
+fang sha 	防沙	c=1 d=4.17004e-05 t=11615
+fang she 	放射	c=1 d=1.05453e-07 t=11615
+fang shi 	房室	c=9 d=4.5684e-07 t=11615
+fang shi 	方式	c=7 d=1.01307 t=11615
+fang shi chuan dao 	房室傳導	c=1 d=4.57456e-06 t=11615
+fang shi jie 	房室結	c=1 d=1.19824e-10 t=11615
+fang shi mo xing 	房室模型	c=1 d=3.69397e-20 t=11615
+fang shi zhong 	房室中	c=1 d=4.64923e-20 t=11615
+fang su 	房速	c=1 d=4.24546e-10 t=11615
+fang wei 	方位	c=1 d=4.99839e-19 t=11615
+fang xiang 	方向	c=6 d=0.000804733 t=11615
+fang xiang nei 	方向內	c=1 d=1.67188e-17 t=11615
+fang xiang shang 	方向上	c=2 d=1.76882e-16 t=11615
+fang xiang xing 	方向性	c=1 d=4.20537e-16 t=11615
+fang xiang zu 	芳香族	c=1 d=3.99974e-15 t=11615
+fang xiang zu an ji suan 	芳香族氨基酸	c=1 d=3.36617e-15 t=11615
+fei 	肥	c=3 d=5.93275e-08 t=11615
+fei 	肺	c=42 d=2.48582 t=11615
+fei 	非	c=16 d=0.878095 t=11615
+fei bu 	肺部	c=6 d=0.000380485 t=11615
+fei da 	肥大	c=3 d=0.00114473 t=11615
+fei da xi bao 	肥大細胞	c=1 d=0.0115047 t=11615
+fei de 	飛得	c=1 d=0.955997 t=11615
+fei dong mai 	肺動脈	c=12 d=0.062662 t=11615
+fei hou 	肥厚	c=7 d=0.00198925 t=11615
+fei huo liang 	肺活量	c=1 d=5.30296e-09 t=11615
+fei ji xing 	非極性	c=1 d=3.26669e-15 t=11615
+fei jie 	肺結	c=1 d=0.189191 t=11615
+fei jie he 	肺結核	c=3 d=0.585892 t=11615
+fei lei 	匪類	c=1 d=0.307279 t=11615
+fei li zi 	非離子	c=1 d=8.77171e-18 t=11615
+fei nong zhong 	肺膿腫	c=3 d=0.00164239 t=11615
+fei pang 	肥胖	c=0 d=2.18259e-07 t=11615
+fei pao 	肺泡	c=3 d=9.42481e-05 t=11615
+fei pao xing 	肺泡性	c=1 d=9.32711e-05 t=11615
+fei qi zhong 	肺氣腫	c=0 d=0.00405589 t=11615
+fei wu 	廢物	c=1 d=0.109154 t=11615
+fei xian xing 	非線性	c=0 d=2.72291e-21 t=11615
+fei xian xing dong li xue 	非線性動力學	c=2 d=5.96403e-20 t=11615
+fei xin bing 	肺心病	c=2 d=0.0293342 t=11615
+fei xing 	肺型	c=1 d=0.0590129 t=11615
+fei xing yuan 	飛行員	c=1 d=6.52526e-08 t=11615
+fei yan 	肺炎	c=19 d=0.00200078 t=11615
+fei yong 	費用	c=1 d=2.16868e-19 t=11615
+fei zang 	肺臟	c=2 d=4.71252e-09 t=11615
+fen 	分	c=7 d=0.00458035 t=11615
+fen bian 	分辨	c=3 d=1.50046e-15 t=11615
+fen bian 	糞便	c=7 d=0.134377 t=11615
+fen bian li 	分辨力	c=20 d=0.000845993 t=11615
+fen bian lv 	分辨率	c=3 d=1.40964e-17 t=11615
+fen bian lv gao 	分辨率高	c=1 d=1.95251e-19 t=11615
+fen bian lve 	分辨略	c=1 d=6.84793e-17 t=11615
+fen bie 	分別	c=2 d=0.00369786 t=11615
+fen bie qi 	分別起	c=1 d=1.34541e-20 t=11615
+fen bu 	分佈	c=18 d=1.64534 t=11615
+fen bu dao 	分佈到	c=2 d=0.601426 t=11615
+fen bu de 	分佈的	c=2 d=0.786628 t=11615
+fen bu liang 	分佈量	c=1 d=0.366045 t=11615
+fen bu zai 	分佈在	c=2 d=1.37802e-19 t=11615
+fen hong se 	粉紅色	c=1 d=3.30581e-08 t=11615
+fen ji 	分級	c=6 d=0.0260681 t=11615
+fen jie 	分解	c=4 d=0.0744857 t=11615
+fen lei 	分類	c=17 d=0.827153 t=11615
+fen li 	分離	c=3 d=0.0111966 t=11615
+fen li shi 	分離時	c=1 d=7.45546e-17 t=11615
+fen lie 	分裂	c=7 d=0.00977009 t=11615
+fen liu 	分流	c=2 d=9.59173e-10 t=11615
+fen mi 	分泌	c=4 d=9.93576e-06 t=11615
+fen pei 	分配	c=2 d=7.87551e-09 t=11615
+fen qu 	分區	c=1 d=0.0614212 t=11615
+fen san 	分散	c=1 d=4.14276e-16 t=11615
+fen shu 	分數	c=2 d=1.18309e-08 t=11615
+fen wei 	分爲	c=7 d=2.87131e-11 t=11615
+fen xi 	分析	c=3 d=0.0735345 t=11615
+fen xiang 	分享	c=1 d=0.0065062 t=11615
+fen zhong 	分鐘	c=2 d=1.92651e-08 t=11615
+fen zi 	分子	c=4 d=0.107939 t=11615
+fen zi da xiao 	分子大小	c=1 d=0.763379 t=11615
+fen zi liang 	分子量	c=1 d=5.6047e-13 t=11615
+feng 	峯	c=5 d=0.0204453 t=11615
+feng 	風	c=1 d=1.05507e-13 t=11615
+feng fu 	豐富	c=2 d=0.290835 t=11615
+feng man 	豐滿	c=1 d=0.0014018 t=11615
+feng shi xing 	風溼性	c=2 d=2.89123e-10 t=11615
+feng xin 	風心	c=1 d=4.04817e-09 t=11615
+feng zhi 	峯值	c=2 d=0.024972 t=11615
+fo tuo 	佛陀	c=1 d=1.42444e-15 t=11615
+fou ze 	否則	c=1 d=0.0495388 t=11615
+fu 	拂	c=1 d=0.000278804 t=11615
+fu 	氟	c=1 d=0.000280202 t=11615
+fu 	負	c=1 d=0.000266536 t=11615
+fu ban qu 	覆瓣區	c=1 d=5.22757e-17 t=11615
+fu bu 	腹部	c=1 d=0.0397558 t=11615
+fu dian 	負電	c=0 d=4.80077e-16 t=11615
+fu fa 	復發	c=2 d=1.13998 t=11615
+fu fei 	付費	c=1 d=5.96364e-08 t=11615
+fu he 	符合	c=1 d=3.77706e-17 t=11615
+fu he 	負荷	c=5 d=6.88397e-09 t=11615
+fu he guo gao 	負荷過高	c=1 d=3.06851e-14 t=11615
+fu he wu 	複合物	c=1 d=4.54618e-21 t=11615
+fu jia 	附加	c=1 d=0.167797 t=11615
+fu jin 	附近	c=3 d=0.00298248 t=11615
+fu le 	服了	c=1 d=2.70703e-10 t=11615
+fu mian 	負面	c=1 d=1.47543e-17 t=11615
+fu nv 	婦女	c=2 d=1.53104e-05 t=11615
+fu qiang 	腹腔	c=0 d=4.10014e-13 t=11615
+fu qiang ji ye 	腹腔積液	c=1 d=4.12069e-12 t=11615
+fu she 	輻射	c=6 d=4.31599e-16 t=11615
+fu shui 	腹水	c=4 d=4.11118e-06 t=11615
+fu xing 	負性	c=1 d=0.000528747 t=11615
+fu ya 	負壓	c=1 d=0.00447164 t=11615
+fu yi 	附議	c=1 d=4.83321e-06 t=11615
+fu za 	複雜	c=1 d=3.02962e-11 t=11615
+fu zhang 	腹脹	c=1 d=8.52579e-07 t=11615
+fu zhi 	複製	c=1 d=7.56041e-05 t=11615
+fu zhu 	輔助	c=1 d=0.00150344 t=11615
+fu zhuo 	附着	c=1 d=0.0804596 t=11615
+gai 	該	c=2 d=5.6445e-08 t=11615
+gai ban 	改版	c=1 d=4.89525e-09 t=11615
+gai bian 	改變	c=18 d=0.144726 t=11615
+gai hua 	鈣化	c=2 d=1.21593e-06 t=11615
+gai lv 	概率	c=1 d=1.01913e-17 t=11615
+gai nian 	概念	c=5 d=2.97806e-19 t=11615
+gai shan 	改善	c=1 d=1.13647e-05 t=11615
+gai zhi 	鈣質	c=1 d=5.80138e-07 t=11615
+gan 	幹	c=1 d=3.43125e-05 t=11615
+gan 	感	c=3 d=0.00176526 t=11615
+gan 	肝	c=15 d=0.037914 t=11615
+gan 	苷	c=1 d=7.87432e-13 t=11615
+gan 	酐	c=9 d=1.34706e-05 t=11615
+gan ai 	肝癌	c=2 d=1.20537e-10 t=11615
+gan an suan 	甘氨酸	c=1 d=9.38184e-15 t=11615
+gan bing 	肝病	c=2 d=1.06915e-10 t=11615
+gan da 	肝大	c=1 d=7.19413e-09 t=11615
+gan dao 	感到	c=1 d=0.000710174 t=11615
+gan gong neng 	肝功能	c=5 d=0.369723 t=11615
+gan guang 	感光	c=1 d=1.36222e-19 t=11615
+gan jue 	感覺	c=8 d=0.0110331 t=11615
+gan jue wo hai shi bu neng 	感覺我還是不能	c=1 d=0.0141931 t=11615
+gan jue zhe ge dong xi gen ben jiu mei yong 	感覺這個東西根本就沒用	c=1 d=0.0116786 t=11615
+gan jun 	桿菌	c=2 d=0.0002285 t=11615
+gan ke 	乾咳	c=2 d=1.24954e-05 t=11615
+gan lao 	乾酪	c=2 d=0.518108 t=11615
+gan lao xing 	乾酪性	c=1 d=0.245367 t=11615
+gan mao 	感冒	c=2 d=0.00287996 t=11615
+gan nei 	肝內	c=1 d=2.9038e-12 t=11615
+gan ran 	感染	c=18 d=0.277488 t=11615
+gan ran xing 	感染性	c=2 d=2.0586e-05 t=11615
+gan shen 	肝腎	c=1 d=4.14135e-12 t=11615
+gan sun hai 	肝損害	c=1 d=0.380983 t=11615
+gan sun shang 	肝損傷	c=4 d=4.61649e-11 t=11615
+gan tan 	感嘆	c=2 d=8.90064e-05 t=11615
+gan xi bao 	肝細胞	c=6 d=7.71634e-12 t=11615
+gan xi bao xing 	肝細胞性	c=1 d=8.78993e-13 t=11615
+gan xing 	乾性	c=2 d=0.00573813 t=11615
+gan yan 	肝炎	c=11 d=0.332871 t=11615
+gan yan bing du 	肝炎病毒	c=1 d=4.56508e-11 t=11615
+gan yan shi 	肝炎時	c=1 d=1.29178e-12 t=11615
+gan ying hua 	肝硬化	c=2 d=1.37783e-06 t=11615
+gan ying hua shi 	肝硬化時	c=1 d=5.71695e-11 t=11615
+gan zang 	肝臟	c=11 d=7.23929e-09 t=11615
+gan zao 	乾燥	c=0 d=0.0054204 t=11615
+gan zhi 	感知	c=0 d=5.79034e-15 t=11615
+gang er 	缸兒	c=1 d=6.63064e-20 t=11615
+gang men 	肛門	c=2 d=0.0654257 t=11615
+gao 	高	c=11 d=0.615697 t=11615
+gao de 	高的	c=1 d=0.895834 t=11615
+gao di 	高低	c=0 d=5.22757e-18 t=11615
+gao du 	高度	c=1 d=4.09874e-08 t=11615
+gao duan 	高端	c=0 d=0.000941925 t=11615
+gao duan ji 	高端機	c=1 d=0.00946646 t=11615
+gao ji 	高級	c=1 d=0.232236 t=11615
+gao ju 	高舉	c=1 d=5.73273e-14 t=11615
+gao liang 	高亮	c=1 d=6.80682e-05 t=11615
+gao mi du 	高密度	c=3 d=1.36814e-17 t=11615
+gao na 	高鈉	c=1 d=6.65595e-06 t=11615
+gao niao suan 	高尿酸	c=1 d=0.382893 t=11615
+gao pai 	高排	c=1 d=8.36204e-10 t=11615
+gao pai xing 	高排型	c=1 d=8.59217e-10 t=11615
+gao re 	高熱	c=4 d=0.00198802 t=11615
+gao wei 	高位	c=4 d=0.000219019 t=11615
+gao xue 	膏血	c=0 d=2.66582e-07 t=11615
+gao xue jia 	膏血鉀	c=1 d=2.67918e-06 t=11615
+gao xue ya 	高血壓	c=14 d=0.159202 t=11615
+gao ya 	高壓	c=3 d=0.121837 t=11615
+gao ya xing 	高壓性	c=1 d=0.591555 t=11615
+gao yu 	高於	c=2 d=0.112478 t=11615
+gao zhe 	高者	c=1 d=2.61525e-16 t=11615
+gao zhong 	高中	c=2 d=1.01683e-07 t=11615
+ge 	個	c=6 d=5.14449e-05 t=11615
+ge 	各	c=4 d=0.0521605 t=11615
+ge bu wei 	各部位	c=1 d=4.89942e-19 t=11615
+ge chu 	各處	c=1 d=4.77764e-17 t=11615
+ge ge 	各個	c=1 d=0.00023056 t=11615
+ge ji 	膈肌	c=2 d=0.000815476 t=11615
+ge ren 	個人	c=1 d=5.84555e-08 t=11615
+ge ti 	個體	c=0 d=5.90329e-07 t=11615
+ge ti cha yi xing 	個體差異性	c=1 d=5.93288e-06 t=11615
+ge zhong 	各種	c=4 d=3.17634e-07 t=11615
+ge zhong bu tong 	各種不同	c=1 d=3.15981e-06 t=11615
+ge zu zhi 	各組織	c=1 d=0.358796 t=11615
+gei yao 	給藥	c=5 d=4.34431e-19 t=11615
+gen 	根	c=0 d=0.0117655 t=11615
+gen 	跟	c=1 d=6.49271e-08 t=11615
+gen ben 	根本	c=1 d=0.0124007 t=11615
+gen ben jiu 	根本就	c=0 d=0.00116203 t=11615
+gen ju 	根據	c=9 d=0.304221 t=11615
+gen ju ce lian 	根據側鏈	c=1 d=3.1386e-15 t=11615
+gen jue 	根絕	c=2 d=3.15326e-11 t=11615
+geng 	更	c=8 d=2.82222 t=11615
+geng di 	更低	c=1 d=2.73563e-16 t=11615
+geng duo 	更多	c=1 d=6.54215e-09 t=11615
+geng gao 	更高	c=1 d=3.39238e-18 t=11615
+geng hao 	更好	c=3 d=7.42145e-18 t=11615
+geng neng 	更能	c=2 d=0.0366992 t=11615
+geng nian qi 	更年期	c=1 d=2.22668e-06 t=11615
+geng shao 	更少	c=1 d=3.47826e-18 t=11615
+geng si 	梗死	c=3 d=0.0031354 t=11615
+geng wei 	更爲	c=4 d=0.00240764 t=11615
+geng xin 	更新	c=3 d=0.0121552 t=11615
+geng zhu 	梗住	c=1 d=0.010889 t=11615
+geng zu 	梗阻	c=1 d=0.0109436 t=11615
+geng zu xing 	梗阻性	c=1 d=8.92277e-13 t=11615
+gong 	供	c=1 d=9.23253e-16 t=11615
+gong 	共	c=0 d=6.77864e-16 t=11615
+gong 	弓	c=1 d=1.14512e-06 t=11615
+gong bei 	弓背	c=1 d=2.90983e-07 t=11615
+gong e 	共軛	c=1 d=5.7189e-15 t=11615
+gong ji 	供給	c=0 d=0.0106992 t=11615
+gong ji ying yang 	供給營養	c=1 d=0.107528 t=11615
+gong jia re 	供加熱	c=1 d=6.77864e-15 t=11615
+gong jia re 	共加熱	c=1 d=6.81262e-15 t=11615
+gong li 	公里	c=2 d=0.000161838 t=11615
+gong neng 	功能	c=45 d=0.242283 t=11615
+gong neng jian tui 	功能減退	c=1 d=3.83284e-13 t=11615
+gong neng kang jin 	功能亢進	c=1 d=1.11472e-13 t=11615
+gong neng xing 	功能性	c=1 d=3.67367e-14 t=11615
+gong shi 	公式	c=1 d=2.84776e-18 t=11615
+gong tong 	共同	c=2 d=4.60491e-15 t=11615
+gong tong dian 	共同點	c=1 d=3.77321e-05 t=11615
+gong ying 	供應	c=1 d=2.46295e-16 t=11615
+gong zi 	工資	c=2 d=3.30748e-05 t=11615
+gong zuo 	工作	c=1 d=7.9084e-05 t=11615
+gou 	夠	c=1 d=1.99196e-19 t=11615
+gou 	苟	c=1 d=1.5931e-08 t=11615
+gou cheng 	構成	c=2 d=1.43011e-15 t=11615
+gu 	故	c=7 d=0.610333 t=11615
+gu 	股	c=1 d=9.64179e-14 t=11615
+gu 	谷	c=2 d=2.59728e-12 t=11615
+gu 	骨	c=3 d=1.29422e-18 t=11615
+gu 	鼓	c=1 d=0.666977 t=11615
+gu an suan 	穀氨酸	c=5 d=1.12769e-12 t=11615
+gu ding 	固定	c=1 d=1.47824e-10 t=11615
+gu dong mai 	股動脈	c=1 d=1.00864e-13 t=11615
+gu ge 	谷歌	c=3 d=4.35997e-15 t=11615
+gu ge ji 	骨骼肌	c=1 d=1.13431e-12 t=11615
+gu guang gan tai 	谷胱甘肽	c=2 d=2.00339e-14 t=11615
+gu ji 	估計	c=1 d=1.1396e-08 t=11615
+gu li 	孤立	c=1 d=1.10196e-10 t=11615
+gu li xing 	孤立性	c=1 d=3.08284e-10 t=11615
+gu ming 	故名	c=1 d=4.86074e-14 t=11615
+gu mo 	鼓膜	c=1 d=0.000256085 t=11615
+gu suan 	估算	c=1 d=1.06622e-19 t=11615
+gu ti 	固體	c=1 d=2.57632e-16 t=11615
+gu you 	固有	c=2 d=1.33802e-18 t=11615
+gua 	瓜	c=1 d=3.04584e-15 t=11615
+gua tai 	寡肽	c=1 d=8.03475e-15 t=11615
+gua zai 	掛在	c=1 d=0.136014 t=11615
+gua zai 	掛載	c=1 d=0.136695 t=11615
+guai shi 	怪事	c=1 d=0.0114473 t=11615
+guan 	管	c=6 d=0.0194709 t=11615
+guan bi 	管壁	c=2 d=0.00292342 t=11615
+guan bi 	關閉	c=17 d=0.181952 t=11615
+guan bi bu quan 	關閉不全	c=6 d=3.41809e-13 t=11615
+guan cha 	觀察	c=2 d=0.786628 t=11615
+guan fang 	官方	c=1 d=0.008271 t=11615
+guan jian 	關鍵	c=1 d=3.41414e-05 t=11615
+guan jie 	關節	c=1 d=8.30229e-18 t=11615
+guan li qi 	管理器	c=1 d=2.56748e-05 t=11615
+guan liu 	灌流	c=1 d=5.49185e-09 t=11615
+guan qiang 	管腔	c=2 d=0.00394621 t=11615
+guan qiang nei 	管腔內	c=1 d=1.74431e-16 t=11615
+guan wai 	關外	c=0 d=6.12086e-21 t=11615
+guan xi 	灌洗	c=1 d=2.90934e-05 t=11615
+guan xi 	關係	c=4 d=1.47088e-10 t=11615
+guan xin bing 	冠心病	c=7 d=7.46533e-06 t=11615
+guan zhu 	灌注	c=2 d=3.38993e-08 t=11615
+guang 	光	c=1 d=1.36199e-17 t=11615
+guang an suan 	胱氨酸	c=1 d=9.24217e-15 t=11615
+guang biao 	光標	c=1 d=6.007e-05 t=11615
+guang du 	廣度	c=1 d=1.10973e-19 t=11615
+guang fan 	廣泛	c=2 d=0.0169922 t=11615
+guang fan xing 	廣泛性	c=1 d=0.000561443 t=11615
+guang hua 	光滑	c=1 d=1.64273e-16 t=11615
+guang mian 	光面	c=1 d=7.41575e-13 t=11615
+gui 	歸	c=1 d=0.241714 t=11615
+gui 	貴	c=1 d=0.00775048 t=11615
+gui ge 	規格	c=1 d=6.39605e-08 t=11615
+gui ji 	軌跡	c=1 d=3.13156e-18 t=11615
+gui lv 	規律	c=4 d=0.341298 t=11615
+gui su 	歸宿	c=1 d=3.81243e-09 t=11615
+gui ze 	規則	c=3 d=0.00168667 t=11615
+guo 	過	c=3 d=0.00169396 t=11615
+guo bao 	過胞	c=1 d=0.00782838 t=11615
+guo chan 	國產	c=2 d=0.0183755 t=11615
+guo cheng 	過程	c=9 d=1.66826e-14 t=11615
+guo da 	過大	c=1 d=6.07357e-17 t=11615
+guo du 	過度	c=3 d=0.123648 t=11615
+guo duo 	過多	c=3 d=9.06693e-10 t=11615
+guo gao 	過高	c=0 d=3.0532e-15 t=11615
+guo huan 	過環	c=1 d=4.13923e-06 t=11615
+guo nei 	國內	c=2 d=0.900909 t=11615
+guo qing 	過清	c=1 d=0.67368 t=11615
+guo qu 	過去	c=1 d=4.10935e-09 t=11615
+guo su 	過速	c=5 d=0.00184087 t=11615
+ha 	哈	c=1 d=0.0122161 t=11615
+ha ha 	哈哈	c=3 d=8.28364e-05 t=11615
+hai 	還	c=6 d=0.0125994 t=11615
+hai bao kuo 	還包括	c=1 d=1.78847e-16 t=11615
+hai bu cuo 	還不錯	c=1 d=0.00554422 t=11615
+hai bu shi 	還不是	c=1 d=1.74704e-05 t=11615
+hai ke neng 	還可能	c=1 d=4.35146e-06 t=11615
+hai ke yi 	還可以	c=2 d=0.00682665 t=11615
+hai neng yong 	還能用	c=1 d=0.00565622 t=11615
+hai yao 	還要	c=1 d=5.08188e-08 t=11615
+han 	含	c=2 d=6.72472e-15 t=11615
+han dan 	含氮	c=1 d=1.98135e-15 t=11615
+han dian 	含碘	c=1 d=6.79734e-18 t=11615
+han liang 	含量	c=3 d=3.37048e-12 t=11615
+han qi 	含氣	c=0 d=1.58268e-20 t=11615
+han qi zu zhi 	含氣組織	c=1 d=1.59061e-19 t=11615
+han re 	寒熱	c=1 d=0.00013776 t=11615
+han shu 	函數	c=1 d=3.32984e-05 t=11615
+han ye 	汗液	c=0 d=2.01718e-21 t=11615
+han ye lei ye 	汗液淚液	c=1 d=2.02729e-20 t=11615
+han you 	含有	c=4 d=8.0779e-15 t=11615
+han zhan 	寒戰	c=1 d=0.00118265 t=11615
+hang 	行	c=3 d=0.000174823 t=11615
+hang hao 	行號	c=1 d=0.000112788 t=11615
+hao 	好	c=4 d=7.40169e-05 t=11615
+hao 	號	c=2 d=8.94526e-05 t=11615
+hao fa 	好發	c=1 d=0.000769323 t=11615
+hao jiu 	好久	c=1 d=6.96349e-08 t=11615
+hao sheng 	毫升	c=1 d=4.50412e-13 t=11615
+hao xiang 	好像	c=2 d=0.00804293 t=11615
+he 	和	c=188 d=4.78903 t=11615
+he 	核	c=2 d=0.191666 t=11615
+he bing 	合併	c=9 d=0.133105 t=11615
+he bing fei pang 	合併肥胖	c=1 d=2.19353e-06 t=11615
+he bing you 	合併有	c=1 d=3.30524e-06 t=11615
+he cheng 	合成	c=6 d=1.42667e-05 t=11615
+he li 	合理	c=0 d=2.92541e-12 t=11615
+he li xuan ze 	合理選擇	c=1 d=2.94008e-11 t=11615
+he shi 	合適	c=2 d=0.0620385 t=11615
+he su 	核素	c=1 d=9.42406e-09 t=11615
+he suan 	覈算	c=3 d=1.14167e-07 t=11615
+he xin 	核心	c=2 d=0.000168234 t=11615
+he yong 	合用	c=1 d=2.71967e-06 t=11615
+hei bai 	黑白	c=3 d=5.87361e-18 t=11615
+hei se 	黑色	c=2 d=1.26739e-17 t=11615
+hen 	很	c=2 d=0.0115624 t=11615
+hen da 	很大	c=1 d=0.000300519 t=11615
+hen di 	很低	c=1 d=1.19246e-12 t=11615
+hen qiang 	很強	c=1 d=3.12188e-11 t=11615
+hen shao 	很少	c=3 d=0.0013329 t=11615
+heng 	橫	c=1 d=0.00637737 t=11615
+heng bo 	橫波	c=1 d=3.9116e-17 t=11615
+heng ding 	恆定	c=1 d=1.86952e-08 t=11615
+heng ge 	哼歌	c=1 d=5.19796e-09 t=11615
+heng ge 	橫隔	c=1 d=5.2502e-09 t=11615
+heng xiang 	橫向	c=2 d=1.85231e-16 t=11615
+heng zuo biao 	橫座標	c=1 d=6.9706e-20 t=11615
+hong bai 	紅白	c=1 d=1.32791e-13 t=11615
+hong ban 	紅斑	c=1 d=8.46281e-08 t=11615
+hong mei su 	紅黴素	c=2 d=0.000489732 t=11615
+hong se 	紅色	c=2 d=0.131336 t=11615
+hong xi bao 	紅細胞	c=3 d=0.141717 t=11615
+hong xi bao zhe 	紅細胞者	c=1 d=0.00733572 t=11615
+hou 	厚	c=1 d=0.00167826 t=11615
+hou 	後	c=28 d=0.520624 t=11615
+hou bi 	厚壁	c=1 d=0.00184551 t=11615
+hou bu 	喉部	c=1 d=0.000739157 t=11615
+hou du 	厚度	c=6 d=3.88037e-17 t=11615
+hou duan 	後端	c=1 d=0.000784864 t=11615
+hou fang 	後方	c=3 d=2.67574e-15 t=11615
+hou fu he 	後負荷	c=3 d=4.60067e-09 t=11615
+hou qi 	後期	c=2 d=0.0761538 t=11615
+hou yi dong 	後移動	c=1 d=0.000599149 t=11615
+hou zhe 	後者	c=1 d=5.3185e-14 t=11615
+hu 	呼	c=4 d=0.195019 t=11615
+hu die 	蝴蝶	c=1 d=1.08946e-08 t=11615
+hu lian 	互聯	c=1 d=0.481909 t=11615
+hu po suan 	琥珀酸	c=1 d=3.12294e-15 t=11615
+hu qi 	呼氣	c=5 d=0.0827176 t=11615
+hu qi xing 	呼氣性	c=2 d=0.0298684 t=11615
+hu qi yin 	呼氣音	c=1 d=0.0173355 t=11615
+hu ran 	忽然	c=1 d=3.90761e-05 t=11615
+hu suan 	呼酸	c=1 d=0.0290133 t=11615
+hu xi 	呼吸	c=27 d=0.950689 t=11615
+hu xi dao 	呼吸道	c=3 d=0.0834793 t=11615
+hu xi gai bian 	呼吸改變	c=1 d=0.00173804 t=11615
+hu xi ji 	呼吸機	c=2 d=0.114231 t=11615
+hu xi jiong po 	呼吸窘迫	c=1 d=0.000287295 t=11615
+hu xi kun nan 	呼吸困難	c=2 d=7.75886e-07 t=11615
+hu xi xing 	呼吸性	c=2 d=0.000110953 t=11615
+hu xi yin 	呼吸音	c=3 d=0.277306 t=11615
+hu xin 	互信	c=1 d=8.3167e-09 t=11615
+hu xing 	弧形	c=1 d=0.843665 t=11615
+hu ya 	虎牙	c=2 d=3.62817e-05 t=11615
+hua 	化	c=2 d=1.25486e-14 t=11615
+hua 	華	c=1 d=1.613e-07 t=11615
+hua fa lin 	華法林	c=1 d=4.05865e-10 t=11615
+hua fen chi 	化糞池	c=1 d=3.48311e-05 t=11615
+hua guo cheng 	化過程	c=1 d=2.87687e-20 t=11615
+hua he wu 	化合物	c=3 d=1.77052e-13 t=11615
+hua liao 	化療	c=1 d=0.336216 t=11615
+hua nong 	化膿	c=1 d=0.000911882 t=11615
+hua shuo 	話說	c=3 d=0.000255701 t=11615
+hua xi 	華西	c=2 d=7.17556e-08 t=11615
+hua xue 	化學	c=1 d=0.00755912 t=11615
+huai si 	壞死	c=7 d=0.74919 t=11615
+huai yi 	懷疑	c=2 d=9.92861e-11 t=11615
+huai yi wei 	懷疑爲	c=1 d=5.60375e-11 t=11615
+huan 	環	c=2 d=6.71276e-10 t=11615
+huan ai 	患癌	c=1 d=1.01404e-17 t=11615
+huan bing 	患病	c=1 d=9.85447e-05 t=11615
+huan ce 	患側	c=1 d=0.904837 t=11615
+huan cun 	緩存	c=1 d=0.145876 t=11615
+huan hang 	換行	c=1 d=9.18825e-05 t=11615
+huan hua 	環化	c=1 d=1.21069e-14 t=11615
+huan jing 	環境	c=5 d=0.128191 t=11615
+huan man 	緩慢	c=2 d=0.00164502 t=11615
+huan neng qi 	換能期	c=1 d=1.1234e-16 t=11615
+huan xing 	環形	c=1 d=0.00644146 t=11615
+huan yuan 	還原	c=2 d=9.82364e-15 t=11615
+huan yuan chan wu 	還原產物	c=1 d=7.09065e-15 t=11615
+huan yuan ji 	還原劑	c=1 d=1.05252e-14 t=11615
+huan yuan mei 	還原酶	c=1 d=1.11203e-14 t=11615
+huan yuan xing 	還原性	c=1 d=1.03168e-14 t=11615
+huan zhe 	患者	c=14 d=0.0536646 t=11615
+huang bian zheng 	黃變症	c=1 d=0.00995182 t=11615
+huang dan 	黃疸	c=8 d=1.27566e-10 t=11615
+huang he se 	黃褐色	c=1 d=0.131994 t=11615
+hui 	回	c=2 d=0.0106402 t=11615
+hui 	會	c=2 d=5.19619e-05 t=11615
+hui 	灰	c=1 d=1.73951e-13 t=11615
+hui bai se 	灰白色	c=1 d=1.62274e-19 t=11615
+hui bu hui 	會不會	c=1 d=0.00597602 t=11615
+hui chu 	揮出	c=1 d=7.00554e-20 t=11615
+hui chu 	繪出	c=1 d=7.04066e-20 t=11615
+hui du 	灰度	c=9 d=4.38827e-17 t=11615
+hui fu 	恢復	c=1 d=4.1614e-10 t=11615
+hui jie 	灰階	c=1 d=1.54707e-16 t=11615
+hui ju 	會聚	c=2 d=1.25042e-15 t=11615
+hui ju hou 	會聚後	c=1 d=9.69259e-16 t=11615
+hui liu 	迴流	c=2 d=9.0361e-08 t=11615
+hui liu zheng 	迴流徵	c=1 d=1.78264e-07 t=11615
+hui se 	灰色	c=1 d=1.23856e-17 t=11615
+hui sheng 	回聲	c=5 d=2.30059e-15 t=11615
+hui tui 	回退	c=1 d=0.000152248 t=11615
+hui xue 	回血	c=1 d=0.00456197 t=11615
+hui zhi 	繪製	c=1 d=7.36473e-20 t=11615
+hui zi dong 	回自動	c=1 d=0.0117959 t=11615
+hun ru 	混入	c=1 d=0.0415857 t=11615
+hun zhuo 	渾濁	c=1 d=0.121846 t=11615
+huo 	或	c=85 d=2.49936 t=11615
+huo 	活	c=3 d=1.69933e-20 t=11615
+huo cun zai 	或存在	c=1 d=5.03388e-14 t=11615
+huo de 	獲得	c=3 d=3.17818e-17 t=11615
+huo de xing 	獲得性	c=3 d=0.00254972 t=11615
+huo dong 	活動	c=12 d=9.09899e-06 t=11615
+huo dong xing 	活動性	c=1 d=2.30717e-12 t=11615
+huo jian 	活檢	c=1 d=1.66614e-06 t=11615
+huo qu yu 	或區域	c=1 d=5.45499e-18 t=11615
+huo ti 	活體	c=1 d=2.43845e-16 t=11615
+huo xing 	活性	c=4 d=1.27513e-12 t=11615
+huo zhe 	或者	c=1 d=1.69161e-08 t=11615
+ji 	劑	c=1 d=6.82071e-19 t=11615
+ji 	即	c=9 d=0.566138 t=11615
+ji 	及	c=33 d=0.936826 t=11615
+ji 	機	c=2 d=0.000941925 t=11615
+ji 	級	c=12 d=9.06517e-05 t=11615
+ji ben 	基本	c=15 d=0.00167826 t=11615
+ji ben shang 	基本上	c=1 d=0.271173 t=11615
+ji bi ji 	記筆記	c=1 d=7.23142e-11 t=11615
+ji bie 	級別	c=1 d=2.72625e-05 t=11615
+ji bing 	疾病	c=19 d=0.0734957 t=11615
+ji bing de 	疾病的	c=1 d=3.2186e-17 t=11615
+ji chu 	基礎	c=4 d=3.17189e-08 t=11615
+ji cu 	急促	c=1 d=5.96668e-14 t=11615
+ji di 	基地	c=1 d=0.00082099 t=11615
+ji dong 	激動	c=1 d=2.68566e-05 t=11615
+ji fa 	激發	c=4 d=0.0902578 t=11615
+ji fa 	繼發	c=5 d=1.8612 t=11615
+ji fa xing 	繼發性	c=2 d=0.141564 t=11615
+ji fa yu 	繼發於	c=1 d=1.15982e-09 t=11615
+ji fen 	積分	c=1 d=8.22108e-20 t=11615
+ji ge yue 	幾個月	c=1 d=5.01747e-05 t=11615
+ji hu 	幾乎	c=3 d=0.00577423 t=11615
+ji huan 	疾患	c=1 d=3.26391e-05 t=11615
+ji hui 	機會	c=1 d=0.331211 t=11615
+ji huo 	激活	c=2 d=5.29375e-09 t=11615
+ji jian 	肌腱	c=1 d=2.61347e-08 t=11615
+ji ju 	急劇	c=1 d=2.41254e-08 t=11615
+ji ju 	集聚	c=1 d=0.017163 t=11615
+ji ke 	即可	c=2 d=1.49284e-08 t=11615
+ji li 	機理	c=2 d=0.08291 t=11615
+ji liang 	劑量	c=11 d=0.00855298 t=11615
+ji liang di 	劑量低	c=1 d=0.0858632 t=11615
+ji qi 	及其	c=8 d=0.0254765 t=11615
+ji qi 	幾期	c=3 d=2.22639e-11 t=11615
+ji qi 	機器	c=0 d=4.53213e-15 t=11615
+ji qi zhuan dong 	機器轉動	c=1 d=4.55484e-14 t=11615
+ji rou 	肌肉	c=7 d=0.000499717 t=11615
+ji shi 	及時	c=1 d=0.0478349 t=11615
+ji shu 	技術	c=4 d=2.58217e-18 t=11615
+ji su 	激素	c=4 d=0.0889794 t=11615
+ji suan 	計算	c=5 d=0.000488095 t=11615
+ji sui 	脊髓	c=5 d=0.108239 t=11615
+ji ti 	機體	c=2 d=8.95331e-20 t=11615
+ji tiao 	幾條	c=1 d=1.87079e-16 t=11615
+ji tuan 	基團	c=2 d=5.49466e-15 t=11615
+ji wei 	即爲	c=2 d=0.00402593 t=11615
+ji xie 	機械	c=1 d=4.64449e-09 t=11615
+ji xie fu zhu 	機械輔助	c=1 d=4.66777e-08 t=11615
+ji xing 	急性	c=38 d=0.146456 t=11615
+ji xing 	極性	c=5 d=0.771052 t=11615
+ji xing gan yan 	急性肝炎	c=2 d=7.61288e-11 t=11615
+ji xing zhi fang 	極性脂肪	c=1 d=3.46869e-15 t=11615
+ji xu 	繼續	c=3 d=0.0274154 t=11615
+ji ye 	積液	c=14 d=0.441559 t=11615
+ji yin 	基因	c=2 d=0.219917 t=11615
+ji you 	既有	c=1 d=1.88081e-20 t=11615
+ji yu 	基於	c=2 d=2.34475e-18 t=11615
+ji yu 	給予	c=2 d=0.110251 t=11615
+ji zhi 	機制	c=14 d=0.461873 t=11615
+ji zhi 	繼之	c=1 d=0.625002 t=11615
+ji zou 	急驟	c=1 d=0.612626 t=11615
+jia 	假	c=2 d=0.0263839 t=11615
+jia 	加	c=5 d=0.000471792 t=11615
+jia 	鉀	c=3 d=2.84568e-05 t=11615
+jia ben 	甲苯	c=1 d=7.27386e-21 t=11615
+jia cha 	加查	c=3 d=1.51912e-10 t=11615
+jia jian 	甲減	c=1 d=1.17735e-09 t=11615
+jia ju 	加劇	c=1 d=8.06953e-07 t=11615
+jia kang 	甲亢	c=5 d=3.27231e-09 t=11615
+jia kuai 	加快	c=3 d=0.0208045 t=11615
+jia qing 	加氫	c=1 d=1.45648e-12 t=11615
+jia re 	加熱	c=0 d=2.06496e-15 t=11615
+jia re fen jie 	加熱分解	c=1 d=7.16191e-15 t=11615
+jia shang 	加上	c=1 d=6.50841e-07 t=11615
+jia she 	假設	c=3 d=1.96337e-19 t=11615
+jia su 	加速	c=1 d=0.00017252 t=11615
+jia yi 	加以	c=1 d=3.68255e-13 t=11615
+jia zai 	加載	c=2 d=0.000187825 t=11615
+jia zhi 	價值	c=1 d=1.42468e-17 t=11615
+jia zhong 	加重	c=1 d=1.09209e-07 t=11615
+jia zhong 	家中	c=2 d=1.09934e-07 t=11615
+jia zhuang 	加裝	c=1 d=6.25854e-17 t=11615
+jia zhuang xian 	甲狀腺	c=4 d=5.18556e-12 t=11615
+jia zhuang xian gong neng 	甲狀腺功能	c=1 d=1.37521e-13 t=11615
+jia zu 	家族	c=2 d=1.05923e-20 t=11615
+jian 	件	c=1 d=0.000149233 t=11615
+jian 	兼	c=0 d=5.5222e-16 t=11615
+jian 	尖	c=1 d=8.17173e-08 t=11615
+jian 	建	c=1 d=7.37374e-05 t=11615
+jian 	間	c=11 d=0.000563884 t=11615
+jian 	鹼	c=3 d=0.0594127 t=11615
+jian bian 	簡便	c=1 d=0.0285814 t=11615
+jian bie 	鑑別	c=9 d=0.117655 t=11615
+jian ce 	檢測	c=2 d=0.000107825 t=11615
+jian cha 	檢查	c=56 d=1.10261 t=11615
+jian cha shi 	檢查時	c=2 d=3.87628e-11 t=11615
+jian cheng 	簡稱	c=1 d=2.94869e-16 t=11615
+jian da ti 	簡答題	c=9 d=0.0386105 t=11615
+jian dan 	簡單	c=1 d=3.36388e-07 t=11615
+jian duan 	尖端	c=1 d=0.000633025 t=11615
+jian ge 	間隔	c=0 d=2.31913e-15 t=11615
+jian guo 	堅果	c=2 d=0.940033 t=11615
+jian hou 	堅厚	c=1 d=5.94824e-07 t=11615
+jian hua 	簡化	c=1 d=6.28349e-05 t=11615
+jian jia 	肩胛	c=0 d=1.56533e-08 t=11615
+jian jia xia 	肩胛下	c=2 d=2.811e-05 t=11615
+jian jie 	間接	c=1 d=1.04963e-18 t=11615
+jian jie fan ying 	間接反應	c=1 d=7.25508e-20 t=11615
+jian ju 	間距	c=3 d=0.00388746 t=11615
+jian kang 	健康	c=1 d=3.83219e-11 t=11615
+jian lie 	間裂	c=0 d=1.47748e-05 t=11615
+jian man 	減慢	c=4 d=0.00180897 t=11615
+jian qi 	間期	c=2 d=3.21734e-07 t=11615
+jian qing 	減輕	c=1 d=5.47674e-06 t=11615
+jian rui 	尖銳	c=0 d=1.15962e-08 t=11615
+jian rui xing 	尖銳性	c=1 d=1.16544e-07 t=11615
+jian ruo 	減弱	c=14 d=0.700226 t=11615
+jian shao 	減少	c=17 d=1.01701 t=11615
+jian shen 	健身	c=3 d=0.000269226 t=11615
+jian shu 	簡述	c=5 d=0.226792 t=11615
+jian tie ban 	剪貼板	c=1 d=0.000200439 t=11615
+jian tui 	減退	c=0 d=3.81372e-14 t=11615
+jian wei 	鍵位	c=1 d=0.000111666 t=11615
+jian xi 	間隙	c=1 d=0.0672055 t=11615
+jian xiao 	減小	c=1 d=3.81178e-07 t=11615
+jian xie 	間歇	c=1 d=0.0293049 t=11615
+jian xing 	鹼性	c=5 d=0.509156 t=11615
+jian xing li zi 	兼性離子	c=1 d=5.54988e-15 t=11615
+jian yan 	檢驗	c=1 d=4.49482e-05 t=11615
+jian ying 	減影	c=6 d=3.29227e-18 t=11615
+jian you 	兼有	c=3 d=9.83675e-06 t=11615
+jian yu 	見於	c=13 d=0.315042 t=11615
+jian zhi 	簡直	c=1 d=0.00113334 t=11615
+jian zhi jiu shi 	簡直就是	c=1 d=0.0113902 t=11615
+jian zhong du 	鹼中毒	c=3 d=0.105511 t=11615
+jiang 	將	c=6 d=5.97704e-05 t=11615
+jiang di 	降低	c=15 d=1.13602 t=11615
+jiang hui 	將會	c=1 d=3.19928e-05 t=11615
+jiang ji ti 	將機體	c=1 d=4.9121e-20 t=11615
+jiang jie 	講解	c=1 d=2.44351e-11 t=11615
+jiang jie 	降解	c=4 d=1.02868e-05 t=11615
+jiang mo 	漿膜	c=2 d=0.0158172 t=11615
+jiang mo qiang 	漿膜腔	c=3 d=0.0481068 t=11615
+jiang qi 	將其	c=1 d=5.67569e-14 t=11615
+jiang tang 	降糖	c=1 d=4.39519e-06 t=11615
+jiang ya 	降壓	c=4 d=2.28297e-05 t=11615
+jiang ya yao 	降壓藥	c=1 d=2.36437e-06 t=11615
+jiang ye 	漿液	c=1 d=0.00144449 t=11615
+jiang zheng ti 	將整體	c=1 d=4.27038e-20 t=11615
+jiao 	焦	c=1 d=1.22286e-14 t=11615
+jiao 	較	c=10 d=0.025188 t=11615
+jiao cheng 	教程	c=1 d=1.6919e-10 t=11615
+jiao da 	較大	c=3 d=0.255381 t=11615
+jiao di 	較低	c=4 d=1.91638e-14 t=11615
+jiao dian 	焦點	c=1 d=3.1004e-18 t=11615
+jiao du 	角度	c=2 d=3.83562e-13 t=11615
+jiao duo 	較多	c=1 d=1.04999e-15 t=11615
+jiao gan 	交感	c=3 d=8.21507e-06 t=11615
+jiao gao 	較高	c=5 d=3.65286e-06 t=11615
+jiao gao shi 	較高時	c=1 d=3.16357e-20 t=11615
+jiao hao 	較好	c=1 d=0.00551656 t=11615
+jiao jie 	交接	c=1 d=0.00117675 t=11615
+jiao jie 	交界	c=0 d=7.9521e-12 t=11615
+jiao jie 	酵解	c=0 d=0.00889216 t=11615
+jiao jie qu 	交界區	c=3 d=1.03942e-09 t=11615
+jiao kuai 	較快	c=1 d=3.27236e-06 t=11615
+jiao pian 	膠片	c=1 d=2.42085e-19 t=11615
+jiao qi bing 	腳氣病	c=3 d=1.82158e-09 t=11615
+jiao qiang 	較強	c=4 d=0.000677836 t=11615
+jiao shao 	較少	c=0 d=0.000677172 t=11615
+jiao shao shi 	較少時	c=1 d=0.00680566 t=11615
+jiao ti 	交替	c=5 d=0.000382034 t=11615
+jiao ti gai bian 	交替改變	c=1 d=1.33457e-13 t=11615
+jiao tong 	交通	c=0 d=0.0571209 t=11615
+jiao tong 	絞痛	c=1 d=1.15125e-10 t=11615
+jiao tong xing 	交通性	c=1 d=0.574072 t=11615
+jiao wei 	較爲	c=1 d=2.17955e-19 t=11615
+jiao xiao 	較小	c=2 d=5.13266e-17 t=11615
+jiao yuan 	膠原	c=6 d=8.33517e-11 t=11615
+jie 	結	c=1 d=1.08565e-10 t=11615
+jie chang ai 	結腸癌	c=1 d=0.0244775 t=11615
+jie chu 	接觸	c=1 d=3.09987e-16 t=11615
+jie chu 	解除	c=2 d=9.49945e-07 t=11615
+jie gou 	結構	c=18 d=1.76832e-14 t=11615
+jie gou he 	結構和	c=1 d=2.16794e-15 t=11615
+jie he 	結合	c=20 d=4.08386 t=11615
+jie he 	結核	c=11 d=0.683952 t=11615
+jie he bing 	結核病	c=6 d=0.912784 t=11615
+jie he jun su 	結核菌素	c=1 d=0.173774 t=11615
+jie he lv 	結合率	c=2 d=1.17815 t=11615
+jie he xing 	結核性	c=2 d=8.018e-07 t=11615
+jie jie 	結節	c=1 d=2.80927e-05 t=11615
+jie jin 	接近	c=1 d=2.00126e-15 t=11615
+jie kang 	拮抗	c=2 d=4.87531e-06 t=11615
+jie ke 	皆可	c=1 d=9.47291e-11 t=11615
+jie li 	解離	c=3 d=0.683861 t=11615
+jie li cheng 	解離成	c=1 d=5.04691e-15 t=11615
+jie lv 	戒律	c=0 d=6.08722e-15 t=11615
+jie lv 	節律	c=2 d=5.62349e-10 t=11615
+jie lv gui ze 	戒律規則	c=1 d=6.11773e-14 t=11615
+jie mian 	界面	c=9 d=5.46767e-15 t=11615
+jie pou 	解剖	c=2 d=8.87453e-05 t=11615
+jie pou xue 	解剖學	c=1 d=1.72696e-16 t=11615
+jie ru 	介入	c=2 d=1.04997e-18 t=11615
+jie shi 	解釋	c=17 d=0.0142681 t=11615
+jie shou qi 	接收器	c=1 d=1.24155e-16 t=11615
+jie shu 	結束	c=1 d=0.0523397 t=11615
+jie zhi 	介質	c=4 d=2.52722e-15 t=11615
+jie zhi zhong 	介質中	c=1 d=2.5253e-16 t=11615
+jin 	僅	c=2 d=0.00179097 t=11615
+jin 	進	c=1 d=7.73837e-14 t=11615
+jin 	金	c=2 d=0.303336 t=11615
+jin chang 	近場	c=3 d=1.44066e-16 t=11615
+jin cheng 	進程	c=1 d=0.0265162 t=11615
+jin duan 	近端	c=2 d=2.29584e-20 t=11615
+jin ji zheng 	禁忌症	c=7 d=5.57299e-05 t=11615
+jin liang 	儘量	c=1 d=1.82491e-18 t=11615
+jin ri 	今日	c=1 d=2.85173e-05 t=11615
+jin ru 	進入	c=10 d=0.973625 t=11615
+jin run 	浸潤	c=4 d=0.231755 t=11615
+jin shen 	謹慎	c=2 d=1.37609e-05 t=11615
+jin xing 	進行	c=13 d=6.85308e-05 t=11615
+jin yi bu 	進一步	c=3 d=0.0385214 t=11615
+jin yong 	禁用	c=3 d=0.000192452 t=11615
+jin yong yu 	僅用於	c=1 d=8.92732e-19 t=11615
+jin you 	僅有	c=2 d=0.546074 t=11615
+jin zai 	僅在	c=1 d=3.60154e-16 t=11615
+jin zai 	盡在	c=1 d=3.58358e-16 t=11615
+jin zhan 	進展	c=0 d=2.68303e-05 t=11615
+jin zhan kuai 	進展快	c=1 d=0.000248517 t=11615
+jin zhan wei 	進展爲	c=1 d=5.71598e-09 t=11615
+jin zhan xing 	進展性	c=1 d=2.11261e-05 t=11615
+jin zhang 	緊張	c=1 d=9.8307e-07 t=11615
+jin zhang su 	緊張素	c=1 d=9.87998e-06 t=11615
+jing 	徑	c=1 d=1.23473e-10 t=11615
+jing 	經	c=3 d=0.000792752 t=11615
+jing 	肼	c=2 d=0.362402 t=11615
+jing an suan 	精氨酸	c=1 d=3.09187e-15 t=11615
+jing bu 	頸部	c=1 d=1.07047e-07 t=11615
+jing dian 	經典	c=1 d=3.51082e-10 t=11615
+jing gao 	警告	c=1 d=6.22097e-05 t=11615
+jing guo 	經過	c=2 d=1.66789e-12 t=11615
+jing ji 	荊棘	c=2 d=0.000334015 t=11615
+jing jing mai 	頸靜脈	c=7 d=4.28373e-05 t=11615
+jing lu 	徑路	c=2 d=2.70453e-10 t=11615
+jing mai 	靜脈	c=11 d=0.0095616 t=11615
+jing mai qi 	靜脈期	c=1 d=5.85053e-18 t=11615
+jing mai qu zhang 	靜脈曲張	c=1 d=0.0391639 t=11615
+jing mai ya 	靜脈壓	c=2 d=2.61568e-06 t=11615
+jing que du 	精確度	c=1 d=8.57582e-17 t=11615
+jing ran 	竟然	c=3 d=0.00769163 t=11615
+jing shen 	精神	c=1 d=0.00122477 t=11615
+jing tai 	靜態	c=4 d=0.165511 t=11615
+jing xiang 	鏡像	c=1 d=1.5037e-05 t=11615
+jing zheng 	競爭	c=1 d=0.634448 t=11615
+jing zhun 	精準	c=1 d=1.12826e-08 t=11615
+jiong po 	窘迫	c=0 d=2.85862e-05 t=11615
+jiu 	就	c=8 d=0.0124629 t=11615
+jiu jing xing 	酒精性	c=1 d=1.22561e-11 t=11615
+jiu shi 	就是	c=3 d=0.0167117 t=11615
+jiu xing 	就行	c=1 d=6.54104e-07 t=11615
+jiu zheng 	糾正	c=1 d=0.0808629 t=11615
+ju 	具	c=2 d=2.136e-15 t=11615
+ju bu 	局部	c=8 d=0.111649 t=11615
+ju da 	巨大	c=1 d=0.474734 t=11615
+ju jiao 	聚焦	c=3 d=2.32816e-16 t=11615
+ju li 	距離	c=8 d=2.02559e-10 t=11615
+ju shi xi bao 	巨噬細胞	c=1 d=0.231078 t=11615
+ju shou 	居首	c=1 d=4.08886e-09 t=11615
+ju tang 	聚糖	c=1 d=1.70536e-15 t=11615
+ju xian 	侷限	c=1 d=3.76667e-14 t=11615
+ju xian xing 	侷限性	c=1 d=0.00106477 t=11615
+ju you 	具有	c=15 d=0.68731 t=11615
+ju you zhu dong 	具有主動	c=1 d=1.12378e-20 t=11615
+ju zhen 	矩陣	c=1 d=2.57676e-18 t=11615
+ju zi 	句子	c=1 d=0.0051953 t=11615
+jue de 	覺得	c=0 d=0.000637737 t=11615
+jue dui 	絕對	c=4 d=0.00783258 t=11615
+jue dui zhi 	絕對值	c=1 d=0.024234 t=11615
+jue you 	覺有	c=1 d=1.07138e-17 t=11615
+jun 	均	c=1 d=0.00130051 t=11615
+jun 	菌	c=2 d=0.335165 t=11615
+jun qun 	菌羣	c=1 d=1.57886e-20 t=11615
+jun tuan 	軍團	c=1 d=0.000242381 t=11615
+jun you 	均有	c=3 d=7.52904e-06 t=11615
+jun yun 	均勻	c=5 d=1.22862e-15 t=11615
+jun zhi 	均質	c=0 d=3.24255e-17 t=11615
+jun zhi ti 	均質體	c=2 d=6.78905e-16 t=11615
+ka 	喀	c=1 d=0.000518277 t=11615
+ka te 	卡特	c=1 d=0.00362464 t=11615
+ka xue 	咯血	c=5 d=0.012771 t=11615
+kai 	開	c=1 d=6.52304e-05 t=11615
+kai ban mo 	開瓣膜	c=1 d=0.000655574 t=11615
+kai ban yin 	開瓣音	c=1 d=1.84263e-14 t=11615
+kai fang 	開放	c=3 d=0.738975 t=11615
+kai qi 	開啓	c=3 d=0.000173384 t=11615
+kai shi 	開始	c=1 d=0.00065886 t=11615
+kan 	看	c=3 d=0.0593481 t=11615
+kan cheng 	看成	c=1 d=4.29178e-20 t=11615
+kan hao 	看好	c=1 d=1.59668e-05 t=11615
+kan kan 	看看	c=1 d=0.000164106 t=11615
+kan xue ya 	看血壓	c=1 d=3.98655e-05 t=11615
+kang 	康	c=1 d=0.000281606 t=11615
+kang 	抗	c=3 d=0.351731 t=11615
+kang jin 	亢進	c=7 d=6.42081e-09 t=11615
+kang jun 	抗菌	c=1 d=0.00214418 t=11615
+kang ning 	抗凝	c=3 d=4.14932e-05 t=11615
+kang sheng su 	抗生素	c=1 d=0.00213348 t=11615
+kang yan 	抗炎	c=1 d=6.92758e-06 t=11615
+kao jin 	靠近	c=1 d=0.00104368 t=11615
+kao lv 	考慮	c=1 d=4.14064e-10 t=11615
+kao yan 	考研	c=2 d=2.96148e-08 t=11615
+ke 	可	c=40 d=1.51844 t=11615
+ke bu 	可不	c=1 d=1.86501e-09 t=11615
+ke cha 	可查	c=3 d=1.69634e-10 t=11615
+ke cheng 	可呈	c=2 d=0.0018934 t=11615
+ke chu xian 	可出現	c=1 d=0.00172074 t=11615
+ke dou 	蝌蚪	c=1 d=9.88839e-16 t=11615
+ke fa xian 	可發現	c=1 d=1.20383e-06 t=11615
+ke fen 	可分	c=1 d=3.23418e-15 t=11615
+ke fen wei 	可分爲	c=4 d=4.98892e-18 t=11615
+ke fu 	克服	c=1 d=1.83724e-09 t=11615
+ke fu 	客服	c=1 d=1.81896e-09 t=11615
+ke guan shang 	客觀上	c=1 d=2.07149e-09 t=11615
+ke jian 	可見	c=3 d=3.12082e-07 t=11615
+ke kao 	可靠	c=2 d=3.33044e-07 t=11615
+ke lei 	克雷	c=0 d=1.04117e-05 t=11615
+ke lei bo 	克雷伯	c=3 d=0.000368627 t=11615
+ke li 	顆粒	c=2 d=0.00013845 t=11615
+ke ming xian gan zhi 	可明顯感知	c=1 d=5.81937e-14 t=11615
+ke neng 	可能	c=3 d=0.00261214 t=11615
+ke neng wei 	可能爲	c=1 d=0.0262523 t=11615
+ke ni 	可逆	c=1 d=2.47917e-05 t=11615
+ke ni xing 	可逆性	c=1 d=0.0202419 t=11615
+ke shi 	可使	c=3 d=1.45693 t=11615
+ke sou 	咳嗽	c=7 d=0.0181442 t=11615
+ke tan 	咳痰	c=5 d=0.00524806 t=11615
+ke tan xue 	咳痰血	c=1 d=0.00218749 t=11615
+ke wen ji 	可聞及	c=2 d=1.90383e-13 t=11615
+ke wu 	可無	c=2 d=0.857404 t=11615
+ke xue 	喀血	c=1 d=0.00133343 t=11615
+ke yi 	可以	c=8 d=0.112398 t=11615
+ke yin 	可因	c=2 d=3.37259e-08 t=11615
+ke yong yu 	可用於	c=1 d=7.31927e-06 t=11615
+ke you 	可有	c=5 d=1.21913 t=11615
+ke you 	可由	c=1 d=8.44239e-09 t=11615
+ke yu 	可於	c=1 d=0.0464212 t=11615
+ke yu 	可與	c=1 d=2.68611e-07 t=11615
+ke zai 	可在	c=2 d=0.733447 t=11615
+ke zhi 	可致	c=2 d=1.93688e-15 t=11615
+keng 	坑	c=1 d=0.349938 t=11615
+kong 	空	c=1 d=2.06291e-19 t=11615
+kong dong 	空洞	c=6 d=0.0069974 t=11615
+kong jian 	空間	c=6 d=2.28753e-16 t=11615
+kong jian fen bian li 	空間分辨力	c=1 d=1.57832e-16 t=11615
+kong qi 	空氣	c=1 d=0.506617 t=11615
+kong zhi 	控制	c=4 d=0.183086 t=11615
+kou 	口	c=0 d=7.92752e-05 t=11615
+kou 	釦	c=1 d=0.000311223 t=11615
+kou chun 	口脣	c=1 d=1.22582e-13 t=11615
+kou fu 	口服	c=2 d=5.17034e-18 t=11615
+kou ji 	叩擊	c=4 d=0.187653 t=11615
+kou qiang 	口腔	c=1 d=0.000617396 t=11615
+kou zhen 	叩診	c=2 d=0.663982 t=11615
+ku 	庫	c=2 d=0.126186 t=11615
+kuai 	塊	c=1 d=2.95331e-05 t=11615
+kuai 	快	c=8 d=0.124865 t=11615
+kuai fan ying 	快反應	c=1 d=1.24714e-10 t=11615
+kuai jie jian 	快捷鍵	c=3 d=0.000139238 t=11615
+kuai jing lu 	快徑路	c=1 d=1.37143e-10 t=11615
+kuai ruo 	快弱	c=1 d=2.80345e-10 t=11615
+kuai su 	快速	c=10 d=0.286505 t=11615
+kuan 	寬	c=4 d=1.63371e-10 t=11615
+kuan 	款	c=0 d=2.79859e-20 t=11615
+kuan du 	寬度	c=5 d=1.66671e-10 t=11615
+kuan rong 	寬容	c=1 d=2.82672e-19 t=11615
+kuan rong du 	款溶度	c=1 d=2.81262e-19 t=11615
+kui 	喹	c=1 d=0.000151489 t=11615
+kui ning 	奎寧	c=1 d=7.95887e-21 t=11615
+kui yang 	潰瘍	c=1 d=0.0380064 t=11615
+kun nan 	困難	c=14 d=0.0305514 t=11615
+kuo 	擴	c=1 d=0.000508015 t=11615
+kuo da 	擴大	c=3 d=0.0652193 t=11615
+kuo hao 	括號	c=3 d=0.000195615 t=11615
+kuo hao nei 	括號內	c=1 d=6.70548e-05 t=11615
+kuo san 	擴散	c=4 d=0.865022 t=11615
+kuo xin bing 	擴心病	c=2 d=9.18771e-09 t=11615
+kuo zhang 	擴張	c=21 d=0.0294896 t=11615
+la 	啦	c=1 d=1.45925e-05 t=11615
+la ji 	垃圾	c=1 d=0.00860854 t=11615
+la si 	拉絲	c=1 d=0.000267872 t=11615
+lai 	來	c=2 d=8.35555e-05 t=11615
+lai 	賴	c=1 d=7.49538e-21 t=11615
+lai cou 	來湊	c=1 d=7.4684e-08 t=11615
+lai zi 	來自	c=3 d=0.0176532 t=11615
+lan 	藍	c=3 d=0.218894 t=11615
+lan 	蘭	c=1 d=0.0958472 t=11615
+lan ji yin 	藍基因	c=1 d=0.150318 t=11615
+lan zi se 	藍紫色	c=3 d=1.76169e-13 t=11615
+lang chuang 	狼瘡	c=1 d=8.50523e-08 t=11615
+lao 	銠	c=1 d=6.3542e-19 t=11615
+lao lei 	勞累	c=1 d=1.24392e-09 t=11615
+lao li 	勞力	c=3 d=7.74967e-07 t=11615
+lao nian 	老年	c=2 d=0.0400349 t=11615
+lao nian fei qi zhong 	老年肺氣腫	c=1 d=0.0407622 t=11615
+lao nian xing 	老年性	c=1 d=2.26033e-06 t=11615
+le 	了	c=15 d=0.0282125 t=11615
+lei 	類	c=13 d=0.843665 t=11615
+lei di 	淚滴	c=2 d=0.000326578 t=11615
+lei jian 	肋間	c=8 d=0.00524669 t=11615
+lei si 	類似	c=3 d=0.21814 t=11615
+lei xing 	類型	c=4 d=7.01412e-05 t=11615
+lei ye 	淚液	c=0 d=2.01718e-21 t=11615
+leng re 	冷熱	c=1 d=0.000265207 t=11615
+li 	力	c=9 d=0.353455 t=11615
+li 	理	c=5 d=7.59831e-05 t=11615
+li 	立	c=1 d=0.000808767 t=11615
+li 	粒	c=1 d=0.000953854 t=11615
+li fu ping 	利福平	c=1 d=7.20148e-21 t=11615
+li hua 	理化	c=6 d=0.0650509 t=11615
+li hua xing zhi 	理化性質	c=1 d=0.65377 t=11615
+li ji 	立即	c=1 d=5.62208e-20 t=11615
+li ke 	立刻	c=1 d=4.51183e-20 t=11615
+li liang 	力量	c=3 d=0.000200304 t=11615
+li niao 	利尿	c=4 d=0.184022 t=11615
+li niao ji 	利尿劑	c=7 d=2.03227e-05 t=11615
+li sha 	李殺	c=2 d=0.000277468 t=11615
+li ti jiao 	立體角	c=1 d=4.19522e-17 t=11615
+li xi bao 	粒細胞	c=1 d=0.0114473 t=11615
+li xin 	離心	c=0 d=0.0128093 t=11615
+li xin hou 	離心後	c=1 d=0.128735 t=11615
+li xing 	梨形	c=1 d=0.00141589 t=11615
+li yong 	利用	c=3 d=8.89889e-18 t=11615
+li zi 	離子	c=6 d=0.0878095 t=11615
+li zi shu liang 	離子數量	c=1 d=4.63486e-13 t=11615
+li zi xing 	離子型	c=1 d=0.882497 t=11615
+lian 	聯	c=4 d=0.00617465 t=11615
+lian 	連	c=2 d=3.18332e-05 t=11615
+lian he 	聯合	c=1 d=0.346456 t=11615
+lian jia 	廉價	c=1 d=0.028297 t=11615
+lian jie 	連接	c=2 d=1.00737e-14 t=11615
+lian jie 	鏈接	c=6 d=0.0505395 t=11615
+lian mei su 	鏈黴素	c=1 d=0.396531 t=11615
+lian qiu jun 	鏈球菌	c=1 d=0.000130387 t=11615
+lian xi 	聯繫	c=1 d=1.92279e-15 t=11615
+lian xu 	連續	c=4 d=0.0237541 t=11615
+lian xu xing 	連續性	c=1 d=0.00037447 t=11615
+liang 	兩	c=2 d=1.38818e-09 t=11615
+liang 	良	c=1 d=0.036334 t=11615
+liang 	量	c=11 d=0.0410529 t=11615
+liang bian 	兩邊	c=1 d=5.5777e-15 t=11615
+liang ce 	兩側	c=6 d=3.54097e-07 t=11615
+liang ci 	兩次	c=1 d=0.00199922 t=11615
+liang dian 	亮點	c=1 d=0.0303487 t=11615
+liang duo 	量多	c=1 d=5.18983e-20 t=11615
+liang ge 	兩個	c=9 d=0.0110701 t=11615
+liang hao 	良好	c=1 d=2.49933e-12 t=11615
+liang hua 	量化	c=1 d=1.13196e-17 t=11615
+liang lei 	兩類	c=1 d=2.38318e-11 t=11615
+liang nian 	兩年	c=1 d=5.10735e-08 t=11615
+liang xiao 	兩小	c=0 d=7.45546e-18 t=11615
+liang xiao dian 	兩小點	c=1 d=7.49283e-17 t=11615
+liang xing 	兩性	c=0 d=4.40957e-16 t=11615
+liang xing jie li 	兩性解離	c=1 d=4.43167e-15 t=11615
+liang zhe 	兩者	c=2 d=2.84778e-06 t=11615
+liang zhong 	兩種	c=4 d=0.621885 t=11615
+liao xiao 	療效	c=7 d=0.0885117 t=11615
+lie kong 	裂孔	c=1 d=0.0383884 t=11615
+lin chuang 	臨牀	c=18 d=0.30163 t=11615
+lin chuang yi yi 	臨牀意義	c=1 d=1.61883e-20 t=11615
+lin jin 	臨近	c=1 d=4.23811e-19 t=11615
+lin jin 	鄰近	c=1 d=4.82566e-17 t=11615
+lin suan 	磷酸	c=0 d=7.87432e-14 t=11615
+lin zhi 	磷脂	c=1 d=9.47452e-13 t=11615
+ling ji 	零級	c=1 d=3.19537e-20 t=11615
+ling yi 	另一	c=0 d=7.34321e-16 t=11615
+ling yi fen zi 	另一分子	c=1 d=7.38002e-15 t=11615
+ling yi ge 	另一個	c=2 d=5.26824e-12 t=11615
+ling yi lei 	另一類	c=1 d=2.68703e-11 t=11615
+liu 	流	c=1 d=5.08447e-14 t=11615
+liu 	瘤	c=0 d=1.92744e-15 t=11615
+liu 	硫	c=1 d=5.1578e-06 t=11615
+liu chang 	流暢	c=0 d=0.000514361 t=11615
+liu chang du 	流暢度	c=3 d=0.0174203 t=11615
+liu chu 	流出	c=0 d=1.01843e-10 t=11615
+liu chu dao 	流出道	c=1 d=1.02354e-09 t=11615
+liu di 	瘤蒂	c=1 d=2.02626e-14 t=11615
+liu gan 	流感	c=1 d=0.000110003 t=11615
+liu jing 	流經	c=1 d=6.86566e-18 t=11615
+liu lan 	瀏覽	c=1 d=4.77276e-05 t=11615
+liu liang 	流量	c=2 d=0.612866 t=11615
+liu su 	流速	c=3 d=0.0453953 t=11615
+liu suan 	硫酸	c=1 d=4.32446e-21 t=11615
+liu suan bei 	硫酸鋇	c=1 d=8.8828e-19 t=11615
+liu xiang 	流向	c=2 d=6.62514e-10 t=11615
+liu xing xing 	流行性	c=1 d=0.00286554 t=11615
+long 	隆	c=2 d=0.934232 t=11615
+long qi 	隆起	c=3 d=6.90567e-13 t=11615
+lou 	瘺	c=0 d=5.48047e-15 t=11615
+lu 	路	c=1 d=1.24092e-10 t=11615
+lu gu 	顱骨	c=2 d=0.483434 t=11615
+lu nei 	顱內	c=1 d=0.10383 t=11615
+luo 	落	c=0 d=4.76449e-15 t=11615
+luo an suan 	酪氨酸	c=2 d=1.20847e-14 t=11615
+luo ma 	羅馬	c=1 d=3.11276e-06 t=11615
+luo xuan 	螺旋	c=3 d=1.35096e-17 t=11615
+luo yin 	囉音	c=3 d=2.73102e-05 t=11615
+lv 	律	c=8 d=0.0280414 t=11615
+lv 	氯	c=1 d=1.38809e-05 t=11615
+lv 	率	c=7 d=0.0562705 t=11615
+lv chang shu 	率常數	c=1 d=2.20715e-20 t=11615
+lv guo 	濾過	c=4 d=6.07086e-12 t=11615
+lv guo lv 	濾過率	c=3 d=6.91654e-12 t=11615
+lv hua wu 	氯化物	c=5 d=0.371403 t=11615
+lv mei su 	氯黴素	c=1 d=7.91917e-21 t=11615
+lv sheng gao 	率升高	c=1 d=1.26969e-15 t=11615
+lve 	略	c=0 d=6.81378e-18 t=11615
+ma 	嗎	c=2 d=0.0112715 t=11615
+ma fei 	嗎啡	c=1 d=4.41797e-08 t=11615
+mai 	脈	c=6 d=0.0493938 t=11615
+mai bo 	脈搏	c=5 d=0.00274089 t=11615
+mai bo chong ji 	脈搏衝擊	c=1 d=6.05686e-14 t=11615
+mai luo mo 	脈絡膜	c=1 d=0.00882647 t=11615
+mai lv 	脈律	c=2 d=0.00466974 t=11615
+mai ya 	脈壓	c=1 d=1.83693e-07 t=11615
+man 	慢	c=6 d=0.263534 t=11615
+man 	滿	c=1 d=3.89885e-08 t=11615
+man de 	慢的	c=1 d=5.45592e-20 t=11615
+man pao 	慢跑	c=2 d=0.000160428 t=11615
+man xing 	慢性	c=17 d=0.0514752 t=11615
+man xing gan ran 	慢性感染	c=1 d=6.98389e-13 t=11615
+mao 	貓	c=1 d=0.000735471 t=11615
+mao xi 	毛細	c=3 d=0.000803404 t=11615
+mao xi guan 	毛細管	c=1 d=1.46025e-13 t=11615
+mao xi xue guan 	毛細血管	c=2 d=0.0335129 t=11615
+mao xi xue guan bi 	毛細血管壁	c=1 d=0.332871 t=11615
+mei 	每	c=1 d=0.00198925 t=11615
+mei 	沒	c=4 d=8.20907e-07 t=11615
+mei 	酶	c=12 d=1.01809e-05 t=11615
+mei ci 	每次	c=1 d=1.76214e-18 t=11615
+mei cu 	酶促	c=1 d=1.68839e-15 t=11615
+mei de 	沒得	c=1 d=5.50513e-08 t=11615
+mei de 	酶的	c=1 d=5.22935e-21 t=11615
+mei liang 	酶量	c=2 d=1.24967e-20 t=11615
+mei nian 	每年	c=1 d=1.73833e-05 t=11615
+mei su 	黴素	c=1 d=0.000263884 t=11615
+mei tu 	美圖	c=1 d=2.86602e-05 t=11615
+mei xue 	沒學	c=0 d=1.7661e-16 t=11615
+mei xue guo 	沒學過	c=1 d=1.77496e-15 t=11615
+mei yi ci 	每一次	c=1 d=0.0547488 t=11615
+mei yi ge 	每一個	c=1 d=5.0748e-21 t=11615
+mei yong 	沒用	c=0 d=0.00116203 t=11615
+mei you 	沒有	c=2 d=0.0337087 t=11615
+men 	們	c=1 d=4.84489e-05 t=11615
+men 	門	c=1 d=1.07324e-08 t=11615
+men jing mai 	門靜脈	c=1 d=1.51592e-12 t=11615
+men mai 	門脈	c=3 d=4.32016e-06 t=11615
+mi 	咪	c=1 d=7.84038e-21 t=11615
+mi 	米	c=0 d=5.10648e-07 t=11615
+mi du 	密度	c=15 d=5.7979e-16 t=11615
+mi ma 	密碼	c=1 d=0.0497871 t=11615
+mi zou 	迷走	c=1 d=5.04434e-09 t=11615
+mi zuo 	咪唑	c=1 d=4.15277e-15 t=11615
+mian fei 	免費	c=1 d=5.53273e-08 t=11615
+mian fei de 	免費的	c=1 d=5.56046e-08 t=11615
+mian ji 	面積	c=4 d=2.05952e-19 t=11615
+mian shou 	免受	c=1 d=0.100259 t=11615
+mian yi 	免疫	c=2 d=0.195894 t=11615
+mian yi xue 	免疫學	c=1 d=0.00763509 t=11615
+mian zao 	免遭	c=1 d=1.09001e-14 t=11615
+miao 	秒	c=4 d=0.00353515 t=11615
+mie jun 	滅菌	c=1 d=0.0569831 t=11615
+min gan 	敏感	c=1 d=1.60245e-18 t=11615
+min gan xing 	敏感性	c=2 d=2.17174e-06 t=11615
+ming 	名	c=1 d=6.695e-16 t=11615
+ming 	鳴	c=1 d=0.0135009 t=11615
+ming ci 	名詞	c=19 d=0.0196253 t=11615
+ming ci jie shi 	名詞解釋	c=1 d=3.09134e-13 t=11615
+ming ling 	命令	c=4 d=0.2729 t=11615
+ming nian 	明年	c=1 d=4.88261e-08 t=11615
+ming que 	明確	c=3 d=1.28855e-06 t=11615
+ming xian 	明顯	c=14 d=0.101133 t=11615
+ming xian shang sheng 	明顯上升	c=1 d=4.32005e-09 t=11615
+ming xiang 	冥想	c=3 d=5.32401e-13 t=11615
+mo 	末	c=3 d=0.00425356 t=11615
+mo 	膜	c=3 d=0.348649 t=11615
+mo ca 	摩擦	c=2 d=0.00118894 t=11615
+mo ca yin 	摩擦音	c=2 d=6.04879e-07 t=11615
+mo duan 	末端	c=2 d=2.22756e-12 t=11615
+mo hu 	模糊	c=1 d=0.00158844 t=11615
+mo kong 	膜孔	c=0 d=9.6725e-22 t=11615
+mo kuai 	模塊	c=2 d=0.262674 t=11615
+mo ni 	模擬	c=3 d=3.43041e-17 t=11615
+mo qi 	末期	c=2 d=3.70972e-08 t=11615
+mo ren 	默認	c=6 d=0.000574877 t=11615
+mo xing 	模型	c=3 d=9.80135e-14 t=11615
+mo xing de 	模型的	c=1 d=3.7311e-20 t=11615
+mo xing ti jian 	模型體件	c=1 d=9.93627e-14 t=11615
+mou 	某	c=1 d=0.0095616 t=11615
+mou xie 	某些	c=0 d=1.83437e-21 t=11615
+mou yi 	某一	c=3 d=3.16906e-11 t=11615
+mou zhong 	某種	c=2 d=3.62773e-13 t=11615
+mu ba 	鉬靶	c=1 d=6.29098e-19 t=11615
+mu biao 	目標	c=3 d=1.52554e-15 t=11615
+mu di 	目的	c=1 d=0.895834 t=11615
+mu lu 	目錄	c=2 d=0.120032 t=11615
+mu qian 	目前	c=4 d=3.86433e-11 t=11615
+na 	納	c=2 d=0.00487365 t=11615
+na 	那	c=1 d=4.70171e-05 t=11615
+na 	鈉	c=4 d=1.08203e-05 t=11615
+na ge 	那個	c=3 d=0.0002077 t=11615
+na me 	那麼	c=2 d=0.00772949 t=11615
+na me kuai 	那麼快	c=0 d=1.72221e-14 t=11615
+na xie 	哪些	c=3 d=0.0589964 t=11615
+nai 	耐	c=1 d=7.53295e-21 t=11615
+nai shou xing 	耐受性	c=1 d=0.0893673 t=11615
+nan chong 	南充	c=1 d=0.231078 t=11615
+nan dao 	難道	c=1 d=5.18454e-08 t=11615
+nan yi 	難以	c=2 d=1.37478e-06 t=11615
+nang zhong 	囊腫	c=2 d=0.00311976 t=11615
+nang zhuang 	囊狀	c=4 d=0.0240282 t=11615
+nao 	腦	c=3 d=0.0987662 t=11615
+nao ji ye 	腦脊液	c=11 d=0.725666 t=11615
+nao mo yan 	腦膜炎	c=1 d=0.0822307 t=11615
+nao nei 	腦內	c=1 d=0.103312 t=11615
+nao qu 	腦區	c=2 d=0.234803 t=11615
+nao shi 	腦室	c=1 d=0.00831246 t=11615
+nao zu zhi 	腦組織	c=1 d=0.105928 t=11615
+ne 	呢	c=0 d=0.000637737 t=11615
+nei 	內	c=18 d=0.798379 t=11615
+nei bi 	內壁	c=1 d=0.00165327 t=11615
+nei bu 	內部	c=2 d=1.37073e-05 t=11615
+nei ce 	內側	c=1 d=0.00047843 t=11615
+nei ce chu 	內側處	c=1 d=1.35404e-07 t=11615
+nei de 	內的	c=1 d=7.37876e-13 t=11615
+nei fen mi 	內分泌	c=1 d=8.63377e-08 t=11615
+nei jing 	內徑	c=2 d=7.52906e-07 t=11615
+nei ke xue 	內科學	c=1 d=0.149569 t=11615
+nei rong 	內容	c=1 d=0.000202454 t=11615
+nei sheng 	內生	c=5 d=1.48131e-05 t=11615
+nei xian 	內陷	c=1 d=0.000523486 t=11615
+nei yuan 	內源	c=0 d=0.0524663 t=11615
+nei yuan xing 	內源性	c=2 d=0.527292 t=11615
+nei zhi wang 	內質網	c=1 d=7.45292e-13 t=11615
+neng 	能	c=16 d=0.000204319 t=11615
+neng cu jin 	能促進	c=1 d=6.74828e-21 t=11615
+neng gou 	能夠	c=2 d=3.75631e-11 t=11615
+neng jiang 	能將	c=1 d=3.52051e-13 t=11615
+neng li 	能力	c=8 d=0.115903 t=11615
+neng liang 	能量	c=3 d=1.73025e-09 t=11615
+neng pu 	能譜	c=1 d=2.99376e-18 t=11615
+neng yong 	能用	c=0 d=0.000562801 t=11615
+ni 	你	c=4 d=0.0253755 t=11615
+ni 	逆	c=1 d=1.3783e-10 t=11615
+ni bu 	你不	c=1 d=6.75769e-08 t=11615
+ni ji xu 	你繼續	c=0 d=0.00120342 t=11615
+ni liu 	逆流	c=1 d=9.52201e-13 t=11615
+ni men 	你們	c=3 d=0.000637737 t=11615
+ni shi zhen 	逆時針	c=1 d=3.49331e-10 t=11615
+ni xing 	逆行	c=1 d=1.45623e-10 t=11615
+nian du 	粘度	c=1 d=0.0776922 t=11615
+nian lian 	粘連	c=3 d=0.0788664 t=11615
+nian ling 	年齡	c=2 d=9.42566e-11 t=11615
+nian mo 	粘膜	c=1 d=1.23196e-13 t=11615
+nian ye 	粘液	c=2 d=0.0443785 t=11615
+nian ye 	黏液	c=0 d=1.92744e-15 t=11615
+nian ye liu 	黏液瘤	c=1 d=1.9371e-14 t=11615
+niao 	尿	c=12 d=0.0419964 t=11615
+niao 	鳥	c=0 d=3.01553e-16 t=11615
+niao an suan 	鳥氨酸	c=1 d=3.03065e-15 t=11615
+niao dan yuan 	尿膽原	c=3 d=5.18497e-11 t=11615
+niao du zheng 	尿毒症	c=2 d=1.38624e-11 t=11615
+niao gan 	尿酐	c=1 d=7.83504e-13 t=11615
+niao lu 	尿路	c=2 d=2.07608e-18 t=11615
+niao nei 	尿內	c=2 d=8.66295e-11 t=11615
+niao nei niao dan yuan 	尿內尿膽原	c=1 d=5.0959e-11 t=11615
+niao su 	尿素	c=4 d=1.0073e-11 t=11615
+niao su dan 	尿素氮	c=2 d=1.397e-11 t=11615
+niao suan 	尿酸	c=2 d=0.0381014 t=11615
+niao zhong 	尿中	c=1 d=4.45313e-13 t=11615
+ning 	凝	c=4 d=0.526667 t=11615
+ning gu 	凝固	c=1 d=0.00990218 t=11615
+ning meng 	檸檬	c=0 d=0.0132655 t=11615
+ning meng se 	檸檬色	c=1 d=0.13332 t=11615
+niu bi 	牛逼	c=1 d=4.58562e-05 t=11615
+nong 	弄	c=1 d=4.89359e-05 t=11615
+nong 	膿	c=10 d=0.00690132 t=11615
+nong du 	濃度	c=16 d=0.396304 t=11615
+nong mi 	濃密	c=1 d=0.00158052 t=11615
+nong qiang 	膿腔	c=2 d=0.00158638 t=11615
+nong suo 	濃縮	c=1 d=4.79995e-13 t=11615
+nong tan 	膿痰	c=1 d=0.00251621 t=11615
+nong xing 	膿性	c=1 d=5.46353e-07 t=11615
+nong zhong 	膿腫	c=12 d=0.0133258 t=11615
+nu zhang 	怒張	c=6 d=4.21855e-05 t=11615
+nuo 	諾	c=1 d=0.000152248 t=11615
+ou lian 	偶聯	c=1 d=5.31488e-06 t=11615
+pa 	帕	c=0 d=5.10648e-07 t=11615
+pa 	怕	c=3 d=1.45041e-09 t=11615
+pai 	排	c=1 d=3.02784e-08 t=11615
+pai chu 	排出	c=7 d=0.234454 t=11615
+pai chu 	排除	c=1 d=0.0278757 t=11615
+pai chu duo shi 	排出多時	c=1 d=1.67649e-20 t=11615
+pai chu liang 	排出量	c=1 d=1.65981e-20 t=11615
+pai ji 	拍擊	c=1 d=1.65429e-14 t=11615
+pai ji yang 	拍擊樣	c=1 d=1.46403e-14 t=11615
+pai liang 	排量	c=0 d=8.91973e-10 t=11615
+pai ru 	排入	c=1 d=1.57778e-12 t=11615
+pai xie 	排泄	c=8 d=0.951229 t=11615
+pai xie lv 	排泄率	c=1 d=1.76244e-20 t=11615
+pai xie tu jing 	排泄途徑	c=1 d=1.87143e-20 t=11615
+pai xue liang 	排血量	c=1 d=2.40051e-08 t=11615
+pan 	袢	c=2 d=4.48665e-06 t=11615
+pan duan 	判斷	c=2 d=0.0267827 t=11615
+pang lu 	旁路	c=1 d=9.9586e-11 t=11615
+pao bu 	跑步	c=1 d=3.98655e-05 t=11615
+pao mo 	泡沫	c=0 d=3.30581e-09 t=11615
+pao mo yang 	泡沫樣	c=1 d=3.32238e-08 t=11615
+pei yang 	培養	c=0 d=0.029671 t=11615
+pei zhi 	配置	c=1 d=6.77287e-05 t=11615
+pen bu 	盆部	c=1 d=4.04116e-18 t=11615
+pen qiang 	盆腔	c=1 d=3.98099e-18 t=11615
+pen she 	噴射	c=1 d=0.196912 t=11615
+pen she xing 	噴射性	c=1 d=2.2846e-14 t=11615
+peng zhuang 	碰撞	c=1 d=1.98614e-14 t=11615
+pi fu 	皮膚	c=1 d=1.30162e-13 t=11615
+pi pei 	匹配	c=1 d=5.40825e-05 t=11615
+pi zhi 	皮質	c=0 d=8.4467e-16 t=11615
+pi zhi ji su 	皮質激素	c=1 d=8.48904e-15 t=11615
+pian 	偏	c=1 d=0.0702988 t=11615
+pian 	片	c=1 d=0.00016656 t=11615
+pian duan 	片段	c=1 d=2.58167e-11 t=11615
+pin 	拼	c=2 d=0.892454 t=11615
+pin 	頻	c=1 d=1.22602e-15 t=11615
+pin lv 	頻率	c=2 d=1.22762e-15 t=11615
+pin xie 	貧血	c=1 d=5.23932e-14 t=11615
+pin xue 	貧血	c=4 d=2.60569e-09 t=11615
+pin xue deng 	貧血等	c=1 d=1.40299e-13 t=11615
+pin yin 	拼音	c=1 d=0.946485 t=11615
+ping 	屏	c=1 d=0.00937227 t=11615
+ping 	平	c=3 d=0.00891092 t=11615
+ping bi 	屏蔽	c=1 d=1.61855e-18 t=11615
+ping fang 	平方	c=1 d=1.69305e-18 t=11615
+ping gu 	評估	c=1 d=1.13763e-17 t=11615
+ping guo 	蘋果	c=4 d=0.0300072 t=11615
+ping heng 	平衡	c=2 d=1.06613e-19 t=11615
+ping hua ji 	平滑肌	c=1 d=0.00319873 t=11615
+ping jia 	評價	c=1 d=1.84231e-12 t=11615
+ping jun 	平均	c=1 d=3.82463e-20 t=11615
+ping jun wei 	平均爲	c=1 d=2.02137e-15 t=11615
+ping jun wen tai 	平均穩態	c=1 d=2.59011e-20 t=11615
+ping jun zhi 	平均值	c=2 d=5.68017e-15 t=11615
+ping mian 	平面	c=4 d=7.54457e-16 t=11615
+ping mian xing 	平面型	c=1 d=5.83542e-17 t=11615
+ping mu 	屏幕	c=2 d=0.0174851 t=11615
+ping sao 	平掃	c=1 d=4.1851e-18 t=11615
+ping shang 	屏上	c=1 d=2.70887e-18 t=11615
+ping tan 	平坦	c=1 d=3.04377e-07 t=11615
+ping zhang 	屏障	c=4 d=3.44761 t=11615
+po huai 	破壞	c=5 d=0.129995 t=11615
+po huai de 	破壞的	c=1 d=0.0871609 t=11615
+po huai qi 	破壞其	c=1 d=0.0428521 t=11615
+po lie yin 	破裂音	c=1 d=0.767206 t=11615
+pu 	脯	c=1 d=1.36735e-14 t=11615
+pu 	譜	c=1 d=2.11988e-16 t=11615
+pu an xian an 	脯氨酰胺	c=1 d=1.26642e-14 t=11615
+pu bian 	普遍	c=1 d=8.1773e-16 t=11615
+pu cha 	普查	c=1 d=0.0231676 t=11615
+pu luo 	撲落	c=1 d=0.000349153 t=11615
+pu tao tang 	葡萄糖	c=10 d=0.239685 t=11615
+pu tong 	普通	c=1 d=4.59109e-19 t=11615
+qi 	其	c=11 d=0.399707 t=11615
+qi 	期	c=16 d=0.0443593 t=11615
+qi 	氣	c=20 d=2.00564 t=11615
+qi 	起	c=0 d=1.3387e-21 t=11615
+qi 	齊	c=0 d=1.27806e-05 t=11615
+qi bing 	起病	c=1 d=0.00117675 t=11615
+qi ce liang 	期測量	c=1 d=2.13566e-15 t=11615
+qi ci 	其次	c=2 d=4.13107e-09 t=11615
+qi dao 	氣道	c=8 d=0.12481 t=11615
+qi dao 	起到	c=2 d=0.0120342 t=11615
+qi dao zu li 	氣道阻力	c=1 d=4.76125e-06 t=11615
+qi dong 	啓動	c=7 d=0.000437372 t=11615
+qi dong na me kuai 	啓動那麼快	c=1 d=1.73084e-13 t=11615
+qi fu 	起伏	c=1 d=5.30657e-17 t=11615
+qi guai de 	奇怪的	c=1 d=0.0115047 t=11615
+qi guan 	器官	c=6 d=0.659112 t=11615
+qi guan 	氣管	c=3 d=0.326828 t=11615
+qi ju 	器具	c=1 d=0.062662 t=11615
+qi mai 	奇脈	c=7 d=0.0613163 t=11615
+qi nei bu 	其內部	c=1 d=0.00013776 t=11615
+qi pao 	氣泡	c=1 d=0.763379 t=11615
+qi shi 	憩室	c=2 d=0.0770384 t=11615
+qi ta 	其他	c=16 d=0.315133 t=11615
+qi ti 	氣體	c=1 d=2.74934e-16 t=11615
+qi wei 	其爲	c=1 d=0.148823 t=11615
+qi xiao 	起效	c=2 d=1.62197e-05 t=11615
+qi xie 	器械	c=1 d=0.0356146 t=11615
+qi xiong 	氣胸	c=17 d=7.39014 t=11615
+qi xiong xian 	氣胸線	c=1 d=0.822835 t=11615
+qi zhi xing 	器質性	c=7 d=0.000352662 t=11615
+qi zhong 	其中	c=1 d=0.00115345 t=11615
+qian 	前	c=11 d=0.0275748 t=11615
+qian bi 	前臂	c=1 d=5.70413e-14 t=11615
+qian fang 	前方	c=1 d=6.2252e-13 t=11615
+qian fu he 	前負荷	c=3 d=0.084163 t=11615
+qian jiao yuan 	前膠原	c=2 d=4.07341e-12 t=11615
+qian jing 	前景	c=1 d=1.57291e-05 t=11615
+qian la 	牽拉	c=2 d=0.006346 t=11615
+qian qing 	前清	c=1 d=6.28777e-13 t=11615
+qian shen 	淺深	c=1 d=8.61881e-17 t=11615
+qian shen 	牽伸	c=1 d=8.44814e-17 t=11615
+qian xiong 	前胸	c=0 d=4.37252e-05 t=11615
+qian xiong bi 	前胸壁	c=1 d=0.000439444 t=11615
+qian yin 	牽引	c=1 d=0.00334597 t=11615
+qian zai 	潛在	c=1 d=0.0593087 t=11615
+qian zhe 	前者	c=1 d=5.13557e-14 t=11615
+qiang 	強	c=0 d=5.22757e-18 t=11615
+qiang 	腔	c=2 d=0.960789 t=11615
+qiang du 	強度	c=1 d=1.0788e-10 t=11615
+qiang ji 	槍擊	c=2 d=0.000789432 t=11615
+qiang ji 	羥基	c=1 d=4.77683e-15 t=11615
+qiang ji yin 	槍擊音	c=1 d=1.44572e-13 t=11615
+qiang ruo 	強弱	c=4 d=0.00226541 t=11615
+qiang xin 	強心	c=2 d=0.174758 t=11615
+qiang zhi 	強制	c=2 d=0.0101347 t=11615
+qiao bu si 	喬布斯	c=1 d=0.00460782 t=11615
+qie 	且	c=5 d=0.0241131 t=11615
+qie ge 	切割	c=1 d=2.01581e-12 t=11615
+qie huan 	切換	c=8 d=0.000541211 t=11615
+qie kai shu 	切開術	c=1 d=5.38219e-07 t=11615
+qie mian 	切面	c=2 d=0.0126918 t=11615
+qin 	嗪	c=1 d=0.377192 t=11615
+qin 	親	c=0 d=0.0831104 t=11615
+qin he 	親和	c=1 d=0.351692 t=11615
+qin he li 	親和力	c=3 d=1.37316 t=11615
+qin zhi lei 	親酯類	c=1 d=0.83527 t=11615
+qin zhi xing 	親脂性	c=1 d=1.26706e-20 t=11615
+qing 	氫	c=0 d=0.0117655 t=11615
+qing 	清	c=3 d=0.144375 t=11615
+qing 	請	c=0 d=0.00148464 t=11615
+qing chu 	清除	c=5 d=4.00432e-12 t=11615
+qing chu lv 	清除率	c=1 d=6.33456e-12 t=11615
+qing dan bai 	清蛋白	c=7 d=8.86722e-11 t=11615
+qing dan bai 	請蛋白	c=2 d=0.0303731 t=11615
+qing du 	輕度	c=4 d=0.0432828 t=11615
+qing du sheng gao 	輕度升高	c=1 d=1.33112e-12 t=11615
+qing fang 	輕紡	c=1 d=8.72499e-14 t=11615
+qing jie 	清潔	c=0 d=0.0054204 t=11615
+qing jie gan zao 	清潔乾燥	c=1 d=0.0544757 t=11615
+qing kuang 	情況	c=2 d=0.0374642 t=11615
+qing kuang xia 	情況下	c=1 d=0.00324708 t=11615
+qing mei su 	青黴素	c=3 d=0.000518754 t=11615
+qing nian 	青年	c=1 d=3.19265e-10 t=11615
+qing shao nian 	青少年	c=3 d=0.0100936 t=11615
+qing xi 	清晰	c=4 d=0.122456 t=11615
+qing xing 	清醒	c=1 d=0.00144449 t=11615
+qing ya 	清雅	c=1 d=1.16022e-13 t=11615
+qing ya 	輕壓	c=2 d=2.3855e-13 t=11615
+qing yu 	輕於	c=1 d=1.47062e-08 t=11615
+qing zhong 	輕重	c=1 d=0.000302025 t=11615
+qiu 	巰	c=1 d=4.23666e-15 t=11615
+qiu dan bai 	球蛋白	c=2 d=0.540641 t=11615
+qiu guan 	球管	c=1 d=3.08494e-18 t=11615
+qiu jun 	球菌	c=2 d=0.000211509 t=11615
+qiu nang 	球囊	c=1 d=4.71468e-08 t=11615
+qu 	區	c=15 d=0.00326374 t=11615
+qu 	去	c=2 d=0.000153391 t=11615
+qu 	取	c=1 d=0.00210172 t=11615
+qu chu 	祛除	c=1 d=0.00748391 t=11615
+qu dai 	取代	c=2 d=0.232236 t=11615
+qu de 	取得	c=1 d=5.7933e-20 t=11615
+qu jue yu 	取決於	c=5 d=0.840895 t=11615
+qu mian 	曲面	c=1 d=1.10116e-16 t=11615
+qu shi 	趨勢	c=1 d=5.17467e-15 t=11615
+qu xian 	曲線	c=2 d=3.13172e-17 t=11615
+qu xian xia 	曲線下	c=1 d=8.0181e-20 t=11615
+qu xian xing 	曲線性	c=1 d=3.4615e-20 t=11615
+qu xiang 	趨向	c=1 d=7.21644e-16 t=11615
+qu yu 	區域	c=3 d=0.000153605 t=11615
+quan 	全	c=3 d=0.00019549 t=11615
+quan bu 	全部	c=3 d=1.24611e-12 t=11615
+quan cheng 	全程	c=1 d=0.343009 t=11615
+quan gu tong 	醛固酮	c=2 d=2.06196e-08 t=11615
+quan ju 	全局	c=2 d=0.000176757 t=11615
+quan mao 	全貌	c=1 d=3.81308e-11 t=11615
+quan ping 	全屏	c=5 d=0.000781021 t=11615
+quan shen 	全身	c=1 d=9.7362e-10 t=11615
+quan shen xing 	全身性	c=1 d=2.61481e-14 t=11615
+quan suan 	醛酸	c=7 d=4.66154e-12 t=11615
+quan xin 	全心	c=1 d=7.79331e-09 t=11615
+quan zi 	全資	c=1 d=1.86437e-05 t=11615
+que 	缺	c=1 d=6.44365e-07 t=11615
+que dian 	缺點	c=2 d=8.12959e-06 t=11615
+que dian shi 	缺點是	c=1 d=2.20145e-19 t=11615
+que ding 	確定	c=1 d=4.42865e-07 t=11615
+que fa 	缺乏	c=3 d=3.62711e-11 t=11615
+que qie 	確切	c=1 d=7.60607e-17 t=11615
+que shi 	確實	c=1 d=3.14458e-08 t=11615
+que sun 	缺損	c=1 d=2.34244e-14 t=11615
+que xian 	缺陷	c=1 d=0.00278085 t=11615
+que xue 	缺血	c=1 d=1.05055e-09 t=11615
+que xue xing 	缺血型	c=1 d=1.10897e-11 t=11615
+que xue xing 	缺血性	c=2 d=2.27376e-11 t=11615
+que yang 	缺氧	c=3 d=0.0812682 t=11615
+que zhen 	確診	c=1 d=4.17075e-07 t=11615
+qun 	羣	c=1 d=0.364219 t=11615
+ran 	染	c=1 d=0.205975 t=11615
+ran hou 	然後	c=1 d=2.83895e-11 t=11615
+rao she 	繞射	c=2 d=4.49071e-16 t=11615
+re sou 	熱搜	c=1 d=3.51812e-05 t=11615
+re tui 	熱退	c=2 d=0.00109025 t=11615
+ren 	人	c=1 d=0.00166156 t=11615
+ren gong 	人工	c=2 d=2.35581e-18 t=11615
+ren gong dui bi 	人工對比	c=1 d=1.14629e-18 t=11615
+ren he 	任何	c=2 d=0.249075 t=11615
+ren lei 	人類	c=2 d=0.474145 t=11615
+ren shen 	妊娠	c=2 d=1.30083e-05 t=11615
+ren ti 	人體	c=8 d=1.09739e-16 t=11615
+ren ti zu zhi 	人體組織	c=1 d=2.36067e-17 t=11615
+ren wei 	人爲	c=1 d=1.31855e-18 t=11615
+ren wei 	認爲	c=1 d=1.31197e-18 t=11615
+ren wu 	任務	c=1 d=4.34022e-05 t=11615
+ren yi 	任意	c=3 d=4.79615e-18 t=11615
+reng 	仍	c=1 d=1.2891e-17 t=11615
+ri chang 	日常	c=3 d=4.16177e-08 t=11615
+rong 	溶	c=1 d=8.90428e-18 t=11615
+rong du 	溶度	c=0 d=2.79859e-20 t=11615
+rong ji 	容積	c=10 d=1.45975e-09 t=11615
+rong jie du 	溶解度	c=1 d=3.5565e-15 t=11615
+rong liang 	容量	c=5 d=0.295133 t=11615
+rong mao 	絨毛	c=1 d=0.00941925 t=11615
+rong qi 	容器	c=4 d=0.285261 t=11615
+rong xue 	溶血	c=0 d=8.61587e-14 t=11615
+rong xue xing 	溶血性	c=1 d=8.65906e-13 t=11615
+rong ye 	溶液	c=1 d=5.15332e-15 t=11615
+rong ye zhong 	溶液中	c=1 d=6.67772e-15 t=11615
+rong yi 	容易	c=5 d=3.02502 t=11615
+rong zhi 	溶質	c=1 d=4.95446e-13 t=11615
+rou he 	柔和	c=1 d=3.72919e-14 t=11615
+rou ruan 	柔軟	c=0 d=1.30498e-15 t=11615
+ru 	入	c=3 d=0.000946646 t=11615
+ru 	如	c=13 d=0.645573 t=11615
+ru gan 	入肝	c=1 d=1.52352e-12 t=11615
+ru guo 	如果	c=8 d=0.015654 t=11615
+ru he 	如何	c=5 d=0.941812 t=11615
+ru she 	入射	c=8 d=3.50201e-15 t=11615
+ru shou 	入手	c=1 d=3.75439e-05 t=11615
+ru suan 	乳酸	c=1 d=0.0685632 t=11615
+ru xian 	乳腺	c=3 d=2.13454e-18 t=11615
+ru xue 	入血	c=1 d=9.56974e-13 t=11615
+ruan 	軟	c=1 d=6.19732e-19 t=11615
+ruan gu 	軟骨	c=2 d=0.00382958 t=11615
+ruan jian 	軟件	c=4 d=1.95998e-05 t=11615
+ruan zu zhi 	軟組織	c=4 d=1.04074e-15 t=11615
+rui hua 	銳化	c=1 d=3.17122e-19 t=11615
+ruo 	若	c=2 d=0.000493001 t=11615
+ruo gan 	若干	c=1 d=4.48339e-13 t=11615
+ruo gan ge 	若干個	c=1 d=3.94205e-20 t=11615
+ruo gan hao sheng 	若干毫升	c=1 d=3.53816e-13 t=11615
+ruo suan 	弱酸	c=0 d=0.0666977 t=11615
+ruo suan xing 	弱酸性	c=2 d=0.67032 t=11615
+sa 	撒	c=0 d=0.00404359 t=11615
+sa da sa da sa dan sa da sa da shi da sa da 	撒搭撒打撒旦撒搭撒打時搭撒打	c=1 d=0.0135686 t=11615
+sa dan 	撒旦	c=0 d=1.5059e-05 t=11615
+sa sa 	灑灑	c=0 d=0.00135686 t=11615
+sa si 	薩斯	c=0 d=0.00135686 t=11615
+sai 	塞	c=2 d=3.645e-07 t=11615
+sai qin 	噻嗪	c=1 d=2.06579e-06 t=11615
+san 	三	c=7 d=0.00605363 t=11615
+san bei 	三倍	c=1 d=1.44547e-11 t=11615
+san ceng 	三層	c=1 d=0.00141589 t=11615
+san da 	三大	c=3 d=0.44635 t=11615
+san dai 	三代	c=1 d=0.000150733 t=11615
+san ge 	三個	c=2 d=5.43999e-15 t=11615
+san jian ban 	三尖瓣	c=3 d=0.00344787 t=11615
+san jiao 	三角	c=1 d=2.1992e-07 t=11615
+san jiao xing 	三角形	c=1 d=1.18591e-06 t=11615
+san lei 	三類	c=1 d=3.05113e-06 t=11615
+san lian 	三聯	c=2 d=0.000303539 t=11615
+san qi 	三期	c=1 d=5.73468e-18 t=11615
+san she 	散射	c=6 d=3.53312e-15 t=11615
+san she dian 	散射點	c=1 d=1.21697e-16 t=11615
+san tai 	三肽	c=1 d=9.52363e-15 t=11615
+san tong 	三酮	c=1 d=7.03191e-15 t=11615
+san xiang 	三項	c=1 d=1.54733e-18 t=11615
+san yin 	三音	c=1 d=0.0184221 t=11615
+san yin lv 	三音律	c=2 d=0.387748 t=11615
+san zhong 	三種	c=1 d=3.85336e-17 t=11615
+sao 	掃	c=1 d=6.24344e-18 t=11615
+sao miao 	掃描	c=19 d=1.06929e-16 t=11615
+se 	色	c=0 d=0.0132655 t=11615
+se an suan 	色氨酸	c=2 d=1.20244e-14 t=11615
+se su 	色素	c=1 d=4.92482e-21 t=11615
+shai cha 	篩查	c=6 d=0.147753 t=11615
+shai jian 	篩檢	c=0 d=5.77441e-12 t=11615
+shai jian jian cha 	篩檢檢查	c=1 d=5.80335e-11 t=11615
+shan 	疝	c=1 d=0.0385808 t=11615
+shan chu 	刪除	c=1 d=6.87523e-05 t=11615
+shan guang 	閃光	c=4 d=0.000615919 t=11615
+shang 	上	c=22 d=0.136695 t=11615
+shang 	傷	c=1 d=0.373439 t=11615
+shang 	尚	c=0 d=1.30498e-15 t=11615
+shang ke 	上課	c=1 d=1.99711e-20 t=11615
+shang ke 	尚可	c=1 d=2.00712e-20 t=11615
+shang mian 	上面	c=1 d=2.57544e-12 t=11615
+shang pi 	上皮	c=0 d=1.45747e-21 t=11615
+shang qiao 	上翹	c=1 d=0.066205 t=11615
+shang rou ruan 	尚柔軟	c=1 d=1.31153e-14 t=11615
+shang sheng 	上升	c=0 d=4.2985e-10 t=11615
+shang shu 	上述	c=1 d=0.00360656 t=11615
+shang wu 	尚無	c=1 d=3.70038e-11 t=11615
+shang zhi 	上肢	c=2 d=0.000163262 t=11615
+shao 	少	c=1 d=5.40164e-20 t=11615
+shao 	稍	c=1 d=4.62368e-14 t=11615
+shao jia 	稍加	c=0 d=9.93627e-15 t=11615
+shao jia ya li 	稍加壓力	c=1 d=9.98607e-14 t=11615
+shao liang 	少量	c=1 d=0.70822 t=11615
+shao niao 	少尿	c=3 d=5.55487e-09 t=11615
+shao ping 	燒瓶	c=1 d=2.21023e-07 t=11615
+shao shang 	燒傷	c=0 d=4.66936e-13 t=11615
+shao shu 	少數	c=0 d=2.3481e-14 t=11615
+shao shu qing kuang 	少數情況	c=1 d=2.35987e-13 t=11615
+shao yu 	少於	c=2 d=0.00469314 t=11615
+she 	攝	c=0 d=2.20145e-20 t=11615
+she bei 	設備	c=9 d=4.42443e-18 t=11615
+she ji 	設計	c=2 d=3.21705e-11 t=11615
+she pian 	攝片	c=2 d=7.8081e-19 t=11615
+she pian tiao jian 	攝片條件	c=1 d=2.21249e-19 t=11615
+she qiang 	射槍	c=1 d=9.21831e-14 t=11615
+she qu 	攝取	c=2 d=0.000100034 t=11615
+she qu 	社區	c=1 d=0.000119762 t=11615
+she ru 	攝入	c=3 d=1.76084e-05 t=11615
+she xiang 	設想	c=1 d=9.0857e-20 t=11615
+she xue 	射血	c=1 d=1.17431e-08 t=11615
+she ying 	攝影	c=1 d=4.75462e-19 t=11615
+she zhi 	設置	c=7 d=0.000774384 t=11615
+shen 	深	c=1 d=0.00457389 t=11615
+shen 	腎	c=20 d=3.75285e-06 t=11615
+shen chu 	深處	c=1 d=0.0471227 t=11615
+shen chu 	滲出	c=5 d=0.00190354 t=11615
+shen chu liang 	滲出量	c=1 d=2.10243e-07 t=11615
+shen chu xing 	滲出性	c=3 d=0.465959 t=11615
+shen dong mai 	腎動脈	c=1 d=1.32039e-05 t=11615
+shen du 	深度	c=1 d=7.68382e-19 t=11615
+shen gong neng 	腎功能	c=5 d=2.73891e-06 t=11615
+shen jing 	神經	c=8 d=0.200968 t=11615
+shen lou 	滲漏	c=1 d=0.0555762 t=11615
+shen me 	什麼	c=10 d=2.88528 t=11615
+shen pai xie 	腎排泄	c=1 d=9.15488e-21 t=11615
+shen qi de 	神奇的	c=0 d=0.00110536 t=11615
+shen qian 	深淺	c=1 d=8.81418e-16 t=11615
+shen qian 	腎前	c=1 d=5.65911e-09 t=11615
+shen shang xian 	腎上腺	c=1 d=8.4467e-15 t=11615
+shen shuai jie 	腎衰竭	c=8 d=5.68139e-11 t=11615
+shen shuai jie qi 	腎衰竭期	c=1 d=6.86215e-12 t=11615
+shen xi qi 	深吸氣	c=2 d=0.00867996 t=11615
+shen xiao guan 	腎小管	c=6 d=1.01253e-12 t=11615
+shen xiao qiu 	腎小球	c=7 d=1.61654e-11 t=11615
+shen xing 	腎性	c=1 d=5.74463e-09 t=11615
+shen yan 	腎炎	c=3 d=1.10195e-11 t=11615
+shen yu 	腎盂	c=1 d=3.65473e-12 t=11615
+shen zang 	腎臟	c=3 d=0.117068 t=11615
+shen zhi 	神志	c=0 d=3.4753e-09 t=11615
+shen zhi mo hu 	神志模糊	c=1 d=3.49272e-08 t=11615
+sheng 	昇	c=0 d=2.75552e-14 t=11615
+sheng 	生	c=5 d=0.119428 t=11615
+sheng 	聲	c=10 d=4.39363e-15 t=11615
+sheng bo 	聲波	c=4 d=2.43176e-16 t=11615
+sheng bo zai 	聲波在	c=1 d=2.51271e-16 t=11615
+sheng chan li 	生產力	c=1 d=1.63821e-13 t=11615
+sheng chang 	聲場	c=2 d=4.32039e-17 t=11615
+sheng cheng 	生成	c=6 d=0.0169075 t=11615
+sheng gao 	升高	c=16 d=1.64316e-06 t=11615
+sheng hua 	生化	c=2 d=0.119448 t=11615
+sheng huo 	生活	c=1 d=4.22285e-06 t=11615
+sheng li 	生理	c=8 d=0.666778 t=11615
+sheng li xing 	生理性	c=4 d=0.000692402 t=11615
+sheng li zuo yong 	生理作用	c=1 d=0.0977834 t=11615
+sheng qiang chu 	聲強處	c=1 d=7.30783e-17 t=11615
+sheng qiang gao di 	聲強高低	c=1 d=5.25377e-17 t=11615
+sheng shu 	聲束	c=22 d=7.22097e-15 t=11615
+sheng shu bian yuan 	聲束邊緣	c=1 d=6.76229e-16 t=11615
+sheng su 	聲速	c=3 d=1.55214e-15 t=11615
+sheng wu 	生物	c=3 d=5.8482e-15 t=11615
+sheng wu tai 	生物肽	c=1 d=2.5441e-15 t=11615
+sheng xiang 	聲像	c=0 d=8.72647e-17 t=11615
+sheng xiang tu 	聲像圖	c=1 d=8.77022e-16 t=11615
+sheng xue 	聲學	c=2 d=5.38355e-17 t=11615
+sheng yin 	聲音	c=6 d=0.00398587 t=11615
+sheng yin lei si 	聲音類似	c=1 d=1.86114e-14 t=11615
+sheng yuan 	聲源	c=6 d=2.08322e-16 t=11615
+sheng zhou 	聲軸	c=1 d=4.30143e-17 t=11615
+sheng zhu dong mai 	昇主動脈	c=1 d=2.76933e-13 t=11615
+shi 	使	c=4 d=0.0936932 t=11615
+shi 	室	c=9 d=0.0137274 t=11615
+shi 	式	c=2 d=0.000113802 t=11615
+shi 	是	c=43 d=1.38635 t=11615
+shi 	時	c=73 d=1.28202 t=11615
+shi 	氏	c=1 d=8.19428e-11 t=11615
+shi 	溼	c=0 d=3.89885e-09 t=11615
+shi 	試	c=1 d=1.95152e-13 t=11615
+shi bai 	失敗	c=1 d=5.43628e-07 t=11615
+shi bi 	室壁	c=1 d=1.99609e-14 t=11615
+shi bi zhen dong 	室壁振動	c=1 d=1.71805e-14 t=11615
+shi bian 	實變	c=2 d=0.267523 t=11615
+shi bu shi 	是不是	c=1 d=6.72398e-08 t=11615
+shi chang 	失常	c=6 d=0.090718 t=11615
+shi da da 	溼答答	c=0 d=0.0218712 t=11615
+shi da sa da 	是搭撒打	c=1 d=3.02807e-05 t=11615
+shi dai 	時代	c=1 d=0.00463092 t=11615
+shi de 	使得	c=3 d=0.400517 t=11615
+shi er zhi chang 	十二指腸	c=2 d=0.0378169 t=11615
+shi fang 	釋放	c=2 d=0.00875977 t=11615
+shi fang de 	釋放的	c=1 d=0.0880368 t=11615
+shi fen 	十分	c=3 d=7.94891e-16 t=11615
+shi fou 	是否	c=1 d=0.0338776 t=11615
+shi guan 	食管	c=2 d=0.0389686 t=11615
+shi ji 	世紀	c=1 d=0.479505 t=11615
+shi jian 	事件	c=1 d=2.73423e-10 t=11615
+shi jian 	時間	c=13 d=0.0131932 t=11615
+shi jian fang hu 	時間防護	c=1 d=1.75336e-18 t=11615
+shi jian ge 	室間隔	c=3 d=2.17004e-06 t=11615
+shi jian nei 	時間內	c=0 d=3.48548e-14 t=11615
+shi jie 	世界	c=1 d=7.12376e-11 t=11615
+shi jiu 	嗜酒	c=1 d=7.10295e-06 t=11615
+shi liang 	適量	c=1 d=0.344728 t=11615
+shi luo yin 	溼囉音	c=3 d=0.281157 t=11615
+shi mou xie yao wu 	是某些藥物	c=1 d=1.84357e-20 t=11615
+shi qi 	時期	c=1 d=0.00283702 t=11615
+shi qu 	失去	c=4 d=0.00256704 t=11615
+shi shen me 	是什麼	c=2 d=0.0391036 t=11615
+shi shi 	實時	c=2 d=3.59658e-16 t=11615
+shi shi 	試試	c=1 d=0.000100535 t=11615
+shi su 	室速	c=1 d=4.44087e-10 t=11615
+shi tan tou 	是探頭	c=1 d=1.04223e-16 t=11615
+shi tu 	視圖	c=1 d=0.00019647 t=11615
+shi wei 	視爲	c=2 d=0.0590129 t=11615
+shi xian 	時限	c=1 d=0.00382958 t=11615
+shi xiang 	事項	c=1 d=0.0206508 t=11615
+shi xiang 	時相	c=1 d=0.00286554 t=11615
+shi xing 	施行	c=1 d=1.92613e-06 t=11615
+shi xing 	溼性	c=1 d=3.76475e-08 t=11615
+shi xue 	嗜血	c=1 d=0.000110555 t=11615
+shi yan 	實驗	c=5 d=0.00770543 t=11615
+shi yan 	試驗	c=18 d=0.288706 t=11615
+shi yan fang fa 	實驗方法	c=1 d=3.73757e-11 t=11615
+shi yan shi 	實驗室	c=9 d=0.0702443 t=11615
+shi yao wu 	使藥物	c=1 d=3.91293e-21 t=11615
+shi yi xia 	試一下	c=1 d=0.0131905 t=11615
+shi ying zheng 	適應症	c=2 d=3.14405e-06 t=11615
+shi yong 	使用	c=8 d=0.061768 t=11615
+shi yong lai 	是用來	c=1 d=3.46574e-05 t=11615
+shi yong yu 	適用於	c=2 d=1.39571e-05 t=11615
+shi you yu 	是由於	c=1 d=4.90959e-14 t=11615
+shi yu bu zhen 	食慾不振	c=1 d=8.56853e-07 t=11615
+shi zhi 	使之	c=1 d=1.3931e-18 t=11615
+shi zhi 	實質	c=2 d=6.06137e-18 t=11615
+shi zhi 	是指	c=3 d=3.46398e-13 t=11615
+shou 	受	c=3 d=6.41141e-07 t=11615
+shou 	守	c=1 d=0.00114769 t=11615
+shou dao 	受到	c=1 d=1.99575e-12 t=11615
+shou dong 	手動	c=1 d=0.00016826 t=11615
+shou duan 	手段	c=1 d=3.41472e-07 t=11615
+shou ji 	手機	c=3 d=0.513226 t=11615
+shou liang 	受涼	c=1 d=0.00737249 t=11615
+shou rong zhi 	受溶質	c=1 d=4.58874e-13 t=11615
+shou shu 	手術	c=2 d=0.00977356 t=11615
+shou sun 	受損	c=2 d=1.21049e-12 t=11615
+shou suo 	收縮	c=19 d=0.0123963 t=11615
+shou suo li 	收縮力	c=1 d=8.5464e-06 t=11615
+shou suo li 	收縮理	c=2 d=2.7409e-09 t=11615
+shou suo qi 	收縮期	c=13 d=0.391861 t=11615
+shou suo ya 	收縮壓	c=2 d=1.82698e-07 t=11615
+shou ti 	受體	c=7 d=1.15099e-05 t=11615
+shou wan 	手腕	c=1 d=5.61921e-14 t=11615
+shou xian 	首先	c=1 d=1.94648e-12 t=11615
+shou xing 	手性	c=1 d=2.81166e-15 t=11615
+shou ya 	受壓	c=2 d=2.83831e-07 t=11615
+shou zhang 	手掌	c=1 d=0.000706632 t=11615
+shou zhi 	手指	c=2 d=0.000629868 t=11615
+shou zu 	受阻	c=1 d=2.99224e-12 t=11615
+shu 	屬	c=1 d=0.000117979 t=11615
+shu 	束	c=3 d=0.15259 t=11615
+shu 	術	c=0 d=1.93578e-07 t=11615
+shu 	輸	c=1 d=3.41821e-19 t=11615
+shu ju 	數據	c=1 d=3.18657e-17 t=11615
+shu liang 	數量	c=0 d=4.61174e-14 t=11615
+shu ru 	輸入	c=12 d=1.82709 t=11615
+shu ru fa 	輸入法	c=7 d=1.83942 t=11615
+shu shi 	屬實	c=1 d=0.00124328 t=11615
+shu shui 	疏水	c=1 d=3.73884e-15 t=11615
+shu yu 	屬於	c=3 d=6.57494e-09 t=11615
+shu zhang 	舒張	c=21 d=0.0232528 t=11615
+shu zhang gong neng 	舒張功能	c=1 d=1.22223e-08 t=11615
+shu zhang mo qi 	舒張末期	c=1 d=3.43184e-07 t=11615
+shu zhang qi 	舒張期	c=11 d=0.383781 t=11615
+shu zhang shi yan 	舒張試驗	c=1 d=0.0352602 t=11615
+shu zhang xing 	舒張性	c=1 d=5.50607e-10 t=11615
+shu zhang ya 	舒張壓	c=2 d=1.87857e-06 t=11615
+shu zi 	數字	c=2 d=7.71968e-19 t=11615
+shu zi hua 	數字化	c=1 d=2.49457e-19 t=11615
+shua xin 	刷新	c=1 d=0.000194515 t=11615
+shuai jian 	衰減	c=3 d=1.04242e-15 t=11615
+shuai jie 	衰竭	c=14 d=0.0796877 t=11615
+shuai jie qi 	衰竭期	c=2 d=1.64515e-11 t=11615
+shuan 	栓	c=2 d=4.08751e-05 t=11615
+shuan se 	栓塞	c=3 d=0.000958573 t=11615
+shuang 	雙	c=10 d=0.89343 t=11615
+shuang a 	爽啊	c=1 d=1.2949e-11 t=11615
+shuang ce 	雙側	c=1 d=1.3138e-05 t=11615
+shuang chong 	雙重	c=3 d=0.000405658 t=11615
+shuang jian 	雙鍵	c=1 d=5.74757e-15 t=11615
+shuang pin 	雙拼	c=6 d=2.61942 t=11615
+shuang qi 	雙期	c=1 d=5.1117e-18 t=11615
+shuang shen 	雙深	c=1 d=3.4681e-13 t=11615
+shuang tui 	雙腿	c=1 d=4.2874e-08 t=11615
+shuang xia fei 	雙下肺	c=2 d=0.000534782 t=11615
+shuang xiang 	雙向	c=1 d=0.000978001 t=11615
+shuang yuan 	雙源	c=1 d=2.97883e-18 t=11615
+shui 	水	c=3 d=0.000378233 t=11615
+shui 	睡	c=1 d=0.244143 t=11615
+shui chong 	水衝	c=1 d=7.32357e-14 t=11615
+shui chong mai 	水衝脈	c=3 d=8.63713e-10 t=11615
+shui chong mao 	水衝貓	c=1 d=1.45296e-13 t=11615
+shui fen 	水分	c=1 d=2.65478e-16 t=11615
+shui he wu 	水合物	c=1 d=6.5783e-15 t=11615
+shui jie 	水解	c=2 d=1.42052e-12 t=11615
+shui rong xing 	水溶性	c=3 d=0.822835 t=11615
+shui zhong 	水中	c=0 d=3.52111e-16 t=11615
+shui zhong 	水腫	c=13 d=0.448538 t=11615
+shui zhong de 	水中的	c=1 d=3.53876e-15 t=11615
+shun jian 	瞬間	c=1 d=4.79082e-20 t=11615
+shun shi 	瞬時	c=1 d=5.7644e-20 t=11615
+shun xu 	順序	c=1 d=2.10208e-05 t=11615
+shun ying 	順應	c=4 d=0.122147 t=11615
+shun ying xing 	順應性	c=3 d=0.121284 t=11615
+shun zhong xiang 	順鐘向	c=2 d=0.071719 t=11615
+shuo 	說	c=2 d=0.0011593 t=11615
+shuo hua 	說話	c=1 d=0.0325493 t=11615
+shuo o 	說哦	c=1 d=0.0127147 t=11615
+si 	似	c=2 d=0.000141247 t=11615
+si 	四	c=2 d=9.51715e-07 t=11615
+si lu 	思路	c=2 d=1.79121e-06 t=11615
+si wang 	死亡	c=2 d=5.69374e-09 t=11615
+si zhi 	四肢	c=1 d=3.9571e-06 t=11615
+si zhong 	四種	c=1 d=0.000376347 t=11615
+si zhou 	四周	c=1 d=0.00166156 t=11615
+song jian 	送檢	c=1 d=0.0480747 t=11615
+sou suo 	搜索	c=2 d=0.000177643 t=11615
+su 	素	c=1 d=9.8307e-07 t=11615
+su 	速	c=1 d=3.08367e-16 t=11615
+su da shui 	蘇打水	c=0 d=0.00135985 t=11615
+su da shui da sa da shi da sa da shi da sa da sa si da sa da sa da sa da shi sa da sa da da da sa da shi da sa da shi da sa da shi da da sa sa a 	蘇打水搭撒打時搭撒打時搭撒打薩斯搭撒打撒搭撒打時撒搭撒打大搭撒打時搭撒打時搭撒打時大大灑灑啊	c=1 d=0.0136366 t=11615
+su da shui de sa dan sa dan 	蘇打水的撒旦撒旦	c=1 d=3.01297e-05 t=11615
+su du 	速度	c=8 d=6.61532e-10 t=11615
+su lv 	速率	c=3 d=0.26982 t=11615
+su lv guo cheng 	速率過程	c=2 d=5.33299e-20 t=11615
+suan 	算	c=1 d=5.8164e-08 t=11615
+suan 	酸	c=9 d=0.926975 t=11615
+suan hua 	酸化	c=1 d=3.87136e-13 t=11615
+suan jian 	酸鹼	c=1 d=0.0270518 t=11615
+suan jian du 	酸鹼度	c=1 d=0.0505395 t=11615
+suan rong ye 	酸溶液	c=1 d=4.49865e-15 t=11615
+suan xing 	酸性	c=5 d=0.617612 t=11615
+suan xing an ji suan 	酸性氨基酸	c=1 d=3.91093e-15 t=11615
+suan xing tang dan bai 	酸性糖蛋白	c=1 d=0.516851 t=11615
+suan zhong du 	酸中毒	c=1 d=4.00926e-13 t=11615
+sui 	隨	c=6 d=0.00172937 t=11615
+sui fang 	隨訪	c=2 d=1.29149e-10 t=11615
+sui hou 	隨後	c=1 d=0.298197 t=11615
+sui zhe 	隨着	c=1 d=3.32577e-20 t=11615
+sun hai 	損害	c=5 d=0.0379083 t=11615
+sun hai de 	損害的	c=1 d=0.215456 t=11615
+sun huai 	損壞	c=1 d=0.00223168 t=11615
+sun shang 	損傷	c=5 d=0.371577 t=11615
+sun shang hou 	損傷後	c=1 d=2.17806e-11 t=11615
+suo 	所	c=6 d=1.91092e-07 t=11615
+suo 	索	c=1 d=2.62658e-08 t=11615
+suo 	縮	c=0 d=5.55951e-07 t=11615
+suo chan sheng 	所產生	c=1 d=2.22819e-14 t=11615
+suo gu 	鎖骨	c=2 d=0.000935645 t=11615
+suo han 	所含	c=1 d=3.59163e-13 t=11615
+suo he 	縮合	c=0 d=7.45419e-16 t=11615
+suo he cheng wei 	縮合稱爲	c=1 d=7.49156e-15 t=11615
+suo ji 	羧基	c=2 d=1.3952e-14 t=11615
+suo jin 	縮進	c=11 d=0.00101611 t=11615
+suo xian shi 	所顯示	c=1 d=1.74011e-17 t=11615
+suo xiao 	縮小	c=1 d=0.0675424 t=11615
+suo xu 	所需	c=1 d=1.00413e-19 t=11615
+suo xue guan 	縮血管	c=1 d=5.58738e-06 t=11615
+suo yong 	所用	c=1 d=5.64353e-06 t=11615
+suo zhai 	縮窄	c=1 d=7.08582e-07 t=11615
+suo zhai xing 	縮窄性	c=5 d=3.59358e-06 t=11615
+suo zhi 	所致	c=10 d=0.00082099 t=11615
+suo zhi de 	所致的	c=1 d=3.60093e-14 t=11615
+ta 	他	c=1 d=0.00116786 t=11615
+ta de 	它的	c=1 d=0.00582847 t=11615
+ta men 	它們	c=1 d=2.07862e-20 t=11615
+ta xian 	塌陷	c=2 d=7.03824e-07 t=11615
+tai 	太	c=2 d=4.56959e-05 t=11615
+tai 	肽	c=11 d=6.57691e-05 t=11615
+tai 	胎	c=1 d=0.000299743 t=11615
+tai gao 	太高	c=1 d=2.89532e-07 t=11615
+tai jian 	肽鍵	c=3 d=2.71813e-14 t=11615
+tai ju 	擡舉	c=1 d=0.000274654 t=11615
+tai lian 	肽鏈	c=1 d=2.4566e-15 t=11615
+tai mei 	肽酶	c=1 d=2.00576e-12 t=11615
+tai pan 	胎盤	c=1 d=0.869358 t=11615
+tai qi 	擡起	c=1 d=0.000636198 t=11615
+tai xiao 	太小	c=1 d=0.0488012 t=11615
+tai xin lv 	胎心律	c=1 d=0.00301245 t=11615
+tai yuan 	太原	c=1 d=0.00479587 t=11615
+tan 	痰	c=7 d=0.0358648 t=11615
+tan ce qi 	探測器	c=1 d=3.54852e-18 t=11615
+tan li 	彈力	c=1 d=0.00373503 t=11615
+tan pei yang 	痰培養	c=1 d=0.298197 t=11615
+tan suan 	碳酸	c=2 d=0.0872128 t=11615
+tan suan qing gen 	碳酸氫根	c=1 d=0.118245 t=11615
+tan tou 	探頭	c=6 d=1.67679e-15 t=11615
+tan xing 	彈性	c=1 d=0.00324708 t=11615
+tan ye 	痰液	c=2 d=0.00967631 t=11615
+tang dan bai 	糖蛋白	c=0 d=0.0514274 t=11615
+tang niao bing 	糖尿病	c=3 d=9.60957e-06 t=11615
+te bi 	特比	c=1 d=1.17695e-05 t=11615
+te bie 	特別	c=1 d=0.0608101 t=11615
+te dian 	特點	c=11 d=0.0883036 t=11615
+te shu 	特殊	c=4 d=0.398543 t=11615
+te xing 	特性	c=8 d=0.386741 t=11615
+te xing zu kang 	特性阻抗	c=1 d=5.64834e-16 t=11615
+te yi 	特意	c=2 d=4.65119e-15 t=11615
+te yi 	特異	c=2 d=3.64555e-11 t=11615
+te yi xing 	特異性	c=1 d=0.603506 t=11615
+te zheng 	特徵	c=3 d=0.00069264 t=11615
+teng tong 	疼痛	c=4 d=7.81362e-07 t=11615
+teng xun 	騰訊	c=0 d=1.82932e-18 t=11615
+teng xun yun 	騰訊雲	c=2 d=3.74248e-17 t=11615
+ti 	體	c=2 d=6.97914e-05 t=11615
+ti ceng 	體層	c=1 d=7.38253e-19 t=11615
+ti dai 	替代	c=1 d=5.22223e-05 t=11615
+ti ding 	替丁	c=1 d=7.87968e-21 t=11615
+ti du 	梯度	c=3 d=0.0444897 t=11615
+ti gao 	提高	c=5 d=0.704688 t=11615
+ti ge 	體格	c=2 d=0.0320647 t=11615
+ti gong 	提供	c=1 d=7.95752e-19 t=11615
+ti jian 	體件	c=1 d=9.84552e-14 t=11615
+ti li 	體力	c=4 d=5.57612e-08 t=11615
+ti nei 	體內	c=6 d=1.35563 t=11615
+ti sheng 	蹄聲	c=1 d=0.212248 t=11615
+ti shi 	提示	c=5 d=0.00309804 t=11615
+ti wei 	體位	c=5 d=0.000992781 t=11615
+ti xing 	梯形	c=0 d=8.13928e-21 t=11615
+ti xing fa 	梯形法	c=1 d=8.18008e-20 t=11615
+ti xun huan 	體循環	c=3 d=1.56973e-06 t=11615
+ti ye 	體液	c=7 d=0.637628 t=11615
+ti ye liang 	體液兩	c=1 d=3.0291e-09 t=11615
+ti zao 	提早	c=1 d=4.84654e-09 t=11615
+ti zheng 	體徵	c=17 d=1.16151 t=11615
+ti zheng zhi yi 	體徵之一	c=1 d=6.76114e-14 t=11615
+ti zhong 	體重	c=2 d=3.7485e-08 t=11615
+tian 	天	c=6 d=3.43376 t=11615
+tian yi 	天意	c=0 d=3.01502e-14 t=11615
+tian yi 	天翼	c=4 d=1.37526 t=11615
+tian yi yun pan 	天意雲盤	c=2 d=6.07545e-13 t=11615
+tiao jian 	條件	c=3 d=6.12275e-16 t=11615
+tiao jian xia 	條件下	c=2 d=0.000137073 t=11615
+tiao jie 	調節	c=6 d=0.212498 t=11615
+tiao suo 	條索	c=2 d=0.285284 t=11615
+tiao suo zhuang 	條索狀	c=1 d=0.00179994 t=11615
+tiao zheng 	調整	c=1 d=1.17835e-19 t=11615
+tiao zhuan 	跳轉	c=3 d=0.0505037 t=11615
+tie xiu 	鐵鏽	c=0 d=1.30387e-05 t=11615
+tie xiu se 	鐵鏽色	c=1 d=0.000131041 t=11615
+ting 	停	c=2 d=0.0312749 t=11615
+ting dao 	聽到	c=4 d=0.744532 t=11615
+ting zhen 	聽診	c=3 d=0.272532 t=11615
+ting zhen qi 	聽診器	c=2 d=1.86554e-13 t=11615
+ting zhen wen ji 	聽診聞及	c=1 d=0.00394621 t=11615
+ting zhi 	停止	c=2 d=3.12884e-14 t=11615
+tong 	痛	c=3 d=0.000522287 t=11615
+tong bu 	同步	c=2 d=0.148823 t=11615
+tong chang 	通常	c=3 d=0.0800583 t=11615
+tong cheng 	統稱	c=1 d=1.48232e-13 t=11615
+tong feng 	通風	c=1 d=2.77461e-06 t=11615
+tong gong 	同工	c=0 d=5.49279e-12 t=11615
+tong gong mei 	同工酶	c=2 d=1.10961e-10 t=11615
+tong guo 	通過	c=15 d=4.03462 t=11615
+tong lv 	銅綠	c=1 d=0.000114493 t=11615
+tong qi 	通氣	c=9 d=0.177652 t=11615
+tong qi gong neng 	通氣功能	c=1 d=2.07078e-05 t=11615
+tong ri 	同日	c=1 d=7.47221e-14 t=11615
+tong shi 	同時	c=7 d=0.0311209 t=11615
+tong shi ban you 	同時伴有	c=1 d=0.208045 t=11615
+tong tou xing 	通透性	c=1 d=0.308819 t=11615
+tong wen 	同文	c=2 d=1.97045 t=11599
+tong xue 	同學	c=3 d=1.5362e-05 t=11615
+tong yi 	同一	c=1 d=5.03474e-16 t=11615
+tong yi 	統一	c=1 d=5.49095e-16 t=11615
+tong yi ge 	同一個	c=1 d=0.0300468 t=11615
+tong yi ping mian 	統一平面	c=1 d=4.83732e-16 t=11615
+tou bao 	頭孢	c=1 d=0.000149981 t=11615
+tou ding 	頭頂	c=1 d=5.79034e-14 t=11615
+tou gu 	頭骨	c=2 d=0.469235 t=11615
+tou jing 	透鏡	c=1 d=6.32144e-17 t=11615
+tou liang 	透亮	c=1 d=0.891366 t=11615
+tou ming 	透明	c=5 d=0.262446 t=11615
+tou ming mo 	透明膜	c=2 d=9.33723e-05 t=11615
+tou shi 	透視	c=4 d=1.46266e-06 t=11615
+tou tong 	頭痛	c=1 d=0.000254808 t=11615
+tou xi 	透析	c=1 d=3.49391e-12 t=11615
+tu 	圖	c=2 d=2.84789e-07 t=11615
+tu chu 	突出	c=2 d=1.96658e-07 t=11615
+tu fa 	突發	c=2 d=5.57717e-08 t=11615
+tu jing 	途徑	c=3 d=0.000717312 t=11615
+tu jing de 	途徑的	c=1 d=1.96738e-20 t=11615
+tu pian 	圖片	c=2 d=0.000223746 t=11615
+tu pu 	圖譜	c=1 d=6.10194e-13 t=11615
+tu ran 	突然	c=3 d=1.03684e-10 t=11615
+tu xiang 	圖像	c=34 d=1.70428e-15 t=11615
+tu yang 	圖樣	c=1 d=0.224249 t=11615
+tuan liu 	湍流	c=1 d=0.000816895 t=11615
+tui jian 	推薦	c=1 d=0.000154549 t=11615
+tun bu 	臀部	c=1 d=1.08123e-07 t=11615
+tun yan 	吞嚥	c=1 d=1.14236e-07 t=11615
+tuo qu 	脫去	c=1 d=1.42764e-12 t=11615
+tuo shui 	脫水	c=1 d=4.07969e-12 t=11615
+tuo ye 	唾液	c=1 d=2.03746e-20 t=11615
+wai 	外	c=6 d=0.726149 t=11615
+wai bu 	外部	c=2 d=0.00269866 t=11615
+wai ce 	外側	c=1 d=4.64686e-14 t=11615
+wai guan 	外觀	c=4 d=0.320203 t=11615
+wai li 	外力	c=1 d=0.100761 t=11615
+wai shang 	外傷	c=0 d=0.0524663 t=11615
+wai shang xing 	外傷性	c=1 d=0.527292 t=11615
+wai tu 	外凸	c=1 d=0.839457 t=11615
+wai yuan 	外源	c=0 d=0.0203926 t=11615
+wai yuan xing 	外源性	c=1 d=0.204948 t=11615
+wai zhou 	外周	c=3 d=7.50538e-06 t=11615
+wan 	晚	c=1 d=1.85186e-14 t=11615
+wan cheng 	完成	c=1 d=0.0490458 t=11615
+wan qi 	晚期	c=2 d=6.79971e-10 t=11615
+wan quan 	完全	c=3 d=0.0157449 t=11615
+wan quan xing 	完全性	c=2 d=0.151829 t=11615
+wan yi 	玩意	c=1 d=4.94277e-05 t=11615
+wan yu 	晚於	c=1 d=0.00501661 t=11615
+wang 	往	c=3 d=0.000716341 t=11615
+wang 	王	c=1 d=0.00114197 t=11615
+wang 	網	c=2 d=0.000169951 t=11615
+wang ge 	網格	c=1 d=2.86602e-05 t=11615
+wang pan 	網盤	c=2 d=0.961438 t=11615
+wang wang 	往往	c=3 d=8.77694e-09 t=11615
+wei 	僞	c=1 d=3.76795e-18 t=11615
+wei 	微	c=0 d=6.11669e-13 t=11615
+wei 	未	c=2 d=0.0480747 t=11615
+wei 	爲	c=65 d=0.0748393 t=11615
+wei 	胃	c=3 d=0.0376283 t=11615
+wei ai 	胃癌	c=1 d=0.0243554 t=11615
+wei cha 	僞差	c=1 d=2.2232e-17 t=11615
+wei chi 	維持	c=2 d=0.111917 t=11615
+wei jing 	胃鏡	c=1 d=0.0359725 t=11615
+wei la 	維拉	c=0 d=5.10648e-07 t=11615
+wei la pa mi 	維拉帕米	c=1 d=5.13208e-06 t=11615
+wei le 	爲了	c=3 d=0.778816 t=11615
+wei li 	微粒	c=1 d=4.54308e-13 t=11615
+wei liang 	微量	c=1 d=0.00778933 t=11615
+wei lin 	韋林	c=1 d=0.000294568 t=11615
+wei neng 	未能	c=1 d=4.06777e-07 t=11615
+wei qiu dan bai 	微球蛋白	c=1 d=6.14735e-12 t=11615
+wei rao 	圍繞	c=1 d=3.11594e-18 t=11615
+wei ruo 	微弱	c=1 d=1.2405e-06 t=11615
+wei shen me 	爲什麼	c=8 d=0.990847 t=11615
+wei shen me ta 	爲什麼他	c=1 d=0.0117371 t=11615
+wei sheng su 	維生素	c=1 d=0.535261 t=11615
+wei suo 	萎縮	c=1 d=7.5996e-07 t=11615
+wei wu ti 	爲物體	c=1 d=2.64838e-17 t=11615
+wei xian 	危險	c=1 d=1.63343e-08 t=11615
+wei xiao 	微小	c=0 d=1.379e-17 t=11615
+wei xiao cha bie 	微小差別	c=1 d=1.38592e-16 t=11615
+wei xie 	威脅	c=1 d=4.22357e-08 t=11615
+wei ying 	僞影	c=1 d=3.96114e-18 t=11615
+wei yu 	位於	c=4 d=0.00540744 t=11615
+wei zhi 	位置	c=3 d=2.94061e-13 t=11615
+wei zhu 	爲主	c=6 d=0.110824 t=11615
+wei zuo xin shi 	爲左心室	c=1 d=6.62726e-14 t=11615
+wen 	文	c=1 d=0.144424 t=11615
+wen 	聞	c=0 d=0.000392653 t=11615
+wen ben 	文本	c=2 d=0.00015273 t=11615
+wen ding 	穩定	c=2 d=0.798516 t=11615
+wen he 	吻合	c=1 d=0.00440507 t=11615
+wen ji 	聞及	c=4 d=0.274224 t=11615
+wen jian 	文件	c=26 d=1.14708 t=11615
+wen li 	紋理	c=2 d=0.882497 t=11615
+wen luan 	紊亂	c=1 d=0.092089 t=11615
+wen tai 	穩態	c=0 d=6.17997e-21 t=11615
+wen tai nong du 	穩態濃度	c=1 d=3.62082e-20 t=11615
+wen ti 	問題	c=1 d=7.01532e-07 t=11615
+wo 	我	c=27 d=0.0377588 t=11615
+wo de 	我的	c=8 d=3.4152 t=11615
+wo de tian 	我的天	c=2 d=1.70437 t=11615
+wo gan jiao 	我感覺	c=2 d=0.000298696 t=11615
+wo gan jue 	我感覺	c=4 d=0.025137 t=11615
+wo gan jue hai ke yi ni men jue de ne wo gan jue xian zai wan quan 	我感覺還可以你們覺得呢我感覺現在完全	c=1 d=0.00640933 t=11615
+wo hai shi 	我還是	c=0 d=0.00141223 t=11615
+wo jiang 	我將	c=1 d=3.57128e-05 t=11615
+wo jin 	握緊	c=0 d=5.5633e-15 t=11615
+wo jin bing ren 	握緊病人	c=1 d=5.59119e-14 t=11615
+wo jin tian 	我今天	c=1 d=0.0111647 t=11615
+wo jue de 	我覺得	c=2 d=0.0062849 t=11615
+wo lai 	我來	c=1 d=1.29803e-10 t=11615
+wo men 	我們	c=2 d=6.70843e-05 t=11615
+wo qu 	我去	c=1 d=0.000163287 t=11615
+wo wei 	臥位	c=2 d=3.73104e-07 t=11615
+wo yong 	我用	c=1 d=0.00127147 t=11615
+wo yong xi tong 	我用系統	c=1 d=0.0127784 t=11615
+wo zai lai 	我再來	c=3 d=0.0255397 t=11615
+wo zai lai ce shi yi xia lai 	我再來測試一下來	c=1 d=0.00634556 t=11615
+wo zai lai shi yi xia wo 	我再來試一下我	c=1 d=0.0116203 t=11615
+wu 	五	c=1 d=0.00113627 t=11615
+wu 	勿	c=1 d=1.60108e-08 t=11615
+wu 	無	c=18 d=0.885397 t=11615
+wu 	物	c=2 d=0.00347353 t=11615
+wu bi 	務必	c=1 d=0.0614212 t=11615
+wu bian hua 	無變化	c=1 d=0.135335 t=11615
+wu chuang 	無創	c=1 d=7.40038e-18 t=11615
+wu er suan 	戊二酸	c=1 d=1.0471e-12 t=11615
+wu fa 	無法	c=5 d=0.123687 t=11615
+wu ge 	五個	c=1 d=5.17732e-21 t=11615
+wu hai 	無害	c=1 d=0.0284388 t=11615
+wu han 	武漢	c=1 d=6.2694e-08 t=11615
+wu hua 	霧化	c=1 d=0.00755912 t=11615
+wu jie mian 	無界面	c=1 d=3.54792e-16 t=11615
+wu li 	物理	c=1 d=2.01163e-17 t=11615
+wu li liang 	物理量	c=1 d=2.91935e-16 t=11615
+wu lun 	無論	c=1 d=5.89407e-17 t=11615
+wu qi zhi xing 	無器質性	c=1 d=8.87675e-11 t=11615
+wu se 	無色	c=2 d=0.138681 t=11615
+wu shui 	污水	c=1 d=0.0422141 t=11615
+wu ti 	物體	c=2 d=3.45827e-16 t=11615
+wu xian 	無限	c=2 d=0.000499625 t=11615
+wu yang 	無氧	c=0 d=0.00889216 t=11615
+wu yang jiao jie 	無氧酵解	c=1 d=0.0893673 t=11615
+wu zhi 	物質	c=3 d=0.0106459 t=11615
+wu zhi dai xie 	物質代謝	c=1 d=0.106992 t=11615
+xi 	吸	c=4 d=0.0318253 t=11615
+xi 	息	c=1 d=3.74533e-06 t=11615
+xi 	系	c=2 d=6.37447e-14 t=11615
+xi 	細	c=3 d=0.365084 t=11615
+xi bao 	細胞	c=26 d=2.19234 t=11615
+xi bao nei 	細胞內	c=2 d=1.47831 t=11615
+xi jun 	細菌	c=7 d=0.203878 t=11615
+xi jun xing 	細菌性	c=1 d=0.081853 t=11615
+xi jun xing nao mo yan 	細菌性腦膜炎	c=1 d=0.064894 t=11615
+xi jun xue 	細菌學	c=1 d=0.0558548 t=11615
+xi la 	希臘	c=2 d=6.58424e-05 t=11615
+xi qi 	吸氣	c=7 d=0.0342195 t=11615
+xi qi mo 	吸氣末	c=1 d=3.90084e-14 t=11615
+xi qi shi 	吸氣時	c=1 d=0.0017643 t=11615
+xi rou 	息肉	c=1 d=0.0342181 t=11615
+xi ru 	吸入	c=1 d=7.17312e-05 t=11615
+xi ru xing 	吸入性	c=1 d=0.000720907 t=11615
+xi shi 	稀釋	c=1 d=4.84819e-13 t=11615
+xi shou 	吸收	c=9 d=0.420715 t=11615
+xi shou dao 	吸收到	c=1 d=7.47603e-20 t=11615
+xi shou ru 	吸收入	c=1 d=0.00951391 t=11615
+xi shou xing 	吸收性	c=1 d=1.34194e-19 t=11615
+xi shuai 	吸衰	c=1 d=0.0608101 t=11615
+xi shui 	吸水	c=0 d=0.00547488 t=11615
+xi tong 	系統	c=15 d=1.13416 t=11615
+xi wei 	細微	c=1 d=1.18692e-16 t=11615
+xi xian tiao 	細線條	c=1 d=0.852144 t=11615
+xi xiao 	細小	c=4 d=0.0014675 t=11615
+xi yang 	吸氧	c=2 d=3.11093e-05 t=11615
+xi yang qi 	吸氧氣	c=1 d=4.39594e-08 t=11615
+xia 	下	c=12 d=0.662057 t=11615
+xia chuan 	下傳	c=2 d=6.55002e-10 t=11615
+xia chui 	下垂	c=1 d=4.30889e-08 t=11615
+xia duan 	下段	c=2 d=4.30275e-13 t=11615
+xia jiang 	下降	c=8 d=0.102239 t=11615
+xia jiang zhi 	下降至	c=1 d=3.95912e-12 t=11615
+xia qiang 	下腔	c=4 d=0.0281366 t=11615
+xia wu 	下午	c=0 d=0.00117959 t=11615
+xia ye 	下葉	c=2 d=0.00160955 t=11615
+xia yi 	下移	c=2 d=0.000565162 t=11615
+xia zhai 	狹窄	c=11 d=0.157316 t=11615
+xia zhai kou 	狹窄口	c=1 d=0.000796726 t=11615
+xia zhi 	下肢	c=3 d=0.000165729 t=11615
+xian 	先	c=1 d=0.00174675 t=11615
+xian 	線	c=48 d=1.79013 t=11615
+xian an 	酰胺	c=1 d=0.379083 t=11615
+xian du 	限度	c=1 d=2.92741e-19 t=11615
+xian guan 	線管	c=1 d=3.51322e-18 t=11615
+xian lu 	顯露	c=1 d=3.46751e-11 t=11615
+xian shang 	線上	c=1 d=6.48147e-17 t=11615
+xian shi 	顯示	c=14 d=0.000176005 t=11615
+xian shi de 	現實的	c=1 d=1.75306e-16 t=11615
+xian shu 	線束	c=1 d=2.39057e-18 t=11615
+xian su 	限速	c=1 d=0.343009 t=11615
+xian tian xing 	先天性	c=4 d=0.00275318 t=11615
+xian tiao 	線條	c=0 d=0.0847894 t=11615
+xian tu xiang 	線圖像	c=1 d=1.88991e-18 t=11615
+xian wai 	線外	c=1 d=0.88692 t=11615
+xian wei 	纖維	c=16 d=0.303169 t=11615
+xian wei dan bai 	纖維蛋白	c=0 d=4.60939e-08 t=11615
+xian wei dan bai xing 	纖維蛋白性	c=1 d=4.6325e-07 t=11615
+xian wei hua 	纖維化	c=8 d=0.000324654 t=11615
+xian wei jing 	顯微鏡	c=1 d=0.00719046 t=11615
+xian wei su 	纖維素	c=2 d=0.000876127 t=11615
+xian xiang 	現象	c=5 d=0.45612 t=11615
+xian xing 	現行	c=1 d=2.26302e-20 t=11615
+xian xing 	線性	c=0 d=2.35538e-21 t=11615
+xian xing dong li 	線性動力	c=1 d=2.36719e-20 t=11615
+xian ying 	顯影	c=1 d=9.4713e-09 t=11615
+xian zai 	現在	c=2 d=0.000673271 t=11615
+xian zhi 	限制	c=4 d=1.15252e-05 t=11615
+xian zhi xing 	限制性	c=3 d=2.78507e-05 t=11615
+xian zhu 	顯著	c=7 d=0.00121866 t=11615
+xiang 	像	c=1 d=0.00035443 t=11615
+xiang 	向	c=9 d=1.56395 t=11615
+xiang 	相	c=8 d=0.000982903 t=11615
+xiang 	香	c=2 d=0.00200261 t=11615
+xiang dang yu 	相當於	c=1 d=0.00107547 t=11615
+xiang deng 	相等	c=4 d=0.00290884 t=11615
+xiang dui 	相對	c=5 d=2.82626e-05 t=11615
+xiang dui huan man 	相對緩慢	c=1 d=0.000246044 t=11615
+xiang dui xing 	相對性	c=2 d=6.34159e-14 t=11615
+xiang guan 	相關	c=3 d=0.000112226 t=11615
+xiang jie he 	相結合	c=1 d=4.05162e-19 t=11615
+xiang liang 	響亮	c=2 d=6.88735e-14 t=11615
+xiang mu 	項目	c=3 d=0.17198 t=11615
+xiang nei 	向內	c=1 d=0.00118858 t=11615
+xiang qian 	向前	c=1 d=0.000435072 t=11615
+xiang si 	相似	c=2 d=0.00344307 t=11615
+xiang su 	像素	c=1 d=1.28267e-17 t=11615
+xiang tong 	相同	c=3 d=0.00078095 t=11615
+xiang wai 	向外	c=1 d=0.00138093 t=11615
+xiang xia 	向下	c=1 d=2.92442e-07 t=11615
+xiang xiang 	想想	c=1 d=5.03131e-08 t=11615
+xiang ying 	相應	c=2 d=0.000441647 t=11615
+xiang zuo 	向左	c=1 d=0.064894 t=11615
+xiao 	小	c=17 d=1.00243 t=11615
+xiao ba biao 	小靶標	c=1 d=7.16313e-17 t=11615
+xiao ban 	小班	c=0 d=2.46044e-05 t=11615
+xiao ban pian ying 	小班片影	c=1 d=0.000247277 t=11615
+xiao chu 	消除	c=9 d=0.918512 t=11615
+xiao chuan 	哮喘	c=7 d=0.155572 t=11615
+xiao du ji 	消毒劑	c=1 d=0.0420036 t=11615
+xiao er 	小兒	c=1 d=1.48666e-18 t=11615
+xiao fen zi 	小分子	c=1 d=0.321422 t=11615
+xiao guan 	小管	c=1 d=1.25446e-20 t=11615
+xiao guo 	效果	c=3 d=0.0977922 t=11615
+xiao he 	小鶴	c=7 d=5.07115 t=11615
+xiao hua dao 	消化道	c=6 d=0.0716396 t=11615
+xiao hua mei 	消化酶	c=1 d=0.0502874 t=11615
+xiao ji liang 	小劑量	c=1 d=0.0925506 t=11615
+xiao jie mian 	小界面	c=3 d=1.46419e-15 t=11615
+xiao lv 	效率	c=2 d=3.73302e-18 t=11615
+xiao ming 	哮鳴	c=2 d=0.0347267 t=11615
+xiao ming yin 	哮鳴音	c=1 d=0.01649 t=11615
+xiao pian 	小片	c=1 d=0.000288735 t=11615
+xiao pian zhuang 	小片狀	c=1 d=1.10041e-08 t=11615
+xiao qiu 	小球	c=1 d=3.41646e-13 t=11615
+xiao qu 	校區	c=1 d=4.67826e-05 t=11615
+xiao san 	消散	c=1 d=0.00171216 t=11615
+xiao shi 	消失	c=5 d=0.00232256 t=11615
+xiao shi nei 	小時內	c=1 d=0.0488012 t=11615
+xiao xin 	小心	c=1 d=0.0611149 t=11615
+xiao xue guan 	小血管	c=1 d=4.46237e-08 t=11615
+xiao ye 	小葉	c=0 d=9.05145e-06 t=11615
+xiao ye xing 	小葉性	c=1 d=9.09683e-05 t=11615
+xiao ying 	效應	c=7 d=5.61904e-06 t=11615
+xiao yu 	小於	c=5 d=0.0561348 t=11615
+xiao zhong 	小衆	c=3 d=1.95021e-05 t=11615
+xie 	些	c=1 d=0.000841773 t=11615
+xie 	寫	c=2 d=0.263349 t=11615
+xie he 	協和	c=1 d=7.10416e-08 t=11615
+xie ru 	寫入	c=1 d=0.0513033 t=11615
+xie xie 	謝謝	c=1 d=0.000164928 t=11615
+xin 	心	c=28 d=0.965724 t=11615
+xin 	新	c=3 d=2.96811e-05 t=11615
+xin bao 	心包	c=31 d=0.188092 t=11615
+xin bao yan zheng 	心包炎症	c=1 d=1.76035e-06 t=11615
+xin bing 	心病	c=0 d=6.1463e-11 t=11615
+xin dian 	心電	c=1 d=1.1804e-10 t=11615
+xin dian tu 	心電圖	c=8 d=0.128472 t=11615
+xin dong 	心動	c=7 d=0.00346326 t=11615
+xin dong guo su 	心動過速	c=4 d=3.28371e-07 t=11615
+xin dong tu 	心動圖	c=1 d=1.29759e-06 t=11615
+xin er 	心耳	c=1 d=0.00123469 t=11615
+xin fang 	心房	c=9 d=0.00508594 t=11615
+xin fang 	新房	c=1 d=0.00030659 t=11615
+xin fei 	心肺	c=1 d=9.51877e-09 t=11615
+xin geng 	心梗	c=1 d=1.11434e-09 t=11615
+xin gong neng 	新功能	c=2 d=2.15469e-08 t=11615
+xin hao 	信號	c=3 d=4.6749e-16 t=11615
+xin ji 	心悸	c=2 d=8.44205e-07 t=11615
+xin ji 	心肌	c=28 d=0.223072 t=11615
+xin ji bing 	心肌病	c=11 d=4.06582e-06 t=11615
+xin ji geng si 	心肌梗死	c=1 d=6.9323e-14 t=11615
+xin ji yan 	心肌炎	c=3 d=0.00319873 t=11615
+xin jian 	心尖	c=16 d=0.0655475 t=11615
+xin jian 	新建	c=3 d=0.000212834 t=11615
+xin jian qu 	心尖區	c=2 d=0.000567086 t=11615
+xin jiao tong 	心絞痛	c=2 d=3.33513e-06 t=11615
+xin li 	心力	c=6 d=0.0792799 t=11615
+xin li 	心理	c=1 d=1.16865e-10 t=11615
+xin li shuai jie 	心力衰竭	c=1 d=8.80668e-06 t=11615
+xin lv 	心律	c=21 d=0.198952 t=11615
+xin lv 	心率	c=1 d=2.94568e-05 t=11615
+xin lv bu qi 	心率不齊	c=1 d=0.000296045 t=11615
+xin lv kuai 	心律快	c=1 d=3.6541e-10 t=11615
+xin lv shi chang 	心律失常	c=1 d=8.11274e-11 t=11615
+xin nei mo 	心內膜	c=2 d=1.67505e-06 t=11615
+xin pai liang 	心排量	c=1 d=8.96444e-09 t=11615
+xin qian 	心前	c=1 d=0.0668703 t=11615
+xin qiang 	心腔	c=2 d=0.000841773 t=11615
+xin shi 	心室	c=10 d=0.000324708 t=11615
+xin shi shou suo 	心室收縮	c=1 d=0.00326335 t=11615
+xin shuai 	心帥	c=1 d=6.1463e-10 t=11615
+xin tiao 	心跳	c=3 d=0.752014 t=11615
+xin tiao jia kuai 	心跳加快	c=1 d=0.209088 t=11615
+xin xi 	信息	c=5 d=0.000221519 t=11615
+xin xian 	新鮮	c=3 d=0.274186 t=11615
+xin xue guan 	心血管	c=1 d=4.38907e-19 t=11615
+xin yao 	心腰	c=2 d=0.00246861 t=11615
+xin yin 	心音	c=15 d=0.199546 t=11615
+xin ying 	心影	c=4 d=2.76543e-06 t=11615
+xin yuan 	心源	c=2 d=2.97871e-08 t=11615
+xin yuan xing 	心源性	c=1 d=3.95777e-08 t=11615
+xin zang 	心臟	c=40 d=1.13604 t=11615
+xin zang bing 	心臟病	c=5 d=4.85846e-09 t=11615
+xing 	型	c=21 d=2.19203 t=11615
+xing 	形	c=3 d=0.00231117 t=11615
+xing 	性	c=86 d=2.66763 t=11615
+xing 	星	c=0 d=0.000918669 t=11615
+xing 	行	c=4 d=0.20244 t=11615
+xing cheng 	形成	c=28 d=0.746952 t=11615
+xing fen 	興奮	c=2 d=5.26363e-06 t=11615
+xing fen xing 	興奮性	c=1 d=2.19958e-09 t=11615
+xing fu 	幸福	c=1 d=1.59722e-09 t=11615
+xing neng 	性能	c=5 d=3.2489e-18 t=11615
+xing shi 	形式	c=1 d=4.65651e-09 t=11615
+xing tai 	形態	c=3 d=0.13466 t=11615
+xing wei 	行爲	c=1 d=5.87485e-08 t=11615
+xing xing 	星星	c=0 d=0.000918669 t=11615
+xing xing xing 	星星星	c=1 d=0.00923273 t=11615
+xing zhi 	性質	c=9 d=0.0676568 t=11615
+xing zhuang 	星狀	c=2 d=0.000341394 t=11615
+xiong 	胸	c=4 d=0.00097244 t=11615
+xiong bi 	胸壁	c=2 d=0.952067 t=11615
+xiong fu 	胸腹	c=3 d=0.0177743 t=11615
+xiong gu 	胸骨	c=8 d=0.00396601 t=11615
+xiong kuo 	胸廓	c=1 d=0.657047 t=11615
+xiong men 	胸悶	c=2 d=0.642186 t=11615
+xiong mo 	胸膜	c=3 d=0.00412214 t=11615
+xiong mo qiang 	胸膜腔	c=2 d=0.511729 t=11615
+xiong mo yan 	胸膜炎	c=1 d=0.00108628 t=11615
+xiong qian 	胸前	c=1 d=4.70251e-07 t=11615
+xiong qiang 	胸腔	c=10 d=1.45661 t=11615
+xiong qiang nei 	胸腔內	c=2 d=0.827809 t=11615
+xiong shui 	胸水	c=1 d=0.442639 t=11615
+xiu gai 	修改	c=4 d=0.0518189 t=11615
+xiu ke 	休克	c=4 d=2.84028e-07 t=11615
+xiu xi 	休息	c=2 d=2.92496e-08 t=11615
+xu 	需	c=4 d=1.53073e-05 t=11615
+xu huan 	徐緩	c=1 d=0.000614317 t=11615
+xu ji 	蓄積	c=1 d=0.433874 t=11615
+xu yu 	須與	c=1 d=3.34074e-14 t=11615
+xu zhuang 	絮狀	c=1 d=1.10592e-08 t=11615
+xuan ding 	選定	c=1 d=3.16034e-08 t=11615
+xuan yong 	選用	c=1 d=2.79137e-18 t=11615
+xuan ze 	選擇	c=3 d=0.0441572 t=11615
+xuan ze xing 	選擇性	c=2 d=5.89244e-06 t=11615
+xuan zhong 	選中	c=3 d=0.000148309 t=11615
+xuan zhuan 	旋轉	c=2 d=6.55665e-18 t=11615
+xue 	學	c=12 d=0.937138 t=11615
+xue 	血	c=28 d=1.24975 t=11615
+xue guan 	血管	c=23 d=0.112307 t=11615
+xue guan bi 	血管壁	c=1 d=0.000833397 t=11615
+xue guan bo dong zheng 	血管搏動徵	c=1 d=1.46757e-13 t=11615
+xue guan liu 	血管瘤	c=1 d=0.00447164 t=11615
+xue guan mo 	血管膜	c=1 d=0.329559 t=11615
+xue guan wai 	血管外	c=1 d=1.05561e-19 t=11615
+xue guan wai 	血關外	c=1 d=6.15154e-20 t=11615
+xue guan xing 	血管性	c=1 d=1.24973e-05 t=11615
+xue guan zheng 	血管徵	c=2 d=0.000420107 t=11615
+xue guo 	學過	c=1 d=1.7661e-15 t=11615
+xue ji gan 	血肌酐	c=1 d=7.58385e-12 t=11615
+xue jiang 	血漿	c=6 d=0.89576 t=11615
+xue jiang dan bai 	血漿蛋白	c=3 d=1.16262 t=11615
+xue jiang nei de 	血漿內的	c=1 d=4.74315e-20 t=11615
+xue jiang yao wu 	血漿藥物	c=1 d=1.80706e-20 t=11615
+xue liang 	血量	c=1 d=3.04181e-08 t=11615
+xue liu 	血流	c=13 d=0.00539663 t=11615
+xue liu fang xiang 	血流方向	c=1 d=1.89906e-16 t=11615
+xue liu liang 	血流量	c=6 d=0.925958 t=11615
+xue liu su 	血流速	c=1 d=5.42871e-20 t=11615
+xue liu xin hao 	血流信號	c=1 d=1.61828e-16 t=11615
+xue nao 	血腦	c=1 d=0.806541 t=11615
+xue niao 	血尿	c=1 d=0.000200439 t=11615
+xue niao suan 	血尿酸	c=1 d=2.58703e-06 t=11615
+xue qing 	血清	c=17 d=0.0146253 t=11615
+xue qing dan bai 	血清蛋白	c=1 d=0.918512 t=11615
+xue qing zhong 	血清中	c=1 d=3.02231e-12 t=11615
+xue qing zong dan bai 	血清總蛋白	c=1 d=6.47816e-11 t=11615
+xue rong liang 	血容量	c=7 d=1.3032 t=11615
+xue se 	血色	c=2 d=0.0141675 t=11615
+xue shuan 	血栓	c=1 d=2.16609e-05 t=11615
+xue tang 	血糖	c=3 d=0.0925506 t=11615
+xue xi 	學習	c=6 d=0.0010302 t=11615
+xue xiang 	血象	c=1 d=0.00151855 t=11615
+xue xiao 	學校	c=1 d=4.86918e-05 t=11615
+xue xiao ban 	血小板	c=1 d=2.2332e-11 t=11615
+xue xing 	學行	c=0 d=7.39157e-05 t=11615
+xue xing 	血型	c=1 d=0.19593 t=11615
+xue xing xing 	學行性	c=1 d=0.000742862 t=11615
+xue ya 	血壓	c=7 d=8.95304e-05 t=11615
+xue ya di 	血壓低	c=1 d=4.06708e-05 t=11615
+xue yao nong du 	血藥濃度	c=2 d=1.31672e-19 t=11615
+xue ye 	血液	c=11 d=0.989051 t=11615
+xue ye hou 	血液後	c=1 d=1.60163e-12 t=11615
+xue ye zhong de 	血液中的	c=1 d=2.16345e-20 t=11615
+xue yuan 	血源	c=2 d=0.0534599 t=11615
+xue yuan xing 	血源性	c=1 d=0.00130051 t=11615
+xue zheng 	血癥	c=8 d=0.53502 t=11615
+xue zhi 	血脂	c=2 d=8.79839e-06 t=11615
+xue zhong 	血中	c=2 d=3.11297e-12 t=11615
+xue zuan 	血賺	c=1 d=6.62388e-08 t=11615
+xun huan 	循環	c=5 d=0.283916 t=11615
+xun huan zhang ai deng 	循環障礙等	c=1 d=0.0164078 t=11615
+xun le 	薰了	c=1 d=4.96754e-05 t=11615
+xun lian 	訓練	c=9 d=0.000781429 t=11615
+xun su 	迅速	c=4 d=5.78598e-06 t=11615
+xun su yu 	迅速與	c=1 d=1.60966e-12 t=11615
+xun zhao 	尋找	c=1 d=0.0327124 t=11615
+ya 	亞	c=0 d=5.17732e-22 t=11615
+ya 	壓	c=2 d=5.25195e-05 t=11615
+ya jia zu 	亞家族	c=1 d=5.20327e-21 t=11615
+ya li 	壓力	c=4 d=0.010383 t=11615
+ya li cha 	壓力差	c=1 d=6.52637e-10 t=11615
+ya li de 	壓力的	c=1 d=0.10435 t=11615
+ya li zeng gao 	壓力增高	c=1 d=1.50421e-09 t=11615
+ya sai 	亞塞	c=1 d=1.92148e-07 t=11615
+ya sai 	壓塞	c=3 d=1.36222e-06 t=11615
+ya tong 	壓痛	c=1 d=7.23019e-09 t=11615
+ya wu 	呀無	c=1 d=0.254107 t=11615
+yan 	煙	c=3 d=0.719391 t=11615
+yan 	眼	c=1 d=0.955997 t=11615
+yan 	鹽	c=1 d=1.08646e-05 t=11615
+yan chang 	延長	c=9 d=0.175548 t=11615
+yan chi 	延遲	c=3 d=0.00839274 t=11615
+yan gai 	掩蓋	c=1 d=4.28959e-14 t=11615
+yan ge 	嚴格	c=2 d=1.68069e-18 t=11615
+yan jiu 	研究	c=1 d=7.21153e-08 t=11615
+yan jiu sheng 	研究生	c=1 d=1.67968e-13 t=11615
+yan se 	顏色	c=1 d=0.00869506 t=11615
+yan she 	衍射	c=1 d=6.72856e-16 t=11615
+yan suan 	演算	c=1 d=2.83355e-18 t=11615
+yan xing 	炎性	c=2 d=0.0025805 t=11615
+yan yang 	厭氧	c=1 d=0.000633025 t=11615
+yan yang jun 	厭氧菌	c=3 d=0.00199041 t=11615
+yan zheng 	炎症	c=5 d=0.0290686 t=11615
+yan zheng jin run 	炎症浸潤	c=1 d=0.0780817 t=11615
+yan zhong 	嚴重	c=21 d=0.224579 t=11615
+yan zhong chuang shang 	嚴重創傷	c=1 d=4.71628e-12 t=11615
+yan zhong pin xue 	嚴重貧血	c=2 d=2.53226e-13 t=11615
+yan zhong shi 	嚴重時	c=1 d=3.43301e-11 t=11615
+yang 	楊	c=1 d=5.04262e-05 t=11615
+yang 	樣	c=9 d=0.496168 t=11615
+yang 	陽	c=1 d=0.0265162 t=11615
+yang di huang 	洋地黃	c=5 d=4.75964e-08 t=11615
+yang hua 	氧化	c=3 d=1.7905e-14 t=11615
+yang ji 	陽極	c=1 d=5.89206e-13 t=11615
+yang li zi 	陽離子	c=3 d=9.73108e-15 t=11615
+yang xing 	陽性	c=8 d=0.183453 t=11615
+yao 	藥	c=2 d=4.28544e-20 t=11615
+yao 	要	c=10 d=0.157889 t=11615
+yao dao 	要到	c=1 d=3.39885e-11 t=11615
+yao dian 	要點	c=9 d=0.888532 t=11615
+yao li 	藥理	c=3 d=0.000227127 t=11615
+yao li xue 	藥理學	c=1 d=0.25284 t=11615
+yao mei 	藥酶	c=1 d=7.31032e-21 t=11615
+yao qiu 	要求	c=1 d=2.22358e-19 t=11615
+yao wu 	藥物	c=58 d=14.9396 t=11615
+yao wu de 	藥物的	c=1 d=3.25992e-20 t=11615
+yao wu nong du 	藥物濃度	c=1 d=0.574072 t=11615
+yao yuan 	遙遠	c=1 d=2.02e-07 t=11615
+yao zhong 	藥中	c=1 d=1.02706e-20 t=11615
+ye 	也	c=8 d=0.94 t=11615
+ye 	葉	c=5 d=0.0158111 t=11615
+ye jian 	夜間	c=3 d=1.02664e-08 t=11615
+ye jian lie 	葉間裂	c=1 d=0.000148489 t=11615
+ye ke 	也可	c=5 d=0.34469 t=11615
+ye ke bei 	也可被	c=1 d=1.60272e-20 t=11615
+ye ke yi 	也可以	c=1 d=0.440432 t=11615
+ye qu 	液區	c=1 d=4.02524e-16 t=11615
+ye qu nei 	液區內	c=1 d=3.71122e-16 t=11615
+ye shi 	也是	c=2 d=0.778801 t=11615
+ye ti 	液體	c=4 d=0.831959 t=11615
+ye ti liang 	液體量	c=1 d=5.09677e-13 t=11615
+ye wei 	也未	c=1 d=0.00726273 t=11615
+ye wu 	也無	c=1 d=0.00711891 t=11615
+ye xing 	液型	c=1 d=9.31254e-16 t=11615
+yi 	乙	c=1 d=0.386741 t=11615
+yi 	以	c=5 d=1.85812e-09 t=11615
+yi 	易	c=9 d=1.50424 t=11615
+yi 	義	c=2 d=0.021068 t=11615
+yi ban 	一般	c=8 d=9.78587e-05 t=11615
+yi ban bu hui 	一般不會	c=1 d=1.40978e-11 t=11615
+yi ban er yan 	一般而言	c=1 d=3.45139e-15 t=11615
+yi ban ren 	一般人	c=0 d=6.2726e-15 t=11615
+yi ban ren wei 	一般人爲	c=1 d=6.30404e-14 t=11615
+yi bian xing 	易變性	c=1 d=9.56323e-05 t=11615
+yi ce 	一側	c=2 d=0.615697 t=11615
+yi chang 	異常	c=7 d=0.0873009 t=11615
+yi cheng 	亦稱	c=0 d=3.66543e-18 t=11615
+yi cheng wei 	亦稱爲	c=1 d=3.68381e-17 t=11615
+yi chu 	益處	c=1 d=2.22168e-09 t=11615
+yi chuan 	遺傳	c=1 d=0.00279479 t=11615
+yi chuan he 	遺傳和	c=1 d=6.19837e-21 t=11615
+yi chuan yin su 	遺傳因素	c=2 d=1.08857e-20 t=11615
+yi ci 	一次	c=1 d=0.00204983 t=11615
+yi ci yuan 	異次元	c=1 d=7.05288e-11 t=11615
+yi dao su 	胰島素	c=1 d=8.70395e-15 t=11615
+yi ding 	一定	c=1 d=2.45109e-18 t=11615
+yi dong 	移動	c=3 d=0.000119987 t=11615
+yi duan 	一段	c=1 d=4.94782e-17 t=11615
+yi ge 	一個	c=27 d=1.00208 t=11615
+yi ge zi 	一個字	c=2 d=0.0669137 t=11615
+yi guo 	一過	c=0 d=3.51023e-09 t=11615
+yi guo xing 	一過性	c=1 d=3.52782e-08 t=11615
+yi hou 	以後	c=2 d=1.35513e-06 t=11615
+yi ji 	一級	c=3 d=7.68224e-20 t=11615
+yi ji 	以及	c=2 d=0.143801 t=11615
+yi jia 	溢價	c=1 d=0.00124951 t=11615
+yi jie 	一劫	c=1 d=4.79669e-05 t=11615
+yi jing 	已經	c=2 d=0.00687406 t=11615
+yi ju hua 	一句話	c=1 d=0.0330412 t=11615
+yi miao 	一秒	c=0 d=0.00555762 t=11615
+yi miao lv 	一秒率	c=1 d=0.0558548 t=11615
+yi mo kong kuo san 	以膜孔擴散	c=1 d=9.72099e-21 t=11615
+yi pi 	一批	c=0 d=0.00110536 t=11615
+yi qi 	一起	c=3 d=1.45998e-15 t=11615
+yi qi 	儀器	c=1 d=8.42633e-16 t=11615
+yi shang 	以上	c=11 d=0.0937864 t=11615
+yi shi 	一室	c=0 d=4.22788e-21 t=11615
+yi shi mo xing 	一室模型	c=1 d=4.24908e-20 t=11615
+yi si 	意思	c=1 d=3.05164e-08 t=11615
+yi ti 	一提	c=1 d=7.75576e-11 t=11615
+yi wei 	移位	c=2 d=0.293758 t=11615
+yi wu 	異物	c=1 d=0.00211225 t=11615
+yi xia 	一下	c=2 d=0.0118962 t=11615
+yi xia 	以下	c=5 d=2.11314e-07 t=11615
+yi xia lai 	一下來	c=0 d=0.000631391 t=11615
+yi xian yan 	胰腺炎	c=1 d=3.73566e-05 t=11615
+yi xiao 	一笑	c=1 d=3.796e-17 t=11615
+yi xie 	一些	c=3 d=0.000217342 t=11615
+yi xue 	醫學	c=1 d=0.10383 t=11615
+yi xue yuan 	醫學院	c=1 d=7.13977e-08 t=11615
+yi yi 	意義	c=13 d=0.69444 t=11615
+yi yi bu da 	意義不大	c=1 d=2.09195e-07 t=11615
+yi yong 	醫用	c=1 d=8.8385e-19 t=11615
+yi yu 	易於	c=1 d=0.00327971 t=11615
+yi yuan 	醫院	c=1 d=0.000102566 t=11615
+yi zhi 	一致	c=5 d=0.755799 t=11615
+yi zhi 	以致	c=3 d=4.40694e-06 t=11615
+yi zhi 	抑制	c=4 d=3.26295e-05 t=11615
+yi zhi ji 	抑制劑	c=2 d=1.37735e-20 t=11615
+yi zhi xing 	一致性	c=1 d=2.07826e-18 t=11615
+yi zhong 	一種	c=6 d=0.897156 t=11615
+yi zhou 	一週	c=1 d=3.42647e-18 t=11615
+yi zu 	一組	c=1 d=2.13384e-05 t=11615
+yin 	因	c=2 d=0.000228266 t=11615
+yin 	茚	c=1 d=7.00009e-15 t=11615
+yin 	音	c=18 d=0.730641 t=11615
+yin cang 	隱藏	c=1 d=0.000176887 t=11615
+yin ci 	因此	c=4 d=3.49079e-11 t=11615
+yin dao 	引導	c=1 d=3.86939e-07 t=11615
+yin diao 	音調	c=1 d=1.87985e-14 t=11615
+yin du 	印度	c=1 d=1.46782e-15 t=11615
+yin duo 	吲哚	c=1 d=3.81437e-15 t=11615
+yin hao 	引號	c=1 d=0.00524752 t=11615
+yin ju 	印劇	c=1 d=1.44596e-15 t=11615
+yin li zi 	陰離子	c=3 d=9.97223e-15 t=11615
+yin liang 	音量	c=1 d=6.25215e-05 t=11615
+yin liu 	引流	c=3 d=0.992766 t=11615
+yin ni 	隱匿	c=1 d=9.85951e-11 t=11615
+yin qi 	引起	c=11 d=0.00118371 t=11615
+yin ru 	引入	c=3 d=2.45655e-18 t=11615
+yin ru fa 	引入法	c=1 d=1.04763e-18 t=11615
+yin san tong 	茚三酮	c=5 d=1.86512e-13 t=11615
+yin shi 	飲食	c=2 d=4.93336e-12 t=11615
+yin su 	因素	c=13 d=1.19108 t=11615
+yin wei 	因爲	c=2 d=0.0500366 t=11615
+yin xing 	陰性	c=1 d=0.138761 t=11615
+yin xue 	隱血	c=5 d=0.0471508 t=11615
+yin ying 	陰影	c=7 d=0.864834 t=11615
+yin yong 	引用	c=1 d=8.75055e-19 t=11615
+yin zi 	因子	c=1 d=3.24874e-09 t=11615
+ying 	影	c=7 d=0.00275809 t=11615
+ying 	應	c=12 d=0.188153 t=11615
+ying cha 	應查	c=2 d=1.09321e-10 t=11615
+ying gai 	應該	c=2 d=7.50127e-07 t=11615
+ying guang 	熒光	c=3 d=3.30807e-18 t=11615
+ying hua 	硬化	c=2 d=1.45573e-06 t=11615
+ying ji 	應激	c=1 d=3.84015e-06 t=11615
+ying ke 	硬殼	c=1 d=6.00802e-07 t=11615
+ying wen 	英文	c=2 d=0.00017956 t=11615
+ying xiang 	影像	c=7 d=0.93218 t=11615
+ying xiang 	影響	c=17 d=0.788708 t=11615
+ying xiang xiong kuo 	影響胸廓	c=1 d=2.07219e-13 t=11615
+ying xiang xue 	影像學	c=2 d=1.84178e-17 t=11615
+ying xiang yao wu 	影響藥物	c=1 d=5.30838e-21 t=11615
+ying yang 	營養	c=0 d=0.0106992 t=11615
+ying yang bu liang 	營養不良	c=1 d=6.94906e-13 t=11615
+ying yong 	應用	c=10 d=1.91683 t=11615
+ying you er 	嬰幼兒	c=2 d=0.00282287 t=11615
+ying yu 	英語	c=3 d=0.00530044 t=11615
+yong 	用	c=12 d=0.00927901 t=11615
+yong de 	用的	c=1 d=2.74318e-19 t=11615
+yong dong 	泳動	c=1 d=5.95128e-13 t=11615
+yong hu 	用戶	c=4 d=1.24203 t=11615
+yong lai 	用來	c=1 d=0.000102566 t=11615
+yong yao 	用藥	c=0 d=0.00235177 t=11615
+yong yao qian 	用藥前	c=1 d=0.0236356 t=11615
+yong yi 	用以	c=3 d=0.0199405 t=11615
+yong yu 	用於	c=7 d=0.0433109 t=11615
+you 	又	c=9 d=0.29381 t=11615
+you 	右	c=4 d=0.0756182 t=11615
+you 	有	c=21 d=0.63263 t=11615
+you 	由	c=4 d=5.71335e-13 t=11615
+you ben shi 	有本事	c=0 d=0.00120342 t=11615
+you ben shi ni ji xu 	有本事你繼續	c=1 d=0.0120946 t=11615
+you cheng 	又稱	c=1 d=0.000765486 t=11615
+you dai 	有待	c=1 d=3.61148e-19 t=11615
+you dao 	誘導	c=1 d=6.61465e-21 t=11615
+you de 	有的	c=1 d=0.00442715 t=11615
+you dian 	優點	c=1 d=2.96212e-19 t=11615
+you dian shi 	優點是	c=1 d=1.92344e-19 t=11615
+you fang 	右房	c=1 d=3.44904e-07 t=11615
+you gai 	有蓋	c=2 d=0.112018 t=11615
+you guan 	有關	c=6 d=0.38868 t=11615
+you gui lv 	有規律	c=1 d=1.3147e-13 t=11615
+you hao 	友好	c=1 d=0.0112769 t=11615
+you hua 	優化	c=1 d=6.53992e-05 t=11615
+you jiao 	又叫	c=2 d=0.0616156 t=11615
+you ke 	又可	c=1 d=5.1258e-21 t=11615
+you li 	有力	c=4 d=0.000617396 t=11615
+you li 	遊離	c=0 d=0.0546074 t=11615
+you li bi 	遊離壁	c=1 d=3.55408e-07 t=11615
+you li xing 	遊離型	c=2 d=1.12002 t=11615
+you mei you 	有沒有	c=1 d=0.000153778 t=11615
+you na xie 	有哪些	c=4 d=3.17248e-11 t=11615
+you qi 	尤其	c=1 d=4.02798e-09 t=11615
+you qi shi 	尤其是	c=1 d=3.2398e-06 t=11615
+you qian 	右前	c=1 d=0.0665368 t=11615
+you ru 	猶如	c=2 d=1.06609e-13 t=11615
+you san ge 	有三個	c=1 d=1.30565e-20 t=11615
+you shi 	優勢	c=1 d=7.29021e-18 t=11615
+you shi 	有時	c=3 d=0.729789 t=11615
+you ting 	遊艇	c=1 d=0.392586 t=11615
+you wu 	有無	c=1 d=0.305746 t=11615
+you xiao 	有效	c=2 d=3.56267e-06 t=11615
+you xie 	有些	c=2 d=0.0288686 t=11615
+you xie yao wu 	有些藥物	c=1 d=1.98715e-20 t=11615
+you xin 	右心	c=3 d=0.00905579 t=11615
+you xin fang 	右心房	c=1 d=5.7595e-10 t=11615
+you xin shi 	右心室	c=7 d=0.0636103 t=11615
+you xin zang 	有心臟	c=1 d=2.73516e-14 t=11615
+you xing 	有形	c=2 d=0.0956689 t=11615
+you yang 	有氧	c=1 d=0.000115643 t=11615
+you yin 	誘因	c=3 d=1.20101 t=11615
+you you 	又有	c=1 d=1.89971e-20 t=11615
+you yu 	由於	c=3 d=0.0809187 t=11615
+yu 	於	c=8 d=0.00724829 t=11615
+yu 	與	c=78 d=4.12017 t=11615
+yu 	語	c=1 d=0.000314351 t=11615
+yu ce 	預測	c=1 d=1.61355e-11 t=11615
+yu ci 	與此	c=1 d=0.000662162 t=11615
+yu dao 	遇到	c=2 d=2.24112e-15 t=11615
+yu fa 	語法	c=1 d=0.000107287 t=11615
+yu he 	癒合	c=1 d=0.00351752 t=11615
+yu hou 	預後	c=2 d=7.82971e-05 t=11615
+yu ji 	淤積	c=1 d=9.24059e-13 t=11615
+yu ji 	預計	c=0 d=0.00221482 t=11615
+yu ji zhi 	預計值	c=1 d=0.0222592 t=11615
+yu shi 	於是	c=1 d=1.73054e-11 t=11615
+yu shi 	預示	c=1 d=1.78325e-11 t=11615
+yu xue 	淤血	c=4 d=1.34461e-07 t=11615
+yu yan 	語言	c=4 d=0.000175127 t=11615
+yuan 	原	c=1 d=0.000149981 t=11615
+yuan 	源	c=4 d=0.636943 t=11615
+yuan 	遠	c=3 d=0.00481991 t=11615
+yuan chang 	遠場	c=2 d=1.13401e-16 t=11615
+yuan duan 	遠端	c=2 d=5.16044e-12 t=11615
+yuan fa 	原發	c=6 d=1.4169 t=11615
+yuan fa xing 	原發性	c=5 d=0.188249 t=11615
+yuan li 	原理	c=7 d=0.133989 t=11615
+yuan wen 	原文	c=1 d=0.000148489 t=11615
+yuan xing 	原型	c=1 d=1.04258e-20 t=11615
+yuan xing 	圓形	c=3 d=2.95853e-15 t=11615
+yuan yin 	原因	c=7 d=0.9205 t=11615
+yuan you 	原有	c=5 d=0.00276449 t=11615
+yuan ze 	原則	c=8 d=0.515425 t=11615
+yue 	月	c=1 d=0.0267827 t=11615
+yue 	約	c=1 d=1.80614e-14 t=11615
+yue 	越	c=2 d=3.64628e-06 t=11615
+yue di 	越低	c=1 d=2.13493e-11 t=11615
+yue gao 	越高	c=1 d=2.10315e-11 t=11615
+yue hao 	越好	c=1 d=9.573e-17 t=11615
+yue xi 	越細	c=1 d=9.38344e-17 t=11615
+yun 	雲	c=3 d=0.944745 t=11615
+yun dong 	運動	c=6 d=0.000374157 t=11615
+yun fu 	孕婦	c=1 d=1.47924e-18 t=11615
+yun jue 	暈厥	c=1 d=1.1398e-10 t=11615
+yun pan 	雲盤	c=5 d=1.38216 t=11615
+za ban 	咋辦	c=1 d=0.00012909 t=11615
+za yin 	雜音	c=25 d=0.175306 t=11615
+zai 	仔	c=1 d=0.00647375 t=11615
+zai 	再	c=4 d=6.63545e-07 t=11615
+zai 	在	c=49 d=2.44229 t=11615
+zai er tong 	在兒童	c=1 d=2.06186e-13 t=11615
+zai fen 	再分	c=1 d=0.299692 t=11615
+zai jin 	再進	c=0 d=9.08415e-19 t=11615
+zai jin xing 	再進行	c=1 d=9.12969e-18 t=11615
+zai lai 	再來	c=1 d=0.00595164 t=11615
+zai qi 	在其	c=1 d=6.19626e-17 t=11615
+zai ru 	載入	c=1 d=5.43536e-05 t=11615
+zai shang 	在上	c=1 d=0.637628 t=11615
+zai sheng 	再生	c=1 d=3.0448e-11 t=11615
+zai sui 	再隨	c=1 d=1.56208e-12 t=11615
+zai ti 	載體	c=4 d=6.60298e-20 t=11615
+zai yi 	再以	c=1 d=1.72637e-12 t=11615
+zai yi ding 	在一定	c=1 d=3.83349e-15 t=11615
+zai yu 	再與	c=1 d=7.34321e-15 t=11615
+zang 	髒	c=0 d=1.25058e-14 t=11615
+zang ceng 	髒層	c=3 d=0.00193161 t=11615
+zang qi 	臟器	c=1 d=3.34131e-16 t=11615
+zao cheng 	造成	c=5 d=0.00289433 t=11615
+zao dao 	早到	c=1 d=0.0261214 t=11615
+zao qi 	早期	c=15 d=0.346876 t=11615
+zao ying 	造影	c=13 d=4.79758e-17 t=11615
+zao ying hou 	造影後	c=1 d=6.18132e-18 t=11615
+zao ying jian cha 	造影檢查	c=1 d=4.70731e-19 t=11615
+zao yu 	遭遇	c=1 d=0.00384878 t=11615
+zao yun 	早孕	c=0 d=1.48666e-19 t=11615
+zao yun zhe 	早孕者	c=1 d=1.49411e-18 t=11615
+ze 	則	c=8 d=2.42817 t=11615
+ze ke 	則可	c=1 d=1.36812e-11 t=11615
+zen me 	怎麼	c=2 d=6.94433e-05 t=11615
+zen yang 	怎樣	c=1 d=2.92541e-11 t=11615
+zeng cu 	增粗	c=1 d=1.05199e-08 t=11615
+zeng da 	增大	c=13 d=0.143503 t=11615
+zeng duo 	增多	c=5 d=0.842272 t=11615
+zeng gao 	增高	c=10 d=0.406334 t=11615
+zeng hou 	增厚	c=2 d=1.33711e-06 t=11615
+zeng jia 	增加	c=24 d=0.152174 t=11615
+zeng kuai 	增快	c=3 d=0.0175975 t=11615
+zeng kuan 	增寬	c=1 d=2.39431e-07 t=11615
+zeng qiang 	增強	c=20 d=0.27184 t=11615
+zeng sheng 	增生	c=2 d=0.216564 t=11615
+zeng yi 	增益	c=1 d=8.59655e-16 t=11615
+zeng zhang 	增長	c=1 d=3.39296e-20 t=11615
+zhan lian 	粘連	c=4 d=0.00110369 t=11615
+zhang 	張	c=2 d=0.917258 t=11615
+zhang 	章	c=1 d=3.15165e-05 t=11615
+zhang ai 	障礙	c=10 d=0.439132 t=11615
+zhang ai xing 	障礙性	c=1 d=2.08116e-05 t=11615
+zhang ce 	掌側	c=1 d=5.64738e-14 t=11615
+zhang li 	張力	c=1 d=0.0582748 t=11615
+zhang li xing 	張力性	c=1 d=0.585669 t=11615
+zhang wo 	掌握	c=1 d=1.46453e-18 t=11615
+zhao 	照	c=1 d=0.0450492 t=11615
+zhao dao 	找到	c=1 d=0.0257325 t=11615
+zhao she 	照射	c=1 d=6.33672e-16 t=11615
+zhe 	者	c=9 d=0.00665411 t=11615
+zhe 	這	c=2 d=0.00746202 t=11615
+zhe dang 	遮擋	c=1 d=1.59445e-18 t=11615
+zhe die 	摺疊	c=2 d=7.3053e-05 t=11615
+zhe fan 	折返	c=3 d=5.29204e-10 t=11615
+zhe fan xing 	折返性	c=1 d=9.7614e-11 t=11615
+zhe ge 	這個	c=7 d=0.0120285 t=11615
+zhe ge dong xi 	這個東西	c=0 d=0.00116203 t=11615
+zhe ge liu chang du 	這個流暢度	c=1 d=0.00637737 t=11615
+zhe me 	這麼	c=1 d=0.0126512 t=11615
+zhe she 	折射	c=3 d=1.63235e-15 t=11615
+zhe shi 	這是	c=36 d=2.79283 t=11615
+zhe shi 	這時	c=0 d=5.33227e-16 t=11615
+zhe shi de 	這時的	c=1 d=5.35899e-15 t=11615
+zhe shi yi ge 	這是一個	c=1 d=0.000101039 t=11615
+zhe xia 	這下	c=0 d=0.00118551 t=11615
+zhe xia wo 	這下我	c=1 d=0.0119145 t=11615
+zhe xia wu 	這下午	c=1 d=0.0118551 t=11615
+zhe xie 	這些	c=1 d=2.94668e-08 t=11615
+zhe yang jiu 	這樣就	c=1 d=1 t=11587
+zhe yi 	這一	c=1 d=7.25261e-16 t=11615
+zhe yu 	這與	c=1 d=0.371577 t=11615
+zhe zai 	這在	c=1 d=7.62706e-20 t=11615
+zhe zhong 	這種	c=2 d=1.66853e-16 t=11615
+zhe zhong shi 	這種事	c=1 d=6.69045e-08 t=11615
+zhen 	真	c=3 d=0.0138654 t=11615
+zhen chan 	震顫	c=3 d=0.000278804 t=11615
+zhen ci 	針刺	c=1 d=0.618783 t=11615
+zhen dang 	震盪	c=1 d=0.101774 t=11615
+zhen de shi 	真的是	c=0 d=0.00110536 t=11615
+zhen de shi shen qi de yi pi wo gan jue wo 	真的是神奇的一批我感覺我	c=1 d=0.011109 t=11615
+zhen dong 	振動	c=3 d=5.17743e-14 t=11615
+zhen dong 	震動	c=2 d=0.00147485 t=11615
+zhen dong bo 	振動波	c=1 d=2.6884e-17 t=11615
+zhen dong pin lv 	振動頻率	c=1 d=2.75646e-17 t=11615
+zhen duan 	診斷	c=36 d=1.25816 t=11615
+zhen fa xing 	陣發性	c=5 d=5.84386e-09 t=11615
+zhen fu 	振幅	c=0 d=7.34446e-18 t=11615
+zhen fu gao du 	振幅高度	c=1 d=7.38128e-17 t=11615
+zhen jing 	鎮靜	c=1 d=4.44012e-08 t=11615
+zhen jun 	真菌	c=2 d=0.0672055 t=11615
+zhen liao 	診療	c=1 d=4.47773e-19 t=11615
+zhen tong 	鎮痛	c=1 d=5.17115e-07 t=11615
+zhen zheng 	真正	c=1 d=4.72849e-13 t=11615
+zheng 	徵	c=18 d=1.64257 t=11615
+zheng 	正	c=2 d=0.064622 t=11615
+zheng bi 	正比	c=5 d=2.57268e-16 t=11615
+zheng chang 	正常	c=23 d=0.135742 t=11615
+zheng chang ren 	正常人	c=3 d=0.000446085 t=11615
+zheng chang shi 	正常時	c=2 d=1.22803e-10 t=11615
+zheng chang zhi 	正常值	c=1 d=1.17755e-11 t=11615
+zheng dian 	正電	c=1 d=4.63565e-15 t=11615
+zheng fu 	政府	c=1 d=5.70122e-08 t=11615
+zheng fu 	整幅	c=1 d=1.33304e-15 t=11615
+zheng fu tu xiang 	整幅圖像	c=1 d=1.15761e-16 t=11615
+zheng ge 	整個	c=2 d=2.87394e-12 t=11615
+zheng ju 	證據	c=1 d=2.67272e-07 t=11615
+zheng qi 	整齊	c=1 d=0.00194986 t=11615
+zheng que 	正確	c=4 d=5.91646e-16 t=11615
+zheng ti 	整體	c=1 d=1.71303e-09 t=11615
+zheng xiang guan 	正相關	c=2 d=5.90672e-06 t=11615
+zheng xing 	正性	c=1 d=4.57534e-08 t=11615
+zheng ze 	正則	c=3 d=1.91161e-05 t=11615
+zheng zhuang 	症狀	c=21 d=0.000409144 t=11615
+zhi 	值	c=3 d=0.00221482 t=11615
+zhi 	只	c=2 d=1.61276e-05 t=11615
+zhi 	指	c=19 d=0.168596 t=11615
+zhi 	支	c=2 d=0.0579396 t=11615
+zhi 	置	c=1 d=0.0014018 t=11615
+zhi 	至	c=5 d=0.000645813 t=11615
+zhi 	致	c=2 d=2.44757e-09 t=11615
+zhi biao 	指標	c=10 d=0.0236356 t=11615
+zhi bing 	致病	c=1 d=0.000703108 t=11615
+zhi cha 	之差	c=1 d=0.0152222 t=11615
+zhi chi 	支持	c=2 d=0.0156264 t=11615
+zhi dan bai 	脂蛋白	c=6 d=0.522046 t=11615
+zhi dao 	知道	c=2 d=0.179082 t=11615
+zhi de 	值得	c=1 d=7.71708e-11 t=11615
+zhi ding 	指定	c=4 d=0.218351 t=11615
+zhi dong 	制動	c=2 d=7.44512e-18 t=11615
+zhi du 	只讀	c=1 d=0.000207579 t=11615
+zhi fang 	脂肪	c=2 d=0.460704 t=11615
+zhi fang zu 	脂肪族	c=1 d=3.28306e-15 t=11615
+zhi hou 	之後	c=2 d=0.177284 t=11615
+zhi jia 	指甲	c=1 d=1.18365e-13 t=11615
+zhi jian 	之間	c=3 d=0.00384878 t=11615
+zhi jie 	直接	c=1 d=1.0116e-18 t=11615
+zhi jing 	直徑	c=1 d=0.000485661 t=11615
+zhi kuo 	支擴	c=4 d=0.00155265 t=11615
+zhi lei 	酯類	c=0 d=0.0831104 t=11615
+zhi li 	智力	c=1 d=0.250324 t=11615
+zhi liang 	質量	c=3 d=4.24402e-06 t=11615
+zhi liao 	治療	c=27 d=1.24501 t=11615
+zhi liao bu dang 	治療不當	c=1 d=1.25015e-09 t=11615
+zhi liu 	滯留	c=0 d=5.46632e-14 t=11615
+zhi liu lv 	滯留率	c=1 d=5.49372e-13 t=11615
+zhi mi 	緻密	c=1 d=0.000133688 t=11615
+zhi ming 	致命	c=1 d=4.18154e-08 t=11615
+zhi neng 	只能	c=1 d=3.28194e-11 t=11615
+zhi qi guan 	支氣管	c=33 d=0.438757 t=11615
+zhi rong 	脂溶	c=1 d=0.88692 t=11615
+zhi rong xing 	脂溶性	c=4 d=2.5203 t=11615
+zhi shao 	至少	c=1 d=1.15223e-20 t=11615
+zhi shi 	致使	c=1 d=1.25989e-12 t=11615
+zhi wai 	之外	c=1 d=0.165299 t=11615
+zhi xing 	執行	c=3 d=0.50409 t=11615
+zhi yao 	只要	c=1 d=0.113608 t=11615
+zhi yi 	之一	c=2 d=6.96765e-15 t=11615
+zhi yong 	只用	c=1 d=6.47485e-05 t=11615
+zhi you 	只有	c=2 d=0.00951391 t=11615
+zhi yuan ti 	支原體	c=1 d=0.000251014 t=11615
+zhi zheng 	指證	c=1 d=3.96734e-07 t=11615
+zhi zhi 	直至	c=1 d=0.0273237 t=11615
+zhi zi 	質子	c=2 d=8.84589e-15 t=11615
+zhong 	中	c=18 d=0.425283 t=11615
+zhong 	終	c=1 d=0.00423234 t=11615
+zhong 	腫	c=2 d=0.758863 t=11615
+zhong 	重	c=2 d=0.000269247 t=11615
+zhong bai 	鐘擺	c=2 d=0.00326872 t=11615
+zhong da 	腫大	c=5 d=4.07911e-06 t=11615
+zhong de 	中的	c=1 d=4.43936e-06 t=11615
+zhong deng 	中等	c=2 d=1.24098e-17 t=11615
+zhong du 	中度	c=2 d=2.15941e-06 t=11615
+zhong du 	中毒	c=3 d=5.63972e-10 t=11615
+zhong du 	重度	c=5 d=0.158025 t=11615
+zhong du guan bi bu quan 	重度關閉不全	c=1 d=1.51984e-13 t=11615
+zhong jian 	中間	c=0 d=4.24691e-15 t=11615
+zhong jian bu jian duan 	中間不間斷	c=1 d=4.2682e-14 t=11615
+zhong kuai 	腫塊	c=1 d=1.06585e-15 t=11615
+zhong liang 	重量	c=1 d=0.000117979 t=11615
+zhong liu 	腫瘤	c=8 d=0.145415 t=11615
+zhong mo qi 	終末期	c=1 d=7.07114e-12 t=11615
+zhong qi 	中期	c=1 d=2.30756e-14 t=11615
+zhong shu 	中樞	c=1 d=0.0902655 t=11615
+zhong wen 	中文	c=9 d=0.000319214 t=11615
+zhong xia 	中下	c=1 d=3.74597e-08 t=11615
+zhong xian 	中線	c=2 d=0.000940335 t=11615
+zhong xin 	中心	c=2 d=5.81739e-10 t=11615
+zhong xing 	中性	c=5 d=0.000949097 t=11615
+zhong xue 	中學	c=1 d=0.2334 t=11615
+zhong yang 	中央	c=1 d=0.000848038 t=11615
+zhong yang guan 	中央管	c=1 d=0.00852289 t=11615
+zhong yang shi 	中央室	c=1 d=5.32122e-20 t=11615
+zhong yao 	重要	c=10 d=0.867134 t=11615
+zhong yao zhi biao 	重要指標	c=1 d=6.72742e-14 t=11615
+zhong yao zuo yong 	重要作用	c=1 d=2.91181e-15 t=11615
+zhong yu 	終於	c=1 d=0.000850233 t=11615
+zhong zheng 	重症	c=4 d=0.0614844 t=11615
+zhou 	驟	c=0 d=4.76449e-15 t=11615
+zhou bian 	週邊	c=0 d=5.45592e-21 t=11615
+zhou bian shi 	週邊室	c=1 d=5.48327e-20 t=11615
+zhou qi 	驟起	c=0 d=4.76449e-15 t=11615
+zhou qi zhou luo 	驟起驟落	c=1 d=4.78838e-14 t=11615
+zhou ran 	驟然	c=1 d=1.69247e-14 t=11615
+zhou suo 	皺縮	c=1 d=0.136014 t=11615
+zhou wei 	周圍	c=11 d=0.0340149 t=11615
+zhou wei xue guan zheng 	周圍血管徵	c=1 d=1.48975e-13 t=11615
+zhou xian 	軸線	c=2 d=1.85546e-16 t=11615
+zhou xiang 	軸向	c=2 d=1.58766e-16 t=11615
+zhou yang ying hua 	粥樣硬化	c=1 d=7.81082e-06 t=11615
+zhou ye 	晝夜	c=1 d=5.31759e-12 t=11615
+zhu 	主	c=1 d=4.41032e-17 t=11615
+zhu 	住	c=1 d=9.71933e-19 t=11615
+zhu bu 	逐步	c=1 d=9.74117e-16 t=11615
+zhu dong 	主動	c=3 d=0.000105163 t=11615
+zhu dong chong xi shou 	主動重吸收	c=1 d=1.18732e-20 t=11615
+zhu dong mai 	主動脈	c=6 d=0.16142 t=11615
+zhu dong mai ban 	主動脈瓣	c=2 d=9.94483e-14 t=11615
+zhu dong mai ban qu 	主動脈瓣區	c=1 d=2.25059e-14 t=11615
+zhu dong mai gong 	主動脈弓	c=1 d=2.7281e-13 t=11615
+zhu dong mai nei 	主動脈內	c=1 d=4.69116e-08 t=11615
+zhu dong mai zhong du 	主動脈重度	c=1 d=1.08132e-13 t=11615
+zhu dong mai zhong du guan bi bu quan 	主動脈重度關閉不全	c=1 d=1.36835e-13 t=11615
+zhu ji 	主機	c=3 d=5.59903e-17 t=11615
+zhu jian 	逐漸	c=3 d=0.00573216 t=11615
+zhu liu 	瀦留	c=2 d=0.0824965 t=11615
+zhu ru 	注入	c=5 d=4.34096e-07 t=11615
+zhu she 	注射	c=5 d=2.32407e-17 t=11615
+zhu she gei yao 	注射給藥	c=1 d=5.88085e-20 t=11615
+zhu ti 	主題	c=2 d=0.000190664 t=11615
+zhu wang 	蛛網	c=0 d=0.000831246 t=11615
+zhu wang mo 	蛛網膜	c=5 d=0.0373685 t=11615
+zhu yao 	主要	c=30 d=0.813378 t=11615
+zhu yao gen ju 	主要根據	c=1 d=4.67905e-07 t=11615
+zhu yao jian yu 	主要見於	c=3 d=3.8067e-13 t=11615
+zhu yao wei 	主要爲	c=1 d=2.09736e-08 t=11615
+zhu yao yong yu 	主要用於	c=1 d=2.42422e-06 t=11615
+zhu yao you 	主要有	c=1 d=2.37129e-11 t=11615
+zhu yao yu 	主要與	c=1 d=0.537944 t=11615
+zhu yao zai 	主要在	c=2 d=2.32092e-20 t=11615
+zhu yi 	注意	c=3 d=0.0836344 t=11615
+zhu yi xia 	注意下	c=1 d=6.63989e-07 t=11615
+zhu zhuang 	柱狀	c=2 d=0.010949 t=11615
+zhuan 	磚	c=1 d=0.000145549 t=11615
+zhuan an mei 	轉氨酶	c=1 d=1.00847e-11 t=11615
+zhuan bian 	轉變	c=1 d=1.41637e-07 t=11615
+zhuan bian wei 	轉變爲	c=2 d=8.49103e-10 t=11615
+zhuan dong 	轉動	c=0 d=4.53213e-15 t=11615
+zhuan hua 	轉化	c=1 d=3.35863e-18 t=11615
+zhuan huan 	轉換	c=1 d=3.70227e-17 t=11615
+zhuan li 	專利	c=1 d=0.000471307 t=11615
+zhuan men 	專門	c=3 d=0.000102055 t=11615
+zhuan song 	轉送	c=1 d=0.0939493 t=11615
+zhuan wei 	轉位	c=3 d=0.14344 t=11615
+zhuan ye 	專業	c=1 d=3.1289e-08 t=11615
+zhuan yi 	轉移	c=1 d=1.12237e-12 t=11615
+zhuan yi dao 	轉移到	c=1 d=2.60133e-12 t=11615
+zhuan yi mei 	轉移酶	c=2 d=1.30807e-12 t=11615
+zhuan yun 	轉運	c=8 d=1.48936 t=11615
+zhuang 	狀	c=6 d=0.0128319 t=11615
+zhuang 	裝	c=1 d=1.23259e-19 t=11615
+zhuang tai 	狀態	c=6 d=0.016827 t=11615
+zhuang tai xia 	狀態下	c=1 d=7.17922e-14 t=11615
+zhui guan 	椎管	c=1 d=8.51247e-18 t=11615
+zhun 	準	c=1 d=0.00878245 t=11615
+zhuo 	卓	c=2 d=0.120638 t=11615
+zhuo 	濁	c=1 d=0.000312783 t=11615
+zhuo mian 	桌面	c=1 d=0.0492917 t=11615
+zhuo yin 	濁音	c=4 d=0.00136719 t=11615
+zhuo yin qu 	濁音區	c=1 d=1.39528e-07 t=11615
+zi 	甾	c=1 d=6.85865e-06 t=11615
+zi 	自	c=1 d=1.34473e-14 t=11615
+zi dai 	自帶	c=1 d=0.0128424 t=11615
+zi dong 	自動	c=23 d=0.158878 t=11615
+zi fa xing 	自發性	c=2 d=1.04149 t=11615
+zi gong si 	子公司	c=1 d=1.87372e-05 t=11615
+zi ji 	自己	c=4 d=0.262103 t=11615
+zi ji xie 	自己寫	c=1 d=0.13466 t=11615
+zi lv xing 	自律性	c=1 d=8.6323e-06 t=11615
+zi mu 	字母	c=4 d=0.000266676 t=11615
+zi ran 	自然	c=3 d=3.48796e-18 t=11615
+zi se 	紫色	c=1 d=1.62025e-13 t=11615
+zi ti 	字體	c=11 d=0.00122306 t=11615
+zi wai xian 	紫外線	c=1 d=5.86367e-15 t=11615
+zi you 	自由	c=1 d=0.559898 t=11615
+zong 	總	c=3 d=3.05257e-09 t=11615
+zong bo 	縱波	c=1 d=3.89209e-17 t=11615
+zong ge 	縱隔	c=2 d=1.36943 t=11615
+zong he 	綜合	c=1 d=0.00960953 t=11615
+zong he zheng 	綜合徵	c=3 d=0.164897 t=11615
+zong liang 	總量	c=2 d=0.579842 t=11615
+zong lun 	總論	c=2 d=3.25714e-10 t=11615
+zong shu 	總數	c=1 d=4.56586e-13 t=11615
+zong su 	總訴	c=1 d=3.56631e-18 t=11615
+zong yao 	總要	c=1 d=1.74823e-13 t=11615
+zou lu 	走路	c=1 d=0.970446 t=11615
+zu 	族	c=1 d=3.81275e-15 t=11615
+zu ai 	阻礙	c=1 d=1.60993e-14 t=11615
+zu cheng 	組成	c=9 d=3.40229e-14 t=11615
+zu fen 	組分	c=1 d=0.0118551 t=11615
+zu he 	組合	c=1 d=2.6621e-19 t=11615
+zu kang 	阻抗	c=6 d=2.05242e-15 t=11615
+zu li 	阻力	c=2 d=4.76451e-07 t=11615
+zu se 	阻塞	c=5 d=0.00844438 t=11615
+zu se hou 	阻塞後	c=1 d=0.00245409 t=11615
+zu se xing 	阻塞性	c=5 d=0.00721426 t=11615
+zu zhi 	組織	c=52 d=5.65313 t=11615
+zu zhi 	阻止	c=1 d=0.154124 t=11615
+zu zhi 	阻滯	c=12 d=3.4834e-05 t=11615
+zu zhi de 	組織的	c=1 d=0.436049 t=11615
+zu zhi shi 	組織時	c=1 d=1.73143e-17 t=11615
+zu zhi xue 	組織學	c=1 d=2.37743e-12 t=11615
+zuan 	賺	c=1 d=6.59084e-08 t=11615
+zui 	最	c=10 d=0.326339 t=11615
+zui chang jian 	最常見	c=1 d=4.46313e-10 t=11615
+zui chang yong 	最常用	c=1 d=0.0218184 t=11615
+zui da 	最大	c=3 d=1.04542e-14 t=11615
+zui di 	最低	c=1 d=2.76312e-16 t=11615
+zui gui 	最貴	c=1 d=0.00887071 t=11615
+zui jin 	最近	c=1 d=4.74896e-05 t=11615
+zui mei 	最美	c=1 d=6.91322e-11 t=11615
+zui qiang 	最強	c=1 d=4.38757e-15 t=11615
+zui zhong 	最終	c=1 d=3.79341e-09 t=11615
+zui zhong yao 	最重要	c=1 d=4.8273e-21 t=11615
+zun xun 	遵循	c=3 d=1.07372e-15 t=11615
+zuo 	做	c=2 d=2.92933e-05 t=11615
+zuo 	唑	c=2 d=0.0783643 t=11615
+zuo 	左	c=8 d=0.910928 t=11615
+zuo biao 	座標	c=1 d=6.83258e-20 t=11615
+zuo ce 	左側	c=1 d=0.704688 t=11615
+zuo dao 	做到	c=1 d=6.90969e-05 t=11615
+zuo fang 	左房	c=2 d=0.00127476 t=11615
+zuo gong 	做功	c=2 d=3.70878e-09 t=11615
+zuo jian 	左肩	c=1 d=1.07583e-07 t=11615
+zuo shi 	左室	c=6 d=3.77918e-07 t=11615
+zuo wei 	作爲	c=3 d=0.0228227 t=11615
+zuo wei 	做爲	c=1 d=4.26602e-08 t=11615
+zuo wei 	坐位	c=3 d=0.000805111 t=11615
+zuo xia 	左下	c=1 d=0.0049667 t=11615
+zuo xin 	左心	c=4 d=0.737123 t=11615
+zuo xin er 	左心耳	c=1 d=0.00110269 t=11615
+zuo xin fang 	左心房	c=1 d=0.00121259 t=11615
+zuo xin shi 	左心室	c=4 d=0.0024296 t=11615
+zuo xiong 	左胸	c=1 d=0.000457378 t=11615
+zuo yi 	左移	c=1 d=0.00153381 t=11615
+zuo yong 	作用	c=23 d=0.385847 t=11615
+zuo yong ji zhi 	作用機制	c=1 d=5.20964e-06 t=11615
+zuo yong kuai 	作用快	c=1 d=0.0934807 t=11615
+zuo yong xia 	作用下	c=2 d=1.42467e-12 t=11615
+zuo yong xiao 	作用小	c=1 d=0.0862936 t=11615
+zuo you 	左右	c=2 d=1.13598e-06 t=11615
+zuo yuan 	作緣	c=1 d=2.17843e-13 t=11615
