@@ -2,14 +2,13 @@
 # your system.  Help is available in the configuration.nix(5) man page
 # and in the NixOS manual (accessible by running ‘nixos-help’).
 
-{ config, pkgs, ... }:
+{ config, pkgs, lib, ... }:
 
 {
   imports =
     [ # Include the results of the hardware scan.
       ./hardware-configuration.nix
-    ];
-
+    ]; 
   # Use the systemd-boot EFI boot loader.
   boot.loader.systemd-boot.enable = true;
   boot.loader.efi.canTouchEfiVariables = true;
@@ -33,16 +32,26 @@
 }];
 
   networking.defaultGateway = "192.168.1.118";
-  networking.nameservers = ["192.168.1.118"];
+  networking.nameservers = ["119.29.29.29"];
+  networking.extraHosts = 
+  ''
+  	45.76.42.255 fcitx-im.org
+	45.76.42.255 download.fcitx-im.org
+  '';
+
   # Configure network proxy if necessary
   # networking.proxy.default = "http://user:password@proxy:port/";
   # networking.proxy.noProxy = "127.0.0.1,localhost,internal.domain";
 
   # Select internationalisation properties.
    i18n = {
-   #defaultLocale= "zh_CN.UTF-8";
-   extraLocaleSettings = {LANG = "zh_CN.UTF-8"; LANGUAGE = "zh_CN.UTF-8";LC_ALL= "zh_CN.UTF-8";};
-   supportedLocales = ["en_US.UTF-8/UTF-8"];
+   defaultLocale = "en_US.UTF-8";
+   extraLocaleSettings = {LANG = "zh_CN.UTF-8"; LANGUAGE = "zh_CN.UTF-8";};
+   supportedLocales = ["en_US.UTF-8/UTF-8" "zh_CN.UTF-8/UTF-8"];
+   inputMethod = {
+   enabled = "fcitx";
+  fcitx.engines = with pkgs.fcitx-engines; [ rime ];
+ };
    };
    console = {
      font = "Lat2-Terminus16";
@@ -97,21 +106,22 @@
    services.xserver.libinput.enable = true;
 
   # Enable the KDE Desktop Environment.
-   services.xserver.displayManager.startx.enable = true;
-   services.xserver.windowManager.bspwm.enable = true;
-   services.xserver.videoDrivers = ["modesetting" "nvidia"];
-   hardware.nvidia.prime = {
-	sync.enable = true;
-	nvidiaBusId = "PCI:1:0:0";
-	intelBusId = "PCI:0:2:0";
-   };
+   #services.xserver.displayManager.startx.enable = true;
+   services.xserver.desktopManager.gnome3.enable = true;
+   #services.xserver.windowManager.bspwm.enable = true;
+   #services.xserver.videoDrivers = ["modesetting" ];
+   #hardware.nvidia.prime = {
+   #     sync.enable = true;
+   #     nvidiaBusId = "PCI:1:0:0";
+   #     intelBusId = "PCI:0:2:0";
+   #};
 
-   hardware.opengl = {
-	enable = true;
-	driSupport = true;
-	driSupport32Bit = true;
-	extraPackages = with pkgs; [ vaapiIntel libvdpau-va-gl vaapiVdpau intel-ocl ];
-   };
+   #hardware.opengl = {
+   #     enable = true;
+   #     driSupport = true;
+   #     driSupport32Bit = true;
+   #     extraPackages = with pkgs; [ vaapiIntel libvdpau-va-gl vaapiVdpau intel-ocl ];
+   #};
 
   # Define a user account. Don't forget to set a password with ‘passwd’.
    users.users.waytrue= {
