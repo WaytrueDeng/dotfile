@@ -7,12 +7,11 @@
 {
   imports =
     [ # Include the results of the hardware scan.
-      ./hardware-configuration.nix
+      /etc/nixos/hardware-configuration.nix
     ]; 
   # Use the systemd-boot EFI boot loader.
   boot.loader.systemd-boot.enable = true;
-  boot.loader.efi.canTouchEfiVariables = true;
-  boot.kernelParams = ["acpi_osi=!" "acpi_osi='windows 2015'" "nvidia-drm.modeset=1"];
+  boot.loader.efi.canTouchEfiVariables = true; boot.kernelParams = ["acpi_osi=!" "acpi_osi='windows 2015'" "nvidia-drm.modeset=1"];
 
   networking.hostName = "MSI"; # Define your hostname.
   networking.wireless.enable = false;  # Enables wireless support via wpa_supplicant.
@@ -21,8 +20,7 @@
 
   # The global useDHCP flag is deprecated, therefore explicitly set to false here.
   # Per-interface useDHCP will be mandatory in the future, so this generated config
-  # replicates the default behaviour.
-  networking.useDHCP = false;
+  # replicates the default behaviour.  networking.useDHCP = false;
   networking.interfaces.enp61s0.useDHCP = false;
   networking.interfaces.wlp62s0.useDHCP = false;
 
@@ -66,7 +64,7 @@
    nixpkgs.config.allowUnfree = true;
 
    environment.systemPackages = with pkgs; [
-     wget neovim neofetch zsh oh-my-zsh git 
+     wget neofetch git nodejs sqlite
    ];
 
   # Some programs need SUID wrappers, can be configured further or are
@@ -77,7 +75,6 @@
      enableSSHSupport = true;
      pinentryFlavor = "gnome3";
    };
- programs.zsh.enable = true;
 
   # List services that you want to enable:
 
@@ -100,7 +97,7 @@
   # Enable the X11 windowing system.
    services.xserver.enable = true;
    services.xserver.layout = "us";
-   #services.xserver.xkbOptions = "eurosign:e";
+   services.xserver.xkbOptions = "caps:swapescape";
 
   # Enable touchpad support.
    services.xserver.libinput.enable = true;
@@ -108,6 +105,9 @@
   # Enable the KDE Desktop Environment.
    #services.xserver.displayManager.startx.enable = true;
    services.xserver.desktopManager.gnome3.enable = true;
+   services.xserver.displayManager.sessionCommands = ''
+	setxkbmap -option caps:swapescape
+   '';
    #services.xserver.windowManager.bspwm.enable = true;
    #services.xserver.videoDrivers = ["modesetting" ];
    #hardware.nvidia.prime = {
@@ -129,7 +129,18 @@
      extraGroups = [ "wheel" ]; # Enable ‘sudo’ for the user.
      shell = pkgs.zsh;
    };
+   systemd.user.services.emacs = {
 
+	serviceConfig = {
+ 		Environment="LANG=zh_CN.UTF-8 GTK_IM_MODULE=fcitx QT_IM_MODULE=fcitx XMODIFIERS=@im=fcitx";
+     		ExecStart="/usr/bin/emacs --fg-daemon";
+     		ExecStop="/usr/bin/emacsclient --eval '(progn (setq kill-emacs-hook 'nil) (kill-emacs))'";
+     		Restart="on-failure";
+     		TimeoutStartSec=0;
+	};
+
+
+   };
   # This value determines the NixOS release from which the default
   # settings for stateful data, like file locations and database versions
   # on your system were taken. It‘s perfectly fine and recommended to leave
