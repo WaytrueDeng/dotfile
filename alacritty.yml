@@ -60,7 +60,7 @@ env:
   #
   # Values for `startup_mode` (macOS only):
   #   - SimpleFullscreen
-  #startup_mode: Windowed
+  startup_mode: SimpleFullscreen
 
   # Window title
   title: Alacritty
@@ -95,10 +95,9 @@ font:
     #
     # Default:
     #   - (macOS) Menlo
-    #   - (Linux/BSD) Source Code Pro
+    #   - (Linux/BSD) JetBrainsMono Nerd Font
     #   - (Windows) Consolas
-    family: Source Code Pro 
-
+    family: JetBrainsMono Nerd Font 
     # The `style` can be specified to pick a specific face.
     style: Regular
 
@@ -108,7 +107,7 @@ font:
     #
     # If the bold family is not specified, it will fall back to the
     # value specified for the normal font.
-    family: Source Code Pro
+    family: JetBrainsMono Nerd Font
 
     # The `style` can be specified to pick a specific face.
     style: Bold
@@ -119,7 +118,7 @@ font:
     #
     # If the italic family is not specified, it will fall back to the
     # value specified for the normal font.
-    family: Source Code Pro
+    family: JetBrainsMono Nerd Font
 
     # The `style` can be specified to pick a specific face.
     style: Italic
@@ -130,13 +129,13 @@ font:
     #
     # If the bold italic family is not specified, it will fall back to the
     # value specified for the normal font.
-    family: Source Code Pro
+    family: JetBrainsMono Nerd Font
 
     # The `style` can be specified to pick a specific face.
     style: Bold Italic
 
   # Point size
-  #size: 11.0
+  size: 20.0
 
   # Offset is the extra space around each character. `offset.y` can be thought of
   # as modifying the line spacing, and `offset.x` as modifying the letter spacing.
