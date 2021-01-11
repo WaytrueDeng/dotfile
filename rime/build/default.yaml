@@ -1,11 +1,11 @@
 __build_info:
-  rime_version: 1.6.1
+  rime_version: 1.5.3
   timestamps:
-    default: 1599578333
-    default.custom: 0
-    key_bindings: 1599578333
+    default: 1610368368
+    default.custom: 1610368528
+    key_bindings: 1561294610
     key_bindings.custom: 0
-    punctuation: 1599578333
+    punctuation: 1561294610
     punctuation.custom: 0
 ascii_composer:
   good_old_caps_lock: true
@@ -50,7 +50,7 @@ key_binder:
     - {accept: "Control+Shift+dollar", toggle: simplification, when: always}
     - {accept: "Control+Shift+percent", toggle: extended_charset, when: always}
 menu:
-  page_size: 5
+  page_size: 9
 punctuator:
   full_shape:
     " ": {commit: "　"}

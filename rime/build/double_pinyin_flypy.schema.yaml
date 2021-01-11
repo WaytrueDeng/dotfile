@@ -1,11 +1,11 @@
 __build_info:
-  rime_version: 1.6.1
+  rime_version: 1.5.3
   timestamps:
-    default: 1599578333
-    default.custom: 0
-    double_pinyin_flypy.custom: 1602918782
-    double_pinyin_flypy.schema: 1602917604
-    emoji_suggestion: 1602918924
+    default: 1610368368
+    default.custom: 1610368528
+    double_pinyin_flypy.custom: 1610366879
+    double_pinyin_flypy.schema: 1610370092
+    emoji_suggestion: 1610366879
     emoji_suggestion.custom: 0
     key_bindings: 1599578333
     key_bindings.custom: 0
@@ -103,7 +103,7 @@ key_binder:
     - {accept: "Control+Shift+percent", toggle: extended_charset, when: always}
   import_preset: default
 menu:
-  page_size: 5
+  page_size: 9
 punctuator:
   full_shape:
     " ": {commit: "　"}
