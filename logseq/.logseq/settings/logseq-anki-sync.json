@@ -10,10 +10,10 @@
   "skipOnDependencyHashMatch": true,
   "activeCacheForLogseqAPIv0": false,
   "debug": [],
+  "disabled": false,
   "hideNativeFlashcard": false,
   "previewNotesInAnki": false,
   "useCacheForConversion": true,
   "syncDebug": false,
-  "converterDebug": false,
-  "disabled": false
+  "converterDebug": false
 }

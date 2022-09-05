@@ -83,7 +83,8 @@ source $ZSH/oh-my-zsh.sh
 export GTK_IM_MODULE=fcitx
 export QT_IM_MODULE=fcitx
 export XMODIFIERS=@im=fcitx
-
+export QT_QPA_PLATFORMTHEME=qt5ct
+export PATH=/home/waytrue/.local/bin:$PATH
 # Preferred editor for local and remote sessions
 # if [[ -n $SSH_CONNECTION ]]; then
 #   export EDITOR='vim'

@@ -1,5 +1,5 @@
 #! /bin/sh
-
+pkill sxhkd
 pgrep -x sxhkd > /dev/null || sxhkd &
 
 bspc monitor -d I II III IV V VI VII VIII IX X
@@ -7,20 +7,12 @@ bspc monitor -d I II III IV V VI VII VIII IX X
 bspc config border_width         2
 bspc config window_gap          12
 
-bspc config split_ratio          0.52
+bspc config split_ratio          0.50
 bspc config borderless_monocle   true
 bspc config gapless_monocle      true
 bspc config pointer_follows_focus true
 bspc config focus_follows_pointer true
 
-bspc rule -a Gimp desktop='^8' state=floating follow=on
-bspc rule -a Microsoft-edge desktop='^2'
-bspc rule -a Alacritty desktop='^1'
-bspc rule -a netease-cloud-music  desktop'^0' 
-bspc rule -a Yad state=floating
-bspc rule -a Kupfer.py focus=on
-bspc rule -a Screenkey manage=off
-bspc rule -a Emacs state=tiled
 
 
 # Border
@@ -46,9 +38,9 @@ sh ~/.screenlayout/monitor.sh &
 # Picom
 picom -CGb &
 # Network Applet
-nm-applet --indicator &
+#nm-applet --indicator &
 # Xmodmap
-xmodmap /home/waytrue/stow/Xmodmap &
+#xmodmap /home/waytrue/stow/Xmodmap &
 # Cursor
 xsetroot -cursor_name left_ptr &
 # Pinyin
@@ -75,6 +67,7 @@ bspc rule -a Xfce4-terminal desktop='^1' follow=on focus=on
 ## 2 > web (always open web browser on workspace-2)
 bspc rule -a firefox desktop='^2' follow=on focus=on
 bspc rule -a chromium desktop='^2' follow=on focus=on
+bspc rule -a Zotero desktop='^5' follow=on focus=on
 
 ## 3 > files (always open file manager on workspace-3)
 declare -a files=(Pcmanfm Thunar qBittorrent)
@@ -87,7 +80,7 @@ for i in ${code[@]}; do
    bspc rule -a $i desktop='^4' follow=on focus=on; done
 
 ## 5 > office and docs (always open office/doc apps on workspace-5)
-declare -a office=(Gucharmap Atril Evince Logseq zotero\
+declare -a office=(Gucharmap Atril Evince Logseq Zotero\
 libreoffice-writer libreoffice-calc libreoffice-impress \
 libreoffice-startcenter libreoffice Soffice *:libreofficedev *:soffice)
 for i in ${office[@]}; do
@@ -99,7 +92,7 @@ for i in ${comm[@]}; do
    bspc rule -a $i desktop='^6' follow=on focus=on; done
 
 ## 7 > media (always open media apps on workspace-7)
-declare -a media=(Audacity Music MPlayer Lxmusic Inkscape Gimp-2.10 obs Spotify) 
+declare -a media=(Audacity Music MPlayer Lxmusic Inkscape Gimp-2.10 obs Spotify spotify) 
 for i in ${media[@]}; do
    bspc rule -a $i desktop='^7' state=floating follow=on focus=on; done
 

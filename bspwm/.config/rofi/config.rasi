@@ -4,7 +4,7 @@
  *******************************************************/
 
 configuration {
-    font:				"Sourcecode Pro Regular 10";
+    font:				"Sourcecode Pro Regular 15";
     show-icons:				true;
     icon-theme:				"Arc-X-D";
     display-drun:			"Apps";
