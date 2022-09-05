@@ -1,0 +1,12 @@
+{
+    "name": "enhanced-cloze",
+    "package": "enhance-cloze",
+    "ankiweb_id": "1990296174",
+    "author": "RisingOrange",
+    "version": "1.2.8",
+    "homepage": "",
+    "conflicts": [
+        "1990296174"
+    ],
+    "mod": 1650646502
+}

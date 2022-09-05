@@ -1,0 +1,10 @@
+{
+  "disabled": true,
+  "buttons": [
+    {
+      "key": "google",
+      "icon": "brand-google",
+      "href": "https://www.google.com"
+    }
+  ]
+}

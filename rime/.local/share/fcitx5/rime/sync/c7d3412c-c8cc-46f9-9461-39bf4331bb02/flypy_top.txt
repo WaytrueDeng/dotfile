@@ -1,0 +1,97 @@
+
+# coding: utf-8
+# 小鹤音形“置顶”用户词库（与系统词条重码时居前）
+# 该文件以UTF-8编码保存
+# 编码格式：字词+Tab符+编码（用户词库本身有重码则还需后面+Tab符+权重，权重大者居前，权重数字随意）
+# 
+#    === 强调一下 === 
+# 
+#   词条和编码之间的不是空格，而是Tab符，如果你不知道，就复制下面编码中的空白处
+#   或者按住键盘 G 键，切换到功能键盘，使用上面的Tab键
+# 
+#    ================
+#分号冒号编码只能放此文件才能调频，如分号做首选需添加权重
+：	;
+；	;
+# 如用户词无重或和系统词条重码时居前，则无需权重（如想居于系统词条后，请把词条放到flypy_user.txt文件内）：
+#
+# 虽然文本码表编辑较为方便，但不适合导入大量条目
+# 置顶用户词库，20行开始添加，编码格式见上。切换方案或部署后生效
+# no comment
+
+
+
+
+我的	wode
+膜泡	mopc
+大分子	dfzi
+蛋白质	dbvi
+分泌腺	fmxm
+腺泡	xmpc
+团块	trkk
+中性粒细胞	vxlb
+吞饮	tyyb
+受体	uzti
+超极化	ijhx
+平衡电位	phdw
+电位	dmww
+白板	bdbj
+Ca²⁺	glzi
+Na⁺	nlzi
+K⁺	jlzi
+Cl⁻	llzi
+横纹肌	hwji
+- [ ]	todo
+脆性	cvxk
+球蛋白	qdbd
+→	;y
+←	;z
+↑	;u
+↓	;x
+核苷酸	hgsr
+溶血	rsxt
+血小板	xxbj
+因子	ybzi
+灭活	mpho
+凝血	nkxt
+抗凝	khnk
+心衰	xbuk
+心室	xbui
+瓣膜	bjmo
+心房	xbfh
+维拉帕米	wlpm
+去极化	qjhx
+窦房结	dfjp
+浦肯野	pkye
+阈电位	ydww
+程度	igdu
+肾上腺	uuxm
+胸膜	xsmo
+肺泡	fwpc
+呼气	huqi
+离子	lizi
+外周	wdvz
+中枢	vsuu
+邓蔚竹	dwvu
+脑脊液	njye
+交感	jngj
+食管	uigr
+括约肌	kyji
+迷走	mizz
+幽门	yzmf
+食物	uiwu
+胆汁	djvi
+✅	gz
+#+ALIAS: 	bpmk
+分期	ffqi
+\xrightarrow[]{}	ofra
+\begin{cases}\end{cases}	case
+\begin{rcases}\end{rcases}	rcas
+\textcolor{yellow}{}	ofhs
+解离	jpli
+结核	jphe
+⁺	ofuj
+⁻	ofuj
+#+deck:	deck
+黏膜	nmmo
+栓塞	ursd
