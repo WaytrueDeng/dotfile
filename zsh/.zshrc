@@ -89,7 +89,7 @@ export PATH=/home/waytrue/.local/bin:$PATH
 # if [[ -n $SSH_CONNECTION ]]; then
 #   export EDITOR='vim'
 # else
-#   export EDITOR='mvim'
+  export EDITOR='lvim'
 # fi
 
 # Compilation flags

@@ -1,1 +1,1 @@
-{"name": "Image Occlusion Enhanced for Anki 21", "mod": 1649488505, "homepage": "https://github.com/glutanimate/image-occlusion-enhanced", "min_point_version": 50, "conflicts": ["image_occlusion_enhanced"], "max_point_version": 50, "branch_index": 1, "disabled": false}
+{"name": "Image Occlusion Enhanced for Anki 21", "mod": 1649488505, "homepage": "https://github.com/glutanimate/image-occlusion-enhanced", "min_point_version": 50, "conflicts": ["image_occlusion_enhanced"], "max_point_version": 50, "branch_index": 1, "disabled": true, "update_enabled": true}
