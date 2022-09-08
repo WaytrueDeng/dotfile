@@ -4,6 +4,8 @@ pgrep -x sxhkd > /dev/null || sxhkd &
 
 bspc monitor -d I II III IV V VI VII VIII IX X
 
+bspc config top_padding 50
+
 bspc config border_width         2
 bspc config window_gap          12
 
@@ -24,11 +26,11 @@ bspc config active_border_color         "#073642"
 # Autostart
 #
 # Set display from arandr saved script
-sh ~/.screenlayout/monitor.sh &
+#sh ~/.screenlayout/monitor.sh &
 # Bar
-~/.config/polybar/launch.sh &
+#~/.config/polybar/launch.sh &
 # Notifications
-/usr/bin/dunst &
+#/usr/bin/dunst &
 # Polkit
 #/usr/lib/polkit-gnome/polkit-gnome-authentication-agent-1 &
 # Wallpaper
@@ -47,12 +49,12 @@ xsetroot -cursor_name left_ptr &
 #fcixt-autostart &
 fcitx5 &
 # Low battery notifier
-~/.config/bspwm/scripts/low_bat_notifier.sh
+#~/.config/bspwm/scripts/low_bat_notifier.sh
 
-if [[ ! `pidof xfce-polkit` ]]; then
-	/usr/lib/xfce-polkit/xfce-polkit &
-fi
-feh --no-fehbg --bg-fill "/home/waytrue/Pictures/wallpaper"
+#if [[ ! `pidof xfce-polkit` ]]; then
+#	/usr/lib/xfce-polkit/xfce-polkit &
+#fi
+#feh --no-fehbg --bg-fill "/home/waytrue/Pictures/wallpaper"
 
 
 ## Window rules ----------------------------------------------#
@@ -111,5 +113,7 @@ Viewnior feh Nm-connection-editor)
 for i in ${floating[@]}; do
    bspc rule -a $i state=floating follow=on focus=on; done
 
-bspc rule -a Conky state=floating manage=off
-bspc rule -a stalonetray state=floating manage=off
+## Always Floating Apps
+declare -a nomanage=(plasmashell)
+for i in ${nomanage[@]}; do
+   bspc rule -a $i state=floating manage=off; done
