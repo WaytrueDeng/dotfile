@@ -1,419 +1,380 @@
+* PackageManagement
 #+begin_src emacs-lisp
-(use-package cl-lib
-  :ensure t)
- (defvar bootstrap-version)
- (let ((bootstrap-file
-        (expand-file-name "straight/repos/straight.el/bootstrap.el" user-emacs-directory))
-       (bootstrap-version 5))
-   (unless (file-exists-p bootstrap-file)
-     (with-current-buffer
-         (url-retrieve-synchronously
-          "https://raw.githubusercontent.com/raxod502/straight.el/develop/install.el"
-          'silent 'inhibit-cookies)
-       (goto-char (point-max))
-       (eval-print-last-sexp)))
-   (load bootstrap-file nil 'nomessage))
- 
- (setq package-enable-at-startup nil)
- (straight-use-package 'use-package)
- (setq straight-use-package-by-default t)
-(setq package-archives '(("gnu"   . "https://mirrors.tuna.tsinghua.edu.cn/elpa/gnu/")
-                         ("melpa" . "https://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")))
-(eval-when-compile
-  ;; Following line is not needed if use-package.el is in ~/.emacs.d
-  (add-to-list 'load-path "~/.emacs.d/lisp/use-package")
-  (require 'use-package))
+(require 'package)
+(setq package-archives '(("gnu"    . "http://mirrors.tuna.tsinghua.edu.cn/elpa/gnu/")
+                         ("nongnu" . "http://mirrors.tuna.tsinghua.edu.cn/elpa/nongnu/")
+                         ("melpa"  . "http://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")))
+(package-initialize)
+;; Following line is not needed if use-package.el is in ~/.emacs.d
+(add-to-list 'load-path "~/.emacs.d/lisp/use-package")
+(require 'use-package)
 #+end_src
-* Init
+
+* Basic
 #+begin_src emacs-lisp
-  (menu-bar-mode -1)
-  (tool-bar-mode -1)
-  (scroll-bar-mode -1)
+;; 关闭工具栏，tool-bar-mode 即为一个 Minor Mode
+(tool-bar-mode -1)
 
-  (setq-default cursor-type 'bar)
+;; Disable Menubar
+(menu-bar-mode -1)
 
-  ;;(setq split-height-threshold nil)
-  ;;(setq split-width-threshold 0)
+;; 关闭文件滑动控件
+(scroll-bar-mode -1)
 
-  (setq inhibit-splash-screen 1)
+;; 显示行号
+;;(global-linum-mode 1)
 
+;; 更改光标的样式（不能生效，解决方案见第二集）
+(setq cursor-type 'bar)
 
-  (use-package dashboard 
+;; 关闭启动帮助画面
+(setq inhibit-splash-screen 1)
+
+;; stop creating backup~ files
+(setq make-backup-files nil)
+
+;; ; stop creating #autosave# files
+(setq auto-save-default nil)
+#+end_src
+
+* 交互
+#+begin_src emacs-lisp
+  (use-package evil
+    :ensure t 
+    :init 
+    (setq evil-want-keybinding nil)
+    :config
+    (evil-mode 1)
+    )
+
+  (use-package evil-collection
+    :ensure t 
+    :after evil
+    :config 
+    (evil-collection-init)
+    )
+
+  ;; Enable vertico
+  (use-package vertico
+    :ensure t 
+    :init
+    (vertico-mode)
+
+    ;; Different scroll margin
+    ;; (setq vertico-scroll-margin 0)
+
+    ;; Show more candidates
+    ;; (setq vertico-count 20)
+
+    ;; Grow and shrink the Vertico minibuffer
+    ;; (setq vertico-resize t)
+
+    ;; Optionally enable cycling for `vertico-next' and `vertico-previous'.
+    (setq vertico-cycle t)
+    )
+
+  ;; Enable rich annotations using the Marginalia package
+  (use-package marginalia
+    ;; Either bind `marginalia-cycle' globally or only in the minibuffer
+    :ensure t 
+    :bind (
+	   ;("M-A" . marginalia-cycle)
+	   :map minibuffer-local-map
+	   ("M-A" . marginalia-cycle))
+
+    ;; The :init configuration is always executed (Not lazy!)
+    :init
+
+    ;; Must be in the :init section of use-package such that the mode gets
+    ;; enabled right away. Note that this forces loading the package.
+    (marginalia-mode))
+
+  (use-package orderless
+    :ensure t
+    :custom
+    (completion-styles '(orderless basic))
+    (completion-category-overrides '((file (styles basic partial-completion)))))
+
+  ;; 
+  (use-package corfu
+    :ensure t
+    ;; Optional customizations
+    :custom
+    (corfu-cycle t)                ;; Enable cycling for `corfu-next/previous'
+    (corfu-auto t)                 ;; Enable auto completion
+    (corfu-separator ?\s)          ;; Orderless field separator
+    (corfu-quit-at-boundary nil)   ;; Never quit at completion boundary
+    (corfu-quit-no-match t)      ;; Never quit, even if there is no match
+    (corfu-preview-current t)    ;; Disable current candidate preview
+    (corfu-preselect 'prompt)      ;; Preselect the prompt
+    (corfu-on-exact-match nil)     ;; Configure handling of exact matches
+    (corfu-scroll-margin 6)        ;; Use scroll margin
+
+    ;; Enable Corfu only for certain modes.
+    ;; :hook ((prog-mode . corfu-mode)
+    ;;        (shell-mode . corfu-mode)
+    ;;        (eshell-mode . corfu-mode))
+
+    ;; Recommended: Enable Corfu globally.
+    ;; This is recommended since Dabbrev can be used globally (M-/).
+    ;; See also `corfu-excluded-modes'.
+    :init
+    (setq corfu-auto t
+	corfu-quit-no-match 'separator)
+    (global-corfu-mode))
+
+  ;; Persist history over Emacs restarts. Vertico sorts by history position.
+  (use-package cape
+    ;; Bind dedicated completion commands
+    ;; Alternative prefix keys: C-c p, M-p, M-+, ...
+    :ensure t
+    :bind (("C-c p p" . completion-at-point) ;; capf
+	   ("C-c p t" . complete-tag)        ;; etags
+	   ("C-c p d" . cape-dabbrev)        ;; or dabbrev-completion
+	   ("C-c p h" . cape-history)
+	   ("C-c p f" . cape-file)
+	   ("C-c p k" . cape-keyword)
+	   ("C-c p s" . cape-symbol)
+	   ("C-c p a" . cape-abbrev)
+	   ("C-c p i" . cape-ispell)
+	   ("C-c p l" . cape-line)
+	   ("C-c p w" . cape-dict)
+	   ("C-c p \\" . cape-tex)
+	   ("C-c p _" . cape-tex)
+	   ("C-c p ^" . cape-tex)
+	   ("C-c p &" . cape-sgml)
+	   ("C-c p r" . cape-rfc1345))
+    :init
+    ;; Add `completion-at-point-functions', used by `completion-at-point'.
+    (add-to-list 'completion-at-point-functions #'cape-dabbrev)
+    (add-to-list 'completion-at-point-functions #'cape-file)
+    ;;(add-to-list 'completion-at-point-functions #'cape-history)
+    (add-to-list 'completion-at-point-functions #'cape-keyword)
+    ;;(add-to-list 'completion-at-point-functions #'cape-tex)
+    ;;(add-to-list 'completion-at-point-functions #'cape-sgml)
+    ;;(add-to-list 'completion-at-point-functions #'cape-rfc1345)
+    ;;(add-to-list 'completion-at-point-functions #'cape-abbrev)
+    ;;(add-to-list 'completion-at-point-functions #'cape-ispell)
+    ;;(add-to-list 'completion-at-point-functions #'cape-dict)
+    ;;(add-to-list 'completion-at-point-functions #'cape-symbol)
+    ;;(add-to-list 'completion-at-point-functions #'cape-line)
+  )
+  (use-package savehist
     :ensure t
     :init
-    (dashboard-setup-startup-hook)
-    (dashboard-modify-heading-icons '((recents . "file-text") 
-                                      (bookmarks . "book")))
-    ;; 设置banner
-    (setq dashboard-center-content t) 
-    (setq dashboard-set-heading-icons t) 
-    (setq dashboard-set-file-icons t) 
-    (setq dashboard-set-navigator t))
-#+end_src
-* Font&UI
-#+begin_src emacs-lisp
+    (savehist-mode))
 
-  (setq org-image-actual-width '(600))
+  ;; A few more useful configurations...
+  (use-package emacs
+    :init
+    ;; Add prompt indicator to `completing-read-multiple'.
+    ;; We display [CRM<separator>], e.g., [CRM,] if the separator is a comma.
+    (defun crm-indicator (args)
+      (cons (format "[CRM%s] %s"
+		    (replace-regexp-in-string
+		     "\\`\\[.*?]\\*\\|\\[.*?]\\*\\'" ""
+		     crm-separator)
+		    (car args))
+	    (cdr args)))
+    (advice-add #'completing-read-multiple :filter-args #'crm-indicator)
 
-  (use-package all-the-icons :ensure t)
+    ;; Do not allow the cursor in the minibuffer prompt
+    (setq minibuffer-prompt-properties
+	  '(read-only t cursor-intangible t face minibuffer-prompt))
+    (add-hook 'minibuffer-setup-hook #'cursor-intangible-mode)
 
-  (use-package all-the-icons-dired :ensure t :hook ('dired-mode
-                     . 'all-the-icons-dired-mode))
+    ;; Emacs 28: Hide commands in M-x which do not work in the current mode.
+    ;; Vertico commands are hidden in normal buffers.
+    ;; (setq read-extended-command-predicate
+    ;;       #'command-completion-default-include-p)
+    ;; TAB cycle if there are only few candidates
+    (setq completion-cycle-threshold 3)
+    (setq tab-always-indent 'complete)
 
-  (use-package solarized-theme :ensure t :config )
-  (use-package doom-themes :ensure t) 
-  (load-theme 'doom-solarized-light t)
-  (use-package doom-modeline :ensure t :init (doom-modeline-mode 1)
-    :custom (doom-modeline-height 10) (doom-modeline-bar-width 3) (doom-modeline-buffer-file-name-style 'file-name))
+    ;; Enable recursive minibuffers
+    (setq enable-recursive-minibuffers t))
 
-#+end_src
-* Behavior&Input
-#+begin_src emacs-lisp
-(setq mac-option-modifier 'meta
-      mac-command-modifier 'super)
-(use-package evil
-  :ensure t
-  :init
-  (setq evil-want-keybinding nil)
-  :config
-  (evil-mode 1)
-)
-
-(use-package evil-org
-  :ensure t
-  :after org
-  :config
-  (winner-mode +1)
-  (define-key winner-mode-map (kbd "<M-left>") #'winner-undo)
-  (define-key winner-mode-map (kbd "<M-right>") #'winner-redo)
-  (add-hook 'org-mode-hook 'evil-org-mode)
-  (add-hook 'evil-org-mode-hook
-            (lambda ()
-              (evil-org-set-key-theme)))
-  (require 'evil-org-agenda)
-  (evil-org-agenda-set-keys))
-
-(setq evil-org-set-key-theme '(navigation insert textobjects additional calendar))
-(use-package evil-collection
-  :after evil
-  :ensure t
-  :config
-  (evil-collection-init)
-  :custom (evil-collection-setup-minibuffer t))
-
-(use-package format-all
-  :defer t
-  :ensure t)
-
-;(defun my/changeinput2en()
-;    "this is a function automatic changing input method to en"
-;  (interactive)
-;(if (eq major-mode 'org-mode)
-;  (shell-command "fcitx-remote -c")))
-;
-;(defun my/changeinput2cn()
-;    "this is a function automatic changing input method to en"
-;  (interactive)
-;(if (eq major-mode 'org-mode)
-;  (shell-command "fcitx-remote -o")))
-;(add-hook 'evil-insert-state-entry-hook #'my/changeinput2cn)
-;(add-hook 'evil-insert-state-exit-hook #'my/changeinput2en)
-
-(defun my/changeinto-roam-link ()
-    "changeinto-Org-roam link."
-    (interactive)
-    (backward-kill-word 1)
-    (my/insert-roam-link)
-    (yank 1))
-(defun my/insert-roam-link ()
-    "Inserts an Org-roam link."
-    (interactive)
-    (insert "[[roam:]]")
-    (backward-char 2))
-
-(defun my/auto-highlighting ()
-    "auto-highlighting"
-    (interactive)
-    (backward-word)
-    (insert "~")
-    (forward-word)
-    (insert "~")
-    (forward-char 1))
-
-(defun my/auto-strikethrough()
-    "auto-highlighting"
-    (interactive)
-    (backward-word)
-    (insert "+")
-    (forward-word)
-    (insert "+")
-    (forward-char 1))
-
-(defun my/auto-bold()
-    "auto-highlighting"
-    (interactive)
-    (backward-word)
-    (insert "*")
-    (forward-word)
-    (insert "*")
-    (forward-char 1))
-
-(defun my/auto-underline()
-    "auto-underline"
-    (interactive)
-    (backward-word)
-    (insert "_")
-    (forward-word)
-    (insert "_")
-    (forward-char 1))
-
-
-(setcdr evil-insert-state-map nil)
-
-(define-key evil-insert-state-map [escape] 'evil-normal-state)
-(define-key evil-normal-state-map (kbd "DEL") 'org-mark-ring-goto)
-(define-key evil-normal-state-map (kbd "Q") 'kill-buffer-and-window)
-(define-key evil-normal-state-map (kbd "S") 'save-buffer)
-(define-key evil-insert-state-map (kbd "M-[") #'my/insert-roam-link)
-(define-key evil-insert-state-map (kbd "M-]") #'my/changeinto-roam-link)
-(define-key evil-insert-state-map (kbd "M-}") #'my/auto-rice-English-Word)
-(define-key evil-insert-state-map (kbd "M-~") #'my/auto-highlighting)
-(define-key evil-insert-state-map (kbd "M-*") #'my/auto-bold)
-(define-key evil-insert-state-map (kbd "M-+") #'my/auto-strikethrough)
-(define-key evil-insert-state-map (kbd "M-_") #'my/auto-underline)
-
-
-(global-set-key (kbd "C-x C-d") 'dirvish)
-
-(global-set-key (kbd "C-c l") 'org-store-link)
-(global-set-key (kbd "C-c i") 'org-insert-link)
-;; 设置 org-agenda 打开快捷键
-(global-set-key (kbd "C-c a") 'org-agenda)
-;; org-capture
-(global-set-key (kbd "<f6>") 'org-capture)
-
-;; occurmode
-(global-set-key (kbd "M-s o") 'occur-dwim)
-
-#+end_src
-* BasicImprove
-#+begin_src emacs-lisp
-(use-package which-key
+  (use-package yasnippet
     :ensure t
     :config
-    (which-key-mode))
+    (yas-global-mode 1))
 
-(use-package flycheck
-  :ensure t
-  :defer 2
-  :config (global-flycheck-mode))
+  ;; Example configuration for Consult
+  (use-package consult
+    ;; Replace bindings. Lazily loaded due by `use-package'.
+    :ensure t
+    :bind (;; C-c bindings (mode-specific-map)
+	   ("C-c h" . consult-history)
+	   ("C-c m" . consult-mode-command)
+	   ("C-c k" . consult-kmacro)
+	   ;; C-x bindings (ctl-x-map)
+	   ("C-x M-:" . consult-complex-command)     ;; orig. repeat-complex-command
+	   ("C-x b" . consult-buffer)                ;; orig. switch-to-buffer
+	   ("C-x 4 b" . consult-buffer-other-window) ;; orig. switch-to-buffer-other-window
+	   ("C-x 5 b" . consult-buffer-other-frame)  ;; orig. switch-to-buffer-other-frame
+	   ("C-x r b" . consult-bookmark)            ;; orig. bookmark-jump
+	   ("C-x p b" . consult-project-buffer)      ;; orig. project-switch-to-buffer
+	   ;; Custom M-# bindings for fast register access
+	   ("M-#" . consult-register-load)
+	   ("M-'" . consult-register-store)          ;; orig. abbrev-prefix-mark (unrelated)
+	   ("C-M-#" . consult-register)
+	   ;; Other custom bindings
+	   ("M-y" . consult-yank-pop)                ;; orig. yank-pop
+	   ;; M-g bindings (goto-map)
+	   ("M-g e" . consult-compile-error)
+	   ("M-g f" . consult-flymake)               ;; Alternative: consult-flycheck
+	   ("M-g g" . consult-goto-line)             ;; orig. goto-line
+	   ("M-g M-g" . consult-goto-line)           ;; orig. goto-line
+	   ("M-g o" . consult-outline)               ;; Alternative: consult-org-heading
+	   ("M-g m" . consult-mark)
+	   ("M-g k" . consult-global-mark)
+	   ("M-g i" . consult-imenu)
+	   ("M-g I" . consult-imenu-multi)
+	   ;; M-s bindings (search-map)
+	   ("M-s d" . consult-find)
+	   ("M-s D" . consult-locate)
+	   ("M-s g" . consult-grep)
+	   ("M-s G" . consult-git-grep)
+	   ("C-c s" . consult-ripgrep)
+	   ("M-s l" . consult-line)
+	   ("M-s L" . consult-line-multi)
+	   ("M-s k" . consult-keep-lines)
+	   ("M-s u" . consult-focus-lines)
+	   ;; Isearch integration
+	   ("M-s e" . consult-isearch-history)
+	   :map isearch-mode-map
+	   ("M-e" . consult-isearch-history)         ;; orig. isearch-edit-string
+	   ("M-s e" . consult-isearch-history)       ;; orig. isearch-edit-string
+	   ("M-s l" . consult-line)                  ;; needed by consult-line to detect isearch
+	   ("M-s L" . consult-line-multi)            ;; needed by consult-line to detect isearch
+	   ;; Minibuffer history
+	   :map minibuffer-local-map
+	   ("M-s" . consult-history)                 ;; orig. next-matching-history-element
+	   ("M-r" . consult-history))                ;; orig. previous-matching-history-element
 
-;; Enable vertico
+    ;; Enable automatic preview at point in the *Completions* buffer. This is
+    ;; relevant when you use the default completion UI.
+    :hook (completion-list-mode . consult-preview-at-point-mode)
 
-(use-package smartparens
-  :ensure t
-  :config
- (sp-local-pair '(emacs-lisp-mode lisp-interaction-mode) "'" nil :actions nil)
-  (smartparens-global-mode)
-)
-(setq enable-recursive-minibuffers t)
+    ;; The :init configuration is always executed (Not lazy)
+    :init
 
-(setq make-backup-files nil)
-(setq auto-save-default nil)
+    ;; Optionally configure the register formatting. This improves the register
+    ;; preview for `consult-register', `consult-register-load',
+    ;; `consult-register-store' and the Emacs built-ins.
+    (setq register-preview-delay 0.5
+	  register-preview-function #'consult-register-format)
 
-(setq create-lockfiles nil)
-;; 关闭自动换行
-;; (setq truncate-partial-width-windows t)
-;; 回车时创建新行并且对齐
-(global-set-key (kbd "<escape>")      'keyboard-escape-quit)
-;; Dired-mode 默认递归
-(setq dired-recursive-deletes 'always)
-(setq dired-recursive-copies 'always)
-;; Emacsn能从剪贴板读取内容
-(setq x-select-enable-clipboard t
-      x-select-enable-primary t)
-;; Dired-mode 只用一个buffer
-(put 'dired-find-alternate-file 'disabled nil)
+    ;; Optionally tweak the register preview window.
+    ;; This adds thin lines, sorting and hides the mode line of the window.
+    (advice-add #'register-preview :override #'consult-register-window)
 
-(define-advice show-paren-function (:around (fn) fix-show-paren-function)
-  "Highlight enclosing parens."
-  (cond ((looking-at-p "\\s(") (funcall fn))
-	(t (save-excursion
-	     (ignore-errors (backward-up-list))
-	     (funcall fn)))))
-;; 删除换行符
-(defun remove-dos-eol ()
-  "Replace DOS eolns CR LF with Unix eolns CR"
-  (interactive)
-  (goto-char (point-min))
-  (while (search-forward "\r" nil t) (replace-match "")))
+    ;; Use Consult to select xref locations with preview
+    (setq xref-show-xrefs-function #'consult-xref
+	  xref-show-definitions-function #'consult-xref)
 
-;; 选中一个区域后,输入一个字母会替代当前区域
-(delete-selection-mode 1)
+    ;; Configure other variables and modes in the :config section,
+    ;; after lazily loading the package.
+    :config
 
-;; 关闭警告音量
-(setq ring-bell-function 'ignore)
+    ;; Optionally configure preview. The default value
+    ;; is 'any, such that any key triggers the preview.
+    ;; (setq consult-preview-key 'any)
+    ;; (setq consult-preview-key (kbd "M-."))
+    ;; (setq consult-preview-key (list (kbd "<S-down>") (kbd "<S-up>")))
+    ;; For some commands and buffer sources it is useful to configure the
+    ;; :preview-key on a per-command basis using the `consult-customize' macro.
+    (consult-customize
+     consult-theme :preview-key '(:debounce 0.2 any)
+     consult-ripgrep consult-git-grep consult-grep
+     consult-bookmark consult-recent-file consult-xref
+     consult--source-bookmark consult--source-file-register
+     consult--source-recent-file consult--source-project-recent-file
+     ;; :preview-key (kbd "M-.")
+     :preview-key '(:debounce 0.4 any))
 
-;; 简化yes or no
-(fset 'yes-or-no-p 'y-or-n-p)
+    ;; Optionally configure the narrowing key.
+    ;; Both < and C-+ work reasonably well.
+    (setq consult-narrow-key "<") ;; (kbd "C-+")
 
-;(use-package perspeen
-;  :ensure t
-;  :diminish 
-;  :init
-;  ;; (setq perspeen-use-tab t)
-;  (setq perspeen-keymap-prefix [C-tab]) 
-;  :config (perspeen-mode))
+    ;; Optionally make narrowing help available in the minibuffer.
+    ;; You may want to use `embark-prefix-help-command' or which-key instead.
+    ;; (define-key consult-narrow-map (vconcat consult-narrow-key "?") #'consult-narrow-help)
 
-(use-package yasnippet-snippets
-  :ensure t
-  :config
+    ;; By default `consult-project-function' uses `project-root' from project.el.
+    ;; Optionally configure a different project root function.
+    ;; There are multiple reasonable alternatives to chose from.
+    ;;;; 1. project.el (the default)
+    ;; (setq consult-project-function #'consult--default-project--function)
+    ;;;; 2. projectile.el (projectile-project-root)
+    ;; (autoload 'projectile-project-root "projectile")
+    ;; (setq consult-project-function (lambda (_) (projectile-project-root)))
+    ;;;; 3. vc.el (vc-root-dir)
+    ;; (setq consult-project-function (lambda (_) (vc-root-dir)))
+    ;;;; 4. locate-dominating-file
+    ;; (setq consult-project-function (lambda (_) (locate-dominating-file "." ".git")))
   )
-(use-package yasnippet
-  :ensure t
-  :config
-  (yas-global-mode 1))
-
-;; 撤销树
-(use-package undo-tree 
-  :ensure t 
-  :hook (after-init . global-undo-tree-mode) 
-  :init (setq undo-tree-visualizer-timestamps t undo-tree-enable-undo-in-region nil undo-tree-auto-save-history nil)
-
-  ;; HACK: keep the diff window
-  (with-no-warnings (make-variable-buffer-local 'undo-tree-visualizer-diff) 
-		    (setq-default undo-tree-visualizer-diff t)))
-
-;; Use embedded webkit browser if possible
-  (when (featurep 'xwidget-internal)
-    (push '("\\.\\(x?html?\\|pdf\\)\\'"
-	    .
-	    (lambda (file _link)
-	      (xwidget-webkit-browse-url (concat "file://" file))
-	      (let ((buf (xwidget-buffer (xwidget-webkit-current-session))))
-		(when (buffer-live-p buf)
-		  (and (eq buf (current-buffer)) (quit-window))
-		  (pop-to-buffer buf)))))
-	  org-file-apps))
-
-(use-package recentf
-  :straight t
-  :bind (("C-x C-r" . recentf-open-files))
-  :hook (after-init . recentf-mode)
-  :init (setq recentf-max-saved-items 300
-	      recentf-exclude
-	      '("\\.?cache" ".cask" "url" "COMMIT_EDITMSG\\'" "bookmarks"
-		"\\.\\(?:gz\\|gif\\|svg\\|png\\|jpe?g\\|bmp\\|xpm\\)$"
-		"\\.?ido\\.last$" "\\.revive$" "/G?TAGS$" "/.elfeed/"
-		"^/tmp/" "^/var/folders/.+$" "^/ssh:" "/persp-confs/"
-		(lambda (file) (file-in-directory-p file package-user-dir))))
-  :config
-  (push (expand-file-name recentf-save-file) recentf-exclude)
-  (add-to-list 'recentf-filename-handlers #'abbreviate-file-name))
 #+end_src
-* UsefulApps
-#+begin_src emacs-lisp
-(use-package magit
- :ensure t
- :defer t
- :commands (magit)
-       )
-(line-number-mode -1)
-(setq large-file-warning-threshold nil)
 
-(use-package dirvish
-   :straight t)
+* UI
+#+begin_src emacs-lisp
+      (use-package doom-themes
+	:ensure t
+	:config
+	;; Global settings (defaults)
+	(setq doom-themes-enable-bold t    ; if nil, bold is universally disabled
+	      doom-themes-enable-italic t) ; if nil, italics is universally disabled
+	(load-theme 'doom-solarized-dark-high-contrast t)
+
+	;; Enable flashing mode-line on errors
+	(doom-themes-visual-bell-config)
+	;; Enable custom neotree theme (all-the-icons must be installed!)
+	(doom-themes-neotree-config)
+	;; Corrects (and improves) org-mode's native fontification.
+	(doom-themes-org-config))
+    (text-scale-mode)
+    (text-scale-set 5)
+  (use-package git-gutter
+    :ensure t
+    :init
+    (global-git-gutter-mode +1))
 #+end_src
-* Org
+
+* org and roam
 #+begin_src emacs-lisp
-(straight-use-package '(org :type built-in))	
-(use-package org
-  :config
-  (setq org-ellipsis " ▾"
-        org-src-fontify-natively t
-        org-src-tab-acts-natively t
-        org-hide-block-startup nil
-        org-cycle-separator-lines 2
-	org-id-link-to-org-use-id t
-	org-return-follows-link t)
-  )
-
-(use-package valign
-  :ensure t
-  :hook
-  (org-mode . valign-mode))
-
-(use-package org-download
-  :after org
-  :ensure t
-  :config
-  (setq-default org-download-image-dir "~/org/Attachments")
-  (setq org-download-annotate-function (lambda (_link) ""))
-  :hook ((org-mode dired-mode) . org-download-enable)
-  :bind
-  (:map org-mode-map
-        (("s-Y" . org-download-screenshot)
-         ("s-y" . org-download-yank)
-         ("s-C" . org-download-clipboard)
-         )))
-(use-package emacsql
-    :ensure t)
-(when (and (>= emacs-major-version 26) (executable-find "cc"))
   (use-package org-roam
     :ensure t
-    :hook (after-init . org-roam-setup)
+    :custom
+    (org-roam-directory (file-truename "~/Documents/roam/orgroam"))
     :bind (("C-c n l" . org-roam-buffer-toggle)
-           ("C-c n f" . org-roam-node-find)
-           ("C-c n g" . org-roam-graph)
-           ("C-c n i" . org-roam-node-insert)
-           ("C-c n c" . org-roam-capture)
-           ("C-c n k" . org-id-get-create)
-           ("C-c n v" . org-roam-preview-visit)
-           ("C-c n t" . org-roam-dailies-capture-today)
-           ("C-c n I" . org-roam-insert-immediate))
-    :init
-    (setq org-roam-directory "~/Documents/roam"
-          org-roam-v2-ack t)
+	   ("C-c n f" . org-roam-node-find)
+	   ("C-c n g" . org-roam-graph)
+	   ("C-c n i" . org-roam-node-insert)
+	   ("C-c n c" . org-roam-capture)
+	   ;; Dailies
+	   ("C-c n j" . org-roam-dailies-capture-today))
     :config
-    (setq org-id-extra-files (org-roam--list-files org-roam-directory))
-    (unless (file-exists-p org-roam-directory)
-      (make-directory org-roam-directory))))
-
-(use-package org-roam-ui
-    :straight t
-    :after org-roam
-    :config
-    (setq org-roam-ui-sync-theme t
-          org-roam-ui-follow t
-          org-roam-ui-update-on-save t
-          org-roam-ui-open-on-start t))
-(use-package org-transclusion
-	:straight t
-	:after org)
-
-
-(use-package org-superstar
-  :ensure t
-  :hook (org-mode . org-superstar-mode)
-  :config
-;(set-face-attribute 'org-level-4 nil :weight 'bold :height 1.0) ;\large
-;(set-face-attribute 'org-level-3 nil :weight 'bold :height 1.2) ;\large
-;(set-face-attribute 'org-level-2 nil :weight 'bold :height 1.44) ;\Large
-;(set-face-attribute 'org-level-1 nil :weight 'bold :height 1.728)
-  (setq org-superstar-item-bullet-alist '((?- . ?⁍)))
-  (setq org-superstar-headline-bullets-list
-  '("➊" "➋" "➌" "➍" "➎" "➏" "➐" "➑" "➒" "➓"))
-  )
-#+end_src
-* Custom
-#+begin_src emacs-lisp
+    ;; If you're using a vertical completion framework, you might want a more informative completion interface
+    (setq org-roam-node-display-template (concat "${title:*} " (propertize "${tags:10}" 'face 'org-tag)))
+    (org-roam-db-autosync-mode)
+    ;; If using org-roam-protocol
+    (require 'org-roam-protocol))
 (custom-set-variables
-  '(evil-undo-system 'undo-tree)
- '(flycheck-warning ((t (:inherit nil :underline nil))))
+ ;; custom-set-variables was added by Custom.
+ ;; If you edit it by hand, you could mess it up, so be careful.
+ ;; Your init file should contain only one such instance.
+ ;; If there is more than one, they won't work right.
+ '(org-roam-capture-templates
+   '(("d" "default" plain "%?" :target
+      (file+head "${slug}.org" "#+title: ${title}
+")
+      :unnarrowed t)))
  '(org-roam-completion-everywhere t)
- '(org-roam-completion-system 'default)
- '(org-roam-db-update-idle-seconds 2))
+ '(package-selected-packages '(## use-package)))
+(custom-set-faces
+ ;; custom-set-faces was added by Custom.
+ ;; If you edit it by hand, you could mess it up, so be careful.
+ ;; Your init file should contain only one such instance.
+ ;; If there is more than one, they won't work right.
+ )
 #+end_src
-
-
-	
