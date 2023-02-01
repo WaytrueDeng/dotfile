@@ -1,0 +1,24 @@
+(undo-tree-save-format-version . 1)
+"25f2635b9fa6314a63194291070843cf3d99eabc"
+[nil nil nil nil (25562 10687 920121 0) 0 nil]
+([nil nil ((646 . 885) (#("(custom-set-faces
+ ;; custom-set-faces was added by Custom.
+ ;; If you edit it by hand, you could mess it up, so be careful.
+ ;; Your init file should contain only one such instance.
+ ;; If there is more than one, they won't work right.
+ )" 0 239 (fontified nil)) . -646) (558 . 645) (540 . 543) (485 . 488) (#("
+" 0 1 (fontified nil)) . -552) (534 . 537) (482 . 485) (546 . 547) (530 . 531) (#(" " 0 1 (fontified nil)) . -530) (481 . 482) (#(" " 0 1 (fontified nil)) . 481) (442 . 546) (#(" " 0 1 (fontified nil)) . 442) (103 . 443) (#("(custom-set-variables
+ ;; custom-set-variables was added by Custom.
+ ;; If you edit it by hand, you could mess it up, so be careful.
+ ;; Your init file should contain only one such instance.
+ ;; If there is more than one, they won't work right.
+ '(default-text-scale-amount 30)
+ '(org-roam-capture-templates
+   '((\"d\" \"default\" plain \"%?\" :target
+      (file+head \"${slug}.org\" \"#+title: ${title}\\12\")
+      :unnarrowed t)))
+ '(org-roam-completion-everywhere t)
+ '(package-selected-packages '(## use-package)))" 0 493 (fontified nil) 493 495 (syntax-table (3) fontified nil) 495 510 (fontified nil)) . -103) (t 25561 54296 563370 649000)) nil (25562 10687 920117 0) 0 nil])
+([nil current ((#(" '(evil-undo-system 'undo-tree)
+" 0 32 (fontified t)) . 381) (undo-tree-id0 . -6) (undo-tree-id1 . -31) 387 (t 25562 10687 921580 398000)) nil (25562 10806 21111 0) 0 nil])
+nil
