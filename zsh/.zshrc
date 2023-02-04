@@ -4,6 +4,14 @@ eval "$(zoxide init zsh)"
 # Path to your oh-my-zsh installation.
 export ZSH="$HOME/.oh-my-zsh"
 
+ZSH_TMUX=$(tmux ls | grep "zsh")
+#ZSH_TMUX=`ps aux | grep "tmux new-session -s zsh" | grep -v grep`
+if [[ -n $ZSH_TMUX ]]; then
+  tmux a -t zsh 
+else
+  tmux new-session -s zsh && tmux a -t zsh
+fi
+
 # Set name of the theme to load --- if set to "random", it will
 # load a random theme each time oh-my-zsh is loaded, in which case,
 # to know which specific one was loaded, run: echo $RANDOM_THEME
@@ -89,7 +97,7 @@ export PATH=/home/waytrue/.local/bin:$PATH
 # if [[ -n $SSH_CONNECTION ]]; then
 #   export EDITOR='vim'
 # else
-  export EDITOR='lvim'
+export EDITOR='nvim'
 # fi
 
 # Compilation flags
