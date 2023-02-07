@@ -19,3 +19,5 @@ require "user.lsp"
 require "user.nvim-FeMaco"
 require "user.treesitter"
 --- require "web-tools"
+--
+require "user.luasnip"
