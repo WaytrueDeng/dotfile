@@ -154,6 +154,36 @@ s({trig="<bre",snippetType="autosnippet"},
   )
 ),
 
+s({trig="<js",snippetType="autosnippet"},
+  fmta(
+  [[
+  ``` javascript
+  <>
+  ```
+  ]],
+
+    {
+      i(1),
+    }
+  )
+),
+
+
+s({trig="<lua",snippetType="autosnippet"},
+  fmta(
+  [[
+  ``` lua
+  <>
+  ```
+  ]],
+
+    {
+      i(1),
+    }
+  )
+),
+
+
 s({trig="<bor",snippetType="autosnippet"},
   fmta(
   [[

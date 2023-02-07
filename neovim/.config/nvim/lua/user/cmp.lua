@@ -126,6 +126,7 @@ cmp.setup {
     { name = "luasnip" },
     { name = "buffer" },
     { name = "nvim_lsp" },
+    { name = "orgmode" },
     { name = "path" },
   },
   confirm_opts = {

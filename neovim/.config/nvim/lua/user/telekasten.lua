@@ -3,7 +3,7 @@ if not cmp_status_ok then
   return
 end
 
-local home = vim.fn.expand("~/Study/myfinal/content")
+local home = vim.fn.expand("~/Documents/roam/obsidian/")
 -- NOTE for Windows users:
 -- - don't use Windows
 -- - try WSL2 on Windows and pretend you're on Linux
@@ -18,7 +18,7 @@ require('telekasten').setup({
 
     -- auto-set telekasten filetype: if false, the telekasten filetype will not be used
     --                               and thus the telekasten syntax will not be loaded either
-    auto_set_filetype = true,
+    auto_set_filetype = false,
 
     -- dir names for special notes (absolute path or subdir name)
     dailies      = home .. '/' .. 'diary',
@@ -28,7 +28,7 @@ require('telekasten').setup({
     -- image (sub)dir for pasting
     -- dir name (absolute path or subdir name)
     -- or nil if pasted images shouldn't go into a special subdir
-    image_subdir = "img",
+    image_subdir = "assets",
 
     -- markdown file extension
     extension    = ".md",

@@ -33,17 +33,11 @@ vim.opt.wrap = false                            -- display lines as one long lin
 vim.opt.scrolloff = 8                           -- is one of my fav
 vim.opt.sidescrolloff = 8
 vim.opt.guifont = "monospace:h17"               -- the font used in graphical neovim applications
-
+vim.opt.laststatus = 3
 vim.opt.shortmess:append "c"
-
-vim.g.vimwiki_list = {
-    {
-        path = '~/Study/myfinal/content/',
-        syntax = 'markdown',
-        ext = '.md',
-    }
-}
-
 vim.cmd "set whichwrap+=<,>,[,],h,l"
 vim.cmd [[set iskeyword+=-]]
 vim.cmd [[set formatoptions-=cro]] -- TODO: this doesn't seem to work
+
+-- vim-markdown options
+vim.g.vim_markdown_folding_disabled = 1

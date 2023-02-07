@@ -52,17 +52,42 @@ return packer.startup(function(use)
   use "akinsho/toggleterm.nvim"
   use "folke/which-key.nvim"
   --- use "ActivityWatch/aw-watcher-vim"
-  use "ggandor/leap.nvim" 
+  -- my own plugin
+  --- use "~/Documents/workround/vimplugindemo"
+  use "ray-x/web-tools.nvim"
+  use "aca/emmet-ls"
+  use "mattn/emmet-vim" 
+  -- 
+  -- basic enhance
+  use {
+  	"windwp/nvim-autopairs",
+      config = function() require("nvim-autopairs").setup {} end
+  }
+  use "ggandor/leap.nvim"
+  ---use "epwalsh/obsidian.nvim" 
+  use {'nvim-orgmode/orgmode', config = function()
+    require('orgmode').setup{}
+  end
+  }
   --- zettlekasten ---
-  use "renerocksai/telekasten.nvim"
+  ---use "renerocksai/telekasten.nvim"
+  use 'AckslD/nvim-FeMaco.lua'
+  -- use 'godlygeek/tabular'
+  -- use 'preservim/vim-markdown'
+-- install without yarn or npm
+  use({
+      "iamcco/markdown-preview.nvim",
+      run = function() vim.fn["mkdp#util#install"]() end,
+      run = "cd app && npm install" ,
+      setup = function() vim.g.mkdp_filetypes = { "markdown" } end, ft = { "markdown" },
+  })
 
-
-
-
+  --- use({ "iamcco/markdown-preview.nvim", run = "cd app && npm install", setup = function() vim.g.mkdp_filetypes = { "markdown" } end, ft = { "markdown" }, })
   --- My Color Scheme---
-  use "overcache/NeoSolarized" 
+  use "overcache/NeoSolarized"
   use "ellisonleao/gruvbox.nvim"
   use "folke/tokyonight.nvim"
+  use 'Mofiqul/dracula.nvim'
   -- cmp plugins
   use "hrsh7th/nvim-cmp" -- The completion plugin
   use "hrsh7th/cmp-buffer" -- buffer completions
@@ -82,13 +107,15 @@ return packer.startup(function(use)
   -- nvim-colorizer--
   use "norcalli/nvim-colorizer.lua"
   --- vim-notify
-
   use "rcarriga/nvim-notify"
   -- Git
   use "lewis6991/gitsigns.nvim"
 
   -- LSP ---
-  
+  use {
+      'nvim-treesitter/nvim-treesitter',
+      run = ':TSUpdate'
+  }
   use "neovim/nvim-lspconfig" -- enable LSP
   use "williamboman/mason.nvim" -- simple to use language server installer
   use "williamboman/mason-lspconfig.nvim" -- simple to use language server installer
