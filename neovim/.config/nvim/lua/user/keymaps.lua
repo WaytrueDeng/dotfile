@@ -68,4 +68,11 @@ keymap("n", "<c-s>", "<cmd>Telescope live_grep<cr>", opts)
 keymap("n", "<leader>e", ":NvimTreeToggle<cr>", opts)
 
 -- Femaco
-keymap("n", "<C-c>'", ":FeMaco<cr>", opts)
+keymap("n", "<C-c>", ":FeMaco<cr>", opts)
+
+-- my utils
+keymap("i" ,"<C-f>","<ESC>/><<CR>a",opts) -- find place holder
+keymap("n" ,"<leader>gt",[[:!lualatex  --jobname="output" --output-directory="./out" -shell-escape % <CR>]],opts) -- find place holder
+
+
+

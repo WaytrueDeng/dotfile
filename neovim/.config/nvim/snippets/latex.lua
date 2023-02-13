@@ -10,19 +10,15 @@ local fmta = require("luasnip.extras.fmt").fmta
 local rep = require("luasnip.extras").rep
 
 return{
-s({trig="-fm", dscr="expand markdown yaml front metter",snippetType="autosnippet"},
+s({trig="\\iss", dscr="expand markdown yaml front metter",snippetType="autosnippet"},
   fmt( -- The snippet code actually looks like the equation environment it produces.
     [===[
-    ---
-    title: <>
-    date: <>
-    tags: ["<>"]
-    --- 
+    \issue{<>}{<>}
     ]===],
     -- The insert node is placed in the <> angle brackets
-    { f(function(_) local slug = vim.api.nvim_buf_get_name(0) return string.match(slug,".+/(.+)%.%a+") end) ,
-      f(function(_)  return  os.date("%Y-%m-%d")   end),
-      i(1)},
+    { 
+      i{1},
+      i(2)},
     -- This is where I specify that angle brackets are used as node positions.
     { delimiters = "<>" }
   )

@@ -6,6 +6,9 @@ local servers = {
   "tsserver",
   "html",
   "rust_analyzer",
+  "marksman",
+  "texlab",
+  "rnix"
 }
 
 local settings = {
@@ -58,7 +61,7 @@ capabilities.textDocument.completion.completionItem.snippetSupport = true
 lspconfig.emmet_ls.setup({
     -- on_attach = on_attach,
     capabilities = capabilities,
-    filetypes = { 'html', 'typescriptreact', 'javascriptreact', 'css', 'sass', 'scss', 'less', 'jsx' },
+    filetypes = { 'html', 'typescriptreact', 'javascriptreact', 'css', 'sass', 'scss', 'less', 'jsx',"markdown" },
     init_options = {
       html = {
         options = {
@@ -67,4 +70,10 @@ lspconfig.emmet_ls.setup({
         },
       },
     }
+})
+
+
+lspconfig.marksman.setup({
+    -- on_attach = on_attach,
+    filetypes = { "markdown" , "mdx", "markdown.mdx"},
 })

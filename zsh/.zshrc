@@ -4,6 +4,9 @@ eval "$(zoxide init zsh)"
 # Path to your oh-my-zsh installation.
 export ZSH="$HOME/.oh-my-zsh"
 
+export NVM_DIR="$HOME/.nvm"
+[ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh"  # This loads nvm
+[ -s "$NVM_DIR/bash_completion" ] && \. "$NVM_DIR/bash_completion"  # This loads nvm bash_completion
 ZSH_TMUX=$(tmux ls | grep "zsh")
 #ZSH_TMUX=`ps aux | grep "tmux new-session -s zsh" | grep -v grep`
 if [[ -n $ZSH_TMUX ]]; then
@@ -92,7 +95,7 @@ export GTK_IM_MODULE=fcitx
 export QT_IM_MODULE=fcitx
 export XMODIFIERS=@im=fcitx
 export QT_QPA_PLATFORMTHEME=qt5ct
-export PATH=/home/waytrue/.local/bin:$PATH
+export PATH=/home/waytrue/.cargo/bin/:/home/waytrue/.local/bin:$PATH
 # Preferred editor for local and remote sessions
 # if [[ -n $SSH_CONNECTION ]]; then
 #   export EDITOR='vim'
@@ -114,3 +117,7 @@ export EDITOR='nvim'
 alias v="nvim"
 alias cd="z"
 
+
+export NVM_DIR="$HOME/.nvm"
+[ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh"  # This loads nvm
+[ -s "$NVM_DIR/bash_completion" ] && \. "$NVM_DIR/bash_completion"  # This loads nvm bash_completion
