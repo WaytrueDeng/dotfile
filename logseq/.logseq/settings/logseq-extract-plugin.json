@@ -1,9 +1,0 @@
-{
-  "disabled": false,
-  "expr": "(\\^\\^[^\\^]+\\^\\^)|(\\*\\*[^\\*]+\\*\\*)",
-  "summaryTitle": "Summary",
-  "keepRefs": true,
-  "nested": true,
-  "keepMeta": false,
-  "settingsVersion": "v1"
-}
