@@ -16,9 +16,9 @@ s({trig="\\iss", dscr="expand markdown yaml front metter",snippetType="autosnipp
     \issue{<>}{<>}
     ]===],
     -- The insert node is placed in the <> angle brackets
-    { 
-      i{1},
-      i(2)},
+    {
+      i(1),
+      i(2),},
     -- This is where I specify that angle brackets are used as node positions.
     { delimiters = "<>" }
   )
