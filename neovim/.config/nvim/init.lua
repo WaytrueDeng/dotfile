@@ -19,5 +19,6 @@ require("user.lsp")
 require("user.nvim-FeMaco")
 require("user.treesitter")
 require("user.filetype")
+require("user.mkdnflow")
 --- require "web-tools"
 --require "user.luasnip"

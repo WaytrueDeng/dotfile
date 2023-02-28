@@ -18,11 +18,48 @@ s({trig="-fm", dscr="expand markdown yaml front metter",snippetType="autosnippet
     date: <>
     tags: ["<>"]
     --- 
+    
+    ## Mnemonic
+
+    ## Contents
+
+    <>
     ]===],
     -- The insert node is placed in the <> angle brackets
     { f(function(_) local slug = vim.api.nvim_buf_get_name(0) return string.match(slug,".+/(.+)%.%a+") end) ,
       f(function(_)  return  os.date("%Y-%m-%d")   end),
-      i(1)},
+      i(1),
+      i(2)},
+    -- This is where I specify that angle brackets are used as node positions.
+    { delimiters = "<>" }
+  )
+),
+s({trig="<ref", dscr="expand markdown yaml front metter",snippetType="autosnippet"},
+  fmt( -- The snippet code actually looks like the equation environment it produces.
+    [===[
+    ## Refenrences
+    - <>
+    ]===],
+    -- The insert node is placed in the <> angle brackets
+    { 
+     
+      i(1),
+      },
+    -- This is where I specify that angle brackets are used as node positions.
+    { delimiters = "<>" }
+  )
+),
+
+s({trig="<mne", dscr="expand markdown mnemonic heading",snippetType="autosnippet"},
+  fmt( -- The snippet code actually looks like the equation environment it produces.
+    [===[
+    ## mnemonic
+    - <>
+    ]===],
+    -- The insert node is placed in the <> angle brackets
+    {
+      i(1),
+      },
     -- This is where I specify that angle brackets are used as node positions.
     { delimiters = "<>" }
   )

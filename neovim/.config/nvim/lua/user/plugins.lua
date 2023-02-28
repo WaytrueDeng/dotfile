@@ -68,6 +68,7 @@ return packer.startup(function(use)
 	use("ggandor/leap.nvim")
   use("nathom/filetype.nvim")
 
+
 	---use "epwalsh/obsidian.nvim"
 	use({
 		"nvim-orgmode/orgmode",
@@ -78,6 +79,7 @@ return packer.startup(function(use)
 	--- zettlekasten ---
 	---use "renerocksai/telekasten.nvim"
 	use("AckslD/nvim-FeMaco.lua")
+  use('jakewvincent/mkdnflow.nvim')
 	-- use 'godlygeek/tabular'
 	-- use 'preservim/vim-markdown'
 	-- install without yarn or npm
