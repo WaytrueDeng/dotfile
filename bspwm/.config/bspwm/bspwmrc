@@ -47,10 +47,8 @@ xmodmap /home/waytrue/.Xmodmap &
 xsetroot -cursor_name left_ptr &
 # Pinyin
 #fcixt-autostart &
-fcitx5 &
-# Low battery notifier
-#~/.config/bspwm/scripts/low_bat_notifier.sh
-
+fcitx5 & 
+#Low battery notifier ~/.config/bspwm/scripts/low_bat_notifier.sh
 #if [[ ! `pidof xfce-polkit` ]]; then
 #	/usr/lib/xfce-polkit/xfce-polkit &
 #fi

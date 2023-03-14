@@ -10,10 +10,7 @@
  '(custom-safe-themes
    '("79730342933b4b15c8c78b6ef92f28ddef9c40b720fcb1fd4ca8396cebe323ca" default))
  '(default-text-scale-amount 30)
- '(org-roam-capture-templates
-   '(("d" "default" plain "%?" :target
-      (file+head "${slug}.org" "#+title: ${title}\12")
-      :unnarrowed t)))
+ '(org-roam-capture-templates nil)
  '(org-roam-completion-everywhere t)
  '(package-selected-packages '(## use-package))
  '(tempel-trigger-prefix "<"))

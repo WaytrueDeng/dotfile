@@ -27,6 +27,9 @@
 ;; install use-package via straight
 (straight-use-package 'use-package)
 
+;; Autoload
+(global-auto-revert-mode t)
+
 ;; 关闭工具栏，tool-bar-mode 即为一个 Minor Mode
 (tool-bar-mode -1)
 
@@ -476,7 +479,7 @@
 (use-package org-roam
   :straight t
   :custom
-  (org-roam-directory (file-truename "~/Documents/roam/orgroam"))
+  (org-roam-directory (file-truename "~/Documents/roam/"))
   :bind (("C-c n l" . org-roam-buffer-toggle)
   ("C-c n f" . org-roam-node-find)
   ("C-c n g" . org-roam-graph)
@@ -486,7 +489,12 @@
   ("C-c n j" . org-roam-dailies-capture-today))
   (:map org-mode-map
         ("C-M-<return>" . org-insert-subheading))
-  :init
+  :config
+  ;; If you're using a vertical completion framework, you might want a more informative completion interface
+  (setq org-roam-node-display-template (concat "${title:*} " (propertize "${tags:10}" 'face 'org-tag)))
+  (org-roam-db-autosync-mode)
+
+
 (setq org-roam-capture-templates
         '(
          ("d" "default" plain "" :target
@@ -495,29 +503,8 @@
          ;; :immediate-finish t
           :kill-buffer t
           :jump-to-captured -1)
-        ;; ("e" "default" plain "" :target
-        ;;  (file+head "./English/${slug}.org" "#+title: ${title} \n#+creationTime: %U \n")
-        ;;  :unnarrowed t
-        ;; ;; :immediate-finish t
-        ;;  :kill-buffer t
-        ;;  :jump-to-captured -1)
-        ;; ("z" "default" plain "" :target
-        ;;  (file+head "./政治/${slug}.org" "#+title: ${title} \n#+creationTime: %U \n")
-        ;;  :unnarrowed t
-        ;; ;; :immediate-finish t
-        ;;  :kill-buffer t
-        ;;  :jump-to-captured -1)
-        ;; ("c" "cards" plain "" :target (file+head "./pages/${slug}.org" "#+title: ${title} \n#+creationTime: %U \n\n\n* Keywords\n- \n* Contents\n* Mnemonic\n* Reference")
-        ;;  :unnarrowed t
-        ;;  ;;:immediate-finish t
-        ;;  :kill-buffer
-        ;;  :jump-to-captured -1)
          ))
 
-  :config
-  ;; If you're using a vertical completion framework, you might want a more informative completion interface
-  (setq org-roam-node-display-template (concat "${title:*} " (propertize "${tags:10}" 'face 'org-tag)))
-  (org-roam-db-autosync-mode)
   ;; If using org-roam-protocol
   (require 'org-roam-protocol))
 

@@ -155,7 +155,7 @@ proxies:
    server: hk.waytrue.top
    port: 443
    type: trojan
-   password: "tFjD2X1F6i9FfWp2GDU5Vbi1conuaChDKIYbw9zMFrqvMoSz"
+   password: 990521
    udp: true
  
 proxy-groups:
