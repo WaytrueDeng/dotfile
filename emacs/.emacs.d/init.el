@@ -1,4 +1,3 @@
-(require 'org)
 (org-babel-load-file
  (expand-file-name (file-truename "~/.emacs.d/init-emacs.org")))
 

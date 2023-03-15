@@ -27,12 +27,17 @@
 ;; install use-package via straight
 (straight-use-package 'use-package)
 
+;; Autoload
+(global-auto-revert-mode t)
+
 ;; 关闭工具栏，tool-bar-mode 即为一个 Minor Mode
 (tool-bar-mode -1)
 
 ;; Disable Menubar
 (menu-bar-mode -1)
 
+;; 自动重新加载硬盘上已经发生变动的文件
+(global-auto-revert-mode 1)
 ;; 关闭文件滑动控件
 (scroll-bar-mode -1)
 
@@ -152,9 +157,9 @@
   (global-corfu-mode)
   )
 
-  (use-package corfu-popupinfo
-  :config
-  (corfu-popupinfo-mode))
+  ;;(use-package corfu-popupinfo
+  ;;:config
+  ;;(corfu-popupinfo-mode))
 
 
 ;; Persist history over Emacs restarts. Vertico sorts by history position.
@@ -419,12 +424,13 @@
 
 ;; enale indention by default
 (use-package org
+  :straight (:type built-in)
   :config
   (setq org-startup-indented t ;;enable indention as default
         ;;enable the yasnippet working as intended
         org-src-tab-acts-natively nil 
         ;; enable org id link as default
-        org-id-link-to-org-use-id 'create-if-interactive-and-no-custom-id
+        org-id-link-to-org-use-id t
         ;; enable start up fold
         org-startup-folded 'overview
         )
@@ -476,7 +482,7 @@
 (use-package org-roam
   :straight t
   :custom
-  (org-roam-directory (file-truename "~/Documents/roam/orgroam"))
+  (org-roam-directory (file-truename "~/Documents/roam/"))
   :bind (("C-c n l" . org-roam-buffer-toggle)
   ("C-c n f" . org-roam-node-find)
   ("C-c n g" . org-roam-graph)
@@ -487,6 +493,15 @@
   (:map org-mode-map
         ("C-M-<return>" . org-insert-subheading))
   :init
+  (setq org-roam-directory (file-truename "~/Documents/roam"))
+  (setq org-roam-file-exclude-regexp
+    ;;(concat "^" (expand-file-name org-roam-directory) "/logseq/*")
+    "logseq/"
+    )
+  :config
+  ;; If you're using a vertical completion framework, you might want a more informative completion interface
+  (setq org-roam-node-display-template (concat "${title:*} " (propertize "${tags:10}" 'face 'org-tag)))
+  (org-roam-db-autosync-mode)
 (setq org-roam-capture-templates
         '(
          ("d" "default" plain "" :target
@@ -512,7 +527,68 @@
         ;;  ;;:immediate-finish t
         ;;  :kill-buffer
         ;;  :jump-to-captured -1)
-         ))
+         )
+
+        org-capture-templates
+        `(
+         ("d" "default" plain "" :target
+          (file+head "./pages/${slug}.org" "#+title: ${title} \n#+creationTime: %U \n"))
+         ("r" "Journal Entry" entry
+ (file+datetree ,(concat org-roam-directory "/pages/gkd.org"))
+ "*** TODO [#%^{priority|B}] %a")
+         ("t" "thing to be done" entry
+ (file+datetree ,(concat org-roam-directory "/pages/plan_org.org"))
+ "*** TODO [#%^{priority|B}]  %^{What Todo}")
+        ;; ("e" "default" plain "" :target
+        ;;  (file+head "./English/${slug}.org" "#+title: ${title} \n#+creationTime: %U \n")
+        ;;  :unnarrowed t
+        ;; ;; :immediate-finish t
+        ;;  :kill-buffer t
+        ;;  :jump-to-captured -1)
+        ;; ("z" "default" plain "" :target
+        ;;  (file+head "./政治/${slug}.org" "#+title: ${title} \n#+creationTime: %U \n")
+        ;;  :unnarrowed t
+        ;; ;; :immediate-finish t
+        ;;  :kill-buffer t
+        ;;  :jump-to-captured -1)
+        ;; ("c" "cards" plain "" :target (file+head "./pages/${slug}.org" "#+title: ${title} \n#+creationTime: %U \n\n\n* Keywords\n- \n* Contents\n* Mnemonic\n* Reference")
+        ;;  :unnarrowed t
+        ;;  ;;:immediate-finish t
+        ;;  :kill-buffer
+        ;;  :jump-to-captured -1)
+         )
+
+        )
+
+        org-capture-templates
+        `(
+         ("d" "default" plain "" :target
+          (file+head "./pages/${slug}.org" "#+title: ${title} \n#+creationTime: %U \n"))
+         ("r" "Journal Entry" entry
+ (file+datetree ,(concat org-roam-directory "/pages/gkd.org"))
+ "*** TODO [#%^{priority|B}] %a")
+         ("t" "thing to be done" entry
+ (file+datetree ,(concat org-roam-directory "/pages/plan_org.org"))
+ "*** TODO [#%^{priority|B}]  %^{What Todo}")
+        ;; ("e" "default" plain "" :target
+        ;;  (file+head "./English/${slug}.org" "#+title: ${title} \n#+creationTime: %U \n")
+        ;;  :unnarrowed t
+        ;; ;; :immediate-finish t
+        ;;  :kill-buffer t
+        ;;  :jump-to-captured -1)
+        ;; ("z" "default" plain "" :target
+        ;;  (file+head "./政治/${slug}.org" "#+title: ${title} \n#+creationTime: %U \n")
+        ;;  :unnarrowed t
+        ;; ;; :immediate-finish t
+        ;;  :kill-buffer t
+        ;;  :jump-to-captured -1)
+        ;; ("c" "cards" plain "" :target (file+head "./pages/${slug}.org" "#+title: ${title} \n#+creationTime: %U \n\n\n* Keywords\n- \n* Contents\n* Mnemonic\n* Reference")
+        ;;  :unnarrowed t
+        ;;  ;;:immediate-finish t
+        ;;  :kill-buffer
+        ;;  :jump-to-captured -1)
+         )
+
 
   :config
   ;; If you're using a vertical completion framework, you might want a more informative completion interface
