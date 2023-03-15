@@ -175,7 +175,7 @@ super+Print
 
 # Shortcuts
 super + w 
-  firefox
+  microsoft-edge-stable
 super + n 
   thunar  
 
