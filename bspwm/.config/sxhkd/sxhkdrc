@@ -4,7 +4,7 @@
 
 # terminal emulator
 super + Return
-	/usr/bin/alacritty
+	alacritty
 
 super + e
 	emacsclient -qc
@@ -175,7 +175,7 @@ super+Print
 
 # Shortcuts
 super + w 
-  microsoft-edge-stable
+  firefox
 super + n 
   thunar  
 

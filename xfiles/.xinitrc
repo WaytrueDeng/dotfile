@@ -49,5 +49,4 @@ if [ -d /etc/X11/xinit/xinitrc.d ] ; then
 fi
 xrandr --setprovideroutputsource modesetting NVIDIA-0
 xrandr --auto
-
 exec bspwm

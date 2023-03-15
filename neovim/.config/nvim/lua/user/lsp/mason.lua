@@ -1,6 +1,5 @@
 
 local servers = {
-	"lua_ls",
 	"pyright",
 	"jsonls",
   "tsserver",
@@ -61,7 +60,7 @@ capabilities.textDocument.completion.completionItem.snippetSupport = true
 lspconfig.emmet_ls.setup({
     -- on_attach = on_attach,
     capabilities = capabilities,
-    filetypes = { 'html', 'typescriptreact', 'javascriptreact', 'css', 'sass', 'scss', 'less', 'jsx',"markdown","tid" },
+    filetypes = { 'html', 'typescriptreact', 'javascriptreact', 'css', 'sass', 'scss', 'less', 'jsx',"markdown" },
     init_options = {
       html = {
         options = {

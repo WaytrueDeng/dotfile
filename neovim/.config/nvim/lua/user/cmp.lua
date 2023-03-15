@@ -29,7 +29,6 @@ require("luasnip").config.set_config({ -- Setting LuaSnip config
 require("luasnip").filetype_extend("jsx", {"html","javascript"})
 require("luasnip").filetype_extend("mdx", {"markdown","jsx"})
 require("luasnip").filetype_extend("markdown", {"html","js","css"})
-require("luasnip").filetype_extend("tid", {"html","js","css"})
 --   פּ ﯟ   some other good icons
 local kind_icons = {
   Text = "",

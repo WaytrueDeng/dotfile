@@ -496,10 +496,13 @@
   (use-package org-roam
     :straight t
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
     :custom
     (org-roam-directory (file-truename "~/Documents/roam/"))
 >>>>>>> 4d04716 (update)
+=======
+>>>>>>> 6f6da3e (update)
     :bind (("C-c n l" . org-roam-buffer-toggle)
     ("C-c n f" . org-roam-node-find)
     ("C-c n g" . org-roam-graph)
@@ -510,12 +513,16 @@
     (:map org-mode-map
           ("C-M-<return>" . org-insert-subheading))
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 6f6da3e (update)
     :init
     (setq org-roam-directory (file-truename "~/Documents/roam"))
     (setq org-roam-file-exclude-regexp
       ;;(concat "^" (expand-file-name org-roam-directory) "/logseq/*")
       "logseq/"
       )
+<<<<<<< HEAD
 =======
     :config
     ;; If you're using a vertical completion framework, you might want a more informative completion interface
@@ -523,6 +530,8 @@
     (org-roam-db-autosync-mode)
 
 >>>>>>> 4d04716 (update)
+=======
+>>>>>>> 6f6da3e (update)
 
   (setq org-roam-capture-templates
           '(
@@ -533,6 +542,9 @@
             :kill-buffer t
             :jump-to-captured -1)
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 6f6da3e (update)
           ;; ("e" "default" plain "" :target
           ;;  (file+head "./English/${slug}.org" "#+title: ${title} \n#+creationTime: %U \n")
           ;;  :unnarrowed t
@@ -551,6 +563,7 @@
           ;;  :kill-buffer
           ;;  :jump-to-captured -1)
            )
+<<<<<<< HEAD
 
           org-capture-templates
           `(
@@ -585,7 +598,44 @@
 =======
            ))
 >>>>>>> 4d04716 (update)
+=======
+>>>>>>> 6f6da3e (update)
 
+          org-capture-templates
+          `(
+           ("d" "default" plain "" :target
+            (file+head "./pages/${slug}.org" "#+title: ${title} \n#+creationTime: %U \n"))
+           ("r" "Journal Entry" entry
+   (file+datetree ,(concat org-roam-directory "/pages/gkd.org"))
+   "*** TODO [#%^{priority|B}] %a")
+           ("t" "thing to be done" entry
+   (file+datetree ,(concat org-roam-directory "/pages/plan_org.org"))
+   "*** TODO [#%^{priority|B}]  %^{What Todo}")
+          ;; ("e" "default" plain "" :target
+          ;;  (file+head "./English/${slug}.org" "#+title: ${title} \n#+creationTime: %U \n")
+          ;;  :unnarrowed t
+          ;; ;; :immediate-finish t
+          ;;  :kill-buffer t
+          ;;  :jump-to-captured -1)
+          ;; ("z" "default" plain "" :target
+          ;;  (file+head "./政治/${slug}.org" "#+title: ${title} \n#+creationTime: %U \n")
+          ;;  :unnarrowed t
+          ;; ;; :immediate-finish t
+          ;;  :kill-buffer t
+          ;;  :jump-to-captured -1)
+          ;; ("c" "cards" plain "" :target (file+head "./pages/${slug}.org" "#+title: ${title} \n#+creationTime: %U \n\n\n* Keywords\n- \n* Contents\n* Mnemonic\n* Reference")
+          ;;  :unnarrowed t
+          ;;  ;;:immediate-finish t
+          ;;  :kill-buffer
+          ;;  :jump-to-captured -1)
+           )
+
+          )
+
+    :config
+    ;; If you're using a vertical completion framework, you might want a more informative completion interface
+    (setq org-roam-node-display-template (concat "${title:*} " (propertize "${tags:10}" 'face 'org-tag)))
+    (org-roam-db-autosync-mode)
     ;; If using org-roam-protocol
     (require 'org-roam-protocol))
 
