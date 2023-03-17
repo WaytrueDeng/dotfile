@@ -491,27 +491,35 @@
   ;;  (setq org-download-timestamp "%Y%m%d-%H%M%S_")
   ;;  )
 
+  (defun my/org-capture-shortcut ()
+    "this is my org-capture short cut"
+    (interactive)
+    (org-capture nil "r")
+    )
 
   ;; org-roam
   (use-package org-roam
     :straight t
     :custom
     (org-roam-directory (file-truename "~/Documents/roam/"))
-    :bind (("C-c n l" . org-roam-buffer-toggle)
-    ("C-c n f" . org-roam-node-find)
-    ("C-c n g" . org-roam-graph)
-    ("C-c n i" . org-roam-node-insert)
-    ("C-c n c" . org-roam-capture)
-    ;; Dailies
-    ("C-c n j" . org-roam-dailies-capture-today))
-    (:map org-mode-map
-          ("C-M-<return>" . org-insert-subheading))
     :init
     (setq org-roam-directory (file-truename "~/Documents/roam"))
     (setq org-roam-file-exclude-regexp
       ;;(concat "^" (expand-file-name org-roam-directory) "/logseq/*")
       "logseq/"
       )
+
+    :bind (("C-c n l" . org-roam-buffer-toggle)
+    ("C-c n f" . org-roam-node-find)
+    ("C-c n g" . org-roam-graph)
+    ("C-c n i" . org-roam-node-insert)
+    ("C-c n c" . org-roam-capture)
+    ;; Dailies
+    ("C-c n j" . org-roam-dailies-capture-today)
+    ("C-M-<return>" . org-insert-subheading)
+    ("C-c r" . my/org-capture-shortcut)
+    )
+
     :config
     ;; If you're using a vertical completion framework, you might want a more informative completion interface
     (setq org-roam-node-display-template (concat "${title:*} " (propertize "${tags:10}" 'face 'org-tag)))
@@ -549,7 +557,9 @@
             (file+head "./pages/${slug}.org" "#+title: ${title} \n#+creationTime: %U \n"))
            ("r" "Journal Entry" entry
    (file+datetree ,(concat org-roam-directory "/pages/gkd.org"))
-   "*** TODO [#%^{priority|B}] %a")
+   "*** TODO [#%^{priority|B}] %a"
+   :immediate-finish t
+   )
            ("t" "thing to be done" entry
    (file+datetree ,(concat org-roam-directory "/pages/plan_org.org"))
    "*** TODO [#%^{priority|B}]  %^{What Todo}")
@@ -603,13 +613,12 @@
           ;;  :jump-to-captured -1)
            )
 
-
-    :config
     ;; If you're using a vertical completion framework, you might want a more informative completion interface
     (setq org-roam-node-display-template (concat "${title:*} " (propertize "${tags:10}" 'face 'org-tag)))
     (org-roam-db-autosync-mode)
     ;; If using org-roam-protocol
-    (require 'org-roam-protocol))
+    (require 'org-roam-protocol)
+    )
 
   ;; org-roam-ui
   (use-package org-roam-ui

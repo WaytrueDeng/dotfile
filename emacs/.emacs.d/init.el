@@ -11,10 +11,13 @@
  '(default-text-scale-amount 30)
  '(org-roam-capture-templates
    '(("d" "default" plain "%?" :target
-      (file+head "${slug}.org" "#+title: ${title}\12")
+      (file+head "${slug}.org" "#+title: ${title}
+")
       :unnarrowed t)))
  '(org-roam-completion-everywhere t)
  '(package-selected-packages '(## use-package))
+ '(tempel-path "/home/waytrue/.emacs.d/templates/*/*.eld")
+ '(tempel-template-sources '(tempel-path-templates tempel-collection))
  '(tempel-trigger-prefix "<"))
 (custom-set-faces
  ;; custom-set-faces was added by Custom.
