@@ -1,101 +1,60 @@
-# Tmux Plugin Manager
+# Dracula for [tmux](https://github.com/tmux/tmux/wiki)
 
-[![Build Status](https://travis-ci.org/tmux-plugins/tpm.svg?branch=master)](https://travis-ci.org/tmux-plugins/tpm)
+> A dark theme for [tmux](https://github.com/tmux/tmux/wiki)
 
-Installs and loads `tmux` plugins.
+![Screenshot](./screenshot.png)
 
-Tested and working on Linux, OSX, and Cygwin.
+## Install
 
-See list of plugins [here](https://github.com/tmux-plugins/list).
+All instructions can be found at [draculatheme.com/tmux](https://draculatheme.com/tmux).
 
-### Installation
+## Configuration
 
-Requirements: `tmux` version 1.9 (or higher), `git`, `bash`.
+Configuration and options can be found at [draculatheme.com/tmux](https://draculatheme.com/tmux).
 
-Clone TPM:
+## Features
 
-```bash
-git clone https://github.com/tmux-plugins/tpm ~/.tmux/plugins/tpm
-```
+- Support for powerline
+- Day, date, time, timezone
+- Current location based on network with temperature and forecast icon (if available)
+- Network connection status, bandwidth and SSID
+- Git branch and status
+- Battery percentage and AC power connection status
+- Refresh rate control
+- CPU usage (percentage or load average)
+- RAM usage
+- GPU usage
+- Custom status texts from external scripts
+- GPU VRAM usage
+- GPU power draw
+- Color code based on if prefix is active or not
+- List of windows with current window highlighted
+- When prefix is enabled smiley face turns from green to yellow
+- When charging, 'AC' is displayed
+- If forecast information is available, a ☀, ☁, ☂, or ❄ unicode character corresponding with the forecast is displayed alongside the temperature
+- Spotify playback (needs the tool spotify-tui installed)
+- Current kubernetes context
+- Current working directory of tmux pane
 
-Put this at the bottom of `~/.tmux.conf` (`$XDG_CONFIG_HOME/tmux/tmux.conf`
-works too):
+## Compatibility
 
-```bash
-# List of plugins
-set -g @plugin 'tmux-plugins/tpm'
-set -g @plugin 'tmux-plugins/tmux-sensible'
+Compatible with macOS and Linux. Tested on tmux 3.1b
+FreeBSD compatibility is in development
 
-# Other examples:
-# set -g @plugin 'github_username/plugin_name'
-# set -g @plugin 'github_username/plugin_name#branch'
-# set -g @plugin 'git@github.com:user/plugin'
-# set -g @plugin 'git@bitbucket.com:user/plugin'
+## Team
 
-# Initialize TMUX plugin manager (keep this line at the very bottom of tmux.conf)
-run '~/.tmux/plugins/tpm/tpm'
-```
+This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/tmux/graphs/contributors).
 
-Reload TMUX environment so TPM is sourced:
+| [![Dane Williams](https://avatars2.githubusercontent.com/u/22798229?s=70&v=4",)](https://github.com/danerwilliams) | [![Ethan Edwards](https://avatars1.githubusercontent.com/u/60861925?s=70&v=4)](https://github.com/ethancedwards8) |
+| ------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------- |
+| [Dane Williams](https://github.com/danerwilliams)                                                                  | [Ethan Edwards](https://github.com/ethancedwards8)                                                                |
 
-```bash
-# type this in terminal if tmux is already running
-tmux source ~/.tmux.conf
-```
+## Community
 
-That's it!
+- [Twitter](https://twitter.com/draculatheme) - Best for getting updates about themes and new stuff.
+- [GitHub](https://github.com/dracula/dracula-theme/discussions) - Best for asking questions and discussing issues.
+- [Discord](https://draculatheme.com/discord-invite) - Best for hanging out with the community.
 
-### Installing plugins
+## License
 
-1. Add new plugin to `~/.tmux.conf` with `set -g @plugin '...'`
-2. Press `prefix` + <kbd>I</kbd> (capital i, as in **I**nstall) to fetch the plugin.
-
-You're good to go! The plugin was cloned to `~/.tmux/plugins/` dir and sourced.
-
-### Uninstalling plugins
-
-1. Remove (or comment out) plugin from the list.
-2. Press `prefix` + <kbd>alt</kbd> + <kbd>u</kbd> (lowercase u as in **u**ninstall) to remove the plugin.
-
-All the plugins are installed to `~/.tmux/plugins/` so alternatively you can
-find plugin directory there and remove it.
-
-### Key bindings
-
-`prefix` + <kbd>I</kbd>
-- Installs new plugins from GitHub or any other git repository
-- Refreshes TMUX environment
-
-`prefix` + <kbd>U</kbd>
-- updates plugin(s)
-
-`prefix` + <kbd>alt</kbd> + <kbd>u</kbd>
-- remove/uninstall plugins not on the plugin list
-
-### Docs
-
-- [Help, tpm not working](docs/tpm_not_working.md) - problem solutions
-
-More advanced features and instructions, regular users probably do not need
-this:
-
-- [How to create a plugin](docs/how_to_create_plugin.md). It's easy.
-- [Managing plugins via the command line](docs/managing_plugins_via_cmd_line.md)
-- [Changing plugins install dir](docs/changing_plugins_install_dir.md)
-- [Automatic TPM installation on a new machine](docs/automatic_tpm_installation.md)
-
-### Tests
-
-Tests for this project run on [Travis CI](https://travis-ci.org/tmux-plugins/tpm).
-
-When run locally, [vagrant](https://www.vagrantup.com/) is required.
-Run tests with:
-
-```bash
-# within project directory
-./run_tests
-```
-
-### License
-
-[MIT](LICENSE.md)
+[MIT License](./LICENSE)
