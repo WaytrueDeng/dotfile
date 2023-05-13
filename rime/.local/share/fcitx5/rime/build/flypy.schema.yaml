@@ -1,10 +1,10 @@
 __build_info:
-  rime_version: 1.7.3
+  rime_version: 1.8.5
   timestamps:
     default: 1654509031
-    default.custom: 1675437115
+    default.custom: 1683680547
     flypy.custom: 0
-    flypy.schema: 1678929755
+    flypy.schema: 1683680547
     key_bindings: 1654509031
     key_bindings.custom: 0
     punctuation: 1654509031

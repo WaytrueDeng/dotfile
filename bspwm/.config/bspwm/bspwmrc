@@ -51,9 +51,9 @@ fcitx5 &
 # Low battery notifier
 #~/.config/bspwm/scripts/low_bat_notifier.sh
 
-#if [[ ! `pidof xfce-polkit` ]]; then
-#	/usr/lib/xfce-polkit/xfce-polkit &
-#fi
+if [[ ! `pidof xfce-polkit` ]]; then
+	/usr/lib/xfce-polkit/xfce-polkit &
+fi
 #feh --no-fehbg --bg-fill "/home/waytrue/Pictures/wallpaper"
 
 
@@ -72,7 +72,7 @@ bspc rule -a chromium desktop='^2' follow=on focus=on
 bspc rule -a Zotero desktop='^5' follow=on focus=on
 
 ## 3 > files (always open file manager on workspace-3)
-declare -a files=(Pcmanfm Thunar qBittorrent)
+declare -a files=(Pcmanfm Thunar qBittorrent  Logseq)
 for i in ${files[@]}; do
    bspc rule -a $i desktop='^3' follow=on focus=on; done
 
@@ -82,7 +82,7 @@ for i in ${code[@]}; do
    bspc rule -a $i desktop='^4' follow=on focus=on; done
 
 ## 5 > office and docs (always open office/doc apps on workspace-5)
-declare -a office=(Gucharmap Atril Evince Logseq Zotero\
+declare -a office=(Gucharmap Atril Evince Zotero\
 libreoffice-writer libreoffice-calc libreoffice-impress \
 libreoffice-startcenter libreoffice Soffice *:libreofficedev *:soffice)
 for i in ${office[@]}; do

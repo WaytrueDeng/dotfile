@@ -1,0 +1,51 @@
+files:
+  - url: ""
+    time: 1683896686680.yml
+    name: config.yaml
+    selected:
+      - name: Final
+        now: MESL
+      - name: GLOBAL
+        now: 🇭🇰 HK 02
+      - name: MESL
+        now: 🇭🇰 HK 02
+      - name: 🌐 Google
+        now: MESL
+      - name: 🍎 Apple
+        now: DIRECT
+      - name: 🎮 Steam
+        now: DIRECT
+      - name: 🎵 Spotify
+        now: MESL
+      - name: 👙 TikTok
+        now: DIRECT
+      - name: 💳 Paypal
+        now: DIRECT
+      - name: 📢 Discord
+        now: MESL
+      - name: 📢 Telegram
+        now: MESL
+      - name: 📽️ Abama
+        now: MESL
+      - name: 📽️ BBC
+        now: MESL
+      - name: 📽️ Bilibili
+        now: DIRECT
+      - name: 📽️ DAZN
+        now: MESL
+      - name: 📽️ Disney
+        now: MESL
+      - name: 📽️ HBO
+        now: MESL
+      - name: 📽️ LineTV
+        now: MESL
+      - name: 📽️ Netflix
+        now: MESL
+      - name: 📽️ 動畫瘋
+        now: MESL
+      - name: 🖥 Microsoft
+        now: MESL
+      - name: 🤖 ChatGpt
+        now: MESL
+    mode: rule
+index: 0

@@ -1,0 +1,199 @@
+10:13:23 INF [Config] initial compatible provider name=🌐 Google
+10:13:23 INF [Config] initial compatible provider name=Auto
+10:13:23 INF [Config] initial compatible provider name=MESL
+10:13:23 INF [Config] initial compatible provider name=📢 Discord
+10:13:23 INF [Config] initial compatible provider name=Final
+10:13:23 INF [Config] initial compatible provider name=👙 TikTok
+10:13:23 INF [Config] initial compatible provider name=📽️ HBO
+10:13:23 INF [Config] initial compatible provider name=🖥 Microsoft
+10:13:23 INF [Config] initial compatible provider name=📽️ 動畫瘋
+10:13:23 INF [Config] initial compatible provider name=🎵 Spotify
+10:13:23 INF [Config] initial compatible provider name=🎮 Steam
+10:13:23 INF [Config] initial compatible provider name=📽️ Netflix
+10:13:23 INF [Config] initial compatible provider name=Fallback
+10:13:23 INF [Config] initial compatible provider name=📽️ Abama
+10:13:23 INF [Config] initial compatible provider name=📽️ Disney
+10:13:23 INF [Config] initial compatible provider name=💳 Paypal
+10:13:23 INF [Config] initial compatible provider name=🤖 ChatGpt
+10:13:23 INF [Config] initial compatible provider name=📽️ LineTV
+10:13:23 INF [Config] initial compatible provider name=📽️ Bilibili
+10:13:23 INF [Config] initial compatible provider name=🍎 Apple
+10:13:23 INF [Config] initial compatible provider name=📢 Telegram
+10:13:23 INF [Config] initial compatible provider name=📽️ BBC
+10:13:23 INF [Config] initial compatible provider name=📽️ DAZN
+10:13:23 INF [DNS] server listening addr=127.0.0.1:8853
+10:13:23 INF [Inbound] HTTP proxy listening addr=127.0.0.1:7890
+10:13:23 INF [API] listening addr=127.0.0.1:46055
+10:13:23 INF [Inbound] SOCKS proxy listening addr=127.0.0.1:7891
+10:13:23 INF [Inbound] Redirect proxy listening addr=127.0.0.1:7892
+10:13:23 INF [Inbound] Mixed(http+socks) listening addr=127.0.0.1:7893
+10:13:24 INF [Inbound] TUN listening iface=utun gateway=198.18.0.1
+10:13:24 INF [UDP] connected lAddr=198.18.0.1:54039 rAddr=223.5.5.5:53 mode=rule rule=GeoIP(CN) proxy=DIRECT
+10:13:24 INF [Config] initial compatible provider name=📽️ Abama
+10:13:24 INF [Config] initial compatible provider name=Fallback
+10:13:24 INF [Config] initial compatible provider name=MESL
+10:13:24 INF [Config] initial compatible provider name=📽️ Bilibili
+10:13:24 INF [Config] initial compatible provider name=📢 Discord
+10:13:24 INF [Config] initial compatible provider name=🎵 Spotify
+10:13:24 INF [Config] initial compatible provider name=📽️ HBO
+10:13:24 INF [Config] initial compatible provider name=📢 Telegram
+10:13:24 INF [Config] initial compatible provider name=📽️ 動畫瘋
+10:13:24 INF [Config] initial compatible provider name=📽️ BBC
+10:13:24 INF [Config] initial compatible provider name=🎮 Steam
+10:13:24 INF [Config] initial compatible provider name=📽️ LineTV
+10:13:24 INF [Config] initial compatible provider name=Auto
+10:13:24 INF [Config] initial compatible provider name=🍎 Apple
+10:13:24 INF [Config] initial compatible provider name=📽️ DAZN
+10:13:24 INF [Config] initial compatible provider name=📽️ Netflix
+10:13:24 INF [Config] initial compatible provider name=🌐 Google
+10:13:24 INF [Config] initial compatible provider name=🤖 ChatGpt
+10:13:24 INF [Config] initial compatible provider name=👙 TikTok
+10:13:24 INF [Config] initial compatible provider name=📽️ Disney
+10:13:24 INF [Config] initial compatible provider name=Final
+10:13:24 INF [Config] initial compatible provider name=💳 Paypal
+10:13:24 INF [Config] initial compatible provider name=🖥 Microsoft
+10:13:24 INF [Inbound] TUN listening iface=utun gateway=198.18.0.1
+10:13:25 INF [UDP] connected lAddr=198.18.0.1:60487 rAddr=223.5.5.5:53 mode=rule rule=GeoIP(CN) proxy=DIRECT
+10:13:25 INF [TCP] connected lAddr=198.18.0.1:44530 rAddr=95.216.195.133:80 mode=rule rule=Match() proxy=Final[🇭🇰 HK 02]
+10:13:25 INF [TCP] connected lAddr=198.18.0.1:44536 rAddr=95.216.195.133:80 mode=rule rule=Match() proxy=Final[🇭🇰 HK 02]
+10:13:26 INF [UDP] connected lAddr=198.18.0.1:39538 rAddr=223.5.5.5:53 mode=rule rule=GeoIP(CN) proxy=DIRECT
+10:13:29 INF [UDP] connected lAddr=198.18.0.1:45292 rAddr=162.159.200.1:123 mode=rule rule=Match() proxy=Final[🇭🇰 HK 02]
+10:13:29 INF [Config] initial compatible provider name=🎮 Steam
+10:13:29 INF [Config] initial compatible provider name=🌐 Google
+10:13:29 INF [Config] initial compatible provider name=Fallback
+10:13:29 INF [Config] initial compatible provider name=MESL
+10:13:29 INF [Config] initial compatible provider name=💳 Paypal
+10:13:29 INF [Config] initial compatible provider name=📽️ Abama
+10:13:29 INF [Config] initial compatible provider name=🖥 Microsoft
+10:13:29 INF [Config] initial compatible provider name=📽️ BBC
+10:13:29 INF [Config] initial compatible provider name=👙 TikTok
+10:13:29 INF [Config] initial compatible provider name=📽️ 動畫瘋
+10:13:29 INF [Config] initial compatible provider name=📽️ HBO
+10:13:29 INF [Config] initial compatible provider name=📽️ LineTV
+10:13:29 INF [Config] initial compatible provider name=🎵 Spotify
+10:13:29 INF [Config] initial compatible provider name=📽️ Netflix
+10:13:29 INF [Config] initial compatible provider name=📢 Telegram
+10:13:29 INF [Config] initial compatible provider name=📽️ Disney
+10:13:29 INF [Config] initial compatible provider name=📢 Discord
+10:13:29 INF [Config] initial compatible provider name=Auto
+10:13:29 INF [Config] initial compatible provider name=📽️ Bilibili
+10:13:29 INF [Config] initial compatible provider name=📽️ DAZN
+10:13:29 INF [Config] initial compatible provider name=Final
+10:13:29 INF [Config] initial compatible provider name=🤖 ChatGpt
+10:13:29 INF [Config] initial compatible provider name=🍎 Apple
+10:13:29 INF [Inbound] TUN listening iface=utun gateway=198.18.0.1
+10:13:29 INF [UDP] connected lAddr=198.18.0.1:39073 rAddr=223.5.5.5:53 mode=rule rule=GeoIP(CN) proxy=DIRECT
+10:13:29 INF [UDP] connected lAddr=198.18.0.1:37575 rAddr=223.5.5.5:53 mode=rule rule=GeoIP(CN) proxy=DIRECT
+10:13:29 INF [UDP] connected lAddr=198.18.0.1:58028 rAddr=223.5.5.5:53 mode=rule rule=GeoIP(CN) proxy=DIRECT
+10:13:29 INF [UDP] connected lAddr=198.18.0.1:46604 rAddr=223.5.5.5:53 mode=rule rule=GeoIP(CN) proxy=DIRECT
+10:13:29 INF [UDP] connected lAddr=198.18.0.1:52787 rAddr=223.5.5.5:53 mode=rule rule=GeoIP(CN) proxy=DIRECT
+10:13:29 INF [UDP] connected lAddr=198.18.0.1:44812 rAddr=223.5.5.5:53 mode=rule rule=GeoIP(CN) proxy=DIRECT
+10:13:29 INF [TCP] connected lAddr=198.18.0.1:34824 rAddr=95.216.195.133:80 mode=rule rule=Match() proxy=Final[🇭🇰 HK 02]
+10:13:29 INF [TCP] connected lAddr=198.18.0.1:34840 rAddr=95.216.195.133:80 mode=rule rule=Match() proxy=Final[🇭🇰 HK 02]
+10:13:29 INF [TCP] connected lAddr=198.18.0.1:34852 rAddr=95.216.195.133:80 mode=rule rule=Match() proxy=Final[🇭🇰 HK 02]
+10:13:30 INF [UDP] connected lAddr=198.18.0.1:51777 rAddr=223.5.5.5:53 mode=rule rule=GeoIP(CN) proxy=DIRECT
+10:13:30 INF [TCP] connected lAddr=198.18.0.1:34866 rAddr=95.216.195.133:80 mode=rule rule=Match() proxy=Final[🇭🇰 HK 02]
+10:13:31 INF [UDP] connected lAddr=198.18.0.1:45146 rAddr=223.5.5.5:53 mode=rule rule=GeoIP(CN) proxy=DIRECT
+10:13:32 INF [UDP] connected lAddr=198.18.0.1:43673 rAddr=222.85.85.85:53 mode=rule rule=GeoIP(CN) proxy=DIRECT
+10:13:32 INF [UDP] connected lAddr=198.18.0.1:42314 rAddr=222.85.85.85:53 mode=rule rule=GeoIP(CN) proxy=DIRECT
+10:13:35 INF [UDP] connected lAddr=198.18.0.1:54858 rAddr=223.5.5.5:53 mode=rule rule=GeoIP(CN) proxy=DIRECT
+10:13:43 INF [UDP] connected lAddr=198.18.0.1:35204 rAddr=223.5.5.5:53 mode=rule rule=GeoIP(CN) proxy=DIRECT
+10:13:45 INF [UDP] connected lAddr=198.18.0.1:48154 rAddr=223.5.5.5:53 mode=rule rule=GeoIP(CN) proxy=DIRECT
+10:13:47 INF [TCP] connected lAddr=198.18.0.1:47004 rAddr=104.26.4.205:443 mode=rule rule=Match() proxy=Final[🇭🇰 HK 02]
+10:13:48 INF [UDP] connected lAddr=198.18.0.1:59397 rAddr=223.5.5.5:53 mode=rule rule=GeoIP(CN) proxy=DIRECT
+10:13:50 INF [TCP] connected lAddr=198.18.0.1:50048 rAddr=104.26.5.205:443 mode=rule rule=Match() proxy=Final[🇭🇰 HK 02]
+10:13:50 INF [UDP] connected lAddr=198.18.0.1:42666 rAddr=223.5.5.5:53 mode=rule rule=GeoIP(CN) proxy=DIRECT
+10:13:52 INF [TCP] connected lAddr=198.18.0.1:39512 rAddr=104.21.89.125:443 mode=rule rule=Match() proxy=Final[🇭🇰 HK 02]
+10:13:54 INF [UDP] connected lAddr=198.18.0.1:54128 rAddr=223.5.5.5:53 mode=rule rule=GeoIP(CN) proxy=DIRECT
+10:13:59 INF [UDP] connected lAddr=198.18.0.1:41317 rAddr=223.5.5.5:53 mode=rule rule=GeoIP(CN) proxy=DIRECT
+10:14:01 INF [UDP] connected lAddr=198.18.0.1:41452 rAddr=223.5.5.5:53 mode=rule rule=GeoIP(CN) proxy=DIRECT
+10:14:01 INF [UDP] connected lAddr=198.18.0.1:47546 rAddr=223.5.5.5:53 mode=rule rule=GeoIP(CN) proxy=DIRECT
+10:14:01 INF [UDP] connected lAddr=198.18.0.1:42635 rAddr=223.5.5.5:53 mode=rule rule=GeoIP(CN) proxy=DIRECT
+10:14:01 INF [UDP] connected lAddr=198.18.0.1:41973 rAddr=223.5.5.5:53 mode=rule rule=GeoIP(CN) proxy=DIRECT
+10:14:01 INF [UDP] connected lAddr=198.18.0.1:54138 rAddr=223.5.5.5:53 mode=rule rule=GeoIP(CN) proxy=DIRECT
+10:14:01 INF [UDP] connected lAddr=198.18.0.1:52834 rAddr=223.5.5.5:53 mode=rule rule=GeoIP(CN) proxy=DIRECT
+10:14:01 INF [UDP] connected lAddr=198.18.0.1:59529 rAddr=223.5.5.5:53 mode=rule rule=GeoIP(CN) proxy=DIRECT
+10:14:06 INF [UDP] connected lAddr=198.18.0.1:48207 rAddr=222.88.88.88:53 mode=rule rule=GeoIP(CN) proxy=DIRECT
+10:14:06 INF [UDP] connected lAddr=198.18.0.1:59739 rAddr=222.88.88.88:53 mode=rule rule=GeoIP(CN) proxy=DIRECT
+10:14:06 INF [UDP] connected lAddr=198.18.0.1:55089 rAddr=222.88.88.88:53 mode=rule rule=GeoIP(CN) proxy=DIRECT
+10:14:06 INF [UDP] connected lAddr=198.18.0.1:38890 rAddr=222.88.88.88:53 mode=rule rule=GeoIP(CN) proxy=DIRECT
+10:14:06 INF [UDP] connected lAddr=198.18.0.1:43325 rAddr=222.88.88.88:53 mode=rule rule=GeoIP(CN) proxy=DIRECT
+10:14:06 INF [UDP] connected lAddr=198.18.0.1:48729 rAddr=222.88.88.88:53 mode=rule rule=GeoIP(CN) proxy=DIRECT
+10:14:06 INF [TCP] connected lAddr=198.18.0.1:34262 rAddr=172.65.251.78:443 mode=rule rule=Match() proxy=Final[🇭🇰 HK 02]
+10:14:07 INF [TCP] connected lAddr=198.18.0.1:54562 rAddr=88.99.3.115:443 mode=rule rule=Match() proxy=Final[🇭🇰 HK 02]
+10:14:07 INF [TCP] connected lAddr=198.18.0.1:54566 rAddr=88.99.3.115:443 mode=rule rule=Match() proxy=Final[🇭🇰 HK 02]
+10:14:07 INF [TCP] connected lAddr=198.18.0.1:44912 rAddr=35.185.44.232:443 mode=rule rule=Match() proxy=Final[🇭🇰 HK 02]
+10:14:07 INF [TCP] connected lAddr=198.18.0.1:54572 rAddr=88.99.3.115:443 mode=rule rule=Match() proxy=Final[🇭🇰 HK 02]
+10:14:07 INF [TCP] connected lAddr=198.18.0.1:54570 rAddr=88.99.3.115:443 mode=rule rule=Match() proxy=Final[🇭🇰 HK 02]
+10:14:08 INF [TCP] connected lAddr=198.18.0.1:44922 rAddr=35.185.44.232:443 mode=rule rule=Match() proxy=Final[🇭🇰 HK 02]
+10:14:08 INF [UDP] connected lAddr=198.18.0.1:47403 rAddr=223.5.5.5:53 mode=rule rule=GeoIP(CN) proxy=DIRECT
+10:14:08 INF [UDP] connected lAddr=198.18.0.1:44270 rAddr=223.5.5.5:53 mode=rule rule=GeoIP(CN) proxy=DIRECT
+10:14:08 INF [UDP] connected lAddr=198.18.0.1:41008 rAddr=223.5.5.5:53 mode=rule rule=GeoIP(CN) proxy=DIRECT
+10:14:08 INF [UDP] connected lAddr=198.18.0.1:53284 rAddr=223.5.5.5:53 mode=rule rule=GeoIP(CN) proxy=DIRECT
+10:14:08 INF [UDP] connected lAddr=198.18.0.1:43788 rAddr=223.5.5.5:53 mode=rule rule=GeoIP(CN) proxy=DIRECT
+10:14:08 INF [UDP] connected lAddr=198.18.0.1:46114 rAddr=223.5.5.5:53 mode=rule rule=GeoIP(CN) proxy=DIRECT
+10:14:08 INF [UDP] connected lAddr=198.18.0.1:59758 rAddr=223.5.5.5:53 mode=rule rule=GeoIP(CN) proxy=DIRECT
+10:14:08 INF [UDP] connected lAddr=198.18.0.1:43420 rAddr=223.5.5.5:53 mode=rule rule=GeoIP(CN) proxy=DIRECT
+10:14:08 INF [UDP] connected lAddr=198.18.0.1:34195 rAddr=223.5.5.5:53 mode=rule rule=GeoIP(CN) proxy=DIRECT
+10:14:08 INF [UDP] connected lAddr=198.18.0.1:48453 rAddr=223.5.5.5:53 mode=rule rule=GeoIP(CN) proxy=DIRECT
+10:14:08 INF [UDP] connected lAddr=198.18.0.1:56687 rAddr=223.5.5.5:53 mode=rule rule=GeoIP(CN) proxy=DIRECT
+10:14:08 INF [UDP] connected lAddr=198.18.0.1:51214 rAddr=223.5.5.5:53 mode=rule rule=GeoIP(CN) proxy=DIRECT
+10:14:08 INF [UDP] connected lAddr=198.18.0.1:45813 rAddr=223.5.5.5:53 mode=rule rule=GeoIP(CN) proxy=DIRECT
+10:14:08 INF [UDP] connected lAddr=198.18.0.1:38223 rAddr=223.5.5.5:53 mode=rule rule=GeoIP(CN) proxy=DIRECT
+10:14:08 INF [UDP] connected lAddr=198.18.0.1:33752 rAddr=223.5.5.5:53 mode=rule rule=GeoIP(CN) proxy=DIRECT
+10:14:08 INF [UDP] connected lAddr=198.18.0.1:39198 rAddr=223.5.5.5:53 mode=rule rule=GeoIP(CN) proxy=DIRECT
+10:14:08 INF [UDP] connected lAddr=198.18.0.1:44905 rAddr=223.5.5.5:53 mode=rule rule=GeoIP(CN) proxy=DIRECT
+10:14:08 INF [UDP] connected lAddr=198.18.0.1:56546 rAddr=223.5.5.5:53 mode=rule rule=GeoIP(CN) proxy=DIRECT
+10:14:08 INF [UDP] connected lAddr=198.18.0.1:37069 rAddr=223.5.5.5:53 mode=rule rule=GeoIP(CN) proxy=DIRECT
+10:14:08 INF [UDP] connected lAddr=198.18.0.1:48546 rAddr=223.5.5.5:53 mode=rule rule=GeoIP(CN) proxy=DIRECT
+10:14:08 INF [UDP] connected lAddr=198.18.0.1:45984 rAddr=223.5.5.5:53 mode=rule rule=GeoIP(CN) proxy=DIRECT
+10:14:08 INF [UDP] connected lAddr=198.18.0.1:42239 rAddr=223.5.5.5:53 mode=rule rule=GeoIP(CN) proxy=DIRECT
+10:14:08 INF [UDP] connected lAddr=198.18.0.1:55005 rAddr=223.5.5.5:53 mode=rule rule=GeoIP(CN) proxy=DIRECT
+10:14:08 INF [UDP] connected lAddr=198.18.0.1:46477 rAddr=223.5.5.5:53 mode=rule rule=GeoIP(CN) proxy=DIRECT
+10:14:08 INF [UDP] connected lAddr=198.18.0.1:36775 rAddr=223.5.5.5:53 mode=rule rule=GeoIP(CN) proxy=DIRECT
+10:14:08 INF [UDP] connected lAddr=198.18.0.1:34296 rAddr=223.5.5.5:53 mode=rule rule=GeoIP(CN) proxy=DIRECT
+10:14:08 INF [UDP] connected lAddr=198.18.0.1:54752 rAddr=223.5.5.5:53 mode=rule rule=GeoIP(CN) proxy=DIRECT
+10:14:08 INF [TCP] connected lAddr=198.18.0.1:60406 rAddr=31.13.85.2:443 mode=rule rule=Match() proxy=Final[🇭🇰 HK 02]
+10:14:08 INF [TCP] connected lAddr=198.18.0.1:60412 rAddr=31.13.85.2:443 mode=rule rule=Match() proxy=Final[🇭🇰 HK 02]
+10:14:09 INF [TCP] connected lAddr=198.18.0.1:56912 rAddr=185.60.216.169:443 mode=rule rule=Match() proxy=Final[🇭🇰 HK 02]
+10:14:09 INF [TCP] connected lAddr=198.18.0.1:34692 rAddr=128.121.243.235:443 mode=rule rule=Match() proxy=Final[🇭🇰 HK 02]
+10:14:09 INF [TCP] connected lAddr=198.18.0.1:47398 rAddr=104.244.43.182:443 mode=rule rule=Match() proxy=Final[🇭🇰 HK 02]
+10:14:09 INF [TCP] connected lAddr=198.18.0.1:47392 rAddr=104.244.43.182:443 mode=rule rule=Match() proxy=Final[🇭🇰 HK 02]
+10:14:09 INF [TCP] connected lAddr=198.18.0.1:47410 rAddr=104.244.43.182:443 mode=rule rule=Match() proxy=Final[🇭🇰 HK 02]
+10:14:09 INF [TCP] connected lAddr=198.18.0.1:56934 rAddr=185.60.216.169:443 mode=rule rule=Match() proxy=Final[🇭🇰 HK 02]
+10:14:09 INF [TCP] connected lAddr=198.18.0.1:56918 rAddr=185.60.216.169:443 mode=rule rule=Match() proxy=Final[🇭🇰 HK 02]
+10:14:09 INF [UDP] connected lAddr=198.18.0.1:59679 rAddr=223.5.5.5:53 mode=rule rule=GeoIP(CN) proxy=DIRECT
+10:14:09 INF [UDP] connected lAddr=198.18.0.1:37844 rAddr=223.5.5.5:53 mode=rule rule=GeoIP(CN) proxy=DIRECT
+10:14:09 INF [UDP] connected lAddr=198.18.0.1:35992 rAddr=223.5.5.5:53 mode=rule rule=GeoIP(CN) proxy=DIRECT
+10:14:09 INF [UDP] connected lAddr=198.18.0.1:40181 rAddr=223.5.5.5:53 mode=rule rule=GeoIP(CN) proxy=DIRECT
+10:14:09 INF [UDP] connected lAddr=198.18.0.1:49454 rAddr=223.5.5.5:53 mode=rule rule=GeoIP(CN) proxy=DIRECT
+10:14:09 INF [UDP] connected lAddr=198.18.0.1:42046 rAddr=223.5.5.5:53 mode=rule rule=GeoIP(CN) proxy=DIRECT
+10:14:09 INF [UDP] connected lAddr=198.18.0.1:33576 rAddr=223.5.5.5:53 mode=rule rule=GeoIP(CN) proxy=DIRECT
+10:14:09 INF [UDP] connected lAddr=198.18.0.1:44466 rAddr=223.5.5.5:53 mode=rule rule=GeoIP(CN) proxy=DIRECT
+10:14:09 INF [UDP] connected lAddr=198.18.0.1:35471 rAddr=223.5.5.5:53 mode=rule rule=GeoIP(CN) proxy=DIRECT
+10:14:09 INF [UDP] connected lAddr=198.18.0.1:47460 rAddr=223.5.5.5:53 mode=rule rule=GeoIP(CN) proxy=DIRECT
+10:14:09 INF [UDP] connected lAddr=198.18.0.1:47936 rAddr=223.5.5.5:53 mode=rule rule=GeoIP(CN) proxy=DIRECT
+10:14:09 INF [UDP] connected lAddr=198.18.0.1:52881 rAddr=223.5.5.5:53 mode=rule rule=GeoIP(CN) proxy=DIRECT
+10:14:09 INF [UDP] connected lAddr=198.18.0.1:40939 rAddr=223.5.5.5:53 mode=rule rule=GeoIP(CN) proxy=DIRECT
+10:14:09 INF [UDP] connected lAddr=198.18.0.1:51551 rAddr=223.5.5.5:53 mode=rule rule=GeoIP(CN) proxy=DIRECT
+10:14:09 INF [TCP] connected lAddr=198.18.0.1:36158 rAddr=47.88.58.234:443 mode=rule rule=Match() proxy=Final[🇭🇰 HK 02]
+10:14:09 INF [TCP] connected lAddr=198.18.0.1:59676 rAddr=199.59.150.40:443 mode=rule rule=Match() proxy=Final[🇭🇰 HK 02]
+10:14:09 INF [TCP] connected lAddr=198.18.0.1:59700 rAddr=199.59.150.40:443 mode=rule rule=Match() proxy=Final[🇭🇰 HK 02]
+10:14:09 INF [TCP] connected lAddr=198.18.0.1:58394 rAddr=157.240.8.36:443 mode=rule rule=Match() proxy=Final[🇭🇰 HK 02]
+10:14:09 INF [TCP] connected lAddr=198.18.0.1:59692 rAddr=199.59.150.40:443 mode=rule rule=Match() proxy=Final[🇭🇰 HK 02]
+10:14:09 INF [TCP] connected lAddr=198.18.0.1:59684 rAddr=199.59.150.40:443 mode=rule rule=Match() proxy=Final[🇭🇰 HK 02]
+10:14:09 INF [TCP] connected lAddr=198.18.0.1:36190 rAddr=47.88.58.234:443 mode=rule rule=Match() proxy=Final[🇭🇰 HK 02]
+10:14:09 INF [TCP] connected lAddr=198.18.0.1:36680 rAddr=157.240.16.50:443 mode=rule rule=Match() proxy=Final[🇭🇰 HK 02]
+10:14:09 INF [TCP] connected lAddr=198.18.0.1:59682 rAddr=199.59.150.40:443 mode=rule rule=Match() proxy=Final[🇭🇰 HK 02]
+10:14:09 INF [TCP] connected lAddr=198.18.0.1:59670 rAddr=199.59.150.40:443 mode=rule rule=Match() proxy=Final[🇭🇰 HK 02]
+10:14:09 INF [TCP] connected lAddr=198.18.0.1:36182 rAddr=47.88.58.234:443 mode=rule rule=Match() proxy=Final[🇭🇰 HK 02]
+10:14:09 INF [TCP] connected lAddr=198.18.0.1:36944 rAddr=199.96.62.41:443 mode=rule rule=Match() proxy=Final[🇭🇰 HK 02]
+10:14:09 INF [TCP] connected lAddr=198.18.0.1:59712 rAddr=199.59.150.40:443 mode=rule rule=Match() proxy=Final[🇭🇰 HK 02]
+10:14:09 INF [TCP] connected lAddr=198.18.0.1:36174 rAddr=47.88.58.234:443 mode=rule rule=Match() proxy=Final[🇭🇰 HK 02]
+10:14:10 INF [UDP] connected lAddr=198.18.0.1:40461 rAddr=223.5.5.5:53 mode=rule rule=GeoIP(CN) proxy=DIRECT
+10:14:10 INF [TCP] connected lAddr=198.18.0.1:36342 rAddr=20.205.243.166:443 mode=rule rule=Match() proxy=Final[🇭🇰 HK 02]
+10:14:11 INF [UDP] connected lAddr=198.18.0.1:40687 rAddr=223.5.5.5:53 mode=rule rule=GeoIP(CN) proxy=DIRECT
+10:14:11 INF [TCP] connected lAddr=198.18.0.1:49584 rAddr=185.199.109.133:443 mode=rule rule=Match() proxy=Final[🇭🇰 HK 02]
+10:14:13 WRN [TCP] dial failed error=dial tcp4 103.56.16.112:443: i/o timeout proxy=DIRECT lAddr=198.18.0.1:52974 rAddr=103.56.16.112:443 rule=GeoIP rulePayload=CN
+10:14:14 INF [UDP] connected lAddr=198.18.0.1:57112 rAddr=202.112.29.82:123 mode=rule rule=GeoIP(CN) proxy=DIRECT
+10:14:31 INF [UDP] connected lAddr=198.18.0.1:53529 rAddr=223.5.5.5:53 mode=rule rule=GeoIP(CN) proxy=DIRECT
