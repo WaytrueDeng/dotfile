@@ -44,7 +44,7 @@ files:
       - name: 📽️ 動畫瘋
         now: MESL
       - name: 🖥 Microsoft
-        now: MESL
+        now: Fallback
       - name: 🤖 ChatGpt
         now: MESL
     mode: rule

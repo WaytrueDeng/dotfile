@@ -1,0 +1,364 @@
+21:26:39 INF [Config] initial compatible provider name=PROXY
+21:26:39 INF [Config] initial rule provider name=lancidr
+21:26:39 INF [Config] initial rule provider name=direct
+21:26:40 INF [Config] initial rule provider name=telegramcidr
+21:26:40 INF [Config] initial rule provider name=proxy
+21:26:40 INF [Config] initial rule provider name=applications
+21:26:40 INF [Config] initial rule provider name=gfw
+21:26:40 INF [Config] initial rule provider name=reject
+21:26:40 INF [Config] initial rule provider name=cncidr
+21:26:40 INF [Config] initial rule provider name=tld-not-cn
+21:26:40 INF [Config] initial rule provider name=apple
+21:26:40 INF [Config] initial rule provider name=greatfire
+21:26:40 INF [Config] initial rule provider name=icloud
+21:26:40 INF [Config] initial rule provider name=google
+21:26:40 INF [Config] initial rule provider name=private
+21:26:40 INF [DNS] server listening addr=[::]:53
+21:26:40 INF [Inbound] HTTP proxy listening addr=[::]:7890
+21:26:40 ERR [Inbound] start failed error=listen tcp :7890: bind: address already in use addr=:7890 type=Mixed(http+socks)
+21:26:40 INF [API] listening addr=127.0.0.1:9090
+21:26:40 INF [Inbound] TUN listening iface=utun gateway=198.18.0.1
+21:26:40 INF [Config] initial compatible provider name=PROXY
+21:26:40 INF [Config] initial rule provider name=greatfire
+21:26:40 INF [Config] initial rule provider name=gfw
+21:26:40 INF [Config] initial rule provider name=applications
+21:26:40 INF [Config] initial rule provider name=reject
+21:26:41 INF [Config] initial rule provider name=tld-not-cn
+21:26:41 INF [Config] initial rule provider name=icloud
+21:26:41 INF [Config] initial rule provider name=direct
+21:26:41 INF [UDP] connected lAddr=198.18.0.1:36430 rAddr=180.76.76.76:53 mode=rule rule=RuleSet(cncidr) proxy=DIRECT
+21:26:41 INF [Config] initial rule provider name=lancidr
+21:26:41 INF [Config] initial rule provider name=google
+21:26:41 INF [Config] initial rule provider name=apple
+21:26:41 INF [Config] initial rule provider name=proxy
+21:26:41 INF [UDP] connected lAddr=198.18.0.1:51080 rAddr=180.76.76.76:53 mode=rule rule=RuleSet(cncidr) proxy=DIRECT
+21:26:41 INF [Config] initial rule provider name=telegramcidr
+21:26:41 INF [Config] initial rule provider name=private
+21:26:41 INF [Config] initial rule provider name=cncidr
+21:26:41 INF [Inbound] TUN listening iface=utun gateway=198.18.0.1
+21:26:41 INF [UDP] connected lAddr=198.18.0.1:40921 rAddr=180.76.76.76:53 mode=rule rule=RuleSet(cncidr) proxy=DIRECT
+21:26:41 INF [UDP] connected lAddr=198.18.0.1:39888 rAddr=180.76.76.76:53 mode=rule rule=RuleSet(cncidr) proxy=DIRECT
+21:26:41 INF [UDP] connected lAddr=198.18.0.1:40510 rAddr=180.76.76.76:53 mode=rule rule=RuleSet(cncidr) proxy=DIRECT
+21:26:41 INF [UDP] connected lAddr=198.18.0.1:48490 rAddr=180.76.76.76:53 mode=rule rule=RuleSet(cncidr) proxy=DIRECT
+21:26:41 INF [UDP] connected lAddr=198.18.0.1:33934 rAddr=180.76.76.76:53 mode=rule rule=RuleSet(cncidr) proxy=DIRECT
+21:26:41 INF [UDP] connected lAddr=198.18.0.1:52185 rAddr=180.76.76.76:53 mode=rule rule=RuleSet(cncidr) proxy=DIRECT
+21:26:41 INF [UDP] connected lAddr=198.18.0.1:58714 rAddr=180.76.76.76:53 mode=rule rule=RuleSet(cncidr) proxy=DIRECT
+21:26:41 INF [UDP] connected lAddr=198.18.0.1:43969 rAddr=180.76.76.76:53 mode=rule rule=RuleSet(cncidr) proxy=DIRECT
+21:26:41 INF [UDP] connected lAddr=198.18.0.1:48443 rAddr=180.76.76.76:53 mode=rule rule=RuleSet(cncidr) proxy=DIRECT
+21:26:41 INF [UDP] connected lAddr=198.18.0.1:59973 rAddr=180.76.76.76:53 mode=rule rule=RuleSet(cncidr) proxy=DIRECT
+21:26:42 INF [UDP] connected lAddr=198.18.0.1:59247 rAddr=180.76.76.76:53 mode=rule rule=RuleSet(cncidr) proxy=DIRECT
+21:26:42 INF [UDP] connected lAddr=198.18.0.1:46996 rAddr=180.76.76.76:53 mode=rule rule=RuleSet(cncidr) proxy=DIRECT
+21:26:42 INF [UDP] connected lAddr=198.18.0.1:59661 rAddr=180.76.76.76:53 mode=rule rule=RuleSet(cncidr) proxy=DIRECT
+21:26:42 INF [UDP] connected lAddr=198.18.0.1:41646 rAddr=180.76.76.76:53 mode=rule rule=RuleSet(cncidr) proxy=DIRECT
+21:26:42 INF [UDP] connected lAddr=198.18.0.1:40383 rAddr=180.76.76.76:53 mode=rule rule=RuleSet(cncidr) proxy=DIRECT
+21:26:42 INF [UDP] connected lAddr=198.18.0.1:36139 rAddr=180.76.76.76:53 mode=rule rule=RuleSet(cncidr) proxy=DIRECT
+21:26:42 INF [UDP] connected lAddr=198.18.0.1:33616 rAddr=180.76.76.76:53 mode=rule rule=RuleSet(cncidr) proxy=DIRECT
+21:26:42 INF [TCP] connected lAddr=198.18.0.1:42616 rAddr=223.5.5.5:53 mode=rule rule=RuleSet(cncidr) proxy=DIRECT
+21:26:43 INF [UDP] connected lAddr=198.18.0.1:59724 rAddr=180.76.76.76:53 mode=rule rule=RuleSet(cncidr) proxy=DIRECT
+21:26:43 INF [UDP] connected lAddr=198.18.0.1:37511 rAddr=180.76.76.76:53 mode=rule rule=RuleSet(cncidr) proxy=DIRECT
+21:26:43 INF [UDP] connected lAddr=198.18.0.1:58442 rAddr=180.76.76.76:53 mode=rule rule=RuleSet(cncidr) proxy=DIRECT
+21:26:44 INF [UDP] connected lAddr=198.18.0.1:56781 rAddr=180.76.76.76:53 mode=rule rule=RuleSet(cncidr) proxy=DIRECT
+21:26:44 WRN [Provider] pull resource failed error=Get "https://cdn.jsdelivr.net/gh/Loyalsoldier/clash-rules@release/lancidr.txt": lookup cdn.jsdelivr.net: i/o timeout name=lancidr
+21:26:45 WRN [Provider] pull resource failed error=Get "https://cdn.jsdelivr.net/gh/Loyalsoldier/clash-rules@release/direct.txt": lookup cdn.jsdelivr.net: i/o timeout name=direct
+21:26:45 WRN [Provider] pull resource failed error=Get "https://cdn.jsdelivr.net/gh/Loyalsoldier/clash-rules@release/telegramcidr.txt": lookup cdn.jsdelivr.net: i/o timeout name=telegramcidr
+21:26:45 WRN [Provider] pull resource failed error=Get "https://cdn.jsdelivr.net/gh/Loyalsoldier/clash-rules@release/proxy.txt": lookup cdn.jsdelivr.net: i/o timeout name=proxy
+21:26:45 WRN [Provider] pull resource failed error=Get "https://cdn.jsdelivr.net/gh/Loyalsoldier/clash-rules@release/applications.txt": lookup cdn.jsdelivr.net: i/o timeout name=applications
+21:26:45 WRN [Provider] pull resource failed error=Get "https://cdn.jsdelivr.net/gh/Loyalsoldier/clash-rules@release/gfw.txt": lookup cdn.jsdelivr.net: i/o timeout name=gfw
+21:26:45 WRN [Provider] pull resource failed error=Get "https://cdn.jsdelivr.net/gh/Loyalsoldier/clash-rules@release/reject.txt": lookup cdn.jsdelivr.net: i/o timeout name=reject
+21:26:45 WRN [Provider] pull resource failed error=Get "https://cdn.jsdelivr.net/gh/Loyalsoldier/clash-rules@release/cncidr.txt": lookup cdn.jsdelivr.net: i/o timeout name=cncidr
+21:26:45 WRN [Provider] pull resource failed error=Get "https://cdn.jsdelivr.net/gh/Loyalsoldier/clash-rules@release/tld-not-cn.txt": lookup cdn.jsdelivr.net: i/o timeout name=tld-not-cn
+21:26:45 INF [UDP] connected lAddr=198.18.0.1:34473 rAddr=180.76.76.76:53 mode=rule rule=RuleSet(cncidr) proxy=DIRECT
+21:26:45 WRN [Provider] pull resource failed error=Get "https://cdn.jsdelivr.net/gh/Loyalsoldier/clash-rules@release/apple.txt": lookup cdn.jsdelivr.net: i/o timeout name=apple
+21:26:45 WRN [Provider] pull resource failed error=Get "https://cdn.jsdelivr.net/gh/Loyalsoldier/clash-rules@release/greatfire.txt": lookup cdn.jsdelivr.net: i/o timeout name=greatfire
+21:26:45 WRN [Provider] pull resource failed error=Get "https://cdn.jsdelivr.net/gh/Loyalsoldier/clash-rules@release/icloud.txt": lookup cdn.jsdelivr.net: i/o timeout name=icloud
+21:26:45 WRN [Provider] pull resource failed error=Get "https://cdn.jsdelivr.net/gh/Loyalsoldier/clash-rules@release/google.txt": lookup cdn.jsdelivr.net: i/o timeout name=google
+21:26:45 WRN [Provider] pull resource failed error=Get "https://cdn.jsdelivr.net/gh/Loyalsoldier/clash-rules@release/private.txt": lookup cdn.jsdelivr.net: i/o timeout name=private
+21:26:45 INF [UDP] connected lAddr=198.18.0.1:52504 rAddr=119.29.29.29:53 mode=rule rule=RuleSet(cncidr) proxy=DIRECT
+21:26:45 INF [UDP] connected lAddr=198.18.0.1:36873 rAddr=119.29.29.29:53 mode=rule rule=RuleSet(cncidr) proxy=DIRECT
+21:26:45 INF [UDP] connected lAddr=198.18.0.1:57238 rAddr=119.29.29.29:53 mode=rule rule=RuleSet(cncidr) proxy=DIRECT
+21:26:45 INF [UDP] connected lAddr=198.18.0.1:44541 rAddr=119.29.29.29:53 mode=rule rule=RuleSet(cncidr) proxy=DIRECT
+21:26:45 WRN [Provider] pull resource failed error=Get "https://cdn.jsdelivr.net/gh/Loyalsoldier/clash-rules@release/lancidr.txt": all DNS requests failed, first error: context deadline exceeded name=lancidr
+21:26:45 WRN [Provider] pull resource failed error=Get "https://cdn.jsdelivr.net/gh/Loyalsoldier/clash-rules@release/gfw.txt": all DNS requests failed, first error: context deadline exceeded name=gfw
+21:26:45 WRN [Provider] pull resource failed error=Get "https://cdn.jsdelivr.net/gh/Loyalsoldier/clash-rules@release/google.txt": all DNS requests failed, first error: context deadline exceeded name=google
+21:26:45 WRN [Provider] pull resource failed error=Get "https://cdn.jsdelivr.net/gh/Loyalsoldier/clash-rules@release/greatfire.txt": all DNS requests failed, first error: context deadline exceeded name=greatfire
+21:26:45 WRN [Provider] pull resource failed error=Get "https://cdn.jsdelivr.net/gh/Loyalsoldier/clash-rules@release/reject.txt": all DNS requests failed, first error: context deadline exceeded name=reject
+21:26:45 WRN [Provider] pull resource failed error=Get "https://cdn.jsdelivr.net/gh/Loyalsoldier/clash-rules@release/icloud.txt": all DNS requests failed, first error: context deadline exceeded name=icloud
+21:26:45 WRN [Provider] pull resource failed error=Get "https://cdn.jsdelivr.net/gh/Loyalsoldier/clash-rules@release/cncidr.txt": all DNS requests failed, first error: context deadline exceeded name=cncidr
+21:26:45 WRN [Provider] pull resource failed error=Get "https://cdn.jsdelivr.net/gh/Loyalsoldier/clash-rules@release/tld-not-cn.txt": all DNS requests failed, first error: context deadline exceeded name=tld-not-cn
+21:26:45 WRN [Provider] pull resource failed error=Get "https://cdn.jsdelivr.net/gh/Loyalsoldier/clash-rules@release/private.txt": all DNS requests failed, first error: context deadline exceeded name=private
+21:26:45 WRN [Provider] pull resource failed error=Get "https://cdn.jsdelivr.net/gh/Loyalsoldier/clash-rules@release/direct.txt": all DNS requests failed, first error: context deadline exceeded name=direct
+21:26:45 WRN [Provider] pull resource failed error=Get "https://cdn.jsdelivr.net/gh/Loyalsoldier/clash-rules@release/apple.txt": all DNS requests failed, first error: context deadline exceeded name=apple
+21:26:45 WRN [Provider] pull resource failed error=Get "https://cdn.jsdelivr.net/gh/Loyalsoldier/clash-rules@release/telegramcidr.txt": all DNS requests failed, first error: context deadline exceeded name=telegramcidr
+21:26:45 WRN [Provider] pull resource failed error=Get "https://cdn.jsdelivr.net/gh/Loyalsoldier/clash-rules@release/proxy.txt": all DNS requests failed, first error: context deadline exceeded name=proxy
+21:26:45 WRN [Provider] pull resource failed error=Get "https://cdn.jsdelivr.net/gh/Loyalsoldier/clash-rules@release/applications.txt": all DNS requests failed, first error: context deadline exceeded name=applications
+21:26:46 INF [TCP] connected lAddr=198.18.0.1:59354 rAddr=95.216.195.133:80 mode=rule rule=Match() proxy=PROXY[trojan-ws2]
+21:26:46 INF [TCP] connected lAddr=198.18.0.1:59348 rAddr=95.216.195.133:80 mode=rule rule=Match() proxy=PROXY[trojan-ws2]
+21:26:46 INF [UDP] connected lAddr=198.18.0.1:45113 rAddr=180.76.76.76:53 mode=rule rule=RuleSet(cncidr) proxy=DIRECT
+21:26:46 INF [UDP] connected lAddr=198.18.0.1:49310 rAddr=180.76.76.76:53 mode=rule rule=RuleSet(cncidr) proxy=DIRECT
+21:26:46 INF [TCP] connected lAddr=198.18.0.1:59358 rAddr=95.216.195.133:80 mode=rule rule=Match() proxy=PROXY[trojan-ws2]
+21:26:48 WRN [TCP] dial failed error=dial tcp4 180.76.76.76:53: i/o timeout proxy=DIRECT lAddr=198.18.0.1:58746 rAddr=180.76.76.76:53 rule=RuleSet rulePayload=cncidr
+21:26:48 INF [UDP] connected lAddr=198.18.0.1:50405 rAddr=180.76.76.76:53 mode=rule rule=RuleSet(cncidr) proxy=DIRECT
+21:26:48 INF [UDP] connected lAddr=198.18.0.1:47548 rAddr=180.76.76.76:53 mode=rule rule=RuleSet(cncidr) proxy=DIRECT
+21:26:48 INF [TCP] connected lAddr=198.18.0.1:59362 rAddr=95.216.195.133:80 mode=rule rule=Match() proxy=PROXY[trojan-ws2]
+21:26:48 INF [TCP] connected lAddr=198.18.0.1:37882 rAddr=222.138.195.228:1935 mode=rule rule=RuleSet(cncidr) proxy=DIRECT
+21:26:50 INF [UDP] connected lAddr=198.18.0.1:46484 rAddr=180.76.76.76:53 mode=rule rule=RuleSet(cncidr) proxy=DIRECT
+21:26:50 INF [UDP] connected lAddr=198.18.0.1:34106 rAddr=180.76.76.76:53 mode=rule rule=RuleSet(cncidr) proxy=DIRECT
+21:26:50 INF [UDP] connected lAddr=198.18.0.1:46401 rAddr=180.76.76.76:53 mode=rule rule=RuleSet(cncidr) proxy=DIRECT
+21:26:50 INF [UDP] connected lAddr=198.18.0.1:34523 rAddr=180.76.76.76:53 mode=rule rule=RuleSet(cncidr) proxy=DIRECT
+21:26:50 INF [UDP] connected lAddr=198.18.0.1:56351 rAddr=180.76.76.76:53 mode=rule rule=RuleSet(cncidr) proxy=DIRECT
+21:26:51 INF [TCP] connected lAddr=198.18.0.1:36550 rAddr=112.83.140.11:443 mode=rule rule=RuleSet(cncidr) proxy=DIRECT
+21:26:51 INF [TCP] connected lAddr=198.18.0.1:36538 rAddr=112.83.140.11:443 mode=rule rule=RuleSet(cncidr) proxy=DIRECT
+21:26:52 INF [UDP] connected lAddr=198.18.0.1:41471 rAddr=180.76.76.76:53 mode=rule rule=RuleSet(cncidr) proxy=DIRECT
+21:26:52 INF [UDP] connected lAddr=198.18.0.1:33943 rAddr=180.76.76.76:53 mode=rule rule=RuleSet(cncidr) proxy=DIRECT
+21:26:52 INF [UDP] connected lAddr=198.18.0.1:58685 rAddr=180.76.76.76:53 mode=rule rule=RuleSet(cncidr) proxy=DIRECT
+21:26:52 INF [UDP] connected lAddr=198.18.0.1:35430 rAddr=180.76.76.76:53 mode=rule rule=RuleSet(cncidr) proxy=DIRECT
+21:26:52 INF [UDP] connected lAddr=198.18.0.1:58265 rAddr=180.76.76.76:53 mode=rule rule=RuleSet(cncidr) proxy=DIRECT
+21:26:52 INF [TCP] connected lAddr=198.18.0.1:55528 rAddr=202.160.129.37:443 mode=rule rule=Match() proxy=PROXY[trojan-ws2]
+21:26:53 WRN [TCP] dial failed error=dial tcp4 180.76.76.76:53: i/o timeout proxy=DIRECT lAddr=198.18.0.1:58752 rAddr=180.76.76.76:53 rule=RuleSet rulePayload=cncidr
+21:26:56 INF [UDP] connected lAddr=198.18.0.1:43217 rAddr=180.76.76.76:53 mode=rule rule=RuleSet(cncidr) proxy=DIRECT
+21:26:58 WRN [TCP] dial failed error=dial tcp4 119.29.29.29:53: i/o timeout proxy=DIRECT lAddr=198.18.0.1:43016 rAddr=119.29.29.29:53 rule=RuleSet rulePayload=cncidr
+21:27:01 INF [UDP] connected lAddr=198.18.0.1:41267 rAddr=180.76.76.76:53 mode=rule rule=RuleSet(cncidr) proxy=DIRECT
+21:27:03 WRN [TCP] dial failed error=dial tcp4 119.29.29.29:53: i/o timeout proxy=DIRECT lAddr=198.18.0.1:43030 rAddr=119.29.29.29:53 rule=RuleSet rulePayload=cncidr
+21:27:03 INF [TCP] connected lAddr=198.18.0.1:52648 rAddr=223.5.5.5:53 mode=rule rule=RuleSet(cncidr) proxy=DIRECT
+21:27:03 INF [UDP] connected lAddr=198.18.0.1:40092 rAddr=180.76.76.76:53 mode=rule rule=RuleSet(cncidr) proxy=DIRECT
+21:27:08 WRN [TCP] dial failed error=dial tcp4 180.76.76.76:53: i/o timeout proxy=DIRECT lAddr=198.18.0.1:34372 rAddr=180.76.76.76:53 rule=RuleSet rulePayload=cncidr
+21:27:12 INF [UDP] connected lAddr=198.18.0.1:34326 rAddr=180.76.76.76:53 mode=rule rule=RuleSet(cncidr) proxy=DIRECT
+21:27:13 WRN [TCP] dial failed error=dial tcp4 180.76.76.76:53: i/o timeout proxy=DIRECT lAddr=198.18.0.1:34374 rAddr=180.76.76.76:53 rule=RuleSet rulePayload=cncidr
+21:27:13 INF [UDP] connected lAddr=198.18.0.1:54460 rAddr=180.76.76.76:53 mode=rule rule=RuleSet(cncidr) proxy=DIRECT
+21:27:13 INF [UDP] connected lAddr=198.18.0.1:54131 rAddr=180.76.76.76:53 mode=rule rule=RuleSet(cncidr) proxy=DIRECT
+21:27:13 INF [UDP] connected lAddr=198.18.0.1:56611 rAddr=180.76.76.76:53 mode=rule rule=RuleSet(cncidr) proxy=DIRECT
+21:27:13 INF [UDP] connected lAddr=198.18.0.1:38299 rAddr=180.76.76.76:53 mode=rule rule=RuleSet(cncidr) proxy=DIRECT
+21:27:13 INF [UDP] connected lAddr=198.18.0.1:54028 rAddr=180.76.76.76:53 mode=rule rule=RuleSet(cncidr) proxy=DIRECT
+21:27:13 INF [UDP] connected lAddr=198.18.0.1:52155 rAddr=180.76.76.76:53 mode=rule rule=RuleSet(cncidr) proxy=DIRECT
+21:27:13 INF [UDP] connected lAddr=198.18.0.1:36389 rAddr=180.76.76.76:53 mode=rule rule=RuleSet(cncidr) proxy=DIRECT
+21:27:13 INF [UDP] connected lAddr=198.18.0.1:51319 rAddr=180.76.76.76:53 mode=rule rule=RuleSet(cncidr) proxy=DIRECT
+21:27:13 INF [UDP] connected lAddr=198.18.0.1:35784 rAddr=180.76.76.76:53 mode=rule rule=RuleSet(cncidr) proxy=DIRECT
+21:27:13 INF [UDP] connected lAddr=198.18.0.1:42714 rAddr=180.76.76.76:53 mode=rule rule=RuleSet(cncidr) proxy=DIRECT
+21:27:13 INF [UDP] connected lAddr=198.18.0.1:41256 rAddr=180.76.76.76:53 mode=rule rule=RuleSet(cncidr) proxy=DIRECT
+21:27:13 INF [TCP] connected lAddr=198.18.0.1:45184 rAddr=34.120.208.123:443 mode=rule rule=Match() proxy=PROXY[trojan-ws2]
+21:27:13 INF [UDP] connected lAddr=198.18.0.1:41549 rAddr=180.76.76.76:53 mode=rule rule=RuleSet(cncidr) proxy=DIRECT
+21:27:13 INF [UDP] connected lAddr=198.18.0.1:44316 rAddr=180.76.76.76:53 mode=rule rule=RuleSet(cncidr) proxy=DIRECT
+21:27:13 INF [UDP] connected lAddr=198.18.0.1:56023 rAddr=180.76.76.76:53 mode=rule rule=RuleSet(cncidr) proxy=DIRECT
+21:27:13 INF [UDP] connected lAddr=198.18.0.1:53241 rAddr=180.76.76.76:53 mode=rule rule=RuleSet(cncidr) proxy=DIRECT
+21:27:13 INF [UDP] connected lAddr=198.18.0.1:51245 rAddr=180.76.76.76:53 mode=rule rule=RuleSet(cncidr) proxy=DIRECT
+21:27:14 INF [TCP] connected lAddr=198.18.0.1:54716 rAddr=20.205.243.166:443 mode=rule rule=Match() proxy=PROXY[trojan-ws2]
+21:27:14 INF [TCP] connected lAddr=198.18.0.1:54730 rAddr=20.205.243.166:443 mode=rule rule=Match() proxy=PROXY[trojan-ws2]
+21:27:14 INF [UDP] connected lAddr=198.18.0.1:45185 rAddr=180.76.76.76:53 mode=rule rule=RuleSet(cncidr) proxy=DIRECT
+21:27:14 INF [UDP] connected lAddr=198.18.0.1:40997 rAddr=180.76.76.76:53 mode=rule rule=RuleSet(cncidr) proxy=DIRECT
+21:27:15 INF [TCP] connected lAddr=198.18.0.1:52748 rAddr=152.195.38.76:80 mode=rule rule=Match() proxy=PROXY[trojan-ws2]
+21:27:15 INF [TCP] connected lAddr=198.18.0.1:52764 rAddr=152.195.38.76:80 mode=rule rule=Match() proxy=PROXY[trojan-ws2]
+21:27:15 INF [TCP] connected lAddr=198.18.0.1:52774 rAddr=152.195.38.76:80 mode=rule rule=Match() proxy=PROXY[trojan-ws2]
+21:27:15 INF [TCP] connected lAddr=198.18.0.1:52734 rAddr=152.195.38.76:80 mode=rule rule=Match() proxy=PROXY[trojan-ws2]
+21:27:15 INF [UDP] connected lAddr=198.18.0.1:44982 rAddr=180.76.76.76:53 mode=rule rule=RuleSet(cncidr) proxy=DIRECT
+21:27:16 INF [UDP] connected lAddr=198.18.0.1:58723 rAddr=180.76.76.76:53 mode=rule rule=RuleSet(cncidr) proxy=DIRECT
+21:27:16 INF [UDP] connected lAddr=198.18.0.1:34644 rAddr=180.76.76.76:53 mode=rule rule=RuleSet(cncidr) proxy=DIRECT
+21:27:16 INF [UDP] connected lAddr=198.18.0.1:57069 rAddr=180.76.76.76:53 mode=rule rule=RuleSet(cncidr) proxy=DIRECT
+21:27:16 INF [TCP] connected lAddr=198.18.0.1:59042 rAddr=185.199.111.154:443 mode=rule rule=Match() proxy=PROXY[trojan-ws2]
+21:27:16 INF [TCP] connected lAddr=198.18.0.1:59002 rAddr=185.199.111.154:443 mode=rule rule=Match() proxy=PROXY[trojan-ws2]
+21:27:16 INF [TCP] connected lAddr=198.18.0.1:58992 rAddr=185.199.111.154:443 mode=rule rule=Match() proxy=PROXY[trojan-ws2]
+21:27:16 INF [TCP] connected lAddr=198.18.0.1:59072 rAddr=185.199.111.154:443 mode=rule rule=Match() proxy=PROXY[trojan-ws2]
+21:27:16 INF [TCP] connected lAddr=198.18.0.1:59012 rAddr=185.199.111.154:443 mode=rule rule=Match() proxy=PROXY[trojan-ws2]
+21:27:16 INF [TCP] connected lAddr=198.18.0.1:59028 rAddr=185.199.111.154:443 mode=rule rule=Match() proxy=PROXY[trojan-ws2]
+21:27:16 INF [TCP] connected lAddr=198.18.0.1:59044 rAddr=185.199.111.154:443 mode=rule rule=Match() proxy=PROXY[trojan-ws2]
+21:27:16 INF [TCP] connected lAddr=198.18.0.1:59038 rAddr=185.199.111.154:443 mode=rule rule=Match() proxy=PROXY[trojan-ws2]
+21:27:16 INF [TCP] connected lAddr=198.18.0.1:59034 rAddr=185.199.111.154:443 mode=rule rule=Match() proxy=PROXY[trojan-ws2]
+21:27:16 INF [TCP] connected lAddr=198.18.0.1:59066 rAddr=185.199.111.154:443 mode=rule rule=Match() proxy=PROXY[trojan-ws2]
+21:27:16 INF [TCP] connected lAddr=198.18.0.1:59068 rAddr=185.199.111.154:443 mode=rule rule=Match() proxy=PROXY[trojan-ws2]
+21:27:16 INF [TCP] connected lAddr=198.18.0.1:59054 rAddr=185.199.111.154:443 mode=rule rule=Match() proxy=PROXY[trojan-ws2]
+21:27:17 INF [TCP] connected lAddr=198.18.0.1:59080 rAddr=185.199.111.154:443 mode=rule rule=Match() proxy=PROXY[trojan-ws2]
+21:27:17 INF [TCP] connected lAddr=198.18.0.1:59088 rAddr=185.199.111.154:443 mode=rule rule=Match() proxy=PROXY[trojan-ws2]
+21:27:17 INF [TCP] connected lAddr=198.18.0.1:59104 rAddr=185.199.111.154:443 mode=rule rule=Match() proxy=PROXY[trojan-ws2]
+21:27:17 INF [UDP] connected lAddr=198.18.0.1:56870 rAddr=180.76.76.76:53 mode=rule rule=RuleSet(cncidr) proxy=DIRECT
+21:27:17 INF [TCP] connected lAddr=198.18.0.1:51776 rAddr=185.199.111.133:443 mode=rule rule=Match() proxy=PROXY[trojan-ws2]
+21:27:17 INF [TCP] connected lAddr=198.18.0.1:51780 rAddr=185.199.111.133:443 mode=rule rule=Match() proxy=PROXY[trojan-ws2]
+21:27:17 INF [TCP] connected lAddr=198.18.0.1:51804 rAddr=185.199.111.133:443 mode=rule rule=Match() proxy=PROXY[trojan-ws2]
+21:27:17 INF [TCP] connected lAddr=198.18.0.1:51826 rAddr=185.199.111.133:443 mode=rule rule=Match() proxy=PROXY[trojan-ws2]
+21:27:17 INF [TCP] connected lAddr=198.18.0.1:51794 rAddr=185.199.111.133:443 mode=rule rule=Match() proxy=PROXY[trojan-ws2]
+21:27:17 INF [TCP] connected lAddr=198.18.0.1:51810 rAddr=185.199.111.133:443 mode=rule rule=Match() proxy=PROXY[trojan-ws2]
+21:27:17 INF [TCP] connected lAddr=198.18.0.1:51828 rAddr=185.199.111.133:443 mode=rule rule=Match() proxy=PROXY[trojan-ws2]
+21:27:17 INF [TCP] connected lAddr=198.18.0.1:51768 rAddr=185.199.111.133:443 mode=rule rule=Match() proxy=PROXY[trojan-ws2]
+21:27:18 INF [UDP] connected lAddr=198.18.0.1:42793 rAddr=180.76.76.76:53 mode=rule rule=RuleSet(cncidr) proxy=DIRECT
+21:27:18 INF [UDP] connected lAddr=198.18.0.1:56084 rAddr=180.76.76.76:53 mode=rule rule=RuleSet(cncidr) proxy=DIRECT
+21:27:18 INF [UDP] connected lAddr=198.18.0.1:46734 rAddr=180.76.76.76:53 mode=rule rule=RuleSet(cncidr) proxy=DIRECT
+21:27:18 INF [UDP] connected lAddr=198.18.0.1:36900 rAddr=180.76.76.76:53 mode=rule rule=RuleSet(cncidr) proxy=DIRECT
+21:27:18 WRN [TCP] dial failed error=dial tcp4 119.29.29.29:53: i/o timeout proxy=DIRECT lAddr=198.18.0.1:53258 rAddr=119.29.29.29:53 rule=RuleSet rulePayload=cncidr
+21:27:18 INF [UDP] connected lAddr=198.18.0.1:53441 rAddr=180.76.76.76:53 mode=rule rule=RuleSet(cncidr) proxy=DIRECT
+21:27:18 INF [TCP] connected lAddr=198.18.0.1:38966 rAddr=20.205.243.168:443 mode=rule rule=Match() proxy=PROXY[trojan-ws2]
+21:27:18 INF [TCP] connected lAddr=198.18.0.1:38952 rAddr=20.205.243.168:443 mode=rule rule=Match() proxy=PROXY[trojan-ws2]
+21:27:18 INF [TCP] connected lAddr=198.18.0.1:59560 rAddr=140.82.113.22:443 mode=rule rule=Match() proxy=PROXY[trojan-ws2]
+21:27:18 INF [UDP] connected lAddr=198.18.0.1:43204 rAddr=180.76.76.76:53 mode=rule rule=RuleSet(cncidr) proxy=DIRECT
+21:27:18 INF [UDP] connected lAddr=198.18.0.1:54900 rAddr=180.76.76.76:53 mode=rule rule=RuleSet(cncidr) proxy=DIRECT
+21:27:18 INF [UDP] connected lAddr=198.18.0.1:41511 rAddr=180.76.76.76:53 mode=rule rule=RuleSet(cncidr) proxy=DIRECT
+21:27:18 INF [UDP] connected lAddr=198.18.0.1:54242 rAddr=180.76.76.76:53 mode=rule rule=RuleSet(cncidr) proxy=DIRECT
+21:27:19 INF [TCP] connected lAddr=198.18.0.1:60978 rAddr=185.199.109.133:443 mode=rule rule=Match() proxy=PROXY[trojan-ws2]
+21:27:19 INF [TCP] connected lAddr=198.18.0.1:60948 rAddr=185.199.109.133:443 mode=rule rule=Match() proxy=PROXY[trojan-ws2]
+21:27:19 INF [TCP] connected lAddr=198.18.0.1:60960 rAddr=185.199.109.133:443 mode=rule rule=Match() proxy=PROXY[trojan-ws2]
+21:27:19 INF [TCP] connected lAddr=198.18.0.1:60972 rAddr=185.199.109.133:443 mode=rule rule=Match() proxy=PROXY[trojan-ws2]
+21:27:19 INF [TCP] connected lAddr=198.18.0.1:46044 rAddr=140.82.114.25:443 mode=rule rule=Match() proxy=PROXY[trojan-ws2]
+21:27:19 INF [TCP] connected lAddr=198.18.0.1:46048 rAddr=140.82.114.25:443 mode=rule rule=Match() proxy=PROXY[trojan-ws2]
+21:27:19 INF [UDP] connected lAddr=198.18.0.1:43478 rAddr=180.76.76.76:53 mode=rule rule=RuleSet(cncidr) proxy=DIRECT
+21:27:21 INF [UDP] connected lAddr=198.18.0.1:53921 rAddr=180.76.76.76:53 mode=rule rule=RuleSet(cncidr) proxy=DIRECT
+21:27:22 INF [UDP] connected lAddr=198.18.0.1:57884 rAddr=180.76.76.76:53 mode=rule rule=RuleSet(cncidr) proxy=DIRECT
+21:27:22 INF [TCP] connected lAddr=198.18.0.1:54452 rAddr=108.160.172.208:443 mode=rule rule=Match() proxy=PROXY[trojan-ws2]
+21:27:22 INF [TCP] connected lAddr=198.18.0.1:54440 rAddr=108.160.172.208:443 mode=rule rule=Match() proxy=PROXY[trojan-ws2]
+21:27:22 INF [TCP] connected lAddr=198.18.0.1:54446 rAddr=108.160.172.208:443 mode=rule rule=Match() proxy=PROXY[trojan-ws2]
+21:27:22 INF [TCP] connected lAddr=198.18.0.1:54464 rAddr=108.160.172.208:443 mode=rule rule=Match() proxy=PROXY[trojan-ws2]
+21:27:22 INF [TCP] connected lAddr=198.18.0.1:54430 rAddr=108.160.172.208:443 mode=rule rule=Match() proxy=PROXY[trojan-ws2]
+21:27:22 INF [TCP] connected lAddr=198.18.0.1:54476 rAddr=108.160.172.208:443 mode=rule rule=Match() proxy=PROXY[trojan-ws2]
+21:27:22 INF [TCP] connected lAddr=198.18.0.1:50016 rAddr=108.160.166.137:443 mode=rule rule=Match() proxy=PROXY[trojan-ws2]
+21:27:22 INF [TCP] connected lAddr=198.18.0.1:50062 rAddr=108.160.166.137:443 mode=rule rule=Match() proxy=PROXY[trojan-ws2]
+21:27:22 INF [TCP] connected lAddr=198.18.0.1:50038 rAddr=108.160.166.137:443 mode=rule rule=Match() proxy=PROXY[trojan-ws2]
+21:27:22 INF [TCP] connected lAddr=198.18.0.1:50046 rAddr=108.160.166.137:443 mode=rule rule=Match() proxy=PROXY[trojan-ws2]
+21:27:22 INF [TCP] connected lAddr=198.18.0.1:50026 rAddr=108.160.166.137:443 mode=rule rule=Match() proxy=PROXY[trojan-ws2]
+21:27:22 INF [TCP] connected lAddr=198.18.0.1:50030 rAddr=108.160.166.137:443 mode=rule rule=Match() proxy=PROXY[trojan-ws2]
+21:27:23 WRN [TCP] dial failed error=dial tcp4 119.29.29.29:53: i/o timeout proxy=DIRECT lAddr=198.18.0.1:53272 rAddr=119.29.29.29:53 rule=RuleSet rulePayload=cncidr
+21:27:23 INF [TCP] connected lAddr=198.18.0.1:44552 rAddr=223.5.5.5:53 mode=rule rule=RuleSet(cncidr) proxy=DIRECT
+21:27:23 INF [UDP] connected lAddr=198.18.0.1:35146 rAddr=180.76.76.76:53 mode=rule rule=RuleSet(cncidr) proxy=DIRECT
+21:27:28 INF [TCP] connected lAddr=198.18.0.1:48220 rAddr=202.160.129.37:443 mode=rule rule=Match() proxy=PROXY[trojan-ws2]
+21:27:28 WRN [TCP] dial failed error=dial tcp4 180.76.76.76:53: i/o timeout proxy=DIRECT lAddr=198.18.0.1:54478 rAddr=180.76.76.76:53 rule=RuleSet rulePayload=cncidr
+21:27:33 WRN [TCP] dial failed error=dial tcp4 180.76.76.76:53: i/o timeout proxy=DIRECT lAddr=198.18.0.1:54486 rAddr=180.76.76.76:53 rule=RuleSet rulePayload=cncidr
+21:27:34 INF [UDP] connected lAddr=198.18.0.1:37025 rAddr=180.76.76.76:53 mode=rule rule=RuleSet(cncidr) proxy=DIRECT
+21:27:35 INF [TCP] connected lAddr=198.18.0.1:39248 rAddr=210.22.247.162:443 mode=rule rule=RuleSet(cncidr) proxy=DIRECT
+21:27:35 INF [TCP] connected lAddr=198.18.0.1:39236 rAddr=210.22.247.162:443 mode=rule rule=RuleSet(cncidr) proxy=DIRECT
+21:27:35 INF [TCP] connected lAddr=198.18.0.1:46694 rAddr=123.12.213.242:80 mode=rule rule=RuleSet(cncidr) proxy=DIRECT
+21:27:38 WRN [TCP] dial failed error=dial tcp4 119.29.29.29:53: i/o timeout proxy=DIRECT lAddr=198.18.0.1:36346 rAddr=119.29.29.29:53 rule=RuleSet rulePayload=cncidr
+21:27:39 INF [UDP] connected lAddr=198.18.0.1:40729 rAddr=180.76.76.76:53 mode=rule rule=RuleSet(cncidr) proxy=DIRECT
+21:27:43 WRN [TCP] dial failed error=dial tcp4 119.29.29.29:53: i/o timeout proxy=DIRECT lAddr=198.18.0.1:36360 rAddr=119.29.29.29:53 rule=RuleSet rulePayload=cncidr
+21:27:43 INF [TCP] connected lAddr=198.18.0.1:33678 rAddr=223.5.5.5:53 mode=rule rule=RuleSet(cncidr) proxy=DIRECT
+21:27:44 INF [UDP] connected lAddr=198.18.0.1:37970 rAddr=180.76.76.76:53 mode=rule rule=RuleSet(cncidr) proxy=DIRECT
+21:27:44 INF [UDP] connected lAddr=198.18.0.1:42878 rAddr=180.76.76.76:53 mode=rule rule=RuleSet(cncidr) proxy=DIRECT
+21:27:44 INF [UDP] connected lAddr=198.18.0.1:48755 rAddr=180.76.76.76:53 mode=rule rule=RuleSet(cncidr) proxy=DIRECT
+21:27:57 INF [Config] initial compatible provider name=PROXY
+21:27:57 INF [Config] initial rule provider name=lancidr
+21:27:57 INF [Config] initial rule provider name=tld-not-cn
+21:27:57 INF [Config] initial rule provider name=private
+21:27:57 INF [Config] initial rule provider name=apple
+21:27:57 INF [Config] initial rule provider name=telegramcidr
+21:27:57 INF [Config] initial rule provider name=gfw
+21:27:57 INF [Config] initial rule provider name=direct
+21:27:57 INF [Config] initial rule provider name=google
+21:27:57 INF [Config] initial rule provider name=applications
+21:27:57 INF [Config] initial rule provider name=proxy
+21:27:57 INF [Config] initial rule provider name=greatfire
+21:27:57 INF [Config] initial rule provider name=icloud
+21:27:57 INF [Config] initial rule provider name=cncidr
+21:27:57 INF [Config] initial rule provider name=reject
+21:27:58 INF [Inbound] TUN listening iface=utun gateway=198.18.0.1
+21:27:58 INF [UDP] connected lAddr=198.18.0.1:51639 rAddr=180.76.76.76:53 mode=rule rule=RuleSet(cncidr) proxy=DIRECT
+21:27:58 INF [UDP] connected lAddr=198.18.0.1:40415 rAddr=180.76.76.76:53 mode=rule rule=RuleSet(cncidr) proxy=DIRECT
+21:27:58 INF [UDP] connected lAddr=198.18.0.1:43240 rAddr=180.76.76.76:53 mode=rule rule=RuleSet(cncidr) proxy=DIRECT
+21:27:58 INF [UDP] connected lAddr=198.18.0.1:40217 rAddr=180.76.76.76:53 mode=rule rule=RuleSet(cncidr) proxy=DIRECT
+21:27:58 INF [UDP] connected lAddr=198.18.0.1:36426 rAddr=180.76.76.76:53 mode=rule rule=RuleSet(cncidr) proxy=DIRECT
+21:27:58 INF [UDP] connected lAddr=198.18.0.1:49094 rAddr=180.76.76.76:53 mode=rule rule=RuleSet(cncidr) proxy=DIRECT
+21:27:58 INF [TCP] connected lAddr=198.18.0.1:42164 rAddr=95.216.195.133:80 mode=rule rule=Match() proxy=PROXY[trojan-ws2]
+21:27:58 INF [UDP] connected lAddr=198.18.0.1:58284 rAddr=180.76.76.76:53 mode=rule rule=RuleSet(cncidr) proxy=DIRECT
+21:27:58 INF [UDP] connected lAddr=198.18.0.1:33657 rAddr=180.76.76.76:53 mode=rule rule=RuleSet(cncidr) proxy=DIRECT
+21:27:58 INF [UDP] connected lAddr=198.18.0.1:34514 rAddr=180.76.76.76:53 mode=rule rule=RuleSet(cncidr) proxy=DIRECT
+21:27:58 INF [UDP] connected lAddr=198.18.0.1:53065 rAddr=180.76.76.76:53 mode=rule rule=RuleSet(cncidr) proxy=DIRECT
+21:27:58 INF [UDP] connected lAddr=198.18.0.1:35560 rAddr=180.76.76.76:53 mode=rule rule=RuleSet(cncidr) proxy=DIRECT
+21:27:58 INF [UDP] connected lAddr=198.18.0.1:50381 rAddr=180.76.76.76:53 mode=rule rule=RuleSet(cncidr) proxy=DIRECT
+21:27:59 INF [UDP] connected lAddr=198.18.0.1:41864 rAddr=180.76.76.76:53 mode=rule rule=RuleSet(cncidr) proxy=DIRECT
+21:27:59 INF [UDP] connected lAddr=198.18.0.1:37433 rAddr=180.76.76.76:53 mode=rule rule=RuleSet(cncidr) proxy=DIRECT
+21:27:59 INF [UDP] connected lAddr=198.18.0.1:51259 rAddr=180.76.76.76:53 mode=rule rule=RuleSet(cncidr) proxy=DIRECT
+21:27:59 INF [UDP] connected lAddr=198.18.0.1:48117 rAddr=180.76.76.76:53 mode=rule rule=RuleSet(cncidr) proxy=DIRECT
+21:27:59 INF [UDP] connected lAddr=198.18.0.1:48471 rAddr=180.76.76.76:53 mode=rule rule=RuleSet(cncidr) proxy=DIRECT
+21:27:59 INF [UDP] connected lAddr=198.18.0.1:51752 rAddr=180.76.76.76:53 mode=rule rule=RuleSet(cncidr) proxy=DIRECT
+21:27:59 INF [UDP] connected lAddr=198.18.0.1:35266 rAddr=180.76.76.76:53 mode=rule rule=RuleSet(cncidr) proxy=DIRECT
+21:27:59 INF [UDP] connected lAddr=198.18.0.1:55240 rAddr=180.76.76.76:53 mode=rule rule=RuleSet(cncidr) proxy=DIRECT
+21:27:59 INF [UDP] connected lAddr=198.18.0.1:55219 rAddr=180.76.76.76:53 mode=rule rule=RuleSet(cncidr) proxy=DIRECT
+21:27:59 INF [UDP] connected lAddr=198.18.0.1:47813 rAddr=180.76.76.76:53 mode=rule rule=RuleSet(cncidr) proxy=DIRECT
+21:27:59 INF [UDP] connected lAddr=198.18.0.1:42589 rAddr=180.76.76.76:53 mode=rule rule=RuleSet(cncidr) proxy=DIRECT
+21:27:59 INF [UDP] connected lAddr=198.18.0.1:35672 rAddr=180.76.76.76:53 mode=rule rule=RuleSet(cncidr) proxy=DIRECT
+21:27:59 INF [UDP] connected lAddr=198.18.0.1:40346 rAddr=180.76.76.76:53 mode=rule rule=RuleSet(cncidr) proxy=DIRECT
+21:27:59 INF [UDP] connected lAddr=198.18.0.1:42280 rAddr=180.76.76.76:53 mode=rule rule=RuleSet(cncidr) proxy=DIRECT
+21:27:59 INF [UDP] connected lAddr=198.18.0.1:46945 rAddr=180.76.76.76:53 mode=rule rule=RuleSet(cncidr) proxy=DIRECT
+21:27:59 INF [UDP] connected lAddr=198.18.0.1:39026 rAddr=180.76.76.76:53 mode=rule rule=RuleSet(cncidr) proxy=DIRECT
+21:27:59 INF [UDP] connected lAddr=198.18.0.1:60540 rAddr=180.76.76.76:53 mode=rule rule=RuleSet(cncidr) proxy=DIRECT
+21:28:00 INF [UDP] connected lAddr=198.18.0.1:60662 rAddr=180.76.76.76:53 mode=rule rule=RuleSet(cncidr) proxy=DIRECT
+21:28:00 INF [UDP] connected lAddr=198.18.0.1:44073 rAddr=180.76.76.76:53 mode=rule rule=RuleSet(cncidr) proxy=DIRECT
+21:28:01 INF [UDP] connected lAddr=198.18.0.1:36074 rAddr=180.76.76.76:53 mode=rule rule=RuleSet(cncidr) proxy=DIRECT
+21:28:01 INF [UDP] connected lAddr=198.18.0.1:49906 rAddr=180.76.76.76:53 mode=rule rule=RuleSet(cncidr) proxy=DIRECT
+21:28:01 INF [UDP] connected lAddr=198.18.0.1:32886 rAddr=180.76.76.76:53 mode=rule rule=RuleSet(cncidr) proxy=DIRECT
+21:28:01 INF [UDP] connected lAddr=198.18.0.1:58213 rAddr=180.76.76.76:53 mode=rule rule=RuleSet(cncidr) proxy=DIRECT
+21:28:01 INF [UDP] connected lAddr=198.18.0.1:50989 rAddr=180.76.76.76:53 mode=rule rule=RuleSet(cncidr) proxy=DIRECT
+21:28:01 INF [UDP] connected lAddr=198.18.0.1:50673 rAddr=180.76.76.76:53 mode=rule rule=RuleSet(cncidr) proxy=DIRECT
+21:28:01 INF [UDP] connected lAddr=198.18.0.1:34884 rAddr=180.76.76.76:53 mode=rule rule=RuleSet(cncidr) proxy=DIRECT
+21:28:02 INF [TCP] connected lAddr=198.18.0.1:60672 rAddr=202.160.129.37:443 mode=rule rule=Match() proxy=PROXY[trojan-ws2]
+21:28:03 INF [TCP] connected lAddr=198.18.0.1:38664 rAddr=95.216.195.133:80 mode=rule rule=Match() proxy=PROXY[trojan-ws2]
+21:28:03 INF [TCP] connected lAddr=198.18.0.1:38654 rAddr=95.216.195.133:80 mode=rule rule=Match() proxy=PROXY[trojan-ws2]
+21:28:04 INF [UDP] connected lAddr=198.18.0.1:48206 rAddr=180.76.76.76:53 mode=rule rule=RuleSet(cncidr) proxy=DIRECT
+21:28:04 INF [UDP] connected lAddr=198.18.0.1:49762 rAddr=180.76.76.76:53 mode=rule rule=RuleSet(cncidr) proxy=DIRECT
+21:28:05 INF [UDP] connected lAddr=198.18.0.1:51937 rAddr=180.76.76.76:53 mode=rule rule=RuleSet(cncidr) proxy=DIRECT
+21:28:05 INF [TCP] connected lAddr=198.18.0.1:45804 rAddr=222.138.195.228:1935 mode=rule rule=RuleSet(cncidr) proxy=DIRECT
+21:28:08 INF [UDP] connected lAddr=198.18.0.1:56154 rAddr=180.76.76.76:53 mode=rule rule=RuleSet(cncidr) proxy=DIRECT
+21:28:13 INF [UDP] connected lAddr=198.18.0.1:33238 rAddr=180.76.76.76:53 mode=rule rule=RuleSet(cncidr) proxy=DIRECT
+21:28:13 INF [TCP] connected lAddr=198.18.0.1:35754 rAddr=222.138.195.228:1935 mode=rule rule=RuleSet(cncidr) proxy=DIRECT
+21:28:17 WRN [Provider] pull resource failed error=Get "https://cdn.jsdelivr.net/gh/Loyalsoldier/clash-rules@release/lancidr.txt": context deadline exceeded name=lancidr
+21:28:17 WRN [Provider] pull resource failed error=Get "https://cdn.jsdelivr.net/gh/Loyalsoldier/clash-rules@release/tld-not-cn.txt": context deadline exceeded name=tld-not-cn
+21:28:17 WRN [Provider] pull resource failed error=Get "https://cdn.jsdelivr.net/gh/Loyalsoldier/clash-rules@release/private.txt": context deadline exceeded name=private
+21:28:17 WRN [Provider] pull resource failed error=Get "https://cdn.jsdelivr.net/gh/Loyalsoldier/clash-rules@release/apple.txt": context deadline exceeded name=apple
+21:28:17 WRN [Provider] pull resource failed error=Get "https://cdn.jsdelivr.net/gh/Loyalsoldier/clash-rules@release/telegramcidr.txt": context deadline exceeded name=telegramcidr
+21:28:17 WRN [Provider] pull resource failed error=Get "https://cdn.jsdelivr.net/gh/Loyalsoldier/clash-rules@release/gfw.txt": context deadline exceeded name=gfw
+21:28:17 WRN [Provider] pull resource failed error=Get "https://cdn.jsdelivr.net/gh/Loyalsoldier/clash-rules@release/direct.txt": dial tcp4 93.46.8.90:443: i/o timeout name=direct
+21:28:17 WRN [Provider] pull resource failed error=Get "https://cdn.jsdelivr.net/gh/Loyalsoldier/clash-rules@release/google.txt": context deadline exceeded name=google
+21:28:17 WRN [Provider] pull resource failed error=Get "https://cdn.jsdelivr.net/gh/Loyalsoldier/clash-rules@release/applications.txt": dial tcp4 93.46.8.90:443: i/o timeout name=applications
+21:28:17 WRN [Provider] pull resource failed error=Get "https://cdn.jsdelivr.net/gh/Loyalsoldier/clash-rules@release/proxy.txt": context deadline exceeded name=proxy
+21:28:17 WRN [Provider] pull resource failed error=Get "https://cdn.jsdelivr.net/gh/Loyalsoldier/clash-rules@release/greatfire.txt": context deadline exceeded name=greatfire
+21:28:17 WRN [Provider] pull resource failed error=Get "https://cdn.jsdelivr.net/gh/Loyalsoldier/clash-rules@release/icloud.txt": context deadline exceeded name=icloud
+21:28:17 WRN [Provider] pull resource failed error=Get "https://cdn.jsdelivr.net/gh/Loyalsoldier/clash-rules@release/cncidr.txt": context deadline exceeded name=cncidr
+21:28:18 WRN [Provider] pull resource failed error=Get "https://cdn.jsdelivr.net/gh/Loyalsoldier/clash-rules@release/reject.txt": context deadline exceeded name=reject
+21:28:29 INF [UDP] connected lAddr=198.18.0.1:43816 rAddr=180.76.76.76:53 mode=rule rule=RuleSet(cncidr) proxy=DIRECT
+21:28:43 INF [TCP] connected lAddr=198.18.0.1:37752 rAddr=202.160.129.37:443 mode=rule rule=Match() proxy=PROXY[trojan-ws2]
+21:28:43 INF [UDP] connected lAddr=198.18.0.1:44762 rAddr=108.59.2.24:123 mode=rule rule=Match() proxy=PROXY[trojan-ws2]
+21:28:44 INF [UDP] connected lAddr=198.18.0.1:36528 rAddr=180.76.76.76:53 mode=rule rule=RuleSet(cncidr) proxy=DIRECT
+21:28:44 INF [UDP] connected lAddr=198.18.0.1:58089 rAddr=180.76.76.76:53 mode=rule rule=RuleSet(cncidr) proxy=DIRECT
+21:28:45 INF [UDP] connected lAddr=198.18.0.1:33665 rAddr=180.76.76.76:53 mode=rule rule=RuleSet(cncidr) proxy=DIRECT
+21:28:46 INF [UDP] connected lAddr=198.18.0.1:51159 rAddr=180.76.76.76:53 mode=rule rule=RuleSet(cncidr) proxy=DIRECT
+21:28:52 INF [UDP] connected lAddr=198.18.0.1:53645 rAddr=180.76.76.76:53 mode=rule rule=RuleSet(cncidr) proxy=DIRECT
+21:28:52 INF [UDP] connected lAddr=198.18.0.1:59848 rAddr=180.76.76.76:53 mode=rule rule=RuleSet(cncidr) proxy=DIRECT
+21:28:52 INF [TCP] connected lAddr=198.18.0.1:33212 rAddr=182.118.39.164:443 mode=rule rule=RuleSet(cncidr) proxy=DIRECT
+21:28:56 INF [Config] initial compatible provider name=PROXY
+21:28:56 INF [Config] initial rule provider name=google
+21:28:56 INF [Config] initial rule provider name=tld-not-cn
+21:28:56 INF [Config] initial rule provider name=apple
+21:28:56 INF [Config] initial rule provider name=gfw
+21:28:56 INF [Config] initial rule provider name=icloud
+21:28:56 INF [Config] initial rule provider name=proxy
+21:28:57 INF [Config] initial rule provider name=private
+21:28:57 INF [Config] initial rule provider name=cncidr
+21:28:57 INF [Config] initial rule provider name=applications
+21:28:57 INF [Config] initial rule provider name=greatfire
+21:28:57 INF [Config] initial rule provider name=lancidr
+21:28:57 INF [Config] initial rule provider name=reject
+21:28:57 INF [Config] initial rule provider name=telegramcidr
+21:28:57 INF [Config] initial rule provider name=direct
+21:28:57 INF [DNS] server listening addr=[::]:53
+21:28:57 INF [Inbound] TUN listening iface=utun gateway=198.18.0.1
+21:28:57 INF [UDP] connected lAddr=198.18.0.1:47868 rAddr=180.76.76.76:53 mode=rule rule=RuleSet(cncidr) proxy=DIRECT
+21:28:57 INF [UDP] connected lAddr=198.18.0.1:40997 rAddr=180.76.76.76:53 mode=rule rule=RuleSet(cncidr) proxy=DIRECT
+21:28:57 INF [UDP] connected lAddr=198.18.0.1:45227 rAddr=180.76.76.76:53 mode=rule rule=RuleSet(cncidr) proxy=DIRECT
+21:28:57 INF [UDP] connected lAddr=198.18.0.1:47671 rAddr=180.76.76.76:53 mode=rule rule=RuleSet(cncidr) proxy=DIRECT
+21:28:57 INF [UDP] connected lAddr=198.18.0.1:44582 rAddr=180.76.76.76:53 mode=rule rule=RuleSet(cncidr) proxy=DIRECT
+21:28:57 INF [UDP] connected lAddr=198.18.0.1:45819 rAddr=180.76.76.76:53 mode=rule rule=RuleSet(cncidr) proxy=DIRECT
+21:28:57 INF [TCP] connected lAddr=198.18.0.1:49298 rAddr=95.216.195.133:80 mode=rule rule=Match() proxy=PROXY[trojan-ws2]
+21:28:58 INF [UDP] connected lAddr=198.18.0.1:40817 rAddr=180.76.76.76:53 mode=rule rule=RuleSet(cncidr) proxy=DIRECT
+21:28:58 INF [UDP] connected lAddr=198.18.0.1:58486 rAddr=180.76.76.76:53 mode=rule rule=RuleSet(cncidr) proxy=DIRECT
+21:28:58 INF [UDP] connected lAddr=198.18.0.1:38306 rAddr=180.76.76.76:53 mode=rule rule=RuleSet(cncidr) proxy=DIRECT
+21:28:58 INF [UDP] connected lAddr=198.18.0.1:53103 rAddr=180.76.76.76:53 mode=rule rule=RuleSet(cncidr) proxy=DIRECT
+21:28:58 INF [UDP] connected lAddr=198.18.0.1:39734 rAddr=180.76.76.76:53 mode=rule rule=RuleSet(cncidr) proxy=DIRECT
+21:28:58 INF [UDP] connected lAddr=198.18.0.1:44930 rAddr=180.76.76.76:53 mode=rule rule=RuleSet(cncidr) proxy=DIRECT
+21:28:58 INF [UDP] connected lAddr=198.18.0.1:44024 rAddr=180.76.76.76:53 mode=rule rule=RuleSet(cncidr) proxy=DIRECT
+21:28:58 INF [UDP] connected lAddr=198.18.0.1:40369 rAddr=180.76.76.76:53 mode=rule rule=RuleSet(cncidr) proxy=DIRECT
+21:28:58 INF [UDP] connected lAddr=198.18.0.1:34000 rAddr=180.76.76.76:53 mode=rule rule=RuleSet(cncidr) proxy=DIRECT
+21:28:58 INF [UDP] connected lAddr=198.18.0.1:58583 rAddr=180.76.76.76:53 mode=rule rule=RuleSet(cncidr) proxy=DIRECT
+21:28:58 INF [UDP] connected lAddr=198.18.0.1:59550 rAddr=180.76.76.76:53 mode=rule rule=RuleSet(cncidr) proxy=DIRECT
+21:28:58 INF [UDP] connected lAddr=198.18.0.1:35683 rAddr=180.76.76.76:53 mode=rule rule=RuleSet(cncidr) proxy=DIRECT
+21:28:59 INF [UDP] connected lAddr=198.18.0.1:54166 rAddr=180.76.76.76:53 mode=rule rule=RuleSet(cncidr) proxy=DIRECT
+21:29:00 INF [UDP] connected lAddr=198.18.0.1:38846 rAddr=180.76.76.76:53 mode=rule rule=RuleSet(cncidr) proxy=DIRECT
+21:29:03 INF [UDP] connected lAddr=198.18.0.1:55030 rAddr=180.76.76.76:53 mode=rule rule=RuleSet(cncidr) proxy=DIRECT
+21:29:03 INF [TCP] connected lAddr=198.18.0.1:34076 rAddr=202.160.129.37:443 mode=rule rule=Match() proxy=PROXY[trojan-ws2]
+21:29:03 INF [UDP] connected lAddr=198.18.0.1:43529 rAddr=180.76.76.76:53 mode=rule rule=RuleSet(cncidr) proxy=DIRECT
+21:29:03 INF [UDP] connected lAddr=198.18.0.1:41378 rAddr=180.76.76.76:53 mode=rule rule=RuleSet(cncidr) proxy=DIRECT
+21:29:04 INF [UDP] connected lAddr=198.18.0.1:50503 rAddr=180.76.76.76:53 mode=rule rule=RuleSet(cncidr) proxy=DIRECT
+21:29:04 INF [TCP] connected lAddr=198.18.0.1:42180 rAddr=222.138.195.228:1935 mode=rule rule=RuleSet(cncidr) proxy=DIRECT
+21:29:08 INF [UDP] connected lAddr=198.18.0.1:51477 rAddr=180.76.76.76:53 mode=rule rule=RuleSet(cncidr) proxy=DIRECT
