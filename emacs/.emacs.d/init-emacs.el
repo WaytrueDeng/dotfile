@@ -423,7 +423,7 @@
 (use-package default-text-scale
   :straight t
  )
-(add-hook 'buffer-list-update-hook (lambda () (text-scale-set 3)))
+(add-hook 'buffer-list-update-hook (lambda () (text-scale-set 1)))
 
 ;; enale indention by default
 (use-package org
@@ -436,17 +436,18 @@
         org-id-link-to-org-use-id t
         ;; enable start up fold
         org-startup-folded 'overview
+        org-export-headline-levels 6
         )
   :bind
   (:map org-src-mode-map
         ("C-c C-c" . org-edit-src-exit))
   )
-(defun me/org-roam-export-all ()
+(defun my/org-roam-export-all ()
   "Re-exports all Org-roam files to Hugo markdown."
   (interactive)
   (dolist (f (org-roam-list-files))
     (with-current-buffer (find-file f)
-      (when (s-contains? "SETUPFILE" (buffer-string))
+      (when (s-contains? "publish: true" (buffer-string))
         (org-hugo-export-wim-to-md)))))
 
 ;; org-super links
@@ -524,7 +525,7 @@
 (setq org-roam-capture-templates
         '(
          ("d" "default" plain "" :target
-          (file+head "./pages/${slug}.org" "#+title: ${title} \n#+creationTime: %U \n")
+          (file+head "./pages/${slug}.org" "#+title: ${title} \n#+creationTime: %U \n#+publish: true\n")
           :unnarrowed t
          ;; :immediate-finish t
           :kill-buffer t

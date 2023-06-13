@@ -9,6 +9,8 @@
  '(custom-safe-themes
    '("79730342933b4b15c8c78b6ef92f28ddef9c40b720fcb1fd4ca8396cebe323ca" default))
  '(default-text-scale-amount 30)
+ '(org-hugo-anchor-functions
+   '(org-hugo-get-id org-hugo-get-page-or-bundle-name org-hugo-get-custom-id org-hugo-get-heading-slug org-hugo-get-md5))
  '(org-roam-capture-templates
    '(("d" "default" plain "%?" :target
       (file+head "${slug}.org" "#+title: ${title}
